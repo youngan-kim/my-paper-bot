@@ -78,7 +78,7 @@ def main():
     final_papers = all_candidate_papers[:50]
 
     today = datetime.date.today().strftime("%Y-%m-%d")
-    filename = f"Daily_Paper.md"
+    filename = f"latest_papers.md"
     
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"# Daily Research Update: {today}\n\n")
