@@ -2,36 +2,31 @@ name: Daily Paper Update
 
 on:
   schedule:
-    # 미동부 시간 기준 아침 6시 (UTC 오전 11시)
+    # 미동부 표준시(EST, UTC-5) 기준 아침 6시는 UTC 오전 11시입니다.
+    # 서머타임(EDT, UTC-4) 적용 시에는 UTC 오전 10시입니다.
+    # 일반적으로 UTC 11:00로 설정하면 미동부 아침 시간에 맞춰 실행됩니다.
     - cron: '0 11 * * *' 
-  workflow_dispatch: # 직접 버튼 눌러서 실행 가능하게 함
+  workflow_dispatch:
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # 파일 쓰기 권한 부여
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      # 1. 필요한 라이브러리 설치 (requests, pydrive2 등)
       - name: Install dependencies
-        run: pip install requests pydrive2 oauth2client
+        run: pip install requests
 
-      # 2. 파이썬 스크립트 실행 (환경변수로 구글 드라이브 인증 정보 전달)
       - name: Run script
-        env:
-          GDRIVE_SERVICE_ACCOUNT: ${{ secrets.GDRIVE_SERVICE_ACCOUNT }}
-          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
         run: python paper_scraper.py
 
-      # 3. 생성된 파일을 GitHub 저장소에도 기록으로 남김
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Action"
