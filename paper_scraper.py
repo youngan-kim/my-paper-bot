@@ -74,8 +74,8 @@ def main():
     # 2. 전체 후보군을 최신 발행일 순으로 정렬
     all_candidate_papers.sort(key=lambda x: x['pub_date'], reverse=True)
     
-    # 3. 상위 30편 선택
-    final_papers = all_candidate_papers[:30]
+    # 3. 상위 20편 선택
+    final_papers = all_candidate_papers[:20]
 
     today = datetime.date.today().strftime("%Y-%m-%d")
     filename = f"Daily_Research_{today}.md"
