@@ -1,6 +1,11 @@
 import requests
 import datetime
 import time
+import os
+import json
+from pydrive2.auth import GoogleAuth
+from pydrive2.drive import GoogleDrive
+from oauth2client.service_account import ServiceAccountCredentials
 
 # 1. 설정: 확장된 키워드 및 저널 리스트
 KEYWORDS = [
@@ -75,7 +80,7 @@ def main():
     all_candidate_papers.sort(key=lambda x: x['pub_date'], reverse=True)
     
     # 3. 상위 50편 선택
-    final_papers = all_candidate_papers[:50]
+    final_papers = all_candidate_papers[:30]
 
     today = datetime.date.today().strftime("%Y-%m-%d")
     filename = f"latest_papers.md"
@@ -98,6 +103,43 @@ def main():
                 f.write(f"- **DOI:** {doi}\n")
                 f.write(f"- **Abstract:** {p.get('abstract', 'No abstract available.')}\n\n")
                 f.write("---\n")
+
+def upload_to_drive(filename):
+    # GitHub Secrets에서 가져온 JSON으로 인증
+    scope = ['https://www.googleapis.com/auth/drive']
+    key_dict = json.loads(os.environ['GDRIVE_SERVICE_ACCOUNT'])
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(key_dict, scope)
+    
+    gauth = GoogleAuth()
+    gauth.credentials = creds
+    drive = GoogleDrive(gauth)
+
+    # 파일 업로드
+    folder_id = os.environ['GDRIVE_FOLDER_ID']
+    file_drive = drive.CreateFile({
+        'title': filename,
+        'parents': [{'id': folder_id}]
+    })
+    file_drive.SetContentFile(filename)
+    file_drive.Upload()
+    print(f"Uploaded {filename} to Google Drive!")
+
+def main():
+    # ... (기존 논문 수집 로직 동일) ...
+    
+    # 결과 Markdown 파일 생성
+    today = datetime.date.today().strftime("%Y-%m-%d")
+    filename = f"Daily_Research_{today}.md"
+    
+    # (파일 저장 로직)
+    with open(filename, "w", encoding="utf-8") as f:
+        # ... (파일 내용 쓰기) ...
+    
+    # 구글 드라이브 업로드 실행
+    try:
+        upload_to_drive(filename)
+    except Exception as e:
+        print(f"Drive upload failed: {e}")
 
 if __name__ == "__main__":
     main()
