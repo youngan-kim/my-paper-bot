@@ -1,36 +1,41 @@
-name: Daily Paper Update
+name: Daily Research Update Bot
 
 on:
   schedule:
-    # 미동부 표준시(EST, UTC-5) 기준 아침 6시는 UTC 오전 11시입니다.
-    # 서머타임(EDT, UTC-4) 적용 시에는 UTC 오전 10시입니다.
-    # 일반적으로 UTC 11:00로 설정하면 미동부 아침 시간에 맞춰 실행됩니다.
-    - cron: '0 11 * * *' 
-  workflow_dispatch:
+    - cron: '0 11 * * *' # 미동부 아침 6시
+  workflow_dispatch: 
 
 jobs:
-  run-bot:
+  build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 파일 쓰기 권한 부여
+      contents: write 
+    
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install dependencies
-        run: pip install requests
+      - name: Install Dependencies
+        # pydrive2와 oauth2client를 명시적으로 설치해야 합니다.
+        run: |
+          pip install requests pydrive2 oauth2client
 
-      - name: Run script
+      - name: Run Script
+        env:
+          # Google Drive 연동을 위해 Secrets에 저장된 환경 변수를 불러옵니다.
+          GDRIVE_SERVICE_ACCOUNT: ${{ secrets.GDRIVE_SERVICE_ACCOUNT }}
+          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
         run: python paper_scraper.py
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update: $(date +'%Y-%m-%d') paper list" || exit 0
+          git commit -m "Auto-update: $(date +'%Y-%m-%d') Research Papers" || exit 0
           git push
