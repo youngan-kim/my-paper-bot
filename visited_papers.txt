@@ -38,3 +38,23 @@ Spatial Patterns of Immigration and Property Crime in Vancouver: A Spatial Point
 Simulating spatial crime patterns: What do we learn in standard ecological studies of crime?
 Marijuana Dispensaries and Neighborhood Crime and Disorder in Denver, Colorado
 Street Egohood: An Alternative Perspective of Measuring Neighborhood and Spatial Patterns of Crime
+Assessing the Number of Criteria in GIS‐Based Multicriteria Evaluation: A Machine Learning Approach
+Introduction: Generating concepts of ‘the urban’ through comparative practice
+How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning
+A posteriori comparisons, repeated instances and urban policy mobilities: What ‘best practices’ leave behind
+Urban statecraft: The governance of transport infrastructures in African cities
+City size and housing purchase intention: Evidence from rural–urban migrants in China
+Micro-Scale, Meso-Scale, Macro-Scale, and Temporal Scale: Comparing the Relative Importance for Robbery Risk in New York City
+Gentrification, Land Use, and Crime
+Assessing the Spatial Concentration of Urban Crime: An Insight from Nigeria
+Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies.
+Disambiguating the southern urban critique: Propositions, pathways and possibilities for a more global urban studies
+Can Terrorism Abroad Influence Migration Attitudes at Home?
+Mapping Attitudes Towards the Police at Micro Places
+Pathways: Examining Street Network Configurations, Structural Characteristics and Spatial Crime Patterns in Street Segments
+Settlement scaling theory: Bridging the study of ancient and contemporary urban systems
+Making a place for space: Using spatial econometrics to model neighborhood effects
+Busy Businesses and Busy Contexts: The Distribution and Sources of Crime at Commercial Properties
+Housing, urban growth and inequalities: The limits to deregulation and upzoning in reducing economic and spatial inequality
+Network Spillovers and Neighborhood Crime: A Computational Statistics Analysis of Employment-Based Networks of Neighborhoods
+The Sensitivity of Spatial Regression Models to Network Misspecification
