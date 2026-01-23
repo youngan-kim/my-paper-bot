@@ -58,3 +58,23 @@ Busy Businesses and Busy Contexts: The Distribution and Sources of Crime at Comm
 Housing, urban growth and inequalities: The limits to deregulation and upzoning in reducing economic and spatial inequality
 Network Spillovers and Neighborhood Crime: A Computational Statistics Analysis of Employment-Based Networks of Neighborhoods
 The Sensitivity of Spatial Regression Models to Network Misspecification
+Explaining Differences in Voting Patterns across Voting Domains Using Hierarchical Bayesian Models
+STADL Up! The Spatiotemporal Autoregressive Distributed Lag Model for TSCS Data Analysis
+Concentrated Burdens: How Self-Interest and Partisanship Shape Opinion on Opioid Treatment Policy
+Hate in the Machine: Anti-Black and Anti-Muslim Social Media Posts as Predictors of Offline Racially and Religiously Aggravated Crime
+Modeling Crime in an Uptown Neighborhood: The Case of Santa Fe in Mexico City
+The Concentration of Crime at Place in Montreal and Toronto
+Funding, financing and governing urban infrastructures
+The Spatial Effect of Police Foot Patrol on Crime Patterns: A Local Analysis
+Reconfiguring urban governance in an age of rising city networks: A research agenda
+Looking Through Broken Windows: The Impact of Neighborhood Disorder on Aggression and Fear of Crime Is an Artifact of Research Design
+Thinking with and beyond the informal–formal relation in urban thought
+(Under What Conditions) Do Politicians Reward Their Supporters? Evidence from Kenya’s Constituencies Development Fund
+SKYNET: An R package for generating air passenger networks for urban studies
+The street level and beyond: The impact of ethnic diversity on neighborhood cohesion and fear of crime among Dutch natives and nonnatives
+Leveraging Bogotá: Sustainable development, global philanthropy and the rise of urban solutionism
+Racial or Spatial Voting? The Effects of Candidate Ethnicity and Ethnic Group Endorsements in Local Elections
+Chronic urban trauma: The slow violence of housing dispossession
+Toward an Integrated Multilevel Theory of Crime at Place: Routine Activities, Social Disorganization, and The Law of Crime Concentration
+Spatiotemporal Modeling of Correlated Small‐Area Outcomes: Analyzing the Shared and Type‐Specific Patterns of Crime and Disorder
+Understanding urban gentrification through machine learning
