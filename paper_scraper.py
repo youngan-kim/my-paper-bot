@@ -104,11 +104,11 @@ def main():
             if len(all_candidate_papers) > 50:
                 break
 
-    # 최신순 정렬 후 상위 20편
+    # 최신순 정렬 후 상위 10편
     all_candidate_papers.sort(key=lambda x: x['pub_date'], reverse=True)
-    final_papers = all_candidate_papers[:20]
+    final_papers = all_candidate_papers[:10]
 
-    # 최종 선택된 20편의 제목만 추출하여 DB에 저장 준비
+    # 최종 선택된 10편의 제목만 추출하여 DB에 저장 준비
     final_titles = [p['title'] for p in final_papers]
 
     today = datetime.date.today().strftime("%Y-%m-%d")
@@ -116,18 +116,32 @@ def main():
     
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"# Daily Research Update: {today}\n\n")
-        f.write(f"**상태:** 신규 논문 20편 (과거 수집 데이터 제외 완료)\n\n")
+        f.write(f"**Field:** Spatial Analysis, ML, Econometrics, Urban Studies\n")
+        f.write(f"**Note:** DOI/Link를 클릭하면 해당 논문 페이지로 바로 이동합니다.\n\n")
         
         if not final_papers:
             f.write("> **알림:** 오늘은 새로운 논문이 없습니다.\n\n")
         else:
             for i, p in enumerate(final_papers, 1):
-                doi = p.get('externalIds', {}).get('DOI', 'N/A')
-                f.write(f"## {i}. {p['title']}\n")
+                # DOI 및 URL 처리
+                doi = p.get('externalIds', {}).get('DOI')
+                s2_url = f"https://www.semanticscholar.org/paper/{p.get('paperId')}"
+                
+                # DOI가 있으면 DOI 링크를, 없으면 Semantic Scholar 링크를 우선 사용
+                link = f"https://doi.org/{doi}" if doi else s2_url
+                
+                f.write(f"## {i}. [{p['title']}]({link})\n") # 제목에 링크 삽입
                 f.write(f"- **Authors:** {p['author_display']}\n")
                 f.write(f"- **Journal:** {p.get('venue', 'Unknown')}\n")
                 f.write(f"- **Date:** {p.get('pub_date', 'N/A')}\n")
-                f.write(f"- **Abstract:** {p.get('abstract', 'No abstract available.')}\n\n---\n")
+                
+                if doi:
+                    f.write(f"- **DOI:** [{doi}](https://doi.org/{doi})\n")
+                else:
+                    f.write(f"- **Link:** [View on Semantic Scholar]({s2_url})\n")
+                
+                f.write(f"- **Abstract:** {p.get('abstract', 'No abstract available.')}\n\n")
+                f.write("---\n")
 
     if final_papers:
         save_visited_papers(final_titles) # DB 업데이트
