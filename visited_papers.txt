@@ -135,3 +135,4 @@ Trends in American Political Science: Some Analytical Notes
 Spatial Models of Party Competition
 Cultural Anthropology: A Science
 Machine learning applications for urban geospatial analysis: A review of urban and environmental studies
+The New Neighborhood Watch: An Exploratory Study of the Nextdoor App and Crime Narratives
