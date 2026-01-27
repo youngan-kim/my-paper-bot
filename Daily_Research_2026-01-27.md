@@ -1,166 +1,162 @@
 # Daily Research Update: 2026-01-27
 
-## 1. [THE ECONOMICS OF SPATIAL MOBILITY: THEORY AND EVIDENCE USING SMARTPHONE DATA](https://doi.org/10.1093/qje/qjaf038)
-- **Authors:** Y. Miyauchi, Kentaro Nakajima, Stephen J. Redding
-- **Journal:** Quarterly Journal of Economics
-- **Date:** 2025-08-08
-- **DOI:** [10.1093/qje/qjaf038](https://doi.org/10.1093/qje/qjaf038)
-- **Abstract:** 
- We develop a tractable quantitative framework for modelling the rich patterns of spatial mobility observed in smartphone data. We show that travel is frequently undertaken as part of a travel itinerary, defined as a journey starting and ending at home that can include more than one intermediate stop on a given day. We show that these travel itineraries provide microfoundations for consumption externalities and generate both complementarity and substitutability between locations. We show that the consumption externalities implied by travel itineraries are central to matching quasi-experimental evidence from the shift to WFH. We find that these consumption externalities are key drivers of the agglomeration of economic activity in central cities and shape the relative welfare gains from alternative transport improvements in favor of investments in central cities.
-
----
-## 2. [Evaluating groundwater potential with the synergistic use of geospatial methods and advanced machine learning approaches](https://doi.org/10.1007/s44327-025-00095-x)
-- **Authors:** Vicky Anand, V. Rajput, T. Minkina, S. Mandzhieva, Aastha Sharma, Deepak Kumar, Sunil Kumar
-- **Journal:** Discover Cities
-- **Date:** 2025-06-02
-- **DOI:** [10.1007/s44327-025-00095-x](https://doi.org/10.1007/s44327-025-00095-x)
-- **Abstract:** None
-
----
-## 3. [Assessing the Number of Criteria in GIS‐Based Multicriteria Evaluation: A Machine Learning Approach](https://doi.org/10.1111/gean.70004)
-- **Authors:** Lan Qing Zhao, S. Dragićević, Shivanand Balram, Liliana Perez
-- **Journal:** Geographical Analysis
-- **Date:** 2025-03-27
-- **DOI:** [10.1111/gean.70004](https://doi.org/10.1111/gean.70004)
-- **Abstract:** The analytical hierarchy process (AHP) is a widely used approach and a decision rule to derive criteria weights in geographic information system‐based multi‐criteria evaluation (GIS‐MCE). However, one limitation of the AHP method is that it constrains the number of criteria that can be meaningfully weighted to typically seven to nine criteria. Recently, machine learning (ML) techniques have emerged as a compelling alternative for deriving criteria weights. This research aims to assess the capabilities of ML‐MCE in handling a larger number of criteria and is specifically applied to a case study of urban suitability analysis. The random forest (RF) ML technique is used to evaluate the ability of the MCE method to handle up to 27 criteria. Geospatial data from the Metro Vancouver Region, Canada, are used, with the criteria subdivided into 11 groups starting with the most basic seven criteria and incrementally adding two new criteria per group. The results indicate the RF‐ML approach can manage a larger number of criteria compared to the traditional AHP approach, with 15 criteria providing a meaningful upper threshold, demonstrating its potential to accommodate a wider range of stakeholder preferences for complex urban suitability analysis contexts.
-
----
-## 4. [Geographical Gaussian Process Regression: A Spatial Machine‐Learning Model Based on Spatial Similarity](https://doi.org/10.1111/gean.12423)
-- **Authors:** Zhenzhi Jiao, Ran Tao
-- **Journal:** Geographical Analysis
-- **Date:** 2025-03-10
-- **DOI:** [10.1111/gean.12423](https://doi.org/10.1111/gean.12423)
-- **Abstract:** This study proposes a new spatial machine‐learning model called geographical Gaussian process regression (GGPR). GGPR is extended from Gaussian process regression (GPR) by adopting the principle of spatial similarity for calibration, and it is designed to conduct spatial prediction and exploratory spatial data analysis (ESDA). GGPR addresses several key challenges in spatial machine learning. First, as a probabilistic model, GGPR avoids the conflict between spatial autocorrelation and the assumption of independent and identically distributed (i.i.d.), thus enhancing the model's objectivity and reliability in spatial prediction. Second, GGPR is suitable for small‐sample prediction, a task that most existing models struggle with. Finally, when integrated with GeoShapley, GGPR is an explainable model that can measure spatial effects and explain the outcomes. Evaluated on two distinct datasets, GGPR demonstrates superior predictive performance compared to other popular machine‐learning models across various sampling ratios, with its advantage becoming especially evident with smaller sample sizes. As an ESDA model, GGPR demonstrates enhanced accuracy, better computational efficiency, and a comparable ability to measure spatial effects against both multiscale geographically weighted regression and geographical random forests. In short, GGPR offers spatial data scientists a new method for predicting and exploring complex geographical processes.
-
----
-## 5. [The Modifiable Areal Unit Problem in Political Science](https://doi.org/10.1017/pan.2025.2)
-- **Authors:** Dong Wook Lee, Melissa Rogers, H. Soifer
-- **Journal:** Political Analysis
-- **Date:** 2025-02-18
-- **DOI:** [10.1017/pan.2025.2](https://doi.org/10.1017/pan.2025.2)
-- **Abstract:** 
- Building on the availability of geospatial data, improvements in mapping software, and innovations in spatial statistics, political scientists are increasingly taking geography seriously. As we adopt the tools of geographers, we must also consider the methodological challenges they have identified. We focus on the modifiable areal unit problem (MAUP)—the idea that the size of aggregate spatial units and the location of their borders affect the empirical results we obtain. We first describe the logic of the MAUP, and then demonstrate the MAUP through simulations, showing MAUP-related inconsistency in regression results in randomly generated and real-world data. We identify MAUP concerns, and best practices, in top journals in political science. We conclude by suggesting how scholars may respond in theoretical and empirical terms to concerns about validity and reliability that arise from the MAUP.
-
----
-## 6. [A Machine Learning Approach to Analyzing Crime Concentration: The Case of New York City](https://doi.org/10.1080/07418825.2024.2401938)
-- **Authors:** Keungoui Kim, Young-An Kim
-- **Journal:** Justice quarterly
-- **Date:** 2024-10-04
-- **DOI:** [10.1080/07418825.2024.2401938](https://doi.org/10.1080/07418825.2024.2401938)
-- **Abstract:** Abstract Building upon prior work, we propose an alternative way to look at the pattern of spatial crime concentration and temporal stability of it. We first identify a high-crime cluster using the sample block groups in New York City by employing a k-means clustering method. We then examine the temporal stability of the high-crime cluster over time. We also longitudinally assess how our high-crime cluster classification is associated with the actual amount of crime while accounting for the measures of social and physical environments. We observed that about 6–12% of total areas are identified to be in the high-crime cluster. We also found that block groups identified to be high-crime cluster in one year are more likely to be that way in the next year. We hope future research may consider using data-driven approaches to expand understanding of spatial and temporal crime patterns.
-
----
-## 7. [Smart Hotspot Detection Using Geospatial Artificial Intelligence: A Machine Learning Approach to Reduce Flood Risk](https://doi.org/10.1016/j.scs.2024.105873)
-- **Authors:** S. M. Rezvani, Alexandre Gonçalves, Maria João Falcão Silva, Nuno Marques de Almeida
-- **Journal:** Sustainable cities and society
-- **Date:** 2024-10-01
-- **DOI:** [10.1016/j.scs.2024.105873](https://doi.org/10.1016/j.scs.2024.105873)
-- **Abstract:** None
-
----
-## 8. [Evaluating Cooling Effect of Blue-green Infrastructure on Urban Thermal Environment in a Metropolitan City: Using Geospatial and Machine Learning Techniques](https://doi.org/10.1016/j.scs.2024.105666)
-- **Authors:** Md Rejaul Islam, Shahfahad, Swapan Talukdar, Mohd Rihan, Atiqur Rahman
-- **Journal:** Sustainable cities and society
-- **Date:** 2024-07-01
-- **DOI:** [10.1016/j.scs.2024.105666](https://doi.org/10.1016/j.scs.2024.105666)
-- **Abstract:** None
-
----
-## 9. [Investigating the effects of urban morphology on vitality of community life circles using machine learning and geospatial approaches](https://doi.org/10.1016/j.apgeog.2024.103287)
-- **Authors:** Sanwei He, Zhen Zhang, Shan Yu, Chang Xia, Chih-Lin Tung
-- **Journal:** Applied Geography
-- **Date:** 2024-06-01
-- **DOI:** [10.1016/j.apgeog.2024.103287](https://doi.org/10.1016/j.apgeog.2024.103287)
-- **Abstract:** None
-
----
-## 10. [The New Neighborhood Watch: An Exploratory Study of the Nextdoor App and Crime Narratives](https://doi.org/10.6000/1929-4409.2024.13.04)
-- **Authors:** Megan Parker, Mary Dodge
-- **Journal:** International Journal of Criminology and Sociology
-- **Date:** 2024-03-18
-- **DOI:** [10.6000/1929-4409.2024.13.04](https://doi.org/10.6000/1929-4409.2024.13.04)
-- **Abstract:** Community members use the Nextdoor App to prevent crime and circulate information when suspicious activity or criminal misconduct is afoot. The Nextdoor App operates like other popular social media platforms, but unlike Facebook and Twitter, it connects citizens based on geography instead of areas of interest. One unique aspect of the app is posting events and perceptions of suspicious behavior and criminal acts. User posts can provide narratives on feelings, incidents, and perceptions of crime in designated neighborhoods. This exploratory study focuses on how community members in an urban Colorado area use the app as a high-tech Neighborhood Watch. A qualitative research approach with a thematic analysis is implemented to examine neighbors’ perceptions of crime events and community safety. The findings depict that citizens engaged in Nextdoor communications are frustrated with petty community incivilities, property crimes, and law enforcement actions. In addition, the results show that lessons in being a capable guardian, possible increases in fear levels, and surveillance activities are important aspects of understanding social media and crime.
-
----
-## 11. [Fear of a Black Neighborhood: Anti-Black Racism and the Health of White Americans.](https://doi.org/10.1093/sf/soad112)
-- **Authors:** Patricia Louie, Reed T DeAngelis
+## 1. [Paws on the Street: Neighborhood-Level Concentration of Households with Dogs and Urban Crime](https://doi.org/10.1093/sf/soac059)
+- **Authors:** Nicolo P. Pinchak, Christopher R. Browning, Bethany Boettner, Catherine A. Calder, Jake Tarrence
 - **Journal:** Social forces; a scientific medium of social study and interpretation
-- **Date:** 2024-03-01
-- **DOI:** [10.1093/sf/soad112](https://doi.org/10.1093/sf/soad112)
+- **Date:** 2022-06-25
+- **DOI:** [10.1093/sf/soac059](https://doi.org/10.1093/sf/soac059)
+- **Abstract:** Abstract:The formative work of Jane Jacobs underscores the combination of "eyes on the street" and trust between residents in deterring crime. Nevertheless, little research has assessed the effects of residential street monitoring on crime due partly to a lack of data measuring this process. We argue that neighborhood-level rates of households with dogs captures part of the residential street monitoring process core to Jacobs' hypotheses and test whether this measure is inversely associated with property and violent crime rates. Data from a large-scale marketing survey of Columbus, OH, USA residents (2013; n = 43,078) are used to measure census block group-level (n = 595) rates of households with dogs. Data from the Adolescent Health and Development in Context study are used to measure neighborhood-level rates of trust. Consistent with Jacobs' hypotheses, results indicate that neighborhood concentration of households with dogs is inversely associated with robbery, homicide, and, to a less consistent degree, aggravated assault rates within neighborhoods high in trust. In contrast, results for property crime suggest that the inverse association of dog concentration is independent of levels of neighborhood trust. These associations are observed net of controls for neighborhood sociodemographic characteristics, temporally lagged crime, and spatial lags of trust and dog concentration. This study offers suggestive evidence of crime deterrent benefits of local street monitoring and dog presence and calls attention to the contribution of pets to other facets of neighborhood social organization.
+
+---
+## 2. [From Residential Neighborhood to Activity Space: The Effects of Educational Segregation on Crime and Their Moderation by Social Context](https://doi.org/10.1080/24694452.2022.2060793)
+- **Authors:** Yanji Zhang, Liang Cai, Guangwen Song, Lin Liu, Chunwu Zhu
+- **Journal:** Annals of the American Association of Geographers
+- **Date:** 2022-06-16
+- **DOI:** [10.1080/24694452.2022.2060793](https://doi.org/10.1080/24694452.2022.2060793)
+- **Abstract:** The segregation–crime relationship is a classic topic in sociology and crime geography, yet existing literature mainly focuses on the impact of racial segregation at the global scale. Little is known about the impact of local segregation of other socioeconomic characteristics such as education level, an important segregation factor for racially homogenous countries like China. Also unknown is their impact beyond the residential domain. Using the Baidu Map Location-Based Service population data set and court records in 863 local geographic units of the central urban area of Beijing during 2018 and 2019, this study uncovers the spatial pattern of segregation between people with and without a bachelor’s degree measured in the residential space and activity space and further investigates the influence of these two types of educational segregation and their interaction effects with social context on theft and violent crime. Results show less segregation in the activity space than in the residential space. Both types of segregation, however, significantly increase the risk of theft and violence, with activity space–based segregation more consequential. Moreover, the positive segregation–crime link is moderated by the local social context measured by the educational composition among residents and the ambient population. Compared with residential segregation, activity space–based segregation is more detrimental for places dominated by the less educated. Our results highlight the elevated influence of segregation on safety beyond the residential space, especially for areas clustered with the less educated ambient population.
+
+---
+## 3. [Introduction: Generating concepts of ‘the urban’ through comparative practice](https://doi.org/10.1177/00420980221092561)
+- **Authors:** J. Robinson
+- **Journal:** Urban studies
+- **Date:** 2022-05-01
+- **DOI:** [10.1177/00420980221092561](https://doi.org/10.1177/00420980221092561)
+- **Abstract:** This Introduction to the special issue, ‘Comparative Methods for Global Urban Studies’, outlines the basis for a reformatted comparative method inspired by the complex spatialities of the urban world. The articles in the volume each bring forward innovative approaches to comparative methods which support wider conceptualisations of urban processes and urban experiences. The articles in this volume consider a wide range of urban contexts and collectively move beyond geopolitically imprecise propositions of ‘southern’ urbanism to embrace the wider comparative agenda of thinking with both the diversity and the profound interconnectedness of the urban globally. The articles contribute to decentring urban studies, opening conceptualisation to a range of different contexts and differently positioned writers. They also speak to the analytical and methodological challenges posed by current trends in global urbanisation, as dispersed, fragmented and extending over vast territories. Thinking with the multiple elsewheres of any urban context invites a comparative imagination – this introduction draws together the creative ways in which authors in this volume have responded to this potential. Processes of conceptualisation both emerge from and more acutely reveal the spatiality and nature of the global urban: comparative method, then, also proposes a certain mode of theorisation of the urban.
+
+---
+## 4. [STADL Up! The Spatiotemporal Autoregressive Distributed Lag Model for TSCS Data Analysis](https://doi.org/10.1017/S0003055422000272)
+- **Authors:** S. Cook, Jude C. Hays, R. Franzese
+- **Journal:** American Political Science Review
+- **Date:** 2022-04-21
+- **DOI:** [10.1017/S0003055422000272](https://doi.org/10.1017/S0003055422000272)
+- **Abstract:** Time-series cross-section (TSCS) data are prevalent in political science, yet many distinct challenges presented by TSCS data remain underaddressed. We focus on how dependence in both space and time complicates estimating either spatial or temporal dependence, dynamics, and effects. Little is known about how modeling one of temporal or cross-sectional dependence well while neglecting the other affects results in TSCS analysis. We demonstrate analytically and through simulations how misspecification of either temporal or spatial dependence inflates estimates of the other dimension’s dependence and thereby induces biased estimates and tests of other covariate effects. Therefore, we recommend the spatiotemporal autoregressive distributed lag (STADL) model with distributed lags in both space and time as an effective general starting point for TSCS model specification. We illustrate with two example reanalyses and provide R code to facilitate researchers’ implementation—from automation of common spatial-weights matrices (W) through estimated spatiotemporal effects/response calculations—for their own TSCS analyses.
+
+---
+## 5. [A more global urban studies, besides empirical variation](https://doi.org/10.1177/00420980221085113)
+- **Authors:** Julie Ren
+- **Journal:** Urban studies
+- **Date:** 2022-04-01
+- **DOI:** [10.1177/00420980221085113](https://doi.org/10.1177/00420980221085113)
+- **Abstract:** An expanded set of sites, a more differentiated set of references and linguistic diversification have been discussed as needed changes in urban studies. The critiques of the limitations of urban studies, in terms of both the scholarship and the scholars, offer important and concrete responses to expanding the scope of the field. Yet this tremendous special issue on ‘Comparative Methods for Global Urban Studies’ with 10 papers cutting across a range of sites and topics is decidedly not only about empirical variation; this is an important distinction worth drawing more attention to. The creativity expressed in these papers comes at an auspicious time in urban studies where new routes for doing urban theory are needed to move past debates about singular versus plural epistemologies of the urban. As a kind of research that demands more translation, exchange and collaboration, perhaps comparative urban research as a mode of theory-building can help to humble the chest-pounding, posturing, privilege of thinking and speaking the language of theory. The theoretical ambitions of these very different papers show how urban theory need not only be about better understanding urbanisation within the epistemological confines of late capitalism. Rather than reifying a shared grammar of urbanisation as a necessity to understand each other, they may entice scholars everywhere to develop a broader vocabulary and perhaps even learn another language.
+
+---
+## 6. [Who Leaves and Who Enters? Flow Measures of Neighborhood Change and Consequences for Neighborhood Crime](https://doi.org/10.1177/00224278221088534)
+- **Authors:** John R. Hipp, Alyssa W. Chamberlain
+- **Journal:** Journal of research in crime and delinquency
+- **Date:** 2022-03-24
+- **DOI:** [10.1177/00224278221088534](https://doi.org/10.1177/00224278221088534)
+- **Abstract:** Objectives Longitudinal studies of the relationship between neighborhood change and changes in crime typically focus exclusively on the net level of change in key socio-demographic characteristics. Methods We instead propose a demographic accounting strategy that captures the composition of neighborhood change: our measures capture which types of people are more likely to leave, stay, or enter the neighborhood. We use data for 3,325 tracts in the Southern California region over nearly two decades of 2000–2010 and 2010–2017 and construct flow measures based on race/ethnicity; the length of residence of owners and renters; the age structure. Results These flow measures improve the predictive power of the models—implying important theoretical insights. Neighborhoods with higher percentages of middle-aged residents who recently entered the neighborhood exhibit larger increases in violent and property crime. The relative stability of those in the highest crime-prone ages (aged 15–29) is associated with the largest increases in violent and property crime. The greater loss of Black and Asian residents decreased crime while moderate outflows of Latinos increased crime. The mobility of long- and short-term renters was related to crime changes. Conclusions This new technique will likely encourage further theoretical innovation for the neighborhoods and crime literature.
+
+---
+## 7. [Is urbanisation in the Global South fundamentally different? Comparative global urban analysis for the 21st century](https://doi.org/10.1177/00420980211067926)
+- **Authors:** Gregory F. Randolph, M. Storper
+- **Journal:** Urban studies
+- **Date:** 2022-02-08
+- **DOI:** [10.1177/00420980211067926](https://doi.org/10.1177/00420980211067926)
+- **Abstract:** A vigorous debate has emerged in recent years over how to understand cities of the Global South. A pivotal issue in this debate is whether urbanisation processes in the South are so fundamentally different from historical and current urbanisation in the Global North that many of the theories developed from studying the latter have limited utility in application to the former. In this article, we review evidence from a range of disciplines on recent and ongoing urban transitions and urbanisation dynamics in the Global South, attending to features that distinguish the urban South from the urban North. Our reading of the evidence indicates that parts of the Global South may be urbanising along historically and geographically specific trajectories; however, we argue that these differences are best understood through a unified set of global urban theories. Rather than flattening or silencing difference, theories that seek generalisation across time and space sharpen the identification and appreciation of key differences in urbanisation processes. Analysing how the fundamental dynamics of urbanisation recombine and interact with one another in different contexts offers insight into policy challenges that cut across cities, both within and between the Global South and North, as well as context-specific policy issues that arise through the interaction of global urbanisation forces and local specificities.
+
+---
+## 8. [How Does Crime-Specific Victimization Impact Fear of Crime in Urban China? The Role of Neighborhood Characteristics](https://doi.org/10.1177/0306624X211066829)
+- **Authors:** Fengrui Jing, Lin Liu, Suhong Zhou, Jiaxin Feng
+- **Journal:** International journal of offender therapy and comparative criminology
+- **Date:** 2021-12-21
+- **DOI:** [10.1177/0306624X211066829](https://doi.org/10.1177/0306624X211066829)
+- **Abstract:** Past research has failed to find consistent relationships between criminal victimization and fear of crime. Except for neighborhood disorder and crime rate, few studies have examined whether other neighborhood conditions matter the victimization—fear relationship. Using survey data in Guangzhou neighborhoods, the present analysis employs multinomial logistic regression models to examine whether neighborhood characteristics moderate the relationship between violent victimization and fear of violence, and between burglary victimization and fear of burglary, separately. Some aspects of the neighborhood environment do differentially influence victims’ and non-victims’ fear levels. Besides verifying the interaction effect of neighborhood disorder and victimization, the present study finds that neighborhood policing alleviates the harmful effect of violent victimization on fear, while collective efficacy fosters the harmful effect of burglary victimization on fear. This paper underscores the significance of the social context of urban China in explaining the interplay of neighborhood characteristics and victimization on fear of crime.
+
+---
+## 9. [Urban studies in India across the millennial turn: Histories and futures](https://doi.org/10.1177/00420980211056773)
+- **Authors:** K. Coelho, A. Sood
+- **Journal:** Urban studies
+- **Date:** 2021-12-17
+- **DOI:** [10.1177/00420980211056773](https://doi.org/10.1177/00420980211056773)
+- **Abstract:** The millennial turn saw a distinct efflorescence in scholarship on urban India. This essay introduces a Virtual Special Issue on urban studies in India that showcases a selection of articles from the journal’s archives. It traces the disciplinary, thematic and methodological shifts that have marked this millennial turn. On the one hand, the social science of the urban has had a statist bent, reacting to the policy focus on cities as growth engines in the post-liberalisation era. On the other hand, critical urban studies has brought attention to the unregulated, deregulated, unplanned and unintended city produced by dynamic processes of informality acting overtly or covertly against the state’s neoliberal agendas. This introductory essay aims to examine the ways this interplay has unfolded both in the pages of this journal and elsewhere. It locates the Virtual Special Issue selection within a broader review of the state of scholarship in Indian urban studies and marks out areas for productive interventions in the future study of Indian cities.
+
+---
+## 10. [A Priori Bounds on Legislative Bargaining Agreements](https://doi.org/10.1111/ajps.12679)
+- **Authors:** Tasos Kalandrakis
+- **Journal:** American Journal of Political Science
+- **Date:** 2021-11-03
+- **DOI:** [10.1111/ajps.12679](https://doi.org/10.1111/ajps.12679)
+- **Abstract:** In a workhorse model of legislative bargaining with spatial preferences, I establish easy to compute inner and outer bounds on all equilibrium acceptable agreements and outcomes. Using these bounds, I recover and extend conditions for uniqueness of equilibrium, and derive novel proposer advocacy conditions for outcomes to be near the core or the uncovered set. The centrifugal effect of these conditions is reversed as proposal rights are concentrated further away from the center. In the discounted case, there is an outer limit to proposal influence, which becomes non-binding as legislators get patient. The location of the status quo has the expected effect, while the effect of changes in the voting rule is ambiguous. While providing a practical avenue to locating legislative decisions, the analysis highlights the broad conclusion that the proper functioning of democratic institutions is highly contingent on other institutional features besides the proper assignment of voting rights. ∗Thanks to Gleason Judd and audiences at the 2018 MPSA conference, the 2018 CRETE conference, the Wallis brownbag seminar at the University of Rochester, the Political Science speaker series at Washington University, Saint-Louis, and the 2019 Great Lakes Conference at Harris School of Public Policy, University of Chicago. All errors are my own. †Department of Political Science and Department of Economics, University of Rochester. E-mail: kalandrakis@rochester.edu
+
+---
+## 11. [Density, diversity, and design: Three measures of the built environment and the spatial patterns of crime in street segments](https://doi.org/10.1016/j.jcrimjus.2021.101864)
+- **Authors:** Young-An Kim, John R. Hipp
+- **Journal:** Journal of criminal justice
+- **Date:** 2021-11-01
+- **DOI:** [10.1016/j.jcrimjus.2021.101864](https://doi.org/10.1016/j.jcrimjus.2021.101864)
 - **Abstract:** None
 
 ---
-## 12. [Explaining Differences in Voting Patterns across Voting Domains Using Hierarchical Bayesian Models](https://doi.org/10.1017/pan.2025.10014)
-- **Authors:** E. Lipman, Scott Moser, Abel Rodriguez
+## 12. [How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning](https://doi.org/10.1017/pan.2021.29)
+- **Authors:** Jessica Di Cocco, Bernardo Monechi
 - **Journal:** Political Analysis
-- **Date:** 2023-12-22
-- **DOI:** [10.1017/pan.2025.10014](https://doi.org/10.1017/pan.2025.10014)
-- **Abstract:** 
- Spatial voting models are widely used in political science to analyze legislators’ preferences and voting behavior. Traditional models assume that legislators’ ideal points are static across different types of votes. This article extends the Bayesian spatial voting model to incorporate hierarchical Bayesian methods, allowing for the identification of covariates that explain differences in legislators’ ideal points across voting domains. We apply this model to procedural and final passage votes in the U.S. House of Representatives from the 93rd through 113th Congresses. Our findings indicate that legislators in the minority party and those representing moderate constituencies are more likely to exhibit different ideal points between procedural and final passage votes. This research advances the methodology of ideal point estimation by simultaneously scaling ideal points and explaining variation in these points, providing a more nuanced understanding of legislative voting behavior.
+- **Date:** 2021-10-15
+- **DOI:** [10.1017/pan.2021.29](https://doi.org/10.1017/pan.2021.29)
+- **Abstract:** Abstract One of the main challenges in comparative studies on populism concerns its temporal and spatial measurements within and between a large number of parties and countries. Textual analysis has proved useful for these purposes, and automated methods can further improve research in this direction. Here, we propose a method to derive a score of parties’ levels of populism using supervised machine learning to perform textual analysis on national manifestos. We illustrate the advantages of our approach, which allows for measuring populism for a vast number of parties and countries without resource-intensive human-coding processes and provides accurate, updated information for temporal and spatial comparisons of populism. Furthermore, our method allows for obtaining a continuous score of populism, which ensures more fine-grained analyses of the party landscape while reducing the risk of arbitrary classifications. To illustrate the potential contribution of this score, we use it as a proxy for parties’ levels of populism, analyzing average trends in six European countries from the early 2000s for nearly two decades.
 
 ---
-## 13. [The urbanisation of controlled environment agriculture: Why does it matter for urban studies?](https://doi.org/10.1177/00420980231200991)
-- **Authors:** Simon Marvin, Lauren Rickards, Jonathan Rutherford
+## 13. [Economic Inequality Decomposition and Spatial Pattern of Crime in Indonesia](https://doi.org/10.1080/23754931.2021.1991842)
+- **Authors:** Putu Angga Widyastaman, D. Hartono
+- **Journal:** Papers in applied geography
+- **Date:** 2021-10-14
+- **DOI:** [10.1080/23754931.2021.1991842](https://doi.org/10.1080/23754931.2021.1991842)
+- **Abstract:** Abstract Rising crime victimization rate in Indonesia shows that crime is still a serious problem in the country. This study aims to identify the relationship between economic inequality and crime rate in Indonesia. It used the decomposed Theil indices, as the measure of inequality based on national household survey panel data, to disentangle the effect of economic inequality into within-district/city and between-district/city economic inequality components. This choice of inequality measure is due to the fact that most of the previous studies regarding economic inequality and crime overlooked the disentanglement between economic inequality effects. Another problem addressed by this study is that the effect of crime is not bounded by administrative boundaries. A high prevalence of crime in a region may cause a criminal spillover to the surrounding regions. To control for this effect, this study also evaluates the spatial effect of interregional crime rates using the panel spatial autoregressive model as the estimation method. The estimation results revealed that both within-region and across-region economic inequalities have substantial increasing impacts on the crime rate.
+
+---
+## 14. [A posteriori comparisons, repeated instances and urban policy mobilities: What ‘best practices’ leave behind](https://doi.org/10.1177/00420980211041460)
+- **Authors:** Sergio Montero, Gianpaolo Baiocchi
 - **Journal:** Urban studies
-- **Date:** 2023-10-09
-- **DOI:** [10.1177/00420980231200991](https://doi.org/10.1177/00420980231200991)
-- **Abstract:** This paper critically examines why urban studies should be interested in the emergence of controlled environment agriculture. Over the last decade, there has been significant commercial and urban policy interest in controlled environment agriculture systems for producing food in enclosed environments. Furthermore, there has been a significant expansion in research publications on urban controlled environment agriculture, stressing the novel character of these systems and the complex relationships with the conventional concerns of urban agriculture. The paper subjects these claims to critical scrutiny and then reconceptualises urban controlled environment agriculture as an emergent urban infrastructure of artificial, highly productive microclimates and ecosystems for non-human life designed to increase the productive use of ‘surplus or under-utilised’ urban spaces. We argue that controlled environment agriculture tries to secure food production through three spatial–temporal fixes: (1) the enclosure move – holding food closer by substituting the increasingly hostile outdoors for the controlled indoors in order to optimise yield, quality, efficiency and the ‘cleanness’ of the food; (2) the urban move – holding food closer to the city by substituting rural agricultural space for urban space to shorten supply chains and thereby help secure food production and improve its green credentials; and (3) combining 1 and 2, the urban interiorisation move – holding food yet closer still by moving food production into city buildings and intricate infrastructural systems, increasing control by securing total environments. In these ways, the paper shows how urban controlled environment agriculture selectively extends existing logics of urban and rural agriculture and identifies the future research challenges for urban studies.
+- **Date:** 2021-09-06
+- **DOI:** [10.1177/00420980211041460](https://doi.org/10.1177/00420980211041460)
+- **Abstract:** Urban studies scholars have engaged in a lively debate on how to reformat comparative methods in the face of critical scrutiny of the discipline’s purported universalism. We share the enthusiasm for a reformatted urban comparativism and, in this paper, we turn to the thorny and more pragmatic question of how to actually carry it out. While traditional comparisons in urban studies have sought to find variation among similar cases by selecting a priori, in this article we propose to compare the findings of different researchers through a posteriori, that is, after the research has been done. We also argue that urban researchers need to focus on urban processes rather than cities; on repeated instances rather than on controlling for difference; and on mid-level abstraction rather than on grand theory or descriptive empirical cases. We put this strategy to work by comparing empirical research previously carried out by the authors on how two Latin American cities became international urban ‘best practices’: Bogotá as a sustainable transport model and Porto Alegre as a model of local participatory budgeting. The comparison highlights the tension between the simplified policy narratives that were mobilised to circulate Bogotá and Porto Alegre as international ‘best practices’ and the broader multi-scalar institutional reforms that these ‘best practice’ narratives have left behind in their global circulations. In doing so, we show the potential of a posteriori comparisons to analyse contemporary global urban dynamics and provide some explicit methodological tactics on how to do comparisons in a more systematic way.
 
 ---
-## 14. [Integrating Data Across Misaligned Spatial Units](https://doi.org/10.1017/pan.2023.5)
-- **Authors:** Y. Zhukov, Jason S. Byers, Marty Davidson, Ken Kollman
-- **Journal:** Political Analysis
-- **Date:** 2023-03-23
-- **DOI:** [10.1017/pan.2023.5](https://doi.org/10.1017/pan.2023.5)
-- **Abstract:** 
- Theoretical units of interest often do not align with the spatial units at which data are available. This problem is pervasive in political science, particularly in subnational empirical research that requires integrating data across incompatible geographic units (e.g., administrative areas, electoral constituencies, and grid cells). Overcoming this challenge requires researchers not only to align the scale of empirical and theoretical units, but also to understand the consequences of this change of support for measurement error and statistical inference. We show how the accuracy of transformed values and the estimation of regression coefficients depend on the degree of nesting (i.e., whether units fall completely and neatly inside each other) and on the relative scale of source and destination units (i.e., aggregation, disaggregation, and hybrid). We introduce simple, nonparametric measures of relative nesting and scale, as ex ante indicators of spatial transformation complexity and error susceptibility. Using election data and Monte Carlo simulations, we show that these measures are strongly predictive of transformation quality across multiple change-of-support methods. We propose several validation procedures and provide open-source software to make transformation options more accessible, customizable, and intuitive.
+## 15. [Urban statecraft: The governance of transport infrastructures in African cities](https://doi.org/10.1177/00420980211028106)
+- **Authors:** L. Cirolia, J. Harber
+- **Journal:** Urban studies
+- **Date:** 2021-08-21
+- **DOI:** [10.1177/00420980211028106](https://doi.org/10.1177/00420980211028106)
+- **Abstract:** Through the lens of infrastructure governance, this article explores the configurations and operations of the urban state in sub-Saharan Africa. We deploy and extend the concept of ‘statecraft’, drawing on the recent scholarship within urban studies which explores city and municipal statecraft. Consolidating insights across several studies on transport governance in African cities, we identify three ‘sites’ of urban statecraft evident in urban Africa. First, we look at sectoral authorities, which we analyse through the common experience of ringfenced national road agencies. Carving off urban functions can fragment power over urban infrastructure. Second, we look at metropolitan authorities, which we analyse through bus rapid transit (BRT) agencies. Metropolitanisation crafts new scales of governance in Africa’s larger cities. Finally, we turn to the regulation of informal service delivery systems, which we analyse through popular transport regulation. The regulation of minibus and motorcycle taxis shows the central importance of everyday practice in urban statecraft in Africa. The case of transport governance provides a particularly vivid display of the institutional fragmentation that exists between state agencies and institutions in African cities. In this context, the urban state is not a static municipal entity, but is enacted through complex and multi-scalar relationships. These relationships relate not only to the assignment of functions or territorial design, but also to the practices which animate infrastructural systems. More generally, we argue that there is ample scope within the African urban governance debates for deeper interrogation of statecraft.
 
 ---
-## 15. [Modeling Spatial Heterogeneity and Historical Persistence: Nazi Concentration Camps and Contemporary Intolerance](https://doi.org/10.1017/S0003055423000072)
-- **Authors:** Thomas B. Pepinsky, S. Goodman, Conrad Ziller
-- **Journal:** American Political Science Review
-- **Date:** 2023-03-02
-- **DOI:** [10.1017/S0003055423000072](https://doi.org/10.1017/S0003055423000072)
-- **Abstract:** A wealth of recent research in comparative politics examines how spatial variation in historical conditions shapes modern political outcomes. In an article in the American Political Science Review, Homola, Pereira, and Tavits argue that Germans who live nearer to former Nazi concentration camps are more likely to display out-group intolerance. Clarifying the conceptual foundations of posttreatment bias and reviewing the historical record on postwar state creation in Germany, we argue that state-level differences confound the relationship between distance to camps and out-group intolerance. Using publicly available European Values Survey data and electoral results from 2017, we find no consistent evidence that distance to camps is related to contemporary values. Our findings have implications for literatures on historical persistence, causal inference with spatial data, Holocaust studies, and outgroup tolerance.
+## 16. [Gendered fear of crime in the urban context: A comparative multilevel study of women’s and men’s fear of crime](https://doi.org/10.1080/07352166.2021.1923372)
+- **Authors:** Sofia Johansson, Karen Haandrikman
+- **Journal:** Journal of Urban Affairs
+- **Date:** 2021-06-25
+- **DOI:** [10.1080/07352166.2021.1923372](https://doi.org/10.1080/07352166.2021.1923372)
+- **Abstract:** ABSTRACT Women generally feel more fearful than men. We study this so-called fear-gender gap, by contributing to a growing body of quantitative gender-sensitive research inspired by feminist theory. We depart from traditional quantitative fear of crime research that fails to examine how determinants of fear of crime impact women and men differently. We use a Dutch governmental survey, linked to neighborhood characteristics, to conduct multilevel modeling using multifaceted sociospatial aspects on individual and neighborhood level, to explain the fear-gender gap in the city of Eindhoven. Findings indicate that the sociospatial environment and the perceptions thereof offer insights into gendered differences in fear. A central finding is that fear of crime among women is particularly complex. We discuss the concept of fear of crime, the importance of feminist theory to inform data gathering in order to further future quantitative research on fear of crime, and make suggestions for future research.
 
 ---
-## 16. [Vulnerability in the Neighborhood: A Study of Perceived Control Over Victimization](https://doi.org/10.1177/00224278221150280)
-- **Authors:** C. Keel, Rebecca Wickes, Murray Lee, Jonathan Jackson, K. Benier
+## 17. [Geographic disparities in violent crime during the COVID-19 lockdown in Miami-Dade County, Florida, 2018–2020](https://doi.org/10.1007/s11292-021-09474-x)
+- **Authors:** Imelda K. Moise, A. Piquero
+- **Journal:** Journal of Experimental Criminology
+- **Date:** 2021-06-17
+- **DOI:** [10.1007/s11292-021-09474-x](https://doi.org/10.1007/s11292-021-09474-x)
+- **Abstract:** Abstract Objectives This study uses two cluster detection techniques to identify clusters of violent crime during the 3 months of the 2020 COVID-19 lockdown in Miami-Dade County compared to that during an equivalent period in 2018 and 2019. Methods Violent crime data from the Miami-Dade Central Records Bureau were analyzed. The Local Indicators of Spatial Association statistics and a space‐time permutation statistic were used to identify clusters of violent crimes and outliers, and Global Moran’s I tool was used to assess spatial patterning in violent crime. Neighborhood disadvantage data were obtained from the American Community Survey 5-year estimates linked with arrest locations. Results Violent crime arrests fell by 7.1% in 2020. Arrests were concentrated in predominantly Black disadvantaged neighborhoods in the northern part, and similar results were produced for core clusters by the two cluster techniques with positive global Moran’s I for all study years. Although accounting for only 17% of the county population, nearly half of violent crime arrests were for Black or African American. Males comprised most violent crime arrests. Conclusions Crime prevention and intervention efforts should be focused on both high-risk places and offenders.
+
+---
+## 18. [Critical Commentary: Repopulating density: COVID-19 and the politics of urban value](https://doi.org/10.1177/00420980211014810)
+- **Authors:** Colin Mcfarlane
+- **Journal:** Urban studies
+- **Date:** 2021-06-09
+- **DOI:** [10.1177/00420980211014810](https://doi.org/10.1177/00420980211014810)
+- **Abstract:** How might concepts of ‘value’ and ‘population’ illuminate the present and future of urban density? The COVID-19 pandemic prompted a public debate on density in the city. While some initially blamed density for the spread of the virus, others rightly cautioned against those claims. As the pandemic progressed, an imaginary of density-as-pathology gave way to a more nuanced geographical understanding of the urban dimensions of the crisis, focused on connections, spatial conditions, domestic ‘overcrowding’ and poverty. Throughout, an interrogation and reflection on urban density and its future unfolded, throwing into question the historical relationship between ‘value’ and ‘population’ in understandings of density. I argue for a new politics of value based on shifts in three interconnected domains – governance, form and knowledge – and identify implications for research on density in urban studies.
+
+---
+## 19. [When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery Incidents Displaced by a Place-based Policing Intervention](https://doi.org/10.1177/00224278211016030)
+- **Authors:** D. Hatten, Eric L. Piza
 - **Journal:** Journal of research in crime and delinquency
-- **Date:** 2023-02-20
-- **DOI:** [10.1177/00224278221150280](https://doi.org/10.1177/00224278221150280)
-- **Abstract:** Objectives: We test which neighborhood characteristics are associated with perceived control over victimization and how the neighborhood context explains differences between women's and men's perceived control. Methods: Drawing upon administrative data and a survey of 2,862 participants living in 80 neighborhoods in Victoria, Australia, we make a distinction between broader characteristics of the neighborhood, community processes, and gendered neighborhood dynamics. We run a series of multilevel mixed effects regression models to examine the relationship between individual-level perceptions of control over victimization and the neighborhood. Results: Results indicate that a concentration of low-income households in the neighborhood is associated with residents reporting less control over their victimization. Furthermore, the interaction revealed higher crime in the neighborhood lowered women's perceived control while heightening men's perceived control over victimization. Conclusions: Gender remained strongly associated with perceived control over victimization throughout the analysis despite extensive testing of general and gendered neighborhood conditions that may account for differences between women and men. The results found that overall crime rates were the only feature that assisted in explaining the differences between women and men. Future research must seek to better capture the environmental conditions that can account for the difference between women's and men's perceptions.
+- **Date:** 2021-05-07
+- **DOI:** [10.1177/00224278211016030](https://doi.org/10.1177/00224278211016030)
+- **Abstract:** Examine the place-based correlates of robbery activity displaced by a foot-patrol intervention in Newark, NJ. We use constructs from Crime Pattern and Social Disorganization theories to test hypotheses concerned with associations between the structure of the environment and the displacement of crime. Robbery incidents were spatially joined to street segments to study micro-level displacement processes. Predictor variables were operationalized using data from the Newark Police Department and Infogroup USA. Generalized Linear models tested associations between the characteristics of street segments and displaced robbery in the target area as compared to a control. Environmental structure is important to understanding the settings of displacement, though this varied between spatial and temporal displacement. Relationships between displaced crime activity and model covariates did not always appear in expected directions. For example, bus stops predicted increased spatial displacement while corner stores predicted decreased levels of temporal displacement. While testing for displacement has become commonplace in place-based policing interventions, less attention has been paid to the micro-level factors that may facilitate the displacement of crime events. Both bus stops and corner stores show consistent associations with displaced crime activity, but the directions of these relationships suggest more complex processes requiring further examination.
 
 ---
-## 17. [Centring the periphery in urban studies: Notes towards a research agenda on peripheral centralities](https://doi.org/10.1177/00420980221135418)
-- **Authors:** N. Phelps, P. Maginn, R. Keil
+## 20. [On urban studies in Brazil: The favela, uneven urbanisation and beyond](https://doi.org/10.1177/0042098021993360)
+- **Authors:** Mariana Fix, P. Arantes
 - **Journal:** Urban studies
-- **Date:** 2022-12-14
-- **DOI:** [10.1177/00420980221135418](https://doi.org/10.1177/00420980221135418)
-- **Abstract:** Based on presentations across two days as part of an Urban Studies Foundation-funded seminar series, we elaborate a thematic agenda for considering the centrality of urban peripheries. We move beyond a typology of suburban centres to depict senses of peripheral centrality in terms of: their pervasiveness; their visibility across multiple scales; their underlying social relations; the agency exerted in their imagining and production, and the associated policy mobility.
-
----
-## 18. [The spatial (in)stability of mental health calls for police service](https://doi.org/10.1111/1745-9133.12612)
-- **Authors:** Jacek Koziarski
-- **Journal:** Criminology &amp; Public Policy
-- **Date:** 2022-12-09
-- **DOI:** [10.1111/1745-9133.12612](https://doi.org/10.1111/1745-9133.12612)
-- **Abstract:** Research summary Policy implications Inspired by studies on crime concentration, scholars have begun examining the spatial patterns of other issues under the police mandate, such as calls for service involving persons with perceived mental illness (PwPMI). While findings show that PwPMI calls for service concentrate in a few number of places, we do not know whether the concentration of these calls fall within a narrow bandwidth of spatial units nor whether these calls are spatially stable. Drawing on 7 years of calls for service data from the Barrie Police Service, this study tests for the temporal stability of PwPMI call for service concentrations at two units of spatial analysis and applies a longitudinal variation of the Spatial Point Pattern Test to assess the spatial stability of these calls at both the global and local levels. The results reveal that concentrations of PwPMI calls for service not only fall within a narrow proportional bandwidth of spatial units, but are spatially stable, even during the COVID‐19 pandemic.Existing police‐ and community‐based efforts that respond to PwPMI in the community are tasked with responding to crises that could have been prevented with timelier intervention. Drawing from crime‐focused, place‐based policing strategies whose deployment is informed by the spatial concentration of crime, scholars have similarly argued that knowledge on where PwPMI calls for service concentrate can be leveraged to inform and deploy place‐based efforts whose focus is to assist PwPMI in a proactive capacity. The findings of the present study further substantiates the deployment of PwPMI‐focused police‐ and community‐based resources as proactive, place‐based efforts. In doing so, these efforts could not only prevent mental health crises from occurring but could prevent future police‐involved calls for service and thus reduce the footprint of the police in the lives of PwPMI in a reactive capacity. [ FROM AUTHOR]
-
----
-## 19. [The spatial dynamics of commercial burglary during the COVID-19 lockdown in San Francisco](https://doi.org/10.1007/s11292-022-09530-0)
-- **Authors:** Ha-neul Yim, Jordan R. Riddell
-- **Journal:** Journal of Experimental Criminology
-- **Date:** 2022-08-18
-- **DOI:** [10.1007/s11292-022-09530-0](https://doi.org/10.1007/s11292-022-09530-0)
-- **Abstract:** Purpose This paper investigated the impact of COVID-19 stay-at-home regulations on the spatial distribution of commercial burglary in San Francisco. Method Geocoded commercial burglary data for 2003–2021 from San Francisco were analyzed using the Andresen Spatial Point Pattern Test to examine potential spatial movement in commercial burglary. Results Concentrations of commercial burglary spatially shifted following the emergence of COVID-19 and the subsequent stay-at-home orders. Original hot spots experienced a relative decrease in commercial burglary, and crime spread out throughout the city. These spatial changes in commercial burglary appear to be related to variations in guardianship and criminal opportunity. Conclusion These findings suggest that the dramatic shifts in routine activities resulting from the COVID-19 policies could disrupt spatial burglary patterns, especially burglary clustering. Law enforcement should consider the spatial dynamics of commercial burglary, as well as land use heterogeneity, to effectively respond to crime during periods of social distancing and business shutdowns.
-
----
-## 20. [Down with the sickness? Los Angeles burglary and COVID-19 restrictions](https://doi.org/10.1007/s11292-022-09522-0)
-- **Authors:** Joshua Hill, George Raber, Laura M. Gulledge
-- **Journal:** Journal of Experimental Criminology
-- **Date:** 2022-07-11
-- **DOI:** [10.1007/s11292-022-09522-0](https://doi.org/10.1007/s11292-022-09522-0)
-- **Abstract:** Objectives To provide a partial test of routine activities theory through a spatio-temporal analysis of the impacts of COVID-19 restrictions on burglary in Los Angeles. Methods Spatial point pattern tests, clustering, and non-parametric permutations tests were used to identify changes in burglary in the highest restriction period of 2020 as well as comparison periods for the past 10 years while controlling for the zoning within Los Angeles. Results COVID-19 restrictions significantly increased crime in commercial/industrial areas while it reduced crime in residential areas. Conclusions The predictions of routine activities theory were supported in regard to the importance of capable guardianship. Findings indicate that not only were the areas expected to see an increase in capable guardianship shown to have reduced crime, but that crime more generally across the city became more commercially oriented in terms of zoning as more individuals were confined to residential areas.
+- **Date:** 2021-03-23
+- **DOI:** [10.1177/0042098021993360](https://doi.org/10.1177/0042098021993360)
+- **Abstract:** This essay discusses some key ideas and debates about urban studies in Brazil, considered historiographically, from the mid-1900s to the present. It presents the main components and particularities of what emerges as the Brazilian matrix of urban studies, interrogating the most influential work in the field with the country’s own experiences of industrialisation and urbanisation. It discusses some key urban debates of the 21st century, namely new planning models associated with globalisation, global mega-events, public–private partnerships, inner-city gentrification, housing and city financialisation, rising forms of urban warfare and social control in slums (favelas), and new activisms and urban insurgencies. Through this analysis, we point to contradictions and tensions in relation to European and North American urban theory, calling for the need to formulate new categories and hypotheses to better understand the unequal and extreme processes resulting from violent expansion of capitalist relations over the entire planet, and comment on the new practices and forms of social mobilisation emerging from turbulent contexts.
 
 ---
