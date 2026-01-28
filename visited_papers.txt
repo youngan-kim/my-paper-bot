@@ -39,3 +39,23 @@ Geographic disparities in violent crime during the COVID-19 lockdown in Miami-Da
 Critical Commentary: Repopulating density: COVID-19 and the politics of urban value
 When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery Incidents Displaced by a Place-based Policing Intervention
 On urban studies in Brazil: The favela, uneven urbanisation and beyond
+The hack: What it is and why it matters to urban studies
+Small Local versus Non-Local: Examining the Relationship between Locally Owned Small Businesses and Spatial Patterns of Crime
+Thinking through people: The potential of volunteered geographic information for mobility and urban studies
+Human Mobility and Crime: Theoretical Approaches and Novel Data Collection Strategies.
+Application of Participatory GIS in Crime Mapping of Ibadan North, Nigeria
+Spatial Patterns of Immigration and Property Crime in Vancouver: A Spatial Point Pattern Test
+Simulating spatial crime patterns: What do we learn in standard ecological studies of crime?
+City size and housing purchase intention: Evidence from rural–urban migrants in China
+Marijuana Dispensaries and Neighborhood Crime and Disorder in Denver, Colorado
+Ecological Rationality in Spatial Planning: Concepts and Tools for Sustainable Land-Use Decisions
+Street Egohood: An Alternative Perspective of Measuring Neighborhood and Spatial Patterns of Crime
+Micro-Scale, Meso-Scale, Macro-Scale, and Temporal Scale: Comparing the Relative Importance for Robbery Risk in New York City
+Gentrification, Land Use, and Crime
+Assessing the Spatial Concentration of Urban Crime: An Insight from Nigeria
+Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies.
+Disambiguating the southern urban critique: Propositions, pathways and possibilities for a more global urban studies
+Can Terrorism Abroad Influence Migration Attitudes at Home?
+Mapping Attitudes Towards the Police at Micro Places
+Pathways: Examining Street Network Configurations, Structural Characteristics and Spatial Crime Patterns in Street Segments
+Concentrated Burdens: How Self-Interest and Partisanship Shape Opinion on Opioid Treatment Policy
