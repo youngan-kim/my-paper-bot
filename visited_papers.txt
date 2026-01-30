@@ -79,3 +79,23 @@ The street level and beyond: The impact of ethnic diversity on neighborhood cohe
 Leveraging Bogotá: Sustainable development, global philanthropy and the rise of urban solutionism
 Racial or Spatial Voting? The Effects of Candidate Ethnicity and Ethnic Group Endorsements in Local Elections
 Chronic urban trauma: The slow violence of housing dispossession
+Toward an Integrated Multilevel Theory of Crime at Place: Routine Activities, Social Disorganization, and The Law of Crime Concentration
+Spatiotemporal Modeling of Correlated Small‐Area Outcomes: Analyzing the Shared and Type‐Specific Patterns of Crime and Disorder
+Understanding urban gentrification through machine learning
+Institutional Completeness and Crime Rates in Immigrant Neighborhoods
+Connected in Crime: The Enduring Effect of Neighborhood Networks on the Spatial Patterning of Violence1
+Predicting Fear of Crime: Results from a Community Survey of a Small City
+Urban China through the lens of neoliberalism: Is a conceptual twist enough?
+On the Use and Abuse of Spatial Instruments
+Using Social Media to Measure Temporal Ambient Population: Does it Help Explain Local Crime Rates?
+On Quantitative Spatial Economic Models
+Ecological Networks and Urban Crime: The Structure of Shared Routine Activity Locations and Neighborhood-Level Informal Control Capacity.
+Positioning under Alternative Electoral Systems: Evidence from Japanese Candidate Election Manifestos
+Effects of greening and community reuse of vacant lots on crime
+Neighborhood Violent Crime and Academic Growth in Chicago: Lasting Effects of Early Exposure
+Measuring the Spatial and Temporal Patterns of Police Proactivity
+Does the Configuration of the Street Network Influence Where Outdoor Serious Violence Takes Place? Using Space Syntax to Test Crime Pattern Theory
+Party Policy Diffusion
+Crime at Places and Spatial Concentrations: Exploring the Spatial Stability of Property Crime in Vancouver BC, 2003–2013
+Geo-Nested Analysis: Mixed-Methods Research with Spatially Dependent Data
+Examining the Relationship Between Road Structure and Burglary Risk Via Quantitative Network Analysis
