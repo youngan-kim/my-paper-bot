@@ -11,7 +11,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 KEYWORDS = [
     "neighborhood and crime", "spatial crime pattern", "spatial analysis", "urban studies",
     "machine learning spatial analysis", "spatial econometrics", "geospatial machine learning",
-    "spatial political science", "spatial economics", "place, "space", "neighborhood" 
+    "spatial political science", "spatial economics", "place", "space", "neighborhood" 
 ]
 
 TARGET_JOURNALS = [
