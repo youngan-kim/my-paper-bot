@@ -6,36 +6,29 @@ on:
   workflow_dispatch: 
 
 jobs:
-  build:
+  run-bot:
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
-    
+      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
-      - name: Install Dependencies
-        # pydrive2와 oauth2client를 명시적으로 설치해야 합니다.
-        run: |
-          pip install requests pydrive2 oauth2client
+      - name: Install dependencies
+        run: pip install requests
 
-      - name: Run Script
-        env:
-          # Google Drive 연동을 위해 Secrets에 저장된 환경 변수를 불러옵니다.
-          GDRIVE_SERVICE_ACCOUNT: ${{ secrets.GDRIVE_SERVICE_ACCOUNT }}
-          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
+      - name: Run script
         run: python paper_scraper.py
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Auto-update: $(date +'%Y-%m-%d') Research Papers" || exit 0
+          git add visited_papers.txt latest_research_report.md
+          git commit -m "Auto-update: $(date +'%Y-%m-%d') report" || exit 0
           git push
