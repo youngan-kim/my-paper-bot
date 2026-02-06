@@ -3,7 +3,7 @@ import datetime
 import time
 import os
 
-# 1. 설정: 키워드 및 타겟 저널 리스트
+# 1. 설정: 키워드 및 저널 리스트
 KEYWORDS = [
     "neighborhood and crime", "spatial crime pattern", "spatial analysis", "urban studies",
     "machine learning spatial analysis", "spatial econometrics", "geospatial machine learning",
@@ -52,7 +52,7 @@ def fetch_papers(keyword, offset=0):
             time.sleep(15)
             return fetch_papers(keyword, offset)
     except Exception as e:
-        print(f"Error fetching {keyword}: {e}")
+        print(f"Error: {e}")
     return []
 
 def main():
@@ -60,9 +60,9 @@ def main():
     all_candidate_papers = []
     seen_titles_this_run = set()
 
-    print("논문 수집을 시작합니다...")
+    print("새로운 논문을 검색 중입니다...")
     for kw in KEYWORDS:
-        for page in range(3): 
+        for page in range(2): # 검색 효율을 위해 페이지 조절
             papers = fetch_papers(kw, offset=page*100)
             if not papers: break
             for p in papers:
@@ -79,29 +79,38 @@ def main():
                     all_candidate_papers.append(p)
                     seen_titles_this_run.add(title)
 
+    # 발행일 순 정렬 후 상위 5편 추출
     all_candidate_papers.sort(key=lambda x: x['pub_date'], reverse=True)
-    final_papers = all_candidate_papers[:20]
+    new_papers = all_candidate_papers[:5]
 
-    with open(FIXED_FILENAME, "w", encoding="utf-8") as f:
-        f.write(f"# Latest Research Update: {datetime.date.today()}\n\n")
-        f.write(f"**기준:** 주요 저널 최신 발행물 (상위 20편)\n\n")
-        
-        if not final_papers:
-            f.write("> **알림:** 신규 논문이 없습니다.\n\n")
+    today_str = datetime.date.today().strftime("%Y-%m-%d")
+    
+    # 파일이 없으면 헤더 생성, 있으면 이어쓰기(Append)
+    mode = "a" if os.path.exists(FIXED_FILENAME) else "w"
+    
+    with open(FIXED_FILENAME, mode, encoding="utf-8") as f:
+        if mode == "w":
+            f.write("# Research Archive: Spatial Crime & Urban Studies\n\n")
+            f.write("이 파일은 매일 아침 중복되지 않은 최신 논문 5편을 자동으로 추가합니다.\n\n")
+
+        if not new_papers:
+            print("오늘 추가할 새로운 논문이 없습니다.")
         else:
-            for i, p in enumerate(final_papers, 1):
+            f.write(f"## 📅 Added on: {today_str}\n\n")
+            for i, p in enumerate(new_papers, 1):
                 doi = p.get('externalIds', {}).get('DOI')
                 link = f"https://doi.org/{doi}" if doi else f"https://www.semanticscholar.org/paper/{p.get('paperId')}"
-                f.write(f"## {i}. [{p['title']}]({link})\n")
-                f.write(f"- **Authors:** {p['author_display']}\n")
+                f.write(f"### {i}. [{p['title']}]({link})\n")
                 f.write(f"- **Journal:** {p.get('venue')}\n")
-                f.write(f"- **Date:** {p.get('pub_date')}\n")
-                if doi: f.write(f"- **DOI:** [{doi}](https://doi.org/{doi})\n")
-                f.write(f"- **Abstract:** {p.get('abstract', 'N/A')}\n\n---\n")
+                f.write(f"- **Authors:** {p['author_display']}\n")
+                f.write(f"- **Pub Date:** {p.get('pub_date')}\n")
+                if doi: f.write(f"- **DOI:** {doi}\n")
+                f.write(f"- **Abstract:** {p.get('abstract', 'N/A')}\n\n")
+            f.write("---\n\n") # 날짜별 구분선
 
-    if final_papers:
-        save_visited_papers([p['title'] for p in final_papers])
-        print(f"성공적으로 {FIXED_FILENAME} 파일이 생성되었습니다.")
+    if new_papers:
+        save_visited_papers([p['title'] for p in new_papers])
+        print(f"성공적으로 {len(new_papers)}편의 논문을 {FIXED_FILENAME}에 추가했습니다.")
 
 if __name__ == "__main__":
     main()
