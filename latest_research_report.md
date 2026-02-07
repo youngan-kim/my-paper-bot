@@ -162,3 +162,43 @@
 - **Abstract:** Flooding is a major natural hazard worldwide, causing catastrophic damage to communities and infrastructure. Due to climate change exacerbating extreme weather events robust flood hazard modeling is crucial to support disaster resilience and adaptation. This study uses multi-sourced geospatial datasets to develop an advanced machine learning framework for flood hazard assessment in the Arambag region of West Bengal, India. The flood inventory was constructed through Sentinel-1 SAR analysis and global flood databases. Fifteen flood conditioning factors related to topography, land cover, soil, rainfall, proximity, and demographics were incorporated. Rigorous training and testing of diverse machine learning models, including RF, AdaBoost, rFerns, XGB, DeepBoost, GBM, SDA, BAM, monmlp, and MARS algorithms, were undertaken for categorical flood hazard mapping. Model optimization was achieved through statistical feature selection techniques. Accuracy metrics and advanced model interpretability methods like SHAP and Boruta were implemented to evaluate predictive performance. According to the area under the receiver operating characteristic curve (AUC), the prediction accuracy of the models performed was around > 80%. RF achieves an AUC of 0.847 at resampling factor 5, indicating strong discriminative performance. AdaBoost also consistently exhibits good discriminative ability, with AUC values of 0.839 at resampling factor 10. Boruta and SHAP analysis indicated precipitation and elevation as factors most significantly contributing to flood hazard assessment in the study area. Most of the machine learning models pointed out southern portions of the study area as highly susceptible areas. On average, from 17.2 to 18.6% of the study area is highly susceptible to flood hazards. In the feature selection analysis, various nature-inspired algorithms identified the selected input parameters for flood hazard assessment, i.e., elevation, precipitation, distance to rivers, TWI, geomorphology, lithology, TRI, slope, soil type, curvature, NDVI, distance to roads, and gMIS. As per the Boruta and SHAP analyses, it was found that elevation, precipitation, and distance to rivers play the most crucial roles in the decision-making process for flood hazard assessment. The results indicated that the majority of the building footprints (15.27%) are at high and very high risk, followed by those at very low risk (43.80%), low risk (24.30%), and moderate risk (16.63%). Similarly, the cropland area affected by flooding in this region is categorized into five risk classes: very high (16.85%), high (17.28%), moderate (16.07%), low (16.51%), and very low (33.29%). However, this interdisciplinary study contributes significantly towards hydraulic and hydrological modeling for flood hazard management.
 
 ---
+## 📅 Added on: 2026-02-07
+
+### 1. [Identifying suitable dam sites using geospatial data and machine learning: a case study of the katsina-ala river in Benue State, Nigeria](https://doi.org/10.1007/s12145-025-01974-y)
+- **Journal:** Earth Science Informatics
+- **Authors:** Ugochukwu Charles Akajiaku, E. I. Ohimain, Ebikombo-ere B. Olodiama, D. Eteh, Ayebawanaemi G. Winston, Prince Chukwuemeka, Anslem O. Otutu, B. P. Bamiekumo, Okes Imoni
+- **Pub Date:** 2025-08-14
+- **DOI:** 10.1007/s12145-025-01974-y
+- **Abstract:** None
+
+### 2. [THE ECONOMICS OF SPATIAL MOBILITY: THEORY AND EVIDENCE USING SMARTPHONE DATA](https://doi.org/10.1093/qje/qjaf038)
+- **Journal:** Quarterly Journal of Economics
+- **Authors:** Y. Miyauchi, Kentaro Nakajima, Stephen J. Redding
+- **Pub Date:** 2025-08-08
+- **DOI:** 10.1093/qje/qjaf038
+- **Abstract:** 
+ We develop a tractable quantitative framework for modelling the rich patterns of spatial mobility observed in smartphone data. We show that travel is frequently undertaken as part of a travel itinerary, defined as a journey starting and ending at home that can include more than one intermediate stop on a given day. We show that these travel itineraries provide microfoundations for consumption externalities and generate both complementarity and substitutability between locations. We show that the consumption externalities implied by travel itineraries are central to matching quasi-experimental evidence from the shift to WFH. We find that these consumption externalities are key drivers of the agglomeration of economic activity in central cities and shape the relative welfare gains from alternative transport improvements in favor of investments in central cities.
+
+### 3. [Identifying climate and environmental determinants of spatial disparities in wheat production using a geospatial machine learning model](https://doi.org/10.1080/15481603.2025.2533487)
+- **Journal:** GIScience &amp; Remote Sensing
+- **Authors:** Kai Ren, Yongze Song, Linchao Li, Francesco Mancini, Zhuoyao Xiao, Xueyuan Zhang, Rui Qu, Qiang Yu
+- **Pub Date:** 2025-07-14
+- **DOI:** 10.1080/15481603.2025.2533487
+- **Abstract:** ABSTRACT Wheat production is crucial in global food security and sustainable development, especially in severe global climate change, frequent extreme weather events, and significant population growth worldwide. A deeper understanding of spatial variation in wheat production and its determining factors is essential for implementing different cultivation practices, water and fertilizer management, and adaptive variety selection across different regions. However, existing methods primarily focused on identifying single-variable factors while lacking geographical spatial characteristics, which may lead to an incomplete exploration of spatial disparities in wheat production, predictions, and responses to changes in determining factors. This study develops a geospatial machine learning model by integrating spatial autocorrelation, spatial stratified heterogeneity, and decision tree to identify spatial disparities and their determinants of wheat production. The model is applied to wheat production analysis in Australia, the world’s 5th (2022) wheat-producing country. First, a spatial autocorrelation method is employed to identify the hotspot area of wheat production in Australia. Next, the geographically optimal zones-based heterogeneity (GOZH) model, an integration of spatial stratified heterogeneity and decision tree learning models, is used to identify determinants and their interactions on spatial disparities of wheat production. Finally, the developed geospatial machine learning model is evaluated by comparing its effectiveness with the commonly used geographical detector model. The results demonstrate pronounced spatial heterogeneity in Australian wheat production driven by environmental, climatic, and soil factors and their interactions. Identifying these spatial determinants enables more efficient crop management – such as targeted sub – regional practices, climate – adaptive variety selection, and soil health strategies – thereby supporting food security and sustainable agricultural systems.
+
+### 4. [There is No Pearl in this Zionist Oyster: Just a Misuse of Research Discontinuity Design (RDD)](https://doi.org/10.1007/s41111-025-00303-4)
+- **Journal:** Chinese Political Science Review
+- **Authors:** Dwayne Woods
+- **Pub Date:** 2025-07-05
+- **DOI:** 10.1007/s41111-025-00303-4
+- **Abstract:** None
+
+### 5. [Assessing the impact of climate change on flood patterns in downstream Nigeria using machine learning and geospatial techniques (2018–2024)](https://doi.org/10.1007/s44288-025-00178-7)
+- **Journal:** Discover Geoscience
+- **Authors:** D. Eteh, B. R. Japheth, Charles U. Akajiaku, Ifunanya Osondu, Omabuwa O. Mene-Ejegi, E. M. Nwachukwu, Miebaka D. Oriasi, Erepamo J. Omietimi, A. Ayo-Bali
+- **Pub Date:** 2025-07-02
+- **DOI:** 10.1007/s44288-025-00178-7
+- **Abstract:** None
+
+---
+
