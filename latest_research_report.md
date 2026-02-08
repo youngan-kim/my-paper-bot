@@ -202,3 +202,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-08
+
+### 1. [Evaluating groundwater potential with the synergistic use of geospatial methods and advanced machine learning approaches](https://doi.org/10.1007/s44327-025-00095-x)
+- **Journal:** Discover Cities
+- **Authors:** Vicky Anand, V. Rajput, T. Minkina, S. Mandzhieva, Aastha Sharma, Deepak Kumar, Sunil Kumar
+- **Pub Date:** 2025-06-02
+- **DOI:** 10.1007/s44327-025-00095-x
+- **Abstract:** None
+
+### 2. [Harnessing machine learning and geospatial technologies for precise soil erodibility mapping and prediction](https://doi.org/10.1007/s12665-025-12270-9)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** Wudu Abiye, E. Alebachew, O. Dengiz
+- **Pub Date:** 2025-05-01
+- **DOI:** 10.1007/s12665-025-12270-9
+- **Abstract:** None
+
+### 3. [For what and for whom? A political ecology of agrivoltaics in the Southwestern United States](https://doi.org/10.1007/s11625-025-01653-3)
+- **Journal:** Sustainability Science
+- **Authors:** Carrie Seay-Fleming, Tyler Swanson, Andrea Gerlak
+- **Pub Date:** 2025-04-12
+- **DOI:** 10.1007/s11625-025-01653-3
+- **Abstract:** None
+
+### 4. [Forecasting shoreline dynamics and land use/land cover changes in Balukhand-Konark Wildlife Sanctuary (India) using geospatial techniques and machine learning.](https://doi.org/10.1016/j.scitotenv.2025.179207)
+- **Journal:** Science of the Total Environment
+- **Authors:** Manoranjan Mishra, Debdeep Bhattacharyya, Brihaspati Mondal, Suman Paul, R. M. D. Silva, C. Santos, Rajkumar Guria
+- **Pub Date:** 2025-04-03
+- **DOI:** 10.1016/j.scitotenv.2025.179207
+- **Abstract:** None
+
+### 5. [Geospatial mapping of potential aggregate resources using integrated GIS-AHP, geotechnical, petrographic and machine learning approaches](https://doi.org/10.1007/s12145-025-01794-0)
+- **Journal:** Earth Science Informatics
+- **Authors:** Javid Hussain, Nafees Ali, Xiaodong Fu, Jian Chen, Sayed Muhammad Iqbal, Altaf Hussain, Hikmat Salam
+- **Pub Date:** 2025-03-22
+- **DOI:** 10.1007/s12145-025-01794-0
+- **Abstract:** None
+
+---
+

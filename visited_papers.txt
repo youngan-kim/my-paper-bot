@@ -4,3 +4,8 @@ THE ECONOMICS OF SPATIAL MOBILITY: THEORY AND EVIDENCE USING SMARTPHONE DATA
 Identifying climate and environmental determinants of spatial disparities in wheat production using a geospatial machine learning model
 There is No Pearl in this Zionist Oyster: Just a Misuse of Research Discontinuity Design (RDD)
 Assessing the impact of climate change on flood patterns in downstream Nigeria using machine learning and geospatial techniques (2018–2024)
+Evaluating groundwater potential with the synergistic use of geospatial methods and advanced machine learning approaches
+Harnessing machine learning and geospatial technologies for precise soil erodibility mapping and prediction
+For what and for whom? A political ecology of agrivoltaics in the Southwestern United States
+Forecasting shoreline dynamics and land use/land cover changes in Balukhand-Konark Wildlife Sanctuary (India) using geospatial techniques and machine learning.
+Geospatial mapping of potential aggregate resources using integrated GIS-AHP, geotechnical, petrographic and machine learning approaches
