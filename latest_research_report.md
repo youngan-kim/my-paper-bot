@@ -241,3 +241,43 @@
 
 ---
 
+## 📅 Added on: 2026-02-09
+
+### 1. [Advanced Methodology for Fraud Detection in Energy Using Machine Learning Algorithms](https://doi.org/10.3390/app15063361)
+- **Journal:** Applied Sciences
+- **Authors:** Silviu Gresoi, G. Stamatescu, I. Făgărășan
+- **Pub Date:** 2025-03-19
+- **DOI:** 10.3390/app15063361
+- **Abstract:** The increasing cost of energy and the prevalence of electricity theft pose significant financial and operational challenges for energy providers. Traditional fraud detection methods often fail to identify sophisticated unauthorized consumption, particularly in non-smart-grid environments. This study proposes an advanced machine learning-based methodology for detecting energy fraud, leveraging real-world data from energy distribution networks. This approach integrates multiple machine learning models—k-nearest neighbors (kNN), decision trees, random forest, and artificial neural networks (ANNs)—to improve detection accuracy and efficiency. Experimental results demonstrate an 89.5% fraud detection accuracy, significantly outperforming conventional methods. Furthermore, the implementation of this model led to an estimated financial loss reduction of EUR 45,200. By analyzing historical consumption patterns, anomaly detection techniques, and geospatial data, the proposed system enhances fraud detection capabilities across both smart and non-smart grids. Future research will focus on real-time detection, scalability, and the integration of external data sources to further refine predictive accuracy.
+
+### 2. [Geographical Gaussian Process Regression: A Spatial Machine‐Learning Model Based on Spatial Similarity](https://doi.org/10.1111/gean.12423)
+- **Journal:** Geographical Analysis
+- **Authors:** Zhenzhi Jiao, Ran Tao
+- **Pub Date:** 2025-03-10
+- **DOI:** 10.1111/gean.12423
+- **Abstract:** This study proposes a new spatial machine‐learning model called geographical Gaussian process regression (GGPR). GGPR is extended from Gaussian process regression (GPR) by adopting the principle of spatial similarity for calibration, and it is designed to conduct spatial prediction and exploratory spatial data analysis (ESDA). GGPR addresses several key challenges in spatial machine learning. First, as a probabilistic model, GGPR avoids the conflict between spatial autocorrelation and the assumption of independent and identically distributed (i.i.d.), thus enhancing the model's objectivity and reliability in spatial prediction. Second, GGPR is suitable for small‐sample prediction, a task that most existing models struggle with. Finally, when integrated with GeoShapley, GGPR is an explainable model that can measure spatial effects and explain the outcomes. Evaluated on two distinct datasets, GGPR demonstrates superior predictive performance compared to other popular machine‐learning models across various sampling ratios, with its advantage becoming especially evident with smaller sample sizes. As an ESDA model, GGPR demonstrates enhanced accuracy, better computational efficiency, and a comparable ability to measure spatial effects against both multiscale geographically weighted regression and geographical random forests. In short, GGPR offers spatial data scientists a new method for predicting and exploring complex geographical processes.
+
+### 3. [The Modifiable Areal Unit Problem in Political Science](https://doi.org/10.1017/pan.2025.2)
+- **Journal:** Political Analysis
+- **Authors:** Dong Wook Lee, Melissa Rogers, H. Soifer
+- **Pub Date:** 2025-02-18
+- **DOI:** 10.1017/pan.2025.2
+- **Abstract:** 
+ Building on the availability of geospatial data, improvements in mapping software, and innovations in spatial statistics, political scientists are increasingly taking geography seriously. As we adopt the tools of geographers, we must also consider the methodological challenges they have identified. We focus on the modifiable areal unit problem (MAUP)—the idea that the size of aggregate spatial units and the location of their borders affect the empirical results we obtain. We first describe the logic of the MAUP, and then demonstrate the MAUP through simulations, showing MAUP-related inconsistency in regression results in randomly generated and real-world data. We identify MAUP concerns, and best practices, in top journals in political science. We conclude by suggesting how scholars may respond in theoretical and empirical terms to concerns about validity and reliability that arise from the MAUP.
+
+### 4. [Integrating Geospatial Techniques and Machine Learning for Assessing Soil Erosion and Associated Geomorphic Risks](https://doi.org/10.1016/j.jsames.2025.105463)
+- **Journal:** Journal of South American Earth Sciences
+- **Authors:** Priyadharshini V.M, Ghadah Aldehim, Noha Negm, S. Subathradevi
+- **Pub Date:** 2025-02-01
+- **DOI:** 10.1016/j.jsames.2025.105463
+- **Abstract:** None
+
+### 5. [Assessing the impact of climate and land use change on flood vulnerability: a machine learning approach in coastal region of Tamil Nadu, India](https://doi.org/10.1186/s40562-025-00377-7)
+- **Journal:** Geoscience Letters
+- **Authors:** D. Abijith, S. Saravanan, K. Parthasarathy, NagireddyMasthan Reddy, Janardhanam Niraimathi, A. Bindajam, Javed Mallick, Maged Muteb Alharbi, Ghassan Abdo, H. Abdo
+- **Pub Date:** 2025-01-27
+- **DOI:** 10.1186/s40562-025-00377-7
+- **Abstract:** Flooding and other natural disasters threaten human life and property worldwide. They can cause significant damage to infrastructure and disrupt economies. Tamil Nadu coast is severely prone to flooding due to land use and climate changes. This research applies geospatial tools and machine learning to improve flood susceptibility mapping across the Tamil Nadu coast in India, using projections of Land Use and Land Cover (LULC) changes under current and future climate change scenarios. To identify flooded areas, the study utilised Google Earth Engine (GEE), Sentinel-1 data, and 12 geospatial datasets from multiple sources. A random forest algorithm was used for LULC change and flood susceptibility mapping. The LULC data are classified for the years 2000, 2010, and 2020, and from the classified data, the LULC for years 2030, 2040, and 2050 are projected for the study. Four future climate scenarios (SSP 126, 245, 370, and 585) were used for the average annual precipitation from the Coupled Model Intercomparison Project 6 (CMIP6). The results showed that the random forest model performed better in classifying LULC and identifying flood-prone areas. From the results, it has been depicted that the risk of flooding will increase across all scenarios over the period of 2000–2100, with some decadal fluctuations. A significant outcome indicates that the percentage of the area transitioning to moderate and very high flood risk consistently rises across all future projections. This study presents a viable method for flood susceptibility mapping based on different climate change scenarios and yields estimates of flood risk, which can provide valuable insights for managing flood risks.
+
+---
+
