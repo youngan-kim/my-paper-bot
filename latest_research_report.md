@@ -281,3 +281,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-10
+
+### 1. [FreshWater Watch: Investigating the Health of Freshwater Ecosystems, from the Bottom Up](https://doi.org/10.5334/cstp.754)
+- **Journal:** Citizen Science: Theory and Practice
+- **Authors:** Isabel Bishop, A. Boldrini, Wim Clymans, Charlotte Hall, Heather Moorhouse, Stephen Parkinson, Kesella Scott-Somme, Ian Thornhill, Steven Loiselle
+- **Pub Date:** 2025-01-08
+- **DOI:** 10.5334/cstp.754
+- **Abstract:** Freshwater ecosystems are increasingly facing major global and local stressors, while monitoring surface water status by regulatory agencies is often limited by financial and political constraints. Citizen science–based approaches with robust quality control and training can support regulatory monitoring and decision-making. Herein, we outline the criteria used to develop a citizen science monitoring program for water quality, based on a standardized methodology designed to support the Agenda 2030 indicator 6.3.2 and the EU’s Water Framework Directive. We explore the evolution of protocols used to ensure data robustness and transferability and examine the utility of contextual information registered by citizen scientists. We present laboratory and field experiments conducted to validate chemical and optical methods. Using the data from more than 80 projects across 4 biogeographical regions, we explore consistencies and differences in seasonal and spatial trends in macronutrient concentrations between regions. Our results indicate that nitrate and phosphate concentrations tend to increase in areas with agricultural intensification and industrial land use. Seasonally, nitrate concentrations reach a maximum in spring and autumn in temperate regions, while phosphate levels are highest in summer and autumn, reaching a minimum in winter. We also found that observations of algal blooms coincided with periods of lower nitrate concentrations. Importantly, data of ecological, chemical, and optical conditions recorded by citizen scientists are being used by local and regional stakeholders in managing freshwater ecosystems. This study reveals the potential for scaling citizen science–based monitoring programs to contribute towards a global assessment of water quality.
+
+### 2. [Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework](https://doi.org/10.1016/j.scs.2024.106029)
+- **Journal:** Sustainable cities and society
+- **Authors:** Tianshu Gu, Hongbo Zhao, Li Yue, Jiaojiao Guo, Qinyu Cui, Junqing Tang, Zhaoya Gong, Pengjun Zhao
+- **Pub Date:** 2025-01-01
+- **DOI:** 10.1016/j.scs.2024.106029
+- **Abstract:** None
+
+### 3. [Assessment of forest cover dynamics for the detection of deforestation in the Hindu Kush Himalayan region using geospatial and machine learning approaches](https://doi.org/10.1007/s12145-024-01517-x)
+- **Journal:** Earth Science Informatics
+- **Authors:** Laxmi Gupta, J. Dixit, Prem Chandra Pandey, Manish Pandey
+- **Pub Date:** 2025-01-01
+- **DOI:** 10.1007/s12145-024-01517-x
+- **Abstract:** None
+
+### 4. [Machine learning applications for urban geospatial analysis: A review of urban and environmental studies](https://doi.org/10.1016/j.cities.2025.106139)
+- **Journal:** Cities
+- **Authors:** Abdulrazzaq Shaamala, Tan Yigitcanlar, Alireza Nili, Dan Nyandega
+- **Pub Date:** 2025
+- **DOI:** 10.1016/j.cities.2025.106139
+- **Abstract:** None
+
+### 5. [Geospatial urban heat mapping with interpretable machine learning and deep learning: a case study in Hue City, Vietnam](https://doi.org/10.1007/s12145-024-01582-2)
+- **Journal:** Earth Science Informatics
+- **Authors:** Nhat-Duc Hoang, Phu Anh Huy Pham, Thanh-Canh Huynh, Minh-Tu Cao, D. Bui
+- **Pub Date:** 2024-12-17
+- **DOI:** 10.1007/s12145-024-01582-2
+- **Abstract:** None
+
+---
+

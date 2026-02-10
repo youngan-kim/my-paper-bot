@@ -14,3 +14,8 @@ Geographical Gaussian Process Regression: A Spatial Machine‐Learning Model Bas
 The Modifiable Areal Unit Problem in Political Science
 Integrating Geospatial Techniques and Machine Learning for Assessing Soil Erosion and Associated Geomorphic Risks
 Assessing the impact of climate and land use change on flood vulnerability: a machine learning approach in coastal region of Tamil Nadu, India
+FreshWater Watch: Investigating the Health of Freshwater Ecosystems, from the Bottom Up
+Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework
+Assessment of forest cover dynamics for the detection of deforestation in the Hindu Kush Himalayan region using geospatial and machine learning approaches
+Machine learning applications for urban geospatial analysis: A review of urban and environmental studies
+Geospatial urban heat mapping with interpretable machine learning and deep learning: a case study in Hue City, Vietnam
