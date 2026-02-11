@@ -19,3 +19,8 @@ Attribution analysis of urban social resilience differences under rainstorm disa
 Assessment of forest cover dynamics for the detection of deforestation in the Hindu Kush Himalayan region using geospatial and machine learning approaches
 Machine learning applications for urban geospatial analysis: A review of urban and environmental studies
 Geospatial urban heat mapping with interpretable machine learning and deep learning: a case study in Hue City, Vietnam
+Enhancing flood risk assessment in northern Morocco with tuned machine learning and advanced geospatial techniques
+Spatiotemporal pattern of water hyacinth (Pontederia crassipes) distribution in Lake Tana, Ethiopia, using a random forest machine learning model
+Milling Machine Fault Diagnosis Using Acoustic Emission and Hybrid Deep Learning with Feature Optimization
+Surface texture evolution of weathering steel in corrosive marine atmospheres: Geospatial variability and explainable machine learning models
+Spatial Economics

@@ -320,3 +320,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-11
+
+### 1. [Enhancing flood risk assessment in northern Morocco with tuned machine learning and advanced geospatial techniques](https://doi.org/10.1007/s11442-024-2301-4)
+- **Journal:** Journal of Geographical Science
+- **Authors:** Wassima Moutaouakil, S. Hamida, Shawki Saleh, Driss Lamrani, Mohamed Amine Mahjoubi, B. Cherradi, A. Raihani
+- **Pub Date:** 2024-12-01
+- **DOI:** 10.1007/s11442-024-2301-4
+- **Abstract:** None
+
+### 2. [Spatiotemporal pattern of water hyacinth (Pontederia crassipes) distribution in Lake Tana, Ethiopia, using a random forest machine learning model](https://doi.org/10.3389/fenvs.2024.1476014)
+- **Journal:** Frontiers in Environmental Science
+- **Authors:** Matiwos Belayhun, Zerihun Chere, Nigus Gebremedhn Abay, Yonas Nicola, Abay Asmamaw
+- **Pub Date:** 2024-11-14
+- **DOI:** 10.3389/fenvs.2024.1476014
+- **Abstract:** Water hyacinth (Pontederia crassipes) is an invasive weed that covers a significant portion of Lake Tana. The infestation has an impact on the lake’s ecological and socioeconomic systems. Early detection of the spread of water hyacinth using geospatial techniques is crucial for its effective management and control. The main objective of this study was to examine the spatiotemporal distribution of water hyacinth from 2016 to 2022 using a random forest machine learning model. The study used 16 variables obtained from Sentinel-2A, Sentinel-1 SAR, and SRTM DEM, and a random forest supervised classification model was applied. Seven spectral indices, five spectral bands, two Sentinel-1 SAR bands, and two topographic variables were used in combination to model the spatial distribution of water hyacinth. The model was evaluated using the overall accuracy and kappa coefficient. The findings demonstrated that the overall accuracy ranged from 0.91 to 0.94 and kappa coefficient from 0.88 to 0.92 in the wet season and 0.93 to 0.95 and 0.90 to 0.93 in the dry season, respectively. B11 and B5 (2022), VH, soil adjusted vegetation index (SAVI), and normalized difference water index (NDWI) (2020), B5 and B12 (2018), and VH and slope (2016) are the highly important variables in the classification. The study found that the spatial coverage of water hyacinth was 686.5 and 650.4 ha (2016), 1,851 and 1,259 ha (2018), 1,396.7 and 1,305.7 ha (2020), and 1,436.5 and 1,216.5 ha (2022) in the wet and dry seasons, respectively. The research findings indicate that variables derived from optical (Sentinel-2A and SRTM) and non-optical (Sentinel-1 SAR) satellite imagery effectively identify water hyacinth and display its spatiotemporal spread using the random forest machine learning algorithm.
+
+### 3. [Milling Machine Fault Diagnosis Using Acoustic Emission and Hybrid Deep Learning with Feature Optimization](https://doi.org/10.3390/app142210404)
+- **Journal:** Applied Sciences
+- **Authors:** Muhammad Umar, Muhammad Farooq Siddique, Niamat Ullah, Jong-Myon Kim
+- **Pub Date:** 2024-11-12
+- **DOI:** 10.3390/app142210404
+- **Abstract:** This paper presents a fault diagnosis technique for milling machines based on acoustic emission (AE) signals and a hybrid deep learning model optimized with a genetic algorithm. Mechanical failures in milling machines, particularly in critical components like cutting tools, gears, and bearings, account for a significant portion of operational breakdowns, leading to unplanned downtime and financial losses. To address this issue, the proposed method first acquires AE signals from the milling machine. AE signals, capturing the dynamic responses of machine components, are transformed into continuous wavelet transform (CWT) scalograms for further analysis. Gaussian filtering is applied to enhance the clarity of these scalograms, effectively reducing noise while maintaining essential features. A convolutional neural network (CNN) based on the VGG16 architecture is utilized for spatial feature extraction, followed by a bidirectional long short-term memory (BiLSTM) network to capture the temporal dependencies of the scalograms. The genetic algorithm (GA) is used to optimize feature selection and ensure the selection of the most relevant features to further improve the model’s performance. The optimized features are finally fed into a fully connected (FC) layer of the proposed hybrid model for fault classification. The proposed method achieves an accuracy of 99.6%, significantly outperforming traditional approaches. This method offers a highly accurate and efficient solution for fault detection in milling machines, allowing for more reliable predictive maintenance and operational efficiency in industrial settings.
+
+### 4. [Surface texture evolution of weathering steel in corrosive marine atmospheres: Geospatial variability and explainable machine learning models](https://doi.org/10.1016/j.corsci.2024.112602)
+- **Journal:** Corrosion Science
+- **Authors:** Lianheng Cai, Aran Kim, S. Kainuma
+- **Pub Date:** 2024-11-01
+- **DOI:** 10.1016/j.corsci.2024.112602
+- **Abstract:** None
+
+### 5. [Spatial Economics](https://doi.org/10.14530/se)
+- **Journal:** Social Science Research Network
+- **Authors:** Stephen J. Redding
+- **Pub Date:** 2024-11-01
+- **DOI:** 10.14530/se
+- **Abstract:** This paper reviews recent research in spatial economics. The field of spatial economics is concerned with the determinants and effects of the location of economic activity in geographic space. It analyses how geographical location shapes the economic activities performed by agents, their interactions with one another, their welfare, and the effects of public policy interventions. Research in this area has benefited from the simultaneous development of new theoretical techniques, new sources of geographic information systems (GIS) data, rapid advances in computing power, machine learning and artificial intelligence, and renewed public policy interest in infrastructure and appropriate policies towards places “left-behind” by globalization and technology. Among the insights from this research are the role of goods and commuting market access in determining location choices; the conditions under which the location of economic activity is characterized by multiple equilibria; the circumstances under which temporary shocks can have permanent effects (hysteresis or path dependence); the heterogeneous and persistent impact of local shocks; the magnitude and spatial decay of agglomeration economics; and the role of both agglomeration forces and endogenous changes in land use in shaping the impact of transport infrastructure improvements.
+
+---
+
