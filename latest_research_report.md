@@ -359,3 +359,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-12
+
+### 1. [Assessing the Number of Criteria in GIS‐Based Multicriteria Evaluation: A Machine Learning Approach](https://doi.org/10.1111/gean.70004)
+- **Journal:** Geographical Analysis
+- **Authors:** Lan Qing Zhao, S. Dragićević, Shivanand Balram, Liliana Perez
+- **Pub Date:** 2025-03-27
+- **DOI:** 10.1111/gean.70004
+- **Abstract:** The analytical hierarchy process (AHP) is a widely used approach and a decision rule to derive criteria weights in geographic information system‐based multi‐criteria evaluation (GIS‐MCE). However, one limitation of the AHP method is that it constrains the number of criteria that can be meaningfully weighted to typically seven to nine criteria. Recently, machine learning (ML) techniques have emerged as a compelling alternative for deriving criteria weights. This research aims to assess the capabilities of ML‐MCE in handling a larger number of criteria and is specifically applied to a case study of urban suitability analysis. The random forest (RF) ML technique is used to evaluate the ability of the MCE method to handle up to 27 criteria. Geospatial data from the Metro Vancouver Region, Canada, are used, with the criteria subdivided into 11 groups starting with the most basic seven criteria and incrementally adding two new criteria per group. The results indicate the RF‐ML approach can manage a larger number of criteria compared to the traditional AHP approach, with 15 criteria providing a meaningful upper threshold, demonstrating its potential to accommodate a wider range of stakeholder preferences for complex urban suitability analysis contexts.
+
+### 2. [A Machine Learning Approach to Analyzing Crime Concentration: The Case of New York City](https://doi.org/10.1080/07418825.2024.2401938)
+- **Journal:** Justice quarterly
+- **Authors:** Keungoui Kim, Young-An Kim
+- **Pub Date:** 2024-10-04
+- **DOI:** 10.1080/07418825.2024.2401938
+- **Abstract:** Abstract Building upon prior work, we propose an alternative way to look at the pattern of spatial crime concentration and temporal stability of it. We first identify a high-crime cluster using the sample block groups in New York City by employing a k-means clustering method. We then examine the temporal stability of the high-crime cluster over time. We also longitudinally assess how our high-crime cluster classification is associated with the actual amount of crime while accounting for the measures of social and physical environments. We observed that about 6–12% of total areas are identified to be in the high-crime cluster. We also found that block groups identified to be high-crime cluster in one year are more likely to be that way in the next year. We hope future research may consider using data-driven approaches to expand understanding of spatial and temporal crime patterns.
+
+### 3. [The Universal Neighborhood Effect Averaging in Mobility-Dependent Environmental Exposures](https://doi.org/10.1021/acs.est.4c02464)
+- **Journal:** Environmental Science and Technology
+- **Authors:** Jiannan Cai, Mei‐Po Kwan
+- **Pub Date:** 2024-10-03
+- **DOI:** 10.1021/acs.est.4c02464
+- **Abstract:** The neighborhood effect averaging problem (NEAP) is a fundamental statistical phenomenon in mobility-dependent environmental exposures. It suggests that individual environmental exposures tend toward the average exposure in the study area when considering human mobility. However, the universality of the NEAP across various environmental exposures and the mechanisms underlying its occurrence remain unclear. Here, using a large human mobility data set of more than 27 000 individuals in the Chicago Metropolitan Area, we provide robust evidence of the existence of the NEAP in a range of individual environmental exposures, including green spaces, air pollution, healthy food environments, transit accessibility, and crime rates. We also unveil the social and spatial disparities in the NEAP’s influence on individual environmental exposure estimates. To further reveal the mechanisms behind the NEAP, we perform multiscenario analyses based on environmental variation and human mobility simulations. The results reveal that the NEAP is a statistical phenomenon of regression to the mean (RTM) under the constraints of spatial autocorrelation in environmental data. Increasing travel distances and out-of-home durations can intensify and promote the NEAP’s impact, particularly for highly dynamic environmental factors like air pollution. These findings illuminate the complex interplay between human mobility and environmental factors, guiding more effective public health interventions.
+
+### 4. [Smart Hotspot Detection Using Geospatial Artificial Intelligence: A Machine Learning Approach to Reduce Flood Risk](https://doi.org/10.1016/j.scs.2024.105873)
+- **Journal:** Sustainable cities and society
+- **Authors:** S. M. Rezvani, Alexandre Gonçalves, Maria João Falcão Silva, Nuno Marques de Almeida
+- **Pub Date:** 2024-10-01
+- **DOI:** 10.1016/j.scs.2024.105873
+- **Abstract:** None
+
+### 5. [Mixed-use urban land parcels identification integrating geospatial data and machine learning](https://doi.org/10.1080/10095020.2024.2374996)
+- **Journal:** Geo-Spatial Information Science
+- **Authors:** Shijin Qu, Hui Wang, Zongnan Hu, Zhenzhen Wang, Shougeng Hu
+- **Pub Date:** 2024-09-04
+- **DOI:** 10.1080/10095020.2024.2374996
+- **Abstract:** ABSTRACT Urban land use information is essential for urban planning and sustainable development. However, the increasing prevalence of Mixed-Use Urban Land (MUUL) introduces uncertainty in land use mapping. Due to the compatibility of different human activities within MUUL, identifying MUUL is still a challenge for scholars. In this study, we proposed a novel framework by integrating geographic big data and machine learning to identify it. First, to be consistent with urban planning practices, we delineated mapping units from urban planning map. Second, based on the variability of the spatial pattern of POIs, two indices, the Amount of POI (AP) and the Deviation Index (DI), were developed. Finally, the random forest model was employed. The empirical study in the Jianghan District of Wuhan, China, showed that the MUUL and non-MUUL exhibited significant spatial pattern of POIs separability, the average AP and DI of the MUUL were much larger than those of the non-MUUL. Moreover, the relatively high identification accuracy (Kappa Coefficient (KC) = 0.85, Hellden’s Mean Accuracy (MA) = 0.87) further demonstrated the effectiveness of the developed indices. The proposed framework in this study can reduce the adverse impacts of MUUL on urban land identification by avoiding the MUUL from being incorrectly identified as a single function. Moreover, by extracting MUUL in advance, it can improve the research efficiency by avoiding the application of the segmentation algorithm to all mapping units as in the previous study. Overall, this study provides important references for scholars to increase the accuracy of urban land use identification and allows authorities and policymakers to monitor the dynamics of MUUL that are essential to urban vibrancy. The spatial pattern indices proposed in this study can also be applied to urban land use identification studies as important features.
+
+---
+

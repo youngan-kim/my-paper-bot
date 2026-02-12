@@ -24,3 +24,8 @@ Spatiotemporal pattern of water hyacinth (Pontederia crassipes) distribution in 
 Milling Machine Fault Diagnosis Using Acoustic Emission and Hybrid Deep Learning with Feature Optimization
 Surface texture evolution of weathering steel in corrosive marine atmospheres: Geospatial variability and explainable machine learning models
 Spatial Economics
+Assessing the Number of Criteria in GIS‐Based Multicriteria Evaluation: A Machine Learning Approach
+A Machine Learning Approach to Analyzing Crime Concentration: The Case of New York City
+The Universal Neighborhood Effect Averaging in Mobility-Dependent Environmental Exposures
+Smart Hotspot Detection Using Geospatial Artificial Intelligence: A Machine Learning Approach to Reduce Flood Risk
+Mixed-use urban land parcels identification integrating geospatial data and machine learning
