@@ -29,3 +29,8 @@ A Machine Learning Approach to Analyzing Crime Concentration: The Case of New Yo
 The Universal Neighborhood Effect Averaging in Mobility-Dependent Environmental Exposures
 Smart Hotspot Detection Using Geospatial Artificial Intelligence: A Machine Learning Approach to Reduce Flood Risk
 Mixed-use urban land parcels identification integrating geospatial data and machine learning
+Geospatial Intelligence Enhancement using Advanced Data Science and Machine Learning: A Systematic Literature Review
+Integrated machine learning and geospatial analysis enhanced gully erosion susceptibility modeling in the Erer watershed in Eastern Ethiopia
+Evaluation of segment anything model (SAM) for automated labelling in machine learning classification of UAV geospatial data
+Integrating machine learning and geospatial data analysis for comprehensive flood hazard assessment
+Evaluating Cooling Effect of Blue-green Infrastructure on Urban Thermal Environment in a Metropolitan City: Using Geospatial and Machine Learning Techniques
