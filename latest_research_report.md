@@ -437,3 +437,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-14
+
+### 1. [Applications of Machine Learning to Optimize Tennis Performance: A Systematic Review](https://doi.org/10.3390/app14135517)
+- **Journal:** Applied Sciences
+- **Authors:** Tatiana Sampaio, J. Oliveira, D. Marinho, H. Neiva, Jorge E. Morais
+- **Pub Date:** 2024-06-25
+- **DOI:** 10.3390/app14135517
+- **Abstract:** (1) Background: Tennis has changed toward power-driven gameplay, demanding a nuanced understanding of performance factors. This review explores the role of machine learning in enhancing tennis performance. (2) Methods: A systematic search identified articles utilizing machine learning in tennis performance analysis. (2) Results: Machine learning applications show promise in psychological state monitoring, talent identification, match outcome prediction, spatial and tactical analysis, and injury prevention. Coaches can leverage wearable technologies for personalized psychological state monitoring, data-driven talent identification, and tactical insights for informed decision-making. (4) Conclusions: Machine learning offers coaches insights to refine coaching methodologies and optimize player performance in tennis. By integrating these insights, coaches can adapt to the demands of the sport by improving the players’ outcomes. As technology progresses, continued exploration of machine learning’s potential in tennis is warranted for further advancements in performance optimization.
+
+### 2. [Investigating the effects of urban morphology on vitality of community life circles using machine learning and geospatial approaches](https://doi.org/10.1016/j.apgeog.2024.103287)
+- **Journal:** Applied Geography
+- **Authors:** Sanwei He, Zhen Zhang, Shan Yu, Chang Xia, Chih-Lin Tung
+- **Pub Date:** 2024-06-01
+- **DOI:** 10.1016/j.apgeog.2024.103287
+- **Abstract:** None
+
+### 3. [Enhancing machine learning models for total organic carbon prediction by integrating geospatial parameters in river watersheds.](https://doi.org/10.1016/j.scitotenv.2024.173743)
+- **Journal:** Science of the Total Environment
+- **Authors:** Haeseong Oh, Ho-Yeon Park, Jae In Kim, Byung-Joon Lee, Jung Hyun Choi, Jin Hur
+- **Pub Date:** 2024-06-01
+- **DOI:** 10.1016/j.scitotenv.2024.173743
+- **Abstract:** None
+
+### 4. [A Viable World in the Anthropocene: Living Together in the Common Home of Planet Earth](https://doi.org/10.1007/s44177-024-00075-7)
+- **Journal:** Anthropocene Science
+- **Authors:** J. Scheffran, Eberhard Schürmann, Roland Weber, Tim Newfields
+- **Pub Date:** 2024-06-01
+- **DOI:** 10.1007/s44177-024-00075-7
+- **Abstract:** As the world's population continues to surge, the earth's ecological limits are being stretched. Some of the major threats to habitability stem from the pursuit of perpetual economic growth, and power struggles among nations, leading to ecological and social destruction and ongoing crises. A shift toward wiser earth management could enhance habitability through collective strategies within a global political framework. Key components include adopting renewable energy, limiting ecological footprints, fostering clean prosperity, and promoting peaceful coexistence among nations. Our survival hinges on embracing cooperative security and transitioning toward a collective approach to governance, redirecting resources from militarization toward protection of the global commons. This necessitates international collaboration and democratic participation across temporal and spatial scales, facilitated by a UN-led framework. We believe science should play a crucial role in developing common strategies for a viable world, contingent upon decision-makers prioritizing global cooperation over narrow short-term self-interest. Scientists and policymakers can work together, creating more viable futures through international cooperation and a move away from violence. Moreover, citizens have an important role to play by changing their lifestyles and supporting measures mentioned in this paper.
+
+### 5. [Climate Change Economics Over Time and Space](https://doi.org/10.2139/ssrn.4742035)
+- **Journal:** Social Science Research Network
+- **Authors:** K. Desmet, E. Rossi-Hansberg
+- **Pub Date:** 2024-05-01
+- **DOI:** 10.2139/ssrn.4742035
+- **Abstract:** With average temperature ranging from −20°C at the North Pole to 30°C at the Equator and with global warming expected to reach 1.4°C to 4.5°C by the year 2100, it is clear that climate change will have vastly different effects across the globe. Given the abundance of land in northern latitudes, if population and economic activity could freely move across space, the economic cost of global warming would be greatly reduced. However, spatial frictions are real: migrants face barriers, trade and transportation are costly, physical infrastructure is not footloose, and knowledge embedded in clusters of economic activity diffuses only imperfectly. Thus, the economic cost of climate change is intimately connected to these spatial frictions. Building on earlier integrated assessment models (IAMs) that largely ignored space, in the past decade there has been significant progress in developing dynamic spatial integrated assessment models (S-IAMs) aimed at providing a more realistic evaluation of the economic cost of climate change, both locally and globally. This review discusses this progress and provides a guide for future work in this area.
+
+---
+

@@ -34,3 +34,8 @@ Integrated machine learning and geospatial analysis enhanced gully erosion susce
 Evaluation of segment anything model (SAM) for automated labelling in machine learning classification of UAV geospatial data
 Integrating machine learning and geospatial data analysis for comprehensive flood hazard assessment
 Evaluating Cooling Effect of Blue-green Infrastructure on Urban Thermal Environment in a Metropolitan City: Using Geospatial and Machine Learning Techniques
+Applications of Machine Learning to Optimize Tennis Performance: A Systematic Review
+Investigating the effects of urban morphology on vitality of community life circles using machine learning and geospatial approaches
+Enhancing machine learning models for total organic carbon prediction by integrating geospatial parameters in river watersheds.
+A Viable World in the Anthropocene: Living Together in the Common Home of Planet Earth
+Climate Change Economics Over Time and Space
