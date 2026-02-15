@@ -476,3 +476,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-15
+
+### 1. [A comparative analysis of feature selection models for spatial analysis of floods using hybrid metaheuristic and machine learning models](https://doi.org/10.1007/s11356-024-33389-5)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Javeria Sarwar, S. A. Khan, Muhammad Azmat, Faridoon Khan
+- **Pub Date:** 2024-04-29
+- **DOI:** 10.1007/s11356-024-33389-5
+- **Abstract:** None
+
+### 2. [Quantifying the scale of erosion along major coastal aquifers of Pakistan using geospatial and machine learning approaches](https://doi.org/10.1007/s11356-024-33296-9)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** H. Aeman, Hong Shu, Hamera Aisha, I. Nadeem, Rana Waqar Aslam
+- **Pub Date:** 2024-04-25
+- **DOI:** 10.1007/s11356-024-33296-9
+- **Abstract:** None
+
+### 3. [On the use of adversarial validation for quantifying dissimilarity in geospatial machine learning prediction](https://doi.org/10.1080/15481603.2025.2460513)
+- **Journal:** GIScience &amp; Remote Sensing
+- **Authors:** Yanwen Wang, Mahdi Khodadadzadeh, Raúl Zurita-Milla
+- **Pub Date:** 2024-04-19
+- **DOI:** 10.1080/15481603.2025.2460513
+- **Abstract:** ABSTRACT Recent geospatial machine learning studies have shown that the results of model evaluation via cross-validation (CV) are strongly affected by the dissimilarity between the sample data and the prediction locations. In this paper, we propose a method to quantify such a dissimilarity in the interval 0 to 100% and from the perspective of the data feature space. The proposed method is based on adversarial validation, which is an approach that can check whether sample data and prediction locations can be separated with a binary classifier. The proposed method is called dissimilarity quantification by adversarial validation (DAV). To study the effectiveness and generality of DAV, we tested it on a series of experiments based on both synthetic and real datasets and with gradually increasing dissimilarities. Results show that DAV effectively quantified dissimilarity across the entire range of values. Next to this, we studied how dissimilarity affects CV methods’ evaluations by comparing the results of random CV method (RDM-CV) and of two geospatial CV methods, namely, block and spatial+ CV (BLK-CV and SP-CV). Our results showed the evaluations follow similar patterns in all datasets and predictions: when dissimilarity is low (usually lower than 30%), RDM-CV provides the most accurate evaluation results. As dissimilarity increases, geospatial CV methods, especially SP-CV, become more and more accurate and even outperform RDM-CV. When dissimilarity is high ($ \ge \!90\% $≥90%), no CV method provides accurate evaluations. These results show the importance of considering feature space dissimilarity when working with geospatial machine learning predictions and can help researchers and practitioners to select more suitable CV methods for evaluating their predictions.
+
+### 4. [Machine Learning-Based Traffic Flow Prediction and Intelligent Traffic Management](https://doi.org/10.62051/ijcsit.v2n1.03)
+- **Journal:** International Journal of Computer Science & Information Technology (IJCSIT)
+- **Authors:** Zheng Xu, Jiaqiang Yuan, Liqiang Yu, Guanghui Wang, Mingwei Zhu
+- **Pub Date:** 2024-03-04
+- **DOI:** 10.62051/ijcsit.v2n1.03
+- **Abstract:** With the rapid development of information technology, multiple time series forecasting, which is typical of traffic flow forecasting, has become increasingly important in big data analysis. As the cornerstone of intelligent transportation system, traffic flow forecasting has important scientific research value and practical application value for urban traffic operation scheduling, quality and efficiency improvement of logistics transportation industry and public travel planning. Traffic flow prediction is always an important task of intelligent transportation system. Due to the complex temporal and spatial dependence of traffic flow sequence, it is very challenging to construct accurate traffic flow prediction in its ring neural network, graph network and Transformer model. Much of the existing work is based on very good models. Considering the advantages of convolutional networks, such as high computational efficiency and strong feature extraction ability, a traffic flow prediction model based on multi-view spatiotemporal convolution is proposed.
+
+### 5. [Fear of a Black Neighborhood: Anti-Black Racism and the Health of White Americans.](https://doi.org/10.1093/sf/soad112)
+- **Journal:** Social forces; a scientific medium of social study and interpretation
+- **Authors:** Patricia Louie, Reed T DeAngelis
+- **Pub Date:** 2024-03-01
+- **DOI:** 10.1093/sf/soad112
+- **Abstract:** None
+
+---
+

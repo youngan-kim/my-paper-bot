@@ -39,3 +39,8 @@ Investigating the effects of urban morphology on vitality of community life circ
 Enhancing machine learning models for total organic carbon prediction by integrating geospatial parameters in river watersheds.
 A Viable World in the Anthropocene: Living Together in the Common Home of Planet Earth
 Climate Change Economics Over Time and Space
+A comparative analysis of feature selection models for spatial analysis of floods using hybrid metaheuristic and machine learning models
+Quantifying the scale of erosion along major coastal aquifers of Pakistan using geospatial and machine learning approaches
+On the use of adversarial validation for quantifying dissimilarity in geospatial machine learning prediction
+Machine Learning-Based Traffic Flow Prediction and Intelligent Traffic Management
+Fear of a Black Neighborhood: Anti-Black Racism and the Health of White Americans.
