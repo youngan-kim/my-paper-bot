@@ -44,3 +44,8 @@ Quantifying the scale of erosion along major coastal aquifers of Pakistan using 
 On the use of adversarial validation for quantifying dissimilarity in geospatial machine learning prediction
 Machine Learning-Based Traffic Flow Prediction and Intelligent Traffic Management
 Fear of a Black Neighborhood: Anti-Black Racism and the Health of White Americans.
+Detection and Characterization of Urban Heat Islands with Machine Learning
+Comparative performance of four machine learning models for land cover classification in a low-cost UAV ultra-high-resolution RGB-only orthomosaic
+A novel approach to evaluating the accessibility of electric vehicle charging infrastructure via dynamic thresholding in machine learning
+Contribution to advancing aquifer geometric mapping using machine learning and deep learning techniques: a case study of the AL Haouz-Mejjate aquifer, Marrakech, Morocco
+The Synergy Between Remote Sensing and Social Sensing in Urban Studies: Review and perspectives

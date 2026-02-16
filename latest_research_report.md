@@ -515,3 +515,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-16
+
+### 1. [Detection and Characterization of Urban Heat Islands with Machine Learning](https://doi.org/10.1109/IGARSS53475.2024.10641750)
+- **Journal:** IEEE International Geoscience and Remote Sensing Symposium
+- **Authors:** M. Bhamjee, Hiyam Debary, Zaheed Gaffoor, Tamara Govindasamy, Craig Mahlasi, M. Fiaz, Etienne Vos, Levente J. Klein, Sibusisiwe Makhanya, Campbell Watson, Julian Kuehnert
+- **Pub Date:** 2024-07-07
+- **DOI:** 10.1109/IGARSS53475.2024.10641750
+- **Abstract:** Assessing and understanding the urban scale impacts of extreme climate events is a global necessity. Risks associated with heat, where intra-urban dynamics and rural/urban boundary conditions greatly impact its distribution, are of particular interest as the evolution of climate change and ur-banization persists. Characterizing Urban Heat Island (UHI) effects is dependent on the availability of high-resolution near-surface air temperature maps and a description of the Local Climate Zones (LCZs). This study assesses the applicability of state-of-the-art (SOTA) Artificial Intelligence (AI) techniques for UHI detection and characterization. A Geospatial Foundation Model (GFM) is fine-tuned to predict 2 m air temperature at a 1 km resolution for the urban areas of Johannesburg, South Africa, with mean absolute error measures less than 1.5 °C. UHI characterization is further enabled through a Fully Connected Network (FCN) model for LCZs classification for the same region of interest.
+
+### 2. [Comparative performance of four machine learning models for land cover classification in a low-cost UAV ultra-high-resolution RGB-only orthomosaic](https://doi.org/10.1007/s12145-024-01318-2)
+- **Journal:** Earth Science Informatics
+- **Authors:** M. A. Sohl, Syed Amer Mahmood, Mamoon Ur Rasheed
+- **Pub Date:** 2024-04-30
+- **DOI:** 10.1007/s12145-024-01318-2
+- **Abstract:** None
+
+### 3. [A novel approach to evaluating the accessibility of electric vehicle charging infrastructure via dynamic thresholding in machine learning](https://doi.org/10.1177/23998083241249322)
+- **Journal:** Environment and Planning B Urban Analytics and City Science
+- **Authors:** Bailing Zhang, Jing Kang, Tao Feng
+- **Pub Date:** 2024-04-26
+- **DOI:** 10.1177/23998083241249322
+- **Abstract:** The spatial deployment of urban public electric vehicle charging stations (PEVCSs) plays a pivotal role in the widespread adoption of electric vehicles (EVs). However, with the rapid advancements in EV technology and battery capabilities, substantial improvements in both range and charging efficiency have emerged and are expected to continue experiencing sustained growth. This situation underscores the urgent necessity of establishing dynamic metrics to reconsider the existing static charging infrastructure, aiming to ameliorate the current severe spatial imbalances and supply–demand disparities encountered in the deployment of PEVCSs. In this study, we harnessed and analyzed 84,152 sets of authentic data, fine-tuned through geospatial-aggregation technology, and ensured anonymity. Our findings bridged users’ residential and occupational patterns with their charging propensities. Comparing these with the spatial distribution of current charging stations revealed that Beijing and Shenzhen’s infrastructure aligned with the cities' economic, educational, and residential zones, epitomizing a synergy in provisioning. However, certain areas experienced either a demand–supply imbalance or an oversupply. To address these challenges, we introduced the Charging Access Reachability Index (CARI) using machine learning techniques. This dynamic metric serves as a tool for quantifying the effective coverage range of charging facilities. Its adaptive threshold holds potential as a crucial indicator enabling the dynamic transition towards more efficient and resilient charging infrastructure.
+
+### 4. [Contribution to advancing aquifer geometric mapping using machine learning and deep learning techniques: a case study of the AL Haouz-Mejjate aquifer, Marrakech, Morocco](https://doi.org/10.1007/s13201-024-02162-x)
+- **Journal:** Applied Water Science
+- **Authors:** L. El mezouary, Abdessamad Hadri, M. H. Kharrou, Younes Fakır, Abderrahman Elfarchouni, L. Bouchaou, A. Chehbouni
+- **Pub Date:** 2024-04-13
+- **DOI:** 10.1007/s13201-024-02162-x
+- **Abstract:** Groundwater resources in Morocco often face sustainability challenges due to increased exploitation and climate change. Specifically, the Al-Haouz-Mejjate groundwater in the Marrakesh region is faced with overexploitation and insufficient recharge. However, the complex subsurface geometries hamper hydrogeological modeling, characterization, and effective management. Reliably estimating aquifer substrate topography is critical for groundwater models but is challenged by limited direct measurements. This study develops nonlinear machine learning models to infer substrate depths by fusing sparse borehole logs with regional geospatial data. A Gaussian process regression approach provided robust holistic mapping, leveraging flexibility, and uncertainty quantification. Supplementary neural network architectures focus on isolating specific variable relationships, like surface elevation–substrate. Model accuracy exceeded 0.8 R-squared against validation boreholes. Spatial visualizations confirmed consistency across landscape transects. Elevation and piezometric data proved most predictive, though multivariate inputs were required for the lowest errors. The results highlight the power of statistical learning to extract meaningful patterns from disparate hydrological data. However, model opacity and the need for broader training datasets remain barriers. Overall, the work demonstrates advanced machine learning as a promising avenue for illuminating complex aquifer geometries essential for sustainability. Hybrid approaches that use both data-driven and physics-based methods can help solve long-standing problems with hydrogeological characterization.
+
+### 5. [The Synergy Between Remote Sensing and Social Sensing in Urban Studies: Review and perspectives](https://doi.org/10.1109/MGRS.2023.3343968)
+- **Journal:** IEEE Geoscience and Remote Sensing Magazine
+- **Authors:** Xiaoyue Xing, Bailang Yu, Chaogui Kang, Bo Huang, Jianya Gong, Yu Liu
+- **Pub Date:** 2024-03-01
+- **DOI:** 10.1109/MGRS.2023.3343968
+- **Abstract:** Urban studies require a rich set of information sources and techniques that enable a comprehensive depiction of urban environments. Remote sensing captures physical characteristics of urban landscapes, while social sensing collects data from social media and digital devices to reflect human activities. The combination of remote sensing and social sensing has been employed to investigate urban environments, urban dynamics, and the well-being of city residents. This review explores leading ideas and methodologies of the synergy between remote sensing and social sensing in a broad context of urban studies. The synergy involves leveraging the benefits of remote sensing and social sensing to gain a deeper understanding of urban characteristics than can be acquired through any single sensing approach. Two types of synergy are identified, namely, “transfer-based synergy” and “integration-based synergy.” The former transfers ideas and techniques between remote sensing and social sensing based on their similarity. The latter integrates these sensing ways based on their complementary advantages. The motivations and methods are summarized to show how such synergy is suited for investigating the complex nature of urban systems. Typical applications of the synergy include land use and functional zone mapping, special land use identification, estimation of natural and socioeconomic elements, and emergency response. We also identify data quality issues, refinement of methodologies, and expansion of applications that still pose challenges and are worth future research. This review lays a foundation for synergizing remote sensing and social sensing, offering researchers guidance to reexamine and reconceptualize the city from multiple sensing perspectives.
+
+---
+
