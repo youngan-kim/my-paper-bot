@@ -554,3 +554,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-17
+
+### 1. [Geospatial machine learning for flood risk assessment in contrasting physiographic environments](https://doi.org/10.30574/wjaets.2025.16.1.1232)
+- **Journal:** World Journal of Advanced Engineering Technology and Sciences
+- **Authors:** Adebisi Joseph Ademusire, John Adeyemi Eyinade
+- **Pub Date:** 2025-07-30
+- **DOI:** 10.30574/wjaets.2025.16.1.1232
+- **Abstract:** One of the biggest hydrological hazards in Sub-Saharan Africa is flooding, which is exacerbated by increasing rainfall, inadequate drainage systems, and growing urbanization. In Nigeria, fragmented datasets and inadequate methodological integration continue to limit the ability to map flood susceptibility in a spatially detailed manner. This work presents a hybrid framework that creates interpretable and highly accurate flood susceptibility models for two physiographically distinct regions: Ile-Ife (inland uplands) and Ilaje (coastal lowlands) by combining the Analytic Hierarchy Process (AHP) with the Random Forest (RF) classifier. For Ilaje and Ile-Ife, a total of 43,825 and 8,632 spatial sample points were produced. In order to create a composite Flood Susceptibility Index (FSI), four flood-related predictors elevation, slope, rainfall, and distance to river were normalized and weighted using AHP. To train RF models for each region, the FSI was reclassified into three risk categories. F1-scores, precision, recall, and confusion matrices were used to assess the model’s performance. According to the results, Ilaje and Ile-Ife had classification accuracy rates of 98% and 97%, respectively. In both areas, rainfall and river proximity were the most important predictors, whereas the complexity of the terrain affected the patterns of susceptibility. The AHP-RF framework proved to be highly transparent and dependable, providing a scalable flood risk zoning tool, especially in settings with limited data. This work promotes interpretable geospatial modeling for disaster risk reduction by combining machine learning and expert judgment. The results provide a replicable model for climate adaptation in flood-prone areas of Sub-Saharan Africa and support the incorporation of physiographically informed flood planning into policy frameworks.
+
+### 2. [Spatial analysis and machine learning prediction of forest fire susceptibility: a comprehensive approach for effective management and mitigation.](https://doi.org/10.1016/j.scitotenv.2024.171713)
+- **Journal:** Science of the Total Environment
+- **Authors:** Manoranjan Mishra, Rajkumar Guria, Biswaranjan Baraj, Ambika Prasad Nanda, C. Santos, R. D. da Silva, F. A. T. Laksono
+- **Pub Date:** 2024-03-01
+- **DOI:** 10.1016/j.scitotenv.2024.171713
+- **Abstract:** None
+
+### 3. [Study on the classification of villages in Jilin Province based on space syntax and machine learning](https://doi.org/10.1080/00038628.2024.2322104)
+- **Journal:** Architectural Science Review
+- **Authors:** Deli Liu, Ke Wang
+- **Pub Date:** 2024-02-28
+- **DOI:** 10.1080/00038628.2024.2322104
+- **Abstract:** This paper employs machine learning and space syntax to classify villages, revealing implicit formation and development patterns in their spatial layouts. The study addresses village classification in Jilin Province from micro and macro perspectives. At the macro level, we present the classification method for villages based on geospatial distribution features (CVGD).We analyze the geographic distribution of villages and utilize village density for classification, effectively portraying the spatial distribution characteristics of villages. At the micro level, we propose the classification method for villages based on spatial structural features (CVSS). We use space syntax to extract spatial features of villages. Representative features chosen through comparative analysis serve as input variables in clustering algorithms, classifying villages based on high-dimensional data to explore their spatial traits. The paper summarizes village spatial characteristics from different classifications and studies how geographic factors affect village structure. It aims to offer potentially valuable theoretical insights for rural development. Abbreviations: POI: Point of Interest; DBSCAN: Density-Based Spatial Clustering of Applications with Noise; OPTICS: Ordering Points to Identify the Clustering Structure; WGS-84: World Geodetic System; ID: Identity Document; SSE: Sum of Squared Errors; CVGD: Classification Method for Villages Based on Geospatial Distribution Features; CVSS: Classification Method for Villages Based on Spatial Structure Features; GIS: Geographic Information Systems; ISUF: International Seminar on Urban Form; LiDAR: Light Detection and Ranging
+
+### 4. [Machine learning predicts which rivers, streams, and wetlands the Clean Water Act regulates](https://doi.org/10.1126/science.adi3794)
+- **Journal:** Science
+- **Authors:** Simon Greenhill, Hannah Druckenmiller, Sherrie Wang†, David A. Keiser, Manuela Girotto, Jason K. Moore, Nobuhiro Yamaguchi, Alberto Todeschini, Joseph S. Shapiro
+- **Pub Date:** 2024-01-26
+- **DOI:** 10.1126/science.adi3794
+- **Abstract:** We assess which waters the Clean Water Act protects and how Supreme Court and White House rules change this regulation. We train a deep learning model using aerial imagery and geophysical data to predict 150,000 jurisdictional determinations from the Army Corps of Engineers, each deciding regulation for one water resource. Under a 2006 Supreme Court ruling, the Clean Water Act protects two-thirds of US streams and more than half of wetlands; under a 2020 White House rule, it protects less than half of streams and a fourth of wetlands, implying deregulation of 690,000 stream miles, 35 million wetland acres, and 30% of waters around drinking-water sources. Our framework can support permitting, policy design, and use of machine learning in regulatory implementation problems. Editor’s summary The Clean Water Act is a defining piece of environmental legislation in the US, but the waters that it protects from pollution have never been clearly defined. Greenhill et al. developed a machine learning model that uses geospatial data to predict which waters are covered by the Clean Water Act and trained and tested the model with jurisdictional determinations from the US Army Corps of Engineers. This work provides an estimate of the extent of protected waterways, as well as an understanding of the effects of Supreme Court and White House rules that have reinterpreted or changed the regulation. For a subset of sites with high predictive accuracy, their model can also act as decision support tool to expedite permitting. —Bianca Lopez A machine learning model improves estimates of the extent of protection by the US Clean Water Act and the effects of deregulation.
+
+### 5. [Exploring machine learning and statistical approach techniques for landslide susceptibility mapping in Siwalik Himalayan Region using geospatial technology](https://doi.org/10.1007/s11356-023-31670-7)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Abhik Saha, Lakshya Tripathi, V. G. K. Villuri, A. Bhardwaj
+- **Pub Date:** 2024-01-10
+- **DOI:** 10.1007/s11356-023-31670-7
+- **Abstract:** None
+
+---
+

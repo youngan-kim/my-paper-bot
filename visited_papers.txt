@@ -49,3 +49,8 @@ Comparative performance of four machine learning models for land cover classific
 A novel approach to evaluating the accessibility of electric vehicle charging infrastructure via dynamic thresholding in machine learning
 Contribution to advancing aquifer geometric mapping using machine learning and deep learning techniques: a case study of the AL Haouz-Mejjate aquifer, Marrakech, Morocco
 The Synergy Between Remote Sensing and Social Sensing in Urban Studies: Review and perspectives
+Geospatial machine learning for flood risk assessment in contrasting physiographic environments
+Spatial analysis and machine learning prediction of forest fire susceptibility: a comprehensive approach for effective management and mitigation.
+Study on the classification of villages in Jilin Province based on space syntax and machine learning
+Machine learning predicts which rivers, streams, and wetlands the Clean Water Act regulates
+Exploring machine learning and statistical approach techniques for landslide susceptibility mapping in Siwalik Himalayan Region using geospatial technology
