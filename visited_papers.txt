@@ -54,3 +54,8 @@ Spatial analysis and machine learning prediction of forest fire susceptibility: 
 Study on the classification of villages in Jilin Province based on space syntax and machine learning
 Machine learning predicts which rivers, streams, and wetlands the Clean Water Act regulates
 Exploring machine learning and statistical approach techniques for landslide susceptibility mapping in Siwalik Himalayan Region using geospatial technology
+MAPS: pathologist-level cell type annotation from tissue images through machine learning
+Geospatial Big Data Approaches to Estimate Granular Level Poverty Distribution in East Java, Indonesia using Machine Learning and Deep Learning Regressions
+Explaining Differences in Voting Patterns across Voting Domains Using Hierarchical Bayesian Models
+High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis
+Public life in flux: A journey from the 1940s to the present
