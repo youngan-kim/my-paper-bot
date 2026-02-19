@@ -59,3 +59,8 @@ Geospatial Big Data Approaches to Estimate Granular Level Poverty Distribution i
 Explaining Differences in Voting Patterns across Voting Domains Using Hierarchical Bayesian Models
 High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis
 Public life in flux: A journey from the 1940s to the present
+Modeling groundwater redox conditions at national scale through integration of sediment color and water chemistry in a machine learning framework.
+Mapping Deprived Urban Areas Using Open Geospatial Data and Machine Learning in Africa
+The urbanisation of controlled environment agriculture: Why does it matter for urban studies?
+Do police stations deter crime?
+Geospatial mapping of distribution grid with machine learning and publicly-accessible multi-modal data
