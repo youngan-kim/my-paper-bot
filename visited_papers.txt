@@ -69,3 +69,8 @@ Remotely too equal: Popular DMSP night‐time lights data understate spatial ine
 The Economics of Tropical Deforestation
 Spatial analysis with SPIAT and spaSim to characterize and simulate tissue microenvironments
 Integrating Data Across Misaligned Spatial Units
+Concentration Versus Diversification: A Spatial Deployment Approach to Improve the Economics of Wind Power
+The Matérn Model: A Journey Through Statistics, Numerical Analysis and Machine Learning
+Integrated machine learning–based model and WQI for groundwater quality assessment: ML, geospatial, and hydro-index approaches
+Methods and applications for single-cell and spatial multi-omics
+Modeling Spatial Heterogeneity and Historical Persistence: Nazi Concentration Camps and Contemporary Intolerance

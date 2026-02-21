@@ -712,3 +712,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-21
+
+### 1. [Concentration Versus Diversification: A Spatial Deployment Approach to Improve the Economics of Wind Power](https://doi.org/10.2139/ssrn.3859611)
+- **Journal:** Social Science Research Network
+- **Authors:** Leo Klie, R. Madlener
+- **Pub Date:** 2024-02-01
+- **DOI:** 10.2139/ssrn.3859611
+- **Abstract:** Previous studies on the economics of onshore wind parks in Germany found that geographic diversification results in no significant system costs savings. Furthermore, such diversification does not necessarily result in higher market values (Eising et al., 2020) or better merchant profitability (Klie and Madlener, 2020). Therefore, the question arises whether an alternative allocation (i.e. a concentration) rather than diversification of the German wind park fleet is more economical. In this paper, we compare the future (2030) market values, subsidy needs and total system costs of a more concentrated versus a more diversified allocation of onshore wind turbines in Germany. The results show that a concentration of turbines, in areas where the gap between market values and levelized costs of electricity is smallest (i.e. in the North of Germany), is more beneficial in terms of subsidy need and system costs. The analysis further shows that these areas are also more beneficial in terms of market values, when using systemfriendly turbine configurations selected based on the same approach. To incentivize such a selection of areas and turbine configurations based on minimal gaps between market values and levelized costs an alternative renewables support scheme is presented, which favors such minimal gaps in its auctioning process.
+
+### 2. [The Matérn Model: A Journey Through Statistics, Numerical Analysis and Machine Learning](https://doi.org/10.1214/24-sts923)
+- **Journal:** Statistical Science
+- **Authors:** E. Porcu, M. Bevilacqua, R. Schaback, C. Oates
+- **Pub Date:** 2023-03-05
+- **DOI:** 10.1214/24-sts923
+- **Abstract:** The Mat\'ern model has been a cornerstone of spatial statistics for more than half a century. More recently, the Mat\'ern model has been central to disciplines as diverse as numerical analysis, approximation theory, computational statistics, machine learning, and probability theory. In this article we take a Mat\'ern-based journey across these disciplines. First, we reflect on the importance of the Mat\'ern model for estimation and prediction in spatial statistics, establishing also connections to other disciplines in which the Mat\'ern model has been influential. Then, we position the Mat\'ern model within the literature on big data and scalable computation: the SPDE approach, the Vecchia likelihood approximation, and recent applications in Bayesian computation are all discussed. Finally, we review recent devlopments, including flexible alternatives to the Mat\'ern model, whose performance we compare in terms of estimation, prediction, screening effect, computation, and Sobolev regularity properties.
+
+### 3. [Integrated machine learning–based model and WQI for groundwater quality assessment: ML, geospatial, and hydro-index approaches](https://doi.org/10.1007/s11356-023-25938-1)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** S. A. Abu El-Magd, Ismael S. Ismael, Mohamed A Sh El-Sabri, M. Abdo, Hassan I. Farhat
+- **Pub Date:** 2023-03-03
+- **DOI:** 10.1007/s11356-023-25938-1
+- **Abstract:** The demands upon the arid area for water supply pose threats to both the quantity and quality of social and economic activities. Thus, a widely used machine learning model, namely the support vector machines (SVM) integrated with water quality indices (WQI), was used to assess the groundwater quality. The predictive ability of the SVM model was assessed using a field dataset for groundwater from Abu-Sweir and Abu-Hammad, Ismalia, Egypt. Multiple water quality parameters were chosen as independent variables to build the model. The results revealed that the permissible and unsuitable class values range from 36 to 27%, 45 to 36%, and 68 to 15% for the WQI approach, SVM method and SVM-WQI model respectively. Besides, the SVM-WQI model shows a low percentage of the area for excellent class compared to the SVM model and WQI. The SVM model trained with all predictors with a mean square error (MSE) of 0.002 and 0.41; the models that had higher accuracy reached 0.88. Moreover, the study highlighted that SVM-WQI can be successfully implemented for the assessment of groundwater quality (0.90 accuracy). The resulting groundwater model in the study sites indicates that the groundwater is influenced by rock-water interaction and the effect of leaching and dissolution. Overall, the integrated ML model and WQI give an understanding of water quality assessment, which may be helpful in the future development of such areas.
+
+### 4. [Methods and applications for single-cell and spatial multi-omics](https://doi.org/10.1038/s41576-023-00580-2)
+- **Journal:** Nature reviews genetics
+- **Authors:** Katy Vandereyken, A. Sifrim, B. Thienpont, T. Voet
+- **Pub Date:** 2023-03-02
+- **DOI:** 10.1038/s41576-023-00580-2
+- **Abstract:** The joint analysis of the genome, epigenome, transcriptome, proteome and/or metabolome from single cells is transforming our understanding of cell biology in health and disease. In less than a decade, the field has seen tremendous technological revolutions that enable crucial new insights into the interplay between intracellular and intercellular molecular mechanisms that govern development, physiology and pathogenesis. In this Review, we highlight advances in the fast-developing field of single-cell and spatial multi-omics technologies (also known as multimodal omics approaches), and the computational strategies needed to integrate information across these molecular layers. We demonstrate their impact on fundamental cell biology and translational research, discuss current challenges and provide an outlook to the future. In this Review, the authors discuss the latest advances in profiling multiple molecular modalities from single cells, including genomic, transcriptomic, epigenomic and proteomic information. They describe the diverse strategies for separately analysing different modalities, how the data can be computationally integrated, and approaches for obtaining spatially resolved data.
+
+### 5. [Modeling Spatial Heterogeneity and Historical Persistence: Nazi Concentration Camps and Contemporary Intolerance](https://doi.org/10.1017/S0003055423000072)
+- **Journal:** American Political Science Review
+- **Authors:** Thomas B. Pepinsky, S. Goodman, Conrad Ziller
+- **Pub Date:** 2023-03-02
+- **DOI:** 10.1017/S0003055423000072
+- **Abstract:** A wealth of recent research in comparative politics examines how spatial variation in historical conditions shapes modern political outcomes. In an article in the American Political Science Review, Homola, Pereira, and Tavits argue that Germans who live nearer to former Nazi concentration camps are more likely to display out-group intolerance. Clarifying the conceptual foundations of posttreatment bias and reviewing the historical record on postwar state creation in Germany, we argue that state-level differences confound the relationship between distance to camps and out-group intolerance. Using publicly available European Values Survey data and electoral results from 2017, we find no consistent evidence that distance to camps is related to contemporary values. Our findings have implications for literatures on historical persistence, causal inference with spatial data, Holocaust studies, and outgroup tolerance.
+
+---
+
