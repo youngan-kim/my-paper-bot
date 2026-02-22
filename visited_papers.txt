@@ -74,3 +74,8 @@ The Matérn Model: A Journey Through Statistics, Numerical Analysis and Machine 
 Integrated machine learning–based model and WQI for groundwater quality assessment: ML, geospatial, and hydro-index approaches
 Methods and applications for single-cell and spatial multi-omics
 Modeling Spatial Heterogeneity and Historical Persistence: Nazi Concentration Camps and Contemporary Intolerance
+Identifying interactive effects of spatial drivers in soil heavy metal pollutants using interpretable machine learning models.
+Accurate Prediction of Soil Heavy Metal Pollution Using an Improved Machine Learning Method: A Case Study in the Pearl River Delta, China.
+Vulnerability in the Neighborhood: A Study of Perceived Control Over Victimization
+High-throughput microbial culturomics using automation and machine learning
+Spatial prediction of soil contamination based on machine learning: a review
