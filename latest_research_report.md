@@ -790,3 +790,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-23
+
+### 1. [The geospatial modelling of vegetation carbon storage analysis in Google earth engine using machine learning techniques](https://doi.org/10.1007/s12145-024-01372-w)
+- **Journal:** Earth Science Informatics
+- **Authors:** A. M, S. A. Ahmed, Harishnaika N
+- **Pub Date:** 2024-06-27
+- **DOI:** 10.1007/s12145-024-01372-w
+- **Abstract:** None
+
+### 2. [Theorising and illustrating plural policing models in countering armed banditry as hybrid terrorism in northwest Nigeria](https://doi.org/10.1080/23311886.2023.2174486)
+- **Journal:** Cogent Social Sciences
+- **Authors:** O. Ojewale
+- **Pub Date:** 2023-02-08
+- **DOI:** 10.1080/23311886.2023.2174486
+- **Abstract:** Abstract Banditry constitutes about 40% of national insecurity in Nigeria. It is a composite crime manifesting in wanton killing, cattle rustling, kidnapping for ransom, levying of illegal tax on farming communities, sexual violence and trafficking of arms and drugs. Through qualitative and quantitative research methodology, this article attempts to theorise and illustrate policing models aimed at countering armed banditry in northwest Nigeria. Coordinates of attacks by bandits are georeferenced to show their spatial distribution and pattern. As Nigeria continues to experience the shocks of banditry, the national and subnational governments are providing counter measures to lessen the striking capability of the bandits through four distinct but complementary models of policing. The article offers direction on the policing imperatives for combatting armed banditry in Nigeria. It proposes a multilevel policing framework which encompasses the mainstream policing, hybrid policing and the joint task force models with the state police as the new layer on the existing security architecture. This is well suited to respond to the conceptual, practical and strategic dimensions of policing in Nigeria to combat armed banditry and other criminalities that envelop the country.
+
+### 3. [Screening cell–cell communication in spatial transcriptomics via collective optimal transport](https://doi.org/10.1038/s41592-022-01728-4)
+- **Journal:** Nature Methods
+- **Authors:** Zixuan Cang, Yanxiang Zhao, Axel A. Almet, Adam R. Stabell, Raul Ramos, M. Plikus, Scott X. Atwood, Qing Nie
+- **Pub Date:** 2023-01-23
+- **DOI:** 10.1038/s41592-022-01728-4
+- **Abstract:** This work presents a computational framework, COMMOT, to spatially infer cell–cell communication from transcriptomics data based on a variant of optimal transport (OT). Spatial transcriptomic technologies and spatially annotated single-cell RNA sequencing datasets provide unprecedented opportunities to dissect cell–cell communication (CCC). However, incorporation of the spatial information and complex biochemical processes required in the reconstruction of CCC remains a major challenge. Here, we present COMMOT (COMMunication analysis by Optimal Transport) to infer CCC in spatial transcriptomics, which accounts for the competition between different ligand and receptor species as well as spatial distances between cells. A collective optimal transport method is developed to handle complex molecular interactions and spatial constraints. Furthermore, we introduce downstream analysis tools to infer spatial signaling directionality and genes regulated by signaling using machine learning models. We apply COMMOT to simulation data and eight spatial datasets acquired with five different technologies to show its effectiveness and robustness in identifying spatial CCC in data with varying spatial resolutions and gene coverages. Finally, COMMOT identifies new CCCs during skin morphogenesis in a case study of human epidermal development.
+
+### 4. [Centring the periphery in urban studies: Notes towards a research agenda on peripheral centralities](https://doi.org/10.1177/00420980221135418)
+- **Journal:** Urban studies
+- **Authors:** N. Phelps, P. Maginn, R. Keil
+- **Pub Date:** 2022-12-14
+- **DOI:** 10.1177/00420980221135418
+- **Abstract:** Based on presentations across two days as part of an Urban Studies Foundation-funded seminar series, we elaborate a thematic agenda for considering the centrality of urban peripheries. We move beyond a typology of suburban centres to depict senses of peripheral centrality in terms of: their pervasiveness; their visibility across multiple scales; their underlying social relations; the agency exerted in their imagining and production, and the associated policy mobility.
+
+### 5. [The spatial (in)stability of mental health calls for police service](https://doi.org/10.1111/1745-9133.12612)
+- **Journal:** Criminology &amp; Public Policy
+- **Authors:** Jacek Koziarski
+- **Pub Date:** 2022-12-09
+- **DOI:** 10.1111/1745-9133.12612
+- **Abstract:** Research summary Policy implications Inspired by studies on crime concentration, scholars have begun examining the spatial patterns of other issues under the police mandate, such as calls for service involving persons with perceived mental illness (PwPMI). While findings show that PwPMI calls for service concentrate in a few number of places, we do not know whether the concentration of these calls fall within a narrow bandwidth of spatial units nor whether these calls are spatially stable. Drawing on 7 years of calls for service data from the Barrie Police Service, this study tests for the temporal stability of PwPMI call for service concentrations at two units of spatial analysis and applies a longitudinal variation of the Spatial Point Pattern Test to assess the spatial stability of these calls at both the global and local levels. The results reveal that concentrations of PwPMI calls for service not only fall within a narrow proportional bandwidth of spatial units, but are spatially stable, even during the COVID‐19 pandemic.Existing police‐ and community‐based efforts that respond to PwPMI in the community are tasked with responding to crises that could have been prevented with timelier intervention. Drawing from crime‐focused, place‐based policing strategies whose deployment is informed by the spatial concentration of crime, scholars have similarly argued that knowledge on where PwPMI calls for service concentrate can be leveraged to inform and deploy place‐based efforts whose focus is to assist PwPMI in a proactive capacity. The findings of the present study further substantiates the deployment of PwPMI‐focused police‐ and community‐based resources as proactive, place‐based efforts. In doing so, these efforts could not only prevent mental health crises from occurring but could prevent future police‐involved calls for service and thus reduce the footprint of the police in the lives of PwPMI in a reactive capacity. [ FROM AUTHOR]
+
+---
+

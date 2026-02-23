@@ -79,3 +79,8 @@ Accurate Prediction of Soil Heavy Metal Pollution Using an Improved Machine Lear
 Vulnerability in the Neighborhood: A Study of Perceived Control Over Victimization
 High-throughput microbial culturomics using automation and machine learning
 Spatial prediction of soil contamination based on machine learning: a review
+The geospatial modelling of vegetation carbon storage analysis in Google earth engine using machine learning techniques
+Theorising and illustrating plural policing models in countering armed banditry as hybrid terrorism in northwest Nigeria
+Screening cell–cell communication in spatial transcriptomics via collective optimal transport
+Centring the periphery in urban studies: Notes towards a research agenda on peripheral centralities
+The spatial (in)stability of mental health calls for police service
