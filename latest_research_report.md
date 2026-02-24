@@ -829,3 +829,42 @@
 
 ---
 
+## 📅 Added on: 2026-02-24
+
+### 1. [Geospatial modeling using hybrid machine learning approach for flood susceptibility](https://doi.org/10.1007/s12145-022-00872-x)
+- **Journal:** Earth Science Informatics
+- **Authors:** B. P. Mishra, D. K. Ghose, Debangsi Satapathy
+- **Pub Date:** 2022-10-06
+- **DOI:** 10.1007/s12145-022-00872-x
+- **Abstract:** None
+
+### 2. [A novel machine learning approach to analyzing geospatial vessel patterns using AIS data](https://doi.org/10.1080/15481603.2022.2118437)
+- **Journal:** GIScience &amp; Remote Sensing
+- **Authors:** M. D. Ferreira, Jessica N. A. Campbell, S. Matwin
+- **Pub Date:** 2022-09-20
+- **DOI:** 10.1080/15481603.2022.2118437
+- **Abstract:** ABSTRACT In the maritime environment, the Automatic Identification System (AIS) contains information related to vessel trajectories that can be used to detect unusual maritime occurrences and maritime traffic patterns. To detect such occurrences with supervised learning methods the AIS messages must be manually annotated, which can be a demanding process. Therefore, unsupervised methods are used to identify anomalous traffic patterns based on vessel trajectories. Typically, dense regions of maritime activity are studied to capture common traffic patterns which help identify trajectories that do not follow the norm. However, these approaches cannot detect anomalous behaviors along common pathways or incorporate time-related events into the analysis. Such challenges motivate the approach taken in this work by using auto-regressive techniques to model vessel trajectories and clustering analyses to explore behavior patterns of vessels. Results confirm that the Auto-regressive Integrated Moving Average (ARIMA) and Ornstein-Uhlenbeck (OU) processes are able to model the trajectories and can be used with density-based spatial clustering of applications with noise (DBSCAN), hierarchical clustering (HC), and spectral clustering (SC) to identify different behavioral patterns.
+
+### 3. [The spatial dynamics of commercial burglary during the COVID-19 lockdown in San Francisco](https://doi.org/10.1007/s11292-022-09530-0)
+- **Journal:** Journal of Experimental Criminology
+- **Authors:** Ha-neul Yim, Jordan R. Riddell
+- **Pub Date:** 2022-08-18
+- **DOI:** 10.1007/s11292-022-09530-0
+- **Abstract:** Purpose This paper investigated the impact of COVID-19 stay-at-home regulations on the spatial distribution of commercial burglary in San Francisco. Method Geocoded commercial burglary data for 2003–2021 from San Francisco were analyzed using the Andresen Spatial Point Pattern Test to examine potential spatial movement in commercial burglary. Results Concentrations of commercial burglary spatially shifted following the emergence of COVID-19 and the subsequent stay-at-home orders. Original hot spots experienced a relative decrease in commercial burglary, and crime spread out throughout the city. These spatial changes in commercial burglary appear to be related to variations in guardianship and criminal opportunity. Conclusion These findings suggest that the dramatic shifts in routine activities resulting from the COVID-19 policies could disrupt spatial burglary patterns, especially burglary clustering. Law enforcement should consider the spatial dynamics of commercial burglary, as well as land use heterogeneity, to effectively respond to crime during periods of social distancing and business shutdowns.
+
+### 4. [Machine learning for spatial analyses in urban areas: a scoping review](https://doi.org/10.1016/j.scs.2022.104050)
+- **Journal:** Sustainable cities and society
+- **Authors:** Y. Casali, Nazli Aydin Yonca, T. Comes, Y. Casali
+- **Pub Date:** 2022-07-01
+- **DOI:** 10.1016/j.scs.2022.104050
+- **Abstract:** The challenges for sustainable cities to protect the environment, ensure economic growth, and maintain social justice have been widely recognized. Along with the digitization, availability of large datasets, Machine Learning (ML) and Artificial Intelligence (AI) are promising to revolutionize the way we analyze and plan urban areas, opening new opportunities for the sustainable city agenda. Especially urban spatial planning problems can benefit from ML approaches, leading to an increasing number of ML publications across different domains. What is missing is an overview of the most prominent domains in spatial urban ML along with a mapping of specific applied approaches. This paper aims to address this gap and guide researchers in the field of urban science and spatial data analysis to the most used methods and unexplored research gaps. We present a scoping review of ML studies that used geospatial data to analyze urban areas. Our review focuses on revealing the most prominent topics, data sources, ML methods and approaches to parameter selection. Furthermore, we determine the most prominent patterns and challenges in the use of ML. Through our analysis, we identify knowledge gaps in ML methods for spatial data science and data specifications to guide future research.
+
+### 5. [Paws on the Street: Neighborhood-Level Concentration of Households with Dogs and Urban Crime](https://doi.org/10.1093/sf/soac059)
+- **Journal:** Social forces; a scientific medium of social study and interpretation
+- **Authors:** Nicolo P. Pinchak, Christopher R. Browning, Bethany Boettner, Catherine A. Calder, Jake Tarrence
+- **Pub Date:** 2022-06-25
+- **DOI:** 10.1093/sf/soac059
+- **Abstract:** Abstract:The formative work of Jane Jacobs underscores the combination of "eyes on the street" and trust between residents in deterring crime. Nevertheless, little research has assessed the effects of residential street monitoring on crime due partly to a lack of data measuring this process. We argue that neighborhood-level rates of households with dogs captures part of the residential street monitoring process core to Jacobs' hypotheses and test whether this measure is inversely associated with property and violent crime rates. Data from a large-scale marketing survey of Columbus, OH, USA residents (2013; n = 43,078) are used to measure census block group-level (n = 595) rates of households with dogs. Data from the Adolescent Health and Development in Context study are used to measure neighborhood-level rates of trust. Consistent with Jacobs' hypotheses, results indicate that neighborhood concentration of households with dogs is inversely associated with robbery, homicide, and, to a less consistent degree, aggravated assault rates within neighborhoods high in trust. In contrast, results for property crime suggest that the inverse association of dog concentration is independent of levels of neighborhood trust. These associations are observed net of controls for neighborhood sociodemographic characteristics, temporally lagged crime, and spatial lags of trust and dog concentration. This study offers suggestive evidence of crime deterrent benefits of local street monitoring and dog presence and calls attention to the contribution of pets to other facets of neighborhood social organization.
+
+---
+
