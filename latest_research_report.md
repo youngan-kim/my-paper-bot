@@ -868,3 +868,43 @@
 
 ---
 
+## 📅 Added on: 2026-02-25
+
+### 1. [Man's Place in Nature](https://doi.org/10.1038/045220a0)
+- **Journal:** Nature
+- **Authors:** C. R.
+- **Pub Date:** None
+- **DOI:** 10.1038/045220a0
+- **Abstract:** None
+
+### 2. [A CONCEPTUAL MODEL FOR CONVERTING OPENSTREETMAP CONTRIBUTION TO GEOSPATIAL MACHINE LEARNING TRAINING DATA](https://doi.org/10.5194/isprs-archives-xliii-b4-2022-253-2022)
+- **Journal:** The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** H. Li, A. Zipf
+- **Pub Date:** 2022-06-01
+- **DOI:** 10.5194/isprs-archives-xliii-b4-2022-253-2022
+- **Abstract:** Abstract. In the recent decade, Volunteered Geographical Information (VGI), in particular the OpenStreetMap (OSM), has helped to fill substantial data gaps in base maps, especially in Global South, thus has become a promising source of massive, free training data together with rich and detailed semantic information for geospatial artificial intelligence (GeoAI) applications. Although intensive works have explored the potential of generating training data from OSM, a systematic approach of harvesting OSM contribution as quality-aware training data for different GeoAI tasks is still missing. To fill this research gap, we proposed a conceptual model consisting of three major components: historical OSM and external datasets, quality indicators, and GeoAI models. As a proof of concept, we validated our conceptual model with an example task of detecting OSM missing buildings in Mozambique, where the impact of different error sources (e.g., completeness, alignment, rotation) in training data were compared and investigated in a quantitative manner. The lessons learned in this paper shed important lights on cooperating OSM data quality aspects with the development of more explainable GeoAI models.
+
+
+### 3. [Customer Segmentation with Machine Learning for Online Retail Industry](https://doi.org/10.15405/ejsbs.316)
+- **Journal:** The European Journal of Social &amp; Behavioural Sciences
+- **Authors:** B. Turkmen
+- **Pub Date:** 2022-04-30
+- **DOI:** 10.15405/ejsbs.316
+- **Abstract:** In this study, a comparative analysis of various techniques is presented on customer segmentation methods based on online retail data. A few unsupervised machine learning (ML) clustering models such as K-means clustering model, hierarchical clustering model, Density-based Spatial Clustering of Applications with Noise (DBSCAN) model and a traditional model based on recency, frequency and monetary (RFM) clustering are evaluated in terms of the insight each model offers. The traditional model is included in the analysis since clustering models are not optimization models and the goodness of unsupervised models could only be evaluated with a practical business approach. The results are shared, and each model is assessed in terms of usability for marketing and communication strategies. At the end, the strengths and weaknesses of each model are discussed, and a methodology is proposed for selecting the best clustering method when facing the customer segmentation problem. A detailed literature review is also presented covering the developments in the field of artificial intelligence, clustering models in ML and examples of customer segmentation implementations in various industries.
+
+### 4. [A more global urban studies, besides empirical variation](https://doi.org/10.1177/00420980221085113)
+- **Journal:** Urban studies
+- **Authors:** Julie Ren
+- **Pub Date:** 2022-04-01
+- **DOI:** 10.1177/00420980221085113
+- **Abstract:** An expanded set of sites, a more differentiated set of references and linguistic diversification have been discussed as needed changes in urban studies. The critiques of the limitations of urban studies, in terms of both the scholarship and the scholars, offer important and concrete responses to expanding the scope of the field. Yet this tremendous special issue on ‘Comparative Methods for Global Urban Studies’ with 10 papers cutting across a range of sites and topics is decidedly not only about empirical variation; this is an important distinction worth drawing more attention to. The creativity expressed in these papers comes at an auspicious time in urban studies where new routes for doing urban theory are needed to move past debates about singular versus plural epistemologies of the urban. As a kind of research that demands more translation, exchange and collaboration, perhaps comparative urban research as a mode of theory-building can help to humble the chest-pounding, posturing, privilege of thinking and speaking the language of theory. The theoretical ambitions of these very different papers show how urban theory need not only be about better understanding urbanisation within the epistemological confines of late capitalism. Rather than reifying a shared grammar of urbanisation as a necessity to understand each other, they may entice scholars everywhere to develop a broader vocabulary and perhaps even learn another language.
+
+### 5. [Who Leaves and Who Enters? Flow Measures of Neighborhood Change and Consequences for Neighborhood Crime](https://doi.org/10.1177/00224278221088534)
+- **Journal:** Journal of research in crime and delinquency
+- **Authors:** John R. Hipp, Alyssa W. Chamberlain
+- **Pub Date:** 2022-03-24
+- **DOI:** 10.1177/00224278221088534
+- **Abstract:** Objectives Longitudinal studies of the relationship between neighborhood change and changes in crime typically focus exclusively on the net level of change in key socio-demographic characteristics. Methods We instead propose a demographic accounting strategy that captures the composition of neighborhood change: our measures capture which types of people are more likely to leave, stay, or enter the neighborhood. We use data for 3,325 tracts in the Southern California region over nearly two decades of 2000–2010 and 2010–2017 and construct flow measures based on race/ethnicity; the length of residence of owners and renters; the age structure. Results These flow measures improve the predictive power of the models—implying important theoretical insights. Neighborhoods with higher percentages of middle-aged residents who recently entered the neighborhood exhibit larger increases in violent and property crime. The relative stability of those in the highest crime-prone ages (aged 15–29) is associated with the largest increases in violent and property crime. The greater loss of Black and Asian residents decreased crime while moderate outflows of Latinos increased crime. The mobility of long- and short-term renters was related to crime changes. Conclusions This new technique will likely encourage further theoretical innovation for the neighborhoods and crime literature.
+
+---
+

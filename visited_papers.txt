@@ -89,3 +89,8 @@ A novel machine learning approach to analyzing geospatial vessel patterns using 
 The spatial dynamics of commercial burglary during the COVID-19 lockdown in San Francisco
 Machine learning for spatial analyses in urban areas: a scoping review
 Paws on the Street: Neighborhood-Level Concentration of Households with Dogs and Urban Crime
+Man's Place in Nature
+A CONCEPTUAL MODEL FOR CONVERTING OPENSTREETMAP CONTRIBUTION TO GEOSPATIAL MACHINE LEARNING TRAINING DATA
+Customer Segmentation with Machine Learning for Online Retail Industry
+A more global urban studies, besides empirical variation
+Who Leaves and Who Enters? Flow Measures of Neighborhood Change and Consequences for Neighborhood Crime
