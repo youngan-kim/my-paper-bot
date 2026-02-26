@@ -94,3 +94,8 @@ A CONCEPTUAL MODEL FOR CONVERTING OPENSTREETMAP CONTRIBUTION TO GEOSPATIAL MACHI
 Customer Segmentation with Machine Learning for Online Retail Industry
 A more global urban studies, besides empirical variation
 Who Leaves and Who Enters? Flow Measures of Neighborhood Change and Consequences for Neighborhood Crime
+Understanding and extending the geographical detector model under a linear regression framework
+From Residential Neighborhood to Activity Space: The Effects of Educational Segregation on Crime and Their Moderation by Social Context
+Water and sanitation for all: Citizen science, health equity, and urban climate justice
+The effects of energy price, spatial spillover of CO2 emissions, and economic freedom on CO2 emissions in Europe: a spatial econometrics approach
+STADL Up! The Spatiotemporal Autoregressive Distributed Lag Model for TSCS Data Analysis
