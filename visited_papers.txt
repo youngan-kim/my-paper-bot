@@ -104,3 +104,8 @@ Poverty Mapping in India using Machine Learning and Deep Learning Techniques
 Impact Assessment of Nematode Infestation on Soybean Crop Production Using Aerial Multispectral Imagery and Machine Learning
 AI and machine learning tools in plantation mapping: potentials of high-resolution satellite data
 Integrating Remote Sensing and Ground-Based Data for Enhanced Spatial–Temporal Analysis of Heatwaves: A Machine Learning Approach
+Multi-resource potentiality and multi-hazard susceptibility assessments of the central west coast of India applying machine learning and geospatial techniques
+Modeling forest-shrubland fire susceptibility based on machine learning and geospatial approaches in mountains of Kurdistan Region, Iraq
+MACHINE LEARNING-BASED ECONOMIC DEVELOPMENT MAPPING FROM MULTI-SOURCE OPEN GEOSPATIAL DATA
+Introduction: Generating concepts of ‘the urban’ through comparative practice
+Exploring machine learning: a scientometrics approach using bibliometrix and VOSviewer

@@ -987,3 +987,43 @@
 
 ---
 
+## 📅 Added on: 2026-02-28
+
+### 1. [Multi-resource potentiality and multi-hazard susceptibility assessments of the central west coast of India applying machine learning and geospatial techniques](https://doi.org/10.1007/s12665-023-10901-7)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** Pankaj Prasad, Victor J. Loveson, Sourav Mandal, Priyankar Chandra, Luc Cimusa Kulimushi
+- **Pub Date:** 2023-04-25
+- **DOI:** 10.1007/s12665-023-10901-7
+- **Abstract:** None
+
+### 2. [Modeling forest-shrubland fire susceptibility based on machine learning and geospatial approaches in mountains of Kurdistan Region, Iraq](https://doi.org/10.1007/s12517-022-10442-6)
+- **Journal:** Arabian Journal of Geosciences
+- **Authors:** Nabaz R. Khwarahm
+- **Pub Date:** 2022-06-20
+- **DOI:** 10.1007/s12517-022-10442-6
+- **Abstract:** None
+
+### 3. [MACHINE LEARNING-BASED ECONOMIC DEVELOPMENT MAPPING FROM MULTI-SOURCE OPEN GEOSPATIAL DATA](https://doi.org/10.5194/isprs-annals-v-4-2022-259-2022)
+- **Journal:** ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** R. Cao, W. Tu, J. Cai, T. Zhao, J. Xiao, J. Cao, Q. Gao, H. Su
+- **Pub Date:** 2022-05-18
+- **DOI:** 10.5194/isprs-annals-v-4-2022-259-2022
+- **Abstract:** Abstract. Timely and accurate socioeconomic indicators are the prerequisite for smart social governance. For example, the level of economic development and the structure of population are important statistics for regional or national policy-making. However, the collection of these characteristics usually depends on demographic and social surveys, which are time- and labor-intensive. To address these issues, we propose a machine learning-based approach to estimate and map the economic development from multi-source open available geospatial data, including remote sensing imagery and OpenStreetMap road networks. Specifically, we first extract knowledge-based features from different data sources; then the multi-view graphs are constructed through different perspectives of spatial adjacency and feature similarity; and a multi-view graph neural network (MVGNN) model is built on them and trained in a self-supervised learning manner. Then, the handcrafted features and the learned graph representations are combined to estimate the regional economic development indicators via random forest models. Taking China’s county-level gross domestic product (GDP) as an example, extensive experiments have been conducted and the results demonstrate the effectiveness of the proposed method, and the combination of the knowledge-based and learning-based features can significantly outperform baseline methods. Our proposed approach can advance the goal of acquiring timely and accurate socioeconomic variables through widely accessible geospatial data, which has the potential to extend to more social indicators and other geographic regions to support smart governance and policy-making in the future.
+
+
+### 4. [Introduction: Generating concepts of ‘the urban’ through comparative practice](https://doi.org/10.1177/00420980221092561)
+- **Journal:** Urban studies
+- **Authors:** J. Robinson
+- **Pub Date:** 2022-05-01
+- **DOI:** 10.1177/00420980221092561
+- **Abstract:** This Introduction to the special issue, ‘Comparative Methods for Global Urban Studies’, outlines the basis for a reformatted comparative method inspired by the complex spatialities of the urban world. The articles in the volume each bring forward innovative approaches to comparative methods which support wider conceptualisations of urban processes and urban experiences. The articles in this volume consider a wide range of urban contexts and collectively move beyond geopolitically imprecise propositions of ‘southern’ urbanism to embrace the wider comparative agenda of thinking with both the diversity and the profound interconnectedness of the urban globally. The articles contribute to decentring urban studies, opening conceptualisation to a range of different contexts and differently positioned writers. They also speak to the analytical and methodological challenges posed by current trends in global urbanisation, as dispersed, fragmented and extending over vast territories. Thinking with the multiple elsewheres of any urban context invites a comparative imagination – this introduction draws together the creative ways in which authors in this volume have responded to this potential. Processes of conceptualisation both emerge from and more acutely reveal the spatiality and nature of the global urban: comparative method, then, also proposes a certain mode of theorisation of the urban.
+
+### 5. [Exploring machine learning: a scientometrics approach using bibliometrix and VOSviewer](https://doi.org/10.1007/s42452-022-05027-7)
+- **Journal:** SN Applied Sciences
+- **Authors:** D. Oyewola, E. Dada
+- **Pub Date:** 2022-04-11
+- **DOI:** 10.1007/s42452-022-05027-7
+- **Abstract:** Machine Learning has found application in solving complex problems in different fields of human endeavors such as intelligent gaming, automated transportation, cyborg technology, environmental protection, enhanced health care, innovation in banking and home security, and smart homes. This research is motivated by the need to explore the global structure of machine learning to ascertain the level of bibliographic coupling, collaboration among research institutions, co-authorship network of countries, and sources coupling in publications on machine learning techniques. The Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) was applied to clustering prediction of authors dominance ranking in this paper. Publications related to machine learning were retrieved and extracted from the Dimensions database with no language restrictions. Bibliometrix was employed in computation and visualization to extract bibliographic information and perform a descriptive analysis. VOSviewer (version 1.6.16) tool was used to construct and visualize structure map of source coupling networks of researchers and co-authorship. About 10,814 research papers on machine learning published from 2010 to 2020 were retrieved for the research. Experimental results showed that the highest degree of betweenness centrality was obtained from cluster 3 with 153.86 from the University of California and Harvard University with 24.70. In cluster 1, the national university of Singapore has the highest degree betweenness of 91.72. Also, in cluster 5, the University of Cambridge (52.24) and imperial college London (4.52) having the highest betweenness centrality manifesting that he could control the collaborative relationship and that they possessed and controlled a large number of research resources. Findings revealed that this work has the potential to provide valuable guidance for new perspectives and future research work in the rapidly developing field of machine learning.
+
+---
+
