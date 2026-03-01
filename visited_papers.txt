@@ -109,3 +109,8 @@ Modeling forest-shrubland fire susceptibility based on machine learning and geos
 MACHINE LEARNING-BASED ECONOMIC DEVELOPMENT MAPPING FROM MULTI-SOURCE OPEN GEOSPATIAL DATA
 Introduction: Generating concepts of ‘the urban’ through comparative practice
 Exploring machine learning: a scientometrics approach using bibliometrix and VOSviewer
+Digital mapping of soil pH and carbonates at the European scale using environmental variables and machine learning.
+Spatial modeling of dyadic geopolitical interactions between moving actors
+Spatial components of molecular tissue biology
+Political orientations, economic policies, and environmental quality: Multi-valued treatment effects analysis with spatial spillovers in country districts of Poland
+Squidpy: a scalable framework for spatial omics analysis

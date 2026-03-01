@@ -1027,3 +1027,43 @@
 
 ---
 
+## 📅 Added on: 2026-03-01
+
+### 1. [Digital mapping of soil pH and carbonates at the European scale using environmental variables and machine learning.](https://doi.org/10.1016/j.scitotenv.2022.159171)
+- **Journal:** Science of the Total Environment
+- **Authors:** Qikai Lu, Shuang Tian, Lifei Wei
+- **Pub Date:** 2022-09-01
+- **DOI:** 10.1016/j.scitotenv.2022.159171
+- **Abstract:** Soil pH and carbonates (CaCO3) are important indicators of soil chemistry and fertility, and the prediction of their spatial distribution is critical for the agronomic and environmental management. Digital soil mapping (DSM) techniques are widely accepted for the geospatial analysis of the soil properties. They are rapid and cost-efficient approaches that can provide quantitative prediction. However, the digital mapping of soil pH and CaCO3 are not well studied, especially at a continental scale. In this research, we mapped the soil pH and CaCO3 at the European scale using multisource environmental variables and machine learning approaches. Moderate Resolution Imaging Spectroradiometer (MODIS) products, terrain attributes, and climatic variables were considered. Meanwhile, nine machine learning algorithms, namely, three linear and six nonlinear models, were used for the spatial prediction of soil pH and CaCO3. The land use and cover area frame statistical survey (LUCAS) 2015 topsoil dataset provided by the European Soil Data Centre was utilised. The performances of different models were compared and analysed in terms of coefficient of determination (R2), root mean square error (RMSE), and ratio of performance to deviation (RPD). Specifically, nonlinear machine learning models outperformed the linear ones, and extremely randomized trees (ERT) gave the most satisfactory result for soil pH (R2 = 0.70, RMSE = 0.75, and RPD = 1.84) and CaCO3 (R2 = 0.53, RMSE = 93.49 g/kg, and RPD = 1.46). The results revealed that MODIS products and climatic variables were important in predicting soil pH and CaCO3. Moreover, spatial distribution of soil pH and CaCO3 in Europe were mapped at 250 m resolution, and the areas with high CaCO3 content always showed high soil pH value.
+
+### 2. [Spatial modeling of dyadic geopolitical interactions between moving actors](https://doi.org/10.1017/psrm.2022.6)
+- **Journal:** Political Science Research and Methods
+- **Authors:** Sangyeon Kim, Howard Liu, Bruce A. Desmarais
+- **Pub Date:** 2022-03-30
+- **DOI:** 10.1017/psrm.2022.6
+- **Abstract:** 
+ Political actors often interact spatially, and move around. However, with a few exceptions, existing political research has analyzed spatial dependence among actors with fixed geographic locations. Focusing on fixated geographic units prevents us from probing dependencies in spatial interaction between spatially dynamic actors, which are common in some areas of political science, such as sub-national conflict studies. In this note, we propose a method to account for spatial dependence in dyadic interactions between moving actors. Our method uses the spatiotemporal histories of dyadic interactions to project locations of future interactions—projected actor locations (PALs). PALs can, in turn, be used to model the likelihood of future dyadic interactions. In a replication and extension of a recent study of subnational conflict, we find that using PALs improves the predictive performance of the model and indicates that there is a clear relationship between actors’ past conflict locations and the likelihood of future conflicts.
+
+### 3. [Spatial components of molecular tissue biology](https://doi.org/10.1038/s41587-021-01182-1)
+- **Journal:** Nature Biotechnology
+- **Authors:** G. Palla, David S. Fischer, A. Regev, Fabian J Theis
+- **Pub Date:** 2022-02-07
+- **DOI:** 10.1038/s41587-021-01182-1
+- **Abstract:** None
+
+### 4. [Political orientations, economic policies, and environmental quality: Multi-valued treatment effects analysis with spatial spillovers in country districts of Poland](https://doi.org/10.1016/j.envsci.2021.11.001)
+- **Journal:** Environmental Science and Policy
+- **Authors:** B. Czyżewski, J. Polcyn, A. Brelik
+- **Pub Date:** 2022-02-01
+- **DOI:** 10.1016/j.envsci.2021.11.001
+- **Abstract:** Many studies have found a positive association between liberal political views and support for environmental protection activities even though they require greater involvement of the state in market economies. However, such a conclusion is contradicted by empirical studies on pro-environmental activities with regard to the theory of planned behavior. On the one hand, subjective norms (including the expectations of public authorities) are usually found to be insignificant or very weak drivers of ecological behavior. On the other hand, self-efficacy (individual attitudes and beliefs in one ’ s capabilities) is perceived as a leading factor. This inspired us to explore the long-term effects of localism on environmental quality in Poland. Because liberalism and conser- vatism exist in their ‘pure ’ forms, Poland is very well suited to such a study. The aim of the article is to assess the long-term impact of local and liberal orientations (with conservatism as the reference), as reflected by electoral decisions on the quality of the environment. First, the current state of the environment is measured over four dimensions (air, water, soil, and biodiversity), and the effects of environmental policies (including spatial dependence) are estimated. Subsequently, the treatment effects on the environment when a particular political orientation is adopted are estimated using multi-valued treatment effect analyses. The study confirms that local orientation is conducive to long-term environmental care. Moreover, greater coordination of environmental policies at different levels is recommended, focusing on the negative spatial dependence of local environmental expenditure.
+
+### 5. [Squidpy: a scalable framework for spatial omics analysis](https://doi.org/10.1038/s41592-021-01358-2)
+- **Journal:** Nature Methods
+- **Authors:** G. Palla, Hannah Spitzer, Michal Klein, David S. Fischer, A. C. Schaar, L. B. Kuemmerle, Sergei Rybakov, I. Ibarra, Olle Holmberg, Isaac Virshup, M. Lotfollahi, S. Richter, Fabian J Theis
+- **Pub Date:** 2022-01-31
+- **DOI:** 10.1038/s41592-021-01358-2
+- **Abstract:** Spatial omics data are advancing the study of tissue organization and cellular communication at an unprecedented scale. Flexible tools are required to store, integrate and visualize the large diversity of spatial omics data. Here, we present Squidpy, a Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins. Squidpy provides efficient infrastructure and numerous analysis methods that allow to efficiently store, manipulate and interactively visualize spatial omics data. Squidpy is extensible and can be interfaced with a variety of already existing libraries for the scalable analysis of spatial omics data. Squidpy enables comprehensive analysis and visualization of spatial omics data and image with high efficiency.
+
+---
+
