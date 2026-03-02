@@ -114,3 +114,8 @@ Spatial modeling of dyadic geopolitical interactions between moving actors
 Spatial components of molecular tissue biology
 Political orientations, economic policies, and environmental quality: Multi-valued treatment effects analysis with spatial spillovers in country districts of Poland
 Squidpy: a scalable framework for spatial omics analysis
+Situating Politics: Spatial Heterogeneity and the Study of Political History
+Knowledge-driven and machine learning decision tree-based approach for assessment of geospatial variation of groundwater quality around coal mining regions, Korba district, Central India
+Comparative analysis of crime predictions using machine learning algorithms with geospatial features
+Spatial machine learning: new opportunities for regional science
+Groundwater Quality Monitoring Using In-Situ Measurements and Hybrid Machine Learning with Empirical Bayesian Kriging Interpolation Method

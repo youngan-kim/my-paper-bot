@@ -1067,3 +1067,42 @@
 
 ---
 
+## 📅 Added on: 2026-03-02
+
+### 1. [Situating Politics: Spatial Heterogeneity and the Study of Political History](https://doi.org/10.1017/ssh.2022.10)
+- **Journal:** Social science history
+- **Authors:** Adam Slez
+- **Pub Date:** 2022-01-13
+- **DOI:** 10.1017/ssh.2022.10
+- **Abstract:** Abstract While quantitative methods are routinely used to examine historical materials, critics take issue with the use of global regression models that attach a single parameter to each predictor, thereby ignoring the effects of time and space, which together define the context in which historical events unfold. This problem can be addressed by allowing for parameter heterogeneity, as highlighted by the proliferation of work on the use of time-varying parameter models. In this article, I show how this approach can be extended to the case of spatial data using spatially varying coefficient models, with an eye toward the study of electoral politics, where the use of spatial data is especially common in historical settings. Toward this end, I revisit a critical case in the field of quantitative history: the rise of electoral Populism in the American West in the period between 1890 and 1896. Upending popular narratives about the correlates of third-party support in the late nineteenth century, I show that the association between third-party vote share and traditional predictors such as economic hardship and ethnic composition varied considerably from one place to the next, giving rise to distinct varieties of electoral Populism—a finding that is missed by global models, which mistake the mathematically particular for the historically general. These findings have important theoretical and empirical implications for the study of political action in a world where parameter heterogeneity is increasingly recognized as a standard feature of modern social science.
+
+### 2. [Knowledge-driven and machine learning decision tree-based approach for assessment of geospatial variation of groundwater quality around coal mining regions, Korba district, Central India](https://doi.org/10.1007/s12665-021-10147-1)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** S. Singha, S. Singha, S. Pasupuleti, A. S. Venkatesh
+- **Pub Date:** 2022-01-01
+- **DOI:** 10.1007/s12665-021-10147-1
+- **Abstract:** None
+
+### 3. [Comparative analysis of crime predictions using machine learning algorithms with geospatial features](https://doi.org/10.1063/5.0074141)
+- **Journal:** RECENT TRENDS IN SCIENCE AND ENGINEERING
+- **Authors:** M. Suguna, R. Jeyavathana, K. Kanimozhi
+- **Pub Date:** 2022
+- **DOI:** 10.1063/5.0074141
+- **Abstract:** None
+
+### 4. [Spatial machine learning: new opportunities for regional science](https://doi.org/10.1007/s00168-021-01101-x)
+- **Journal:** The annals of regional science
+- **Authors:** K. Kopczewska
+- **Pub Date:** 2021-12-24
+- **DOI:** 10.1007/s00168-021-01101-x
+- **Abstract:** This paper is a methodological guide to using machine learning in the spatial context. It provides an overview of the existing spatial toolbox proposed in the literature: unsupervised learning, which deals with clustering of spatial data, and supervised learning, which displaces classical spatial econometrics. It shows the potential of using this developing methodology, as well as its pitfalls. It catalogues and comments on the usage of spatial clustering methods (for locations and values, both separately and jointly) for mapping, bootstrapping, cross-validation, GWR modelling and density indicators. It provides details of spatial machine learning models, which are combined with spatial data integration, modelling, model fine-tuning and predictions to deal with spatial autocorrelation and big data. The paper delineates “already available” and “forthcoming” methods and gives inspiration for transplanting modern quantitative methods from other thematic areas to research in regional science.
+
+### 5. [Groundwater Quality Monitoring Using In-Situ Measurements and Hybrid Machine Learning with Empirical Bayesian Kriging Interpolation Method](https://doi.org/10.3390/app12010132)
+- **Journal:** Applied Sciences
+- **Authors:** D. Senoro, K. L. D. de Jesus, Leonel C. Mendoza, E. M. D. Apostol, Katherine S. Escalona, Eduardo B. Chan
+- **Pub Date:** 2021-12-23
+- **DOI:** 10.3390/app12010132
+- **Abstract:** This article discusses the assessment of groundwater quality using a hybrid technique that would aid in the convenience of groundwater (GW) quality monitoring. Twenty eight (28) GW samples representing 62 barangays in Calapan City, Oriental Mindoro, Philippines were analyzed for their physicochemical characteristics and heavy metal (HM) concentrations. The 28 GW samples were collected at suburban sites identified by the coordinates produced by Global Positioning System Montana 680. The analysis of heavy metal concentrations was conducted onsite using portable handheld X-Ray Fluorescence (pXRF) Spectrometry. Hybrid machine learning—geostatistical interpolation (MLGI) method, specific to neural network particle swarm optimization with Empirical Bayesian Kriging (NN-PSO+EBK), was employed for data integration, GW quality spatial assessment and monitoring. Spatial map of metals concentration was produced using the NN-PSO-EBK. Another, spot map was created for observed metals concentration and was compared to the spatial maps. Results showed that the created maps recorded significant results based on its MSEs with values such as 1.404 × 10−4, 5.42 × 10−5, 6.26 × 10−4, 3.7 × 10−6, 4.141 × 10−4 for Ba, Cu, Fe, Mn, Zn, respectively. Also, cross-validation of the observed and predicted values resulted to R values range within 0.934–0.994 which means almost accurate. Based on these results, it can be stated that the technique is efficient for groundwater quality monitoring. Utilization of this technique could be useful in regular and efficient GW quality monitoring.
+
+---
+
