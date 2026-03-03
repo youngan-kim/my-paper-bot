@@ -119,3 +119,8 @@ Knowledge-driven and machine learning decision tree-based approach for assessmen
 Comparative analysis of crime predictions using machine learning algorithms with geospatial features
 Spatial machine learning: new opportunities for regional science
 Groundwater Quality Monitoring Using In-Situ Measurements and Hybrid Machine Learning with Empirical Bayesian Kriging Interpolation Method
+How Does Crime-Specific Victimization Impact Fear of Crime in Urban China? The Role of Neighborhood Characteristics
+Urban studies in India across the millennial turn: Histories and futures
+Historical Persistence
+A comparison of the integrated fuzzy object-based deep learning approach and three machine learning techniques for land use/cover change monitoring and environmental impacts assessment
+Feature selection using Fisher score and multilabel neighborhood rough sets for multilabel classification

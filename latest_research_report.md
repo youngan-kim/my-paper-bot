@@ -1106,3 +1106,42 @@
 
 ---
 
+## 📅 Added on: 2026-03-03
+
+### 1. [How Does Crime-Specific Victimization Impact Fear of Crime in Urban China? The Role of Neighborhood Characteristics](https://doi.org/10.1177/0306624X211066829)
+- **Journal:** International journal of offender therapy and comparative criminology
+- **Authors:** Fengrui Jing, Lin Liu, Suhong Zhou, Jiaxin Feng
+- **Pub Date:** 2021-12-21
+- **DOI:** 10.1177/0306624X211066829
+- **Abstract:** Past research has failed to find consistent relationships between criminal victimization and fear of crime. Except for neighborhood disorder and crime rate, few studies have examined whether other neighborhood conditions matter the victimization—fear relationship. Using survey data in Guangzhou neighborhoods, the present analysis employs multinomial logistic regression models to examine whether neighborhood characteristics moderate the relationship between violent victimization and fear of violence, and between burglary victimization and fear of burglary, separately. Some aspects of the neighborhood environment do differentially influence victims’ and non-victims’ fear levels. Besides verifying the interaction effect of neighborhood disorder and victimization, the present study finds that neighborhood policing alleviates the harmful effect of violent victimization on fear, while collective efficacy fosters the harmful effect of burglary victimization on fear. This paper underscores the significance of the social context of urban China in explaining the interplay of neighborhood characteristics and victimization on fear of crime.
+
+### 2. [Urban studies in India across the millennial turn: Histories and futures](https://doi.org/10.1177/00420980211056773)
+- **Journal:** Urban studies
+- **Authors:** K. Coelho, A. Sood
+- **Pub Date:** 2021-12-17
+- **DOI:** 10.1177/00420980211056773
+- **Abstract:** The millennial turn saw a distinct efflorescence in scholarship on urban India. This essay introduces a Virtual Special Issue on urban studies in India that showcases a selection of articles from the journal’s archives. It traces the disciplinary, thematic and methodological shifts that have marked this millennial turn. On the one hand, the social science of the urban has had a statist bent, reacting to the policy focus on cities as growth engines in the post-liberalisation era. On the other hand, critical urban studies has brought attention to the unregulated, deregulated, unplanned and unintended city produced by dynamic processes of informality acting overtly or covertly against the state’s neoliberal agendas. This introductory essay aims to examine the ways this interplay has unfolded both in the pages of this journal and elsewhere. It locates the Virtual Special Issue selection within a broader review of the state of scholarship in Indian urban studies and marks out areas for productive interventions in the future study of Indian cities.
+
+### 3. [Historical Persistence](https://doi.org/10.2139/ssrn.3873011)
+- **Journal:** Social Science Research Network
+- **Authors:** A. Cirone, Thomas B. Pepinsky
+- **Pub Date:** 2021-11-30
+- **DOI:** 10.2139/ssrn.3873011
+- **Abstract:** This article reviews the literature on historical persistence in political science and the related social sciences. Historical persistence refers to causal effects that ( a) operate over time scales of a decade or more and ( b) explain spatial variation in political, economic, or social outcomes. Although political scientists have always drawn from history, the historical persistence literature represents a new approach to historical research in the social sciences that places a premium on credible research designs for causal inference. We discuss regional and national coverage, state-of-the-art research designs, analytical and inferential challenges, and mechanisms and theories of persistence, drawing broadly from the contemporary literature in political science and economics. Expected final online publication date for the Annual Review of Political Science, Volume 25 is May 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+### 4. [A comparison of the integrated fuzzy object-based deep learning approach and three machine learning techniques for land use/cover change monitoring and environmental impacts assessment](https://doi.org/10.1080/15481603.2021.2000350)
+- **Journal:** GIScience & Remote Sensing
+- **Authors:** B. Feizizadeh, Keyvan Mohammadzade Alajujeh, T. Lakes, T. Blaschke, Davoud Omarzadeh
+- **Pub Date:** 2021-11-17
+- **DOI:** 10.1080/15481603.2021.2000350
+- **Abstract:** ABSTRACT Recent improvements in the spatial, temporal, and spectral resolution of satellite images necessitate (semi-)automated classification and information extraction approaches. Therefore, we developed an integrated fuzzy object-based image analysis and deep learning (FOBIA-DL) approach for monitoring the land use/cover (LULC) and respective changes and compared it to three machine learning (ML) algorithms, namely the support vector machine (SVM), random forest (RF), and classification and regression tree (CART). We investigated LULC impacts on drought by analyzing Landsat satellite images from 1990 to 2020 for the Urmia Lake area in northern Iran. In the FOBIA-DL approach, following the initial segmentation steps, object features were identified for each LULC class. We then derived their respective attributes using fuzzy membership functions and deep convolutional neural networks (DCNNs), a deep learning method. The Fuzzy Synthetic Evaluation and Dempster-Shafer Theory (FSE-DST) also applied to validate and carryout the spatial uncertainties. Our results indicate that the FOBIA-DL, with an accuracy of 90.1% to 96.4% and a spatial certainty of 0.93 to 0.97, outperformed the other approaches, closely followed by the SVM. Our results also showed that the integration of Fuzzy-OBIA and DCNNs could improve the strength and robustness of the OBIA’s decision rules, while the FSE-DST approach notably improved the spatial accuracy of the object-based classification maps. While object-based image analysis (OBIA) is already considered a paradigm shift in GIScience, the integration of OBIA with fuzzy and deep learning creates more flexibility and robust OBIA decision rules for image analysis and classification. This research integrated popular data-driven approaches and developed a novel methodology for image classification and spatial accuracy assessment. From the environmental perspective, the results of this research support lake restoration initiatives by decision-makers and authorities in applications such as drought mitigation, land use management and precision agriculture programs.
+
+### 5. [Feature selection using Fisher score and multilabel neighborhood rough sets for multilabel classification](https://doi.org/10.1016/J.INS.2021.08.032)
+- **Journal:** Information Sciences
+- **Authors:** Lin Sun, Tianxiang Wang, Weiping Ding, Jiucheng Xu, Yaojin Lin
+- **Pub Date:** 2021-11-01
+- **DOI:** 10.1016/J.INS.2021.08.032
+- **Abstract:** None
+
+---
+
