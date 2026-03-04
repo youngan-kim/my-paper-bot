@@ -1145,3 +1145,59 @@
 
 ---
 
+## 📅 Added on: 2026-03-04
+
+### 1. [Spatial and spatiotemporal modelling of intra-urban ultrafine particles: A comparison of linear, nonlinear, regularized, and machine learning methods.](https://doi.org/10.1016/j.scitotenv.2024.176523)
+- **Journal:** Science of the Total Environment
+- **Authors:** Julien Vachon, S. Buteau, Ying Liu, Keith Van Ryswyk, M. Hatzopoulou, A. Smargiassi
+- **Pub Date:** 2024-09-01
+- **DOI:** 10.1016/j.scitotenv.2024.176523
+- **Abstract:** BACKGROUND
+Machine learning methods are proposed to improve the predictions of ambient air pollution, yet few studies have compared ultrafine particles (UFP) models across a broad range of statistical and machine learning approaches, and only one compared spatiotemporal models. Most reported marginal differences between methods. This limits our ability to draw conclusions about the best methods to model ambient UFPs.
+
+
+OBJECTIVE
+To compare the performance and predictions of statistical and machine learning methods used to model spatial and spatiotemporal ambient UFPs.
+
+
+METHODS
+Daily and annual models were developed from UFP measurements from a year-long mobile monitoring campaign in Quebec City, Canada, combined with 262 geospatial and six meteorological predictors. Various road segment lengths were considered (100/300/500 m) for UFP data aggregation. Four statistical methods included linear, non-linear, and regularized regressions, whereas eight machine learning regressions utilized tree-based, neural networks, support vector, and kernel ridge algorithms. Nested cross-validation was used for model training, hyperparameter tuning and performance evaluation.
+
+
+RESULTS
+Mean annual UFP concentrations was 13,335 particles/cm3. Machine learning outperformed statistical methods in predicting UFPs. Tree-based methods performed best across temporal scales and segment lengths, with XGBoost producing the overall best performing models (annual R2 = 0.78-0.86, RMSE = 2163-2169 particles/cm3; daily R2 = 0.47-0.48, RMSE = 8651-11,422 particles/cm3). With 100 m segments, other annual models performed similarly well, but their prediction surfaces of annual mean UFP concentrations showed signs of overfitting. Spatial aggregation of monitoring data significantly impacted model performance. Longer segments yielded lower RMSE in all daily models and for annual statistical models, but not for annual machine learning models.
+
+
+CONCLUSIONS
+The use of tree-based methods significantly improved spatiotemporal predictions of UFP concentrations, and to a lesser extent annual concentrations. Segment length and hyperparameter tuning had notable impacts on model performance and should be considered in future studies.
+
+### 2. [Better, Not Just More: Data-centric machine learning for Earth observation](https://doi.org/10.1109/MGRS.2024.3470986)
+- **Journal:** IEEE Geoscience and Remote Sensing Magazine
+- **Authors:** R. Roscher, Marc Rußwurm, Caroline M. Gevaert, Michael C. Kampffmeyer, J. A. dos Santos, Maria Vakalopoulou, R. Hänsch, Stine Hansen, Keiller Nogueira, Jonathan Prexl, D. Tuia
+- **Pub Date:** 2023-12-08
+- **DOI:** 10.1109/MGRS.2024.3470986
+- **Abstract:** Recent developments and research in modern machine learning have led to substantial improvements in the geospatial field. Although numerous deep learning architectures and models have been proposed, the majority of them have been solely developed on benchmark datasets that lack strong real-world relevance. Furthermore, the performance of many methods has already saturated on these datasets. We argue that a shift from a model-centric view to a complementary data-centric perspective is necessary for further improvements in accuracy, generalization ability, and real impact on enduser applications. Furthermore, considering the entire machine learning cycle — from problem definition to model deployment with feedback — is crucial for enhancing machine learning models that can be reliable in unforeseen situations. This work presents a definition as well as a precise categorization and overview of automated data-centric learning approaches for geospatial data. It highlights the complementary role of data-centric learning with respect to model-centric in the larger machine learning deployment cycle. We review papers across the entire geospatial field and categorize them into different groups. A set of representative experiments shows concrete implementation examples. These examples provide concrete steps to act on geospatial data with data-centric machine learning approaches.
+
+### 3. [Identifying the essential influencing factors of landslide susceptibility models based on hybrid-optimized machine learning with different grid resolutions: a case of Sino-Pakistani Karakorum Highway](https://doi.org/10.1007/s11356-023-29234-w)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Jiao Wu, Ya Zhang, Liu Yang, Yongxiang Zhang, Jun Lei, Meixia Zhi, G. Ma
+- **Pub Date:** 2023-08-28
+- **DOI:** 10.1007/s11356-023-29234-w
+- **Abstract:** None
+
+### 4. [A Machine-Learning-Based Approach to Predict Deforestation Related to Oil Palm: Conceptual Framework and Experimental Evaluation](https://doi.org/10.3390/app13031772)
+- **Journal:** Applied Sciences
+- **Authors:** Tarek Sboui, S. Saidi, Ahmed Lakti
+- **Pub Date:** 2023-01-30
+- **DOI:** 10.3390/app13031772
+- **Abstract:** Deforestation is recognized as an issue that has negative effects on the ecosystem. Predicting deforestation and defining the causes of deforestation is an important process that could help monitor and prevent deforestation. Deforestation prediction has been boosted by recent advances in geospatial technologies and applications, especially remote sensing technologies and machine learning techniques. This paper highlights the issue of predicting deforestation related to oil palm, which has not been focused on in existing research studies. The paper proposes an approach that aims to enhance the prediction of deforestation related to oil palm plantations and palm oil production. The proposed approach is based on a conceptual framework and an assessment of a set of criteria related to such deforestation. The criteria are assessed and validated based on a sensitivity analysis. The framework is based on machine learning and image processing techniques. It consists of three main steps, which are data preparation, model training, and validation. The framework is implemented in a case study in the Aceh province of Indonesia to show the feasibility of our proposed approach in predicting deforestation related to oil palm. The implementation of the proposed approach shows an acceptable accuracy for predicting deforestation.
+
+### 5. [Exploring large-scale spatial distribution of fear of crime by integrating small sample surveys and massive street view images](https://doi.org/10.1177/23998083221135608)
+- **Journal:** Environment and Planning B Urban Analytics and City Science
+- **Authors:** Fengrui Jing, Lin Liu, Suhong Zhou, Zhenlong Li, Jiangyu Song, Linsen Wang, Ruofei Ma, Xiaoming Li
+- **Pub Date:** 2022-10-25
+- **DOI:** 10.1177/23998083221135608
+- **Abstract:** A tremendous amount of research use questionnaires to obtain individuals’ fear of crime and aggregate it to the neighborhood level to measure the spatial distribution of fear of crime. However, the cost of using questionnaires to measure the large-scale spatial distribution of fear of crime is high. The built environment is known to influence people’s perceptions, including fear of crime. This study develops a machine learning model to link built environment extracted from street view images to fear of crime obtained from questionnaires, and then applies this model to extrapolate fear of crime for neighborhoods without the questionnaires. Using massive street view images and a survey among 1,741 residents in 80 neighborhoods in Guangzhou, China, this study developed a novel systematic approach to measuring large-scale spatial fear of crime at the neighborhood level for 1,753 neighborhoods. This is the first study to measure fear of crime at the neighborhood level for a metropolitan area of nearly 20 million people. The integration of survey data and street view images provides an opportunity to develop a more effective way to measure the spatial distribution of fear of crime. This approach could be applied to map other types of perceptions at a spatial resolution of the neighborhood level.
+
+---
+

@@ -124,3 +124,8 @@ Urban studies in India across the millennial turn: Histories and futures
 Historical Persistence
 A comparison of the integrated fuzzy object-based deep learning approach and three machine learning techniques for land use/cover change monitoring and environmental impacts assessment
 Feature selection using Fisher score and multilabel neighborhood rough sets for multilabel classification
+Spatial and spatiotemporal modelling of intra-urban ultrafine particles: A comparison of linear, nonlinear, regularized, and machine learning methods.
+Better, Not Just More: Data-centric machine learning for Earth observation
+Identifying the essential influencing factors of landslide susceptibility models based on hybrid-optimized machine learning with different grid resolutions: a case of Sino-Pakistani Karakorum Highway
+A Machine-Learning-Based Approach to Predict Deforestation Related to Oil Palm: Conceptual Framework and Experimental Evaluation
+Exploring large-scale spatial distribution of fear of crime by integrating small sample surveys and massive street view images
