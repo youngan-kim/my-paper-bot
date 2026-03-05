@@ -1201,3 +1201,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-03-05
+
+### 1. [Is urbanisation in the Global South fundamentally different? Comparative global urban analysis for the 21st century](https://doi.org/10.1177/00420980211067926)
+- **Journal:** Urban studies
+- **Authors:** Gregory F. Randolph, M. Storper
+- **Pub Date:** 2022-02-08
+- **DOI:** 10.1177/00420980211067926
+- **Abstract:** A vigorous debate has emerged in recent years over how to understand cities of the Global South. A pivotal issue in this debate is whether urbanisation processes in the South are so fundamentally different from historical and current urbanisation in the Global North that many of the theories developed from studying the latter have limited utility in application to the former. In this article, we review evidence from a range of disciplines on recent and ongoing urban transitions and urbanisation dynamics in the Global South, attending to features that distinguish the urban South from the urban North. Our reading of the evidence indicates that parts of the Global South may be urbanising along historically and geographically specific trajectories; however, we argue that these differences are best understood through a unified set of global urban theories. Rather than flattening or silencing difference, theories that seek generalisation across time and space sharpen the identification and appreciation of key differences in urbanisation processes. Analysing how the fundamental dynamics of urbanisation recombine and interact with one another in different contexts offers insight into policy challenges that cut across cities, both within and between the Global South and North, as well as context-specific policy issues that arise through the interaction of global urbanisation forces and local specificities.
+
+### 2. [Crime down in the Paris of the prairies: Spatial effects of COVID-19 and crime during lockdown in Saskatoon, Canada](https://doi.org/10.1016/j.jcrimjus.2022.101881)
+- **Journal:** Journal of criminal justice
+- **Authors:** Tarah Hodgkinson, Martin A. Andresen, R. Frank, Darren Pringle
+- **Pub Date:** 2022-01-01
+- **DOI:** 10.1016/j.jcrimjus.2022.101881
+- **Abstract:** Objectives: To test for statistically significant changes in crime rates across neighbourhoods in Saskatoon, Canada resulting from social restrictions within the natural experiment of the COVID-19 pandemic. Methods: A spatial point pattern test is used to identify statistically significant change in crime patterns across Saskatoon's neighbourhoods because of COVID-19. These changes are analyzed with variables from social disorganization theory constructs using multinomial logistic regression. Results: The results indicate a city-wide decline in crime during the COVID-19 lockdown. However, at the local level, socially disorganized dissemination areas experience increases in certain crime types. Variables representing the constructs of social disorganization theory are generally able to predict these changes, suggesting the need to examine changes in crime at different geographic levels. Conclusions: COVID-19 has changed the patterns of crime in Saskatoon, but most often in theoretically expected ways. Local changes are critical to understand crime during a pandemic and are instructive for policing agencies as well as social service providers during such an exceptional event. © 2022 Elsevier Ltd
+
+### 3. [SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network](https://doi.org/10.1038/s41592-021-01255-8)
+- **Journal:** Nature Methods
+- **Authors:** Jian Hu, Xiangjie Li, Kyle Coleman, Amelia Schroeder, Nan Ma, D. Irwin, Eddie B. Lee, R. Shinohara, Mingyao Li
+- **Pub Date:** 2021-10-28
+- **DOI:** 10.1038/s41592-021-01255-8
+- **Abstract:** Recent advances in spatially resolved transcriptomics (SRT) technologies have enabled comprehensive characterization of gene expression patterns in the context of tissue microenvironment. To elucidate spatial gene expression variation, we present SpaGCN, a graph convolutional network approach that integrates gene expression, spatial location and histology in SRT data analysis. Through graph convolution, SpaGCN aggregates gene expression of each spot from its neighboring spots, which enables the identification of spatial domains with coherent expression and histology. The subsequent domain guided differential expression (DE) analysis then detects genes with enriched expression patterns in the identified domains. Analyzing seven SRT datasets using SpaGCN, we show it can detect genes with much more enriched spatial expression patterns than competing methods. Furthermore, genes detected by SpaGCN are transferrable and can be utilized to study spatial variation of gene expression in other datasets. SpaGCN is computationally fast, platform independent, making it a desirable tool for diverse SRT studies. SpaGCN is a spatially resolved transcriptomics data analysis tool for identifying spatial domains and spatially variable genes using graph convolutional networks.
+
+### 4. [Identifying seasonal spatial patterns of crime in a small northern city](https://doi.org/10.1186/s40163-021-00161-w)
+- **Journal:** Crime Science
+- **Authors:** Ysabel A. Castle, J. Kovacs
+- **Pub Date:** 2021-10-26
+- **DOI:** 10.1186/s40163-021-00161-w
+- **Abstract:** Objectives To explore spatial patterns of crime in a small northern city, and assess the degree of similarity in these patterns across seasons. Methods Calls for police service frequently associated with crime (theft, break and enter, domestic dispute, assault, and neighbor disputes) were acquired for a five year time span (2015–2019) for the city of North Bay, Ontario, Canada (population 50,396). Exploratory data analysis was conducted using descriptive statistics and a kernel density mapping technique. Andresen’s spatial point pattern test (SPPT) was then used to assess the degree of similarity between the seasonal patterns (spring, summer, autumn, winter) for each call type at two different spatial scales (dissemination area and census tract). Results Exploratory data analysis of crime concentration at street segments showed that calls are generally more dispersed through the city in the warmer seasons of spring and summer. Kernel density mapping also shows increases in the intensity of hotspots at these times, but little overall change in pattern. The SPPT does find some evidence for seasonal differences in crime pattern across the city as a whole, specifically for thefts and break and enters. These differences are focused on the downtown core, as well as the outlying rural areas of the city. Conclusions For the various crime types examined, preliminary analysis, kernel density mapping, and the SPPT found differences in crime pattern consistent with the routine activities theory.
+
+### 5. [How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning](https://doi.org/10.1017/pan.2021.29)
+- **Journal:** Political Analysis
+- **Authors:** Jessica Di Cocco, Bernardo Monechi
+- **Pub Date:** 2021-10-15
+- **DOI:** 10.1017/pan.2021.29
+- **Abstract:** Abstract One of the main challenges in comparative studies on populism concerns its temporal and spatial measurements within and between a large number of parties and countries. Textual analysis has proved useful for these purposes, and automated methods can further improve research in this direction. Here, we propose a method to derive a score of parties’ levels of populism using supervised machine learning to perform textual analysis on national manifestos. We illustrate the advantages of our approach, which allows for measuring populism for a vast number of parties and countries without resource-intensive human-coding processes and provides accurate, updated information for temporal and spatial comparisons of populism. Furthermore, our method allows for obtaining a continuous score of populism, which ensures more fine-grained analyses of the party landscape while reducing the risk of arbitrary classifications. To illustrate the potential contribution of this score, we use it as a proxy for parties’ levels of populism, analyzing average trends in six European countries from the early 2000s for nearly two decades.
+
+---
+

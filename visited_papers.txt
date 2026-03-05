@@ -129,3 +129,8 @@ Better, Not Just More: Data-centric machine learning for Earth observation
 Identifying the essential influencing factors of landslide susceptibility models based on hybrid-optimized machine learning with different grid resolutions: a case of Sino-Pakistani Karakorum Highway
 A Machine-Learning-Based Approach to Predict Deforestation Related to Oil Palm: Conceptual Framework and Experimental Evaluation
 Exploring large-scale spatial distribution of fear of crime by integrating small sample surveys and massive street view images
+Is urbanisation in the Global South fundamentally different? Comparative global urban analysis for the 21st century
+Crime down in the Paris of the prairies: Spatial effects of COVID-19 and crime during lockdown in Saskatoon, Canada
+SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network
+Identifying seasonal spatial patterns of crime in a small northern city
+How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning
