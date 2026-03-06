@@ -134,3 +134,8 @@ Crime down in the Paris of the prairies: Spatial effects of COVID-19 and crime d
 SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network
 Identifying seasonal spatial patterns of crime in a small northern city
 How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning
+“The Right to the City” and Politicization of Urban Space: A Brief Literature Review
+Regional migration and the dimension of distance in empirical analysis
+Economic Inequality Decomposition and Spatial Pattern of Crime in Indonesia
+MesoNet allows automated scaling and segmentation of mouse mesoscale cortical maps using machine learning
+Comparison of Twelve Machine Learning Regression Methods for Spatial Decomposition of Demographic Data Using Multisource Geospatial Data: An Experiment in Guangzhou City, China

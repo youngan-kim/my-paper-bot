@@ -1240,3 +1240,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-03-06
+
+### 1. [“The Right to the City” and Politicization of Urban Space: A Brief Literature Review](https://doi.org/10.22363/2313-1438-2023-25-3-553-563)
+- **Journal:** RUDN Journal of Political Science
+- **Authors:** Veronika A. Podobueva
+- **Pub Date:** 2023-09-30
+- **DOI:** 10.22363/2313-1438-2023-25-3-553-563
+- **Abstract:** The politicization of urban space is rapidly becoming the subject of special attention for political science. Urban political studies provide extensive literature on the topic. Although there is no single definition of a city’s public space in academia, we can trace some common characteristics in the existing definitions: a city’s public space is mainly defined through spatial categories, linking them with the socio-political and cultural-value context. The article also provides basic approaches and conceptual schemes that justify the process of politicization of the urban space. It is also worth noting that the authors of the works under consideration use the casestudy method to identify the general patterns of this process.
+
+### 2. [Regional migration and the dimension of distance in empirical analysis](https://doi.org/10.52950/es.2022.11.2.006)
+- **Journal:** International Journal of Economic Sciences
+- **Authors:** Lucie Kureková
+- **Pub Date:** 2022-11-24
+- **DOI:** 10.52950/es.2022.11.2.006
+- **Abstract:** The phenomenon of migration is addressed by several disciplines, such as demography, sociology, economics, political science and history. Therefore, a wide range of analytical tools can be used to analyse this phenomenon. This study focuses primarily on regional migration and capturing the dimension of distance in empirical analysis. Cartograms can be used to analyse regional migration, and Webb diagrams that capture the evolution of net international and internal migration over time. It is also appropriate to use the efficiency matrix of migration indices and nodal graphs to analyse migration flows between different regions. Spatial econometrics is then important for migration analysis to test the validity of theoretical concepts of migration. However, it is often not possible to track the exact distance of migration flows in the data. Therefore, it is necessary to resort to proxy methods to determine the distance. Tracking internal migration plays a crucial role in regional development and is vital in assessing political, economic and social change. Therefore, appropriate analytical tools must be used to analyse it at the regional level.
+
+### 3. [Economic Inequality Decomposition and Spatial Pattern of Crime in Indonesia](https://doi.org/10.1080/23754931.2021.1991842)
+- **Journal:** Papers in applied geography
+- **Authors:** Putu Angga Widyastaman, D. Hartono
+- **Pub Date:** 2021-10-14
+- **DOI:** 10.1080/23754931.2021.1991842
+- **Abstract:** Abstract Rising crime victimization rate in Indonesia shows that crime is still a serious problem in the country. This study aims to identify the relationship between economic inequality and crime rate in Indonesia. It used the decomposed Theil indices, as the measure of inequality based on national household survey panel data, to disentangle the effect of economic inequality into within-district/city and between-district/city economic inequality components. This choice of inequality measure is due to the fact that most of the previous studies regarding economic inequality and crime overlooked the disentanglement between economic inequality effects. Another problem addressed by this study is that the effect of crime is not bounded by administrative boundaries. A high prevalence of crime in a region may cause a criminal spillover to the surrounding regions. To control for this effect, this study also evaluates the spatial effect of interregional crime rates using the panel spatial autoregressive model as the estimation method. The estimation results revealed that both within-region and across-region economic inequalities have substantial increasing impacts on the crime rate.
+
+### 4. [MesoNet allows automated scaling and segmentation of mouse mesoscale cortical maps using machine learning](https://doi.org/10.1038/s41467-021-26255-2)
+- **Journal:** Nature Communications
+- **Authors:** Dongsheng Xiao, Brandon Jonathan Forys, M. Vanni, T. Murphy
+- **Pub Date:** 2021-10-13
+- **DOI:** 10.1038/s41467-021-26255-2
+- **Abstract:** Understanding the basis of brain function requires knowledge of cortical operations over wide spatial scales and the quantitative analysis of brain activity in well-defined brain regions. Matching an anatomical atlas to brain functional data requires substantial labor and expertise. Here, we developed an automated machine learning-based registration and segmentation approach for quantitative analysis of mouse mesoscale cortical images. A deep learning model identifies nine cortical landmarks using only a single raw fluorescent image. Another fully convolutional network was adapted to delimit brain boundaries. This anatomical alignment approach was extended by adding three functional alignment approaches that use sensory maps or spatial-temporal activity motifs. We present this methodology as MesoNet, a robust and user-friendly analysis pipeline using pre-trained models to segment brain regions as defined in the Allen Mouse Brain Atlas. This Python-based toolbox can also be combined with existing methods to facilitate high-throughput data analysis. High content imaging of the brain holds the promise of improving our understanding of the brain’s circuitry. Here, the authors present a tool that automates the scaling and segmentation of cortical maps to accelerate neurobiological discovery using mesoscale images.
+
+### 5. [Comparison of Twelve Machine Learning Regression Methods for Spatial Decomposition of Demographic Data Using Multisource Geospatial Data: An Experiment in Guangzhou City, China](https://doi.org/10.3390/app11209424)
+- **Journal:** Applied Sciences
+- **Authors:** Guanwei Zhao, Zhitao Li, Muzhuang Yang
+- **Pub Date:** 2021-10-11
+- **DOI:** 10.3390/app11209424
+- **Abstract:** The spatial decomposition of demographic data at a fine resolution is a classic and crucial problem in the field of geographical information science. The main objective of this study was to compare twelve well-known machine learning regression algorithms for the spatial decomposition of demographic data with multisource geospatial data. Grid search and cross-validation methods were used to ensure that the optimal model parameters were obtained. The results showed that all the global regression algorithms used in the study exhibited acceptable results, besides the ordinary least squares (OLS) algorithm. In addition, the regularization method and the subsetting method were both useful for alleviating overfitting in the OLS model, and the former was better than the latter. The more competitive performance of the nonlinear regression algorithms than the linear regression algorithms implies that the relationship between population density and influence factors is likely to be non-linear. Among the global regression algorithms used in the study, the best results were achieved by the k-nearest neighbors (KNN) regression algorithm. In addition, it was found that multi-sources geospatial data can improve the accuracy of spatial decomposition results significantly, and thus the proposed method in our study can be applied to the study of spatial decomposition in other areas.
+
+---
+
