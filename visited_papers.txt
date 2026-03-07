@@ -139,3 +139,8 @@ Regional migration and the dimension of distance in empirical analysis
 Economic Inequality Decomposition and Spatial Pattern of Crime in Indonesia
 MesoNet allows automated scaling and segmentation of mouse mesoscale cortical maps using machine learning
 Comparison of Twelve Machine Learning Regression Methods for Spatial Decomposition of Demographic Data Using Multisource Geospatial Data: An Experiment in Guangzhou City, China
+The roles of built environment and social disadvantage on the geography of property crime
+The impact of strict measures as a result of the COVID-19 pandemic on the spatial pattern of the demand for police: case study Antwerp (Belgium)
+A Method for Identifying Geospatial Data Sharing Websites by Combining Multi-Source Semantic Information and Machine Learning
+Machine Learning Algorithms for Urban Land Use Planning: A Review
+A posteriori comparisons, repeated instances and urban policy mobilities: What ‘best practices’ leave behind
