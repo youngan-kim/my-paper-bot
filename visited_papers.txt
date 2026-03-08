@@ -144,3 +144,8 @@ The impact of strict measures as a result of the COVID-19 pandemic on the spatia
 A Method for Identifying Geospatial Data Sharing Websites by Combining Multi-Source Semantic Information and Machine Learning
 Machine Learning Algorithms for Urban Land Use Planning: A Review
 A posteriori comparisons, repeated instances and urban policy mobilities: What ‘best practices’ leave behind
+(Re)conceptualizing Neighborhood Ecology in Social Disorganization Theory: From a Variable-Centered Approach to a Neighborhood-Centered Approach
+Nowcasting Earthquakes: Imaging the Earthquake Cycle in California With Machine Learning
+Positive impact of short-term gait rehabilitation in Parkinson patients: a combined approach based on statistics and machine learning.
+Urban statecraft: The governance of transport infrastructures in African cities
+Understanding the Multi-level Interactions Between Physical Environment and Neighborhood Characteristics in Assessing Vulnerability to Crime in Micro-places
