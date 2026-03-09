@@ -149,3 +149,8 @@ Nowcasting Earthquakes: Imaging the Earthquake Cycle in California With Machine 
 Positive impact of short-term gait rehabilitation in Parkinson patients: a combined approach based on statistics and machine learning.
 Urban statecraft: The governance of transport infrastructures in African cities
 Understanding the Multi-level Interactions Between Physical Environment and Neighborhood Characteristics in Assessing Vulnerability to Crime in Micro-places
+Satellite-based Machine Learning modelling of Ecosystem Services indicators: A review and meta-analysis
+Infrastructure-led development and the peri-urban question: Furthering crossover comparisons
+Urban resilience
+Waste to energy spatial suitability analysis using hybrid multi-criteria machine learning approach
+Eviction and Crime: A Neighborhood Analysis in Philadelphia

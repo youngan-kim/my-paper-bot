@@ -1357,3 +1357,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-03-09
+
+### 1. [Satellite-based Machine Learning modelling of Ecosystem Services indicators: A review and meta-analysis](https://doi.org/10.1016/j.apgeog.2024.103249)
+- **Journal:** Applied Geography
+- **Authors:** Bruna Almeida, João David, Felipe S. Campos, Pedro Cabral
+- **Pub Date:** 2024-04-01
+- **DOI:** 10.1016/j.apgeog.2024.103249
+- **Abstract:** Satellite-based Machine Learning (ML) modelling has emerged as a powerful tool to understand and quantify spatial relationships between landscape dynamics, biophysical variables and natural stocks. Ecosystem Services indicators (ESi) provide qualitative and quantitative information aiding the assessment of ecosystems ’ status. Through a systematic meta-analysis following the PRISMA guidelines, studies from one decade (2012 – 2022) were analyzed and synthesized. The results indicated that Random Forest emerged as the most frequently utilized ML algorithm, while Landsat missions stood out as the primary source of Satellite Earth Observation (SEO) data. Nonetheless, authors favoured Sentinel-2 due to its superior spatial, spectral, and temporal resolution. While 30% of the examined studies focused on modelling proxies of climate regulation services, assessments of natural stocks such as biomass, water, food production, and raw materials were also frequently applied. Meta-analysis illustrated the utilization of classification and regression tasks in estimating measurements of ecosystems ’ extent and conditions and findings underscored the connections between established methods and their replication. This study offers current perspectives on existing satellite-based approaches, contributing to the ongoing efforts to employ ML and artificial intelligence for unveiling the potential of SEO data and technologies in modelling ESi.
+
+### 2. [Infrastructure-led development and the peri-urban question: Furthering crossover comparisons](https://doi.org/10.1177/00420980211064158)
+- **Journal:** Urban studies
+- **Authors:** J. M. Kanai, Seth Schindler
+- **Pub Date:** 2022-03-02
+- **DOI:** 10.1177/00420980211064158
+- **Abstract:** Contemporary development policy portrays enhanced connectivity as the key to fostering economic growth in lagging regions. This global policy consensus and consequent infrastructure scramble have resulted in a proliferation of new urban spaces. These are dispersed, fragmentary and often unrecognised as urban by projects and plans centred on large-scale connective infrastructures to integrate remote regions into circuits of capital. Whilst our understanding of infrastructure-led development is informed by critical engagements with planetary urbanisation, global infrastructure and logistics, this position paper seeks to reconcile political economy analyses with situated studies closer to lived forms of heterogeneous precariousness in emerging urban worlds. Addressing recent debates that frame these bodies of scholarship as antagonistic, we emphasise the supplementarity of perspectives from within and beyond urban studies. This pluralism can be practised through comparisons that will (i) trace the geo-economic relationality of mega-infrastructures, which conditions directly and indirectly their planning, financing, construction and management, and (simultaneously or independently) (ii) examine difference in the diverse experiences of and responses to emergent infrastructural urbanisms of precarity. The article shows that genetic and generative comparisons can inform a research agenda on (peri-)urban precariousness, engaging policies with unmistakable global moorings but complex multi-scalar politics, diverging outcomes and situated resistances and appropriations.
+
+### 3. [Urban resilience](https://doi.org/10.1177/00420980211052230)
+- **Journal:** Urban studies
+- **Authors:** E. Glaeser
+- **Pub Date:** 2021-09-01
+- **DOI:** 10.1177/00420980211052230
+- **Abstract:** Will COVID-19 end the urban renaissance that many cities have experienced since the 1980s? This essay selectively reviews the copious literature that now exists on the long-term impact of natural disasters. At this point, the long-run resilience of cities to many forms of physical destruction, including bombing, earthquakes and fires, has been well-documented. The destruction of human capital may leave a longer imprint, but cities have persisted through many plagues over the past millennia. By contrast, economic and political shocks, including deindustrialisation or the loss of capital city status, can enormously harm an urban area. These facts suggest that the COVID-19 pandemic will only significantly alter urban fortunes if it is accompanied by a major economic shift, such as widespread adoption of remote work, or political shifts that could lead businesses and the wealthy to leave urban areas. The combination of an increased ability to relocate with increased local redistribution or deterioration of local amenity levels, or both, could recreate some of the key attributes of the urban crisis of the 1970s.
+
+### 4. [Waste to energy spatial suitability analysis using hybrid multi-criteria machine learning approach](https://doi.org/10.1007/s11356-021-15289-0)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** R. Al-Ruzouq, M. Abdallah, Abdallah Shanableh, S. Alani, Lubna Obaid, M. B. Gibril
+- **Pub Date:** 2021-08-10
+- **DOI:** 10.1007/s11356-021-15289-0
+- **Abstract:** None
+
+### 5. [Eviction and Crime: A Neighborhood Analysis in Philadelphia](https://doi.org/10.1177/00111287211035989)
+- **Journal:** Crime and delinquency
+- **Authors:** Daniel C. Semenza, R. Stansfield, J. Grosholz, Nathan W. Link
+- **Pub Date:** 2021-08-03
+- **DOI:** 10.1177/00111287211035989
+- **Abstract:** In this study, we use generalized estimating equation (GEE) models to analyze how rates of eviction correspond to homicide, robbery, and burglary rates across all residential neighborhoods in Philadelphia from 2006 through 2016. We assess the moderating role of neighborhood poverty accounting for residential mobility, economic disadvantage, and community composition. We find that eviction is associated with all three types of crime in fully controlled models. Additionally, neighborhood poverty significantly moderates this relationship for robbery and burglary, but not homicide. We discuss the implications of these results with attention to policy opportunities to reduce eviction and suggestions for future research.
+
+---
+
