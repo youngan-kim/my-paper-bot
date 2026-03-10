@@ -154,3 +154,8 @@ Infrastructure-led development and the peri-urban question: Furthering crossover
 Urban resilience
 Waste to energy spatial suitability analysis using hybrid multi-criteria machine learning approach
 Eviction and Crime: A Neighborhood Analysis in Philadelphia
+Geochemical and isotopic studies of the Douda-Damerjogue aquifer (Republic of Djibouti): Origin of high nitrate and fluoride, spatial distribution, associated health risk assessment and prediction of water quality using machine learning.
+Environmental Impact Assessment for Spatial Data Analysis in Disaster Management Using Machine Learning Multi-Criteria Resources
+Mapping Seafloor Sediment Distributions Using Public Geospatial Data and Machine Learning to Support Regional Offshore Renewable Energy Development
+Investigating the uses of machine learning algorithms to inform risk factor analyses: The example of avian infectious bronchitis virus (IBV) in broiler chickens.
+Integrating Augmented In Situ Measurements and a Spatiotemporal Machine Learning Model To Back Extrapolate Historical Particulate Matter Pollution over the United Kingdom: 1980-2019.
