@@ -1435,3 +1435,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-03-11
+
+### 1. [Gendered fear of crime in the urban context: A comparative multilevel study of women’s and men’s fear of crime](https://doi.org/10.1080/07352166.2021.1923372)
+- **Journal:** Journal of Urban Affairs
+- **Authors:** Sofia Johansson, Karen Haandrikman
+- **Pub Date:** 2021-06-25
+- **DOI:** 10.1080/07352166.2021.1923372
+- **Abstract:** ABSTRACT Women generally feel more fearful than men. We study this so-called fear-gender gap, by contributing to a growing body of quantitative gender-sensitive research inspired by feminist theory. We depart from traditional quantitative fear of crime research that fails to examine how determinants of fear of crime impact women and men differently. We use a Dutch governmental survey, linked to neighborhood characteristics, to conduct multilevel modeling using multifaceted sociospatial aspects on individual and neighborhood level, to explain the fear-gender gap in the city of Eindhoven. Findings indicate that the sociospatial environment and the perceptions thereof offer insights into gendered differences in fear. A central finding is that fear of crime among women is particularly complex. We discuss the concept of fear of crime, the importance of feminist theory to inform data gathering in order to further future quantitative research on fear of crime, and make suggestions for future research.
+
+### 2. [Colonial history and global economics distort our understanding of deep-time biodiversity](https://doi.org/10.1038/s41559-021-01608-8)
+- **Journal:** Nature Ecology & Evolution
+- **Authors:** N. Raja, E. Dunne, A. Matiwane, T. Khan, P. Nätscher, A. Ghilardi, Devapriya Chattopadhyay
+- **Pub Date:** 2021-06-24
+- **DOI:** 10.1038/s41559-021-01608-8
+- **Abstract:** None
+
+### 3. [Geographic disparities in violent crime during the COVID-19 lockdown in Miami-Dade County, Florida, 2018–2020](https://doi.org/10.1007/s11292-021-09474-x)
+- **Journal:** Journal of Experimental Criminology
+- **Authors:** Imelda K. Moise, A. Piquero
+- **Pub Date:** 2021-06-17
+- **DOI:** 10.1007/s11292-021-09474-x
+- **Abstract:** Abstract Objectives This study uses two cluster detection techniques to identify clusters of violent crime during the 3 months of the 2020 COVID-19 lockdown in Miami-Dade County compared to that during an equivalent period in 2018 and 2019. Methods Violent crime data from the Miami-Dade Central Records Bureau were analyzed. The Local Indicators of Spatial Association statistics and a space‐time permutation statistic were used to identify clusters of violent crimes and outliers, and Global Moran’s I tool was used to assess spatial patterning in violent crime. Neighborhood disadvantage data were obtained from the American Community Survey 5-year estimates linked with arrest locations. Results Violent crime arrests fell by 7.1% in 2020. Arrests were concentrated in predominantly Black disadvantaged neighborhoods in the northern part, and similar results were produced for core clusters by the two cluster techniques with positive global Moran’s I for all study years. Although accounting for only 17% of the county population, nearly half of violent crime arrests were for Black or African American. Males comprised most violent crime arrests. Conclusions Crime prevention and intervention efforts should be focused on both high-risk places and offenders.
+
+### 4. [When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery Incidents Displaced by a Place-based Policing Intervention](https://doi.org/10.1177/00224278211016030)
+- **Journal:** Journal of research in crime and delinquency
+- **Authors:** D. Hatten, Eric L. Piza
+- **Pub Date:** 2021-05-07
+- **DOI:** 10.1177/00224278211016030
+- **Abstract:** Examine the place-based correlates of robbery activity displaced by a foot-patrol intervention in Newark, NJ. We use constructs from Crime Pattern and Social Disorganization theories to test hypotheses concerned with associations between the structure of the environment and the displacement of crime. Robbery incidents were spatially joined to street segments to study micro-level displacement processes. Predictor variables were operationalized using data from the Newark Police Department and Infogroup USA. Generalized Linear models tested associations between the characteristics of street segments and displaced robbery in the target area as compared to a control. Environmental structure is important to understanding the settings of displacement, though this varied between spatial and temporal displacement. Relationships between displaced crime activity and model covariates did not always appear in expected directions. For example, bus stops predicted increased spatial displacement while corner stores predicted decreased levels of temporal displacement. While testing for displacement has become commonplace in place-based policing interventions, less attention has been paid to the micro-level factors that may facilitate the displacement of crime events. Both bus stops and corner stores show consistent associations with displaced crime activity, but the directions of these relationships suggest more complex processes requiring further examination.
+
+### 5. [Untangling Eviction, Disadvantage, Race, and Social Processes: Neighborhood Factors Influencing Crime](https://doi.org/10.1177/00111287211010492)
+- **Journal:** Crime and delinquency
+- **Authors:** Eileen M. Kirk
+- **Pub Date:** 2021-04-15
+- **DOI:** 10.1177/00111287211010492
+- **Abstract:** Eviction is concentrated in poor communities of color, and studies indicate eviction may affect social processes. Community and crime literature demonstrates that structural factors, such as socio-economic status and racial composition, are linked with crime and that social processes protect neighborhoods from crime. Therefore, eviction is likely concentrated in neighborhoods vulnerable to crime, but the connection between eviction and neighborhood violent crime has not yet been examined. Using data from Princeton University’s Eviction Lab National Database, the National Neighborhood Crime Study 2, and the Boston Neighborhood Survey, this Boston-based study is a first step in filling this knowledge gap. Findings indicate that eviction is positively associated with crime and partially explains why crime is concentrated in disadvantaged communities of color.
+
+---
+

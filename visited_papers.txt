@@ -159,3 +159,8 @@ Environmental Impact Assessment for Spatial Data Analysis in Disaster Management
 Mapping Seafloor Sediment Distributions Using Public Geospatial Data and Machine Learning to Support Regional Offshore Renewable Energy Development
 Investigating the uses of machine learning algorithms to inform risk factor analyses: The example of avian infectious bronchitis virus (IBV) in broiler chickens.
 Integrating Augmented In Situ Measurements and a Spatiotemporal Machine Learning Model To Back Extrapolate Historical Particulate Matter Pollution over the United Kingdom: 1980-2019.
+Gendered fear of crime in the urban context: A comparative multilevel study of women’s and men’s fear of crime
+Colonial history and global economics distort our understanding of deep-time biodiversity
+Geographic disparities in violent crime during the COVID-19 lockdown in Miami-Dade County, Florida, 2018–2020
+When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery Incidents Displaced by a Place-based Policing Intervention
+Untangling Eviction, Disadvantage, Race, and Social Processes: Neighborhood Factors Influencing Crime
