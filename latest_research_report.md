@@ -1474,3 +1474,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-03-12
+
+### 1. [Exploring tissue architecture using spatial transcriptomics](https://doi.org/10.1038/s41586-021-03634-9)
+- **Journal:** Nature
+- **Authors:** Anjali Rao, Dalia Barkley, Gustavo S. França, I. Yanai
+- **Pub Date:** 2021-08-01
+- **DOI:** 10.1038/s41586-021-03634-9
+- **Abstract:** None
+
+### 2. [An integration of geospatial and machine learning techniques for mapping groundwater potential: a case study of the Shipra river basin, India](https://doi.org/10.1007/s12517-021-07871-0)
+- **Journal:** Arabian Journal of Geosciences
+- **Authors:** R. Patidar, S. Pingale, D. Khare
+- **Pub Date:** 2021-08-01
+- **DOI:** 10.1007/s12517-021-07871-0
+- **Abstract:** None
+
+### 3. [Critical Commentary: Repopulating density: COVID-19 and the politics of urban value](https://doi.org/10.1177/00420980211014810)
+- **Journal:** Urban studies
+- **Authors:** Colin Mcfarlane
+- **Pub Date:** 2021-06-09
+- **DOI:** 10.1177/00420980211014810
+- **Abstract:** How might concepts of ‘value’ and ‘population’ illuminate the present and future of urban density? The COVID-19 pandemic prompted a public debate on density in the city. While some initially blamed density for the spread of the virus, others rightly cautioned against those claims. As the pandemic progressed, an imaginary of density-as-pathology gave way to a more nuanced geographical understanding of the urban dimensions of the crisis, focused on connections, spatial conditions, domestic ‘overcrowding’ and poverty. Throughout, an interrogation and reflection on urban density and its future unfolded, throwing into question the historical relationship between ‘value’ and ‘population’ in understandings of density. I argue for a new politics of value based on shifts in three interconnected domains – governance, form and knowledge – and identify implications for research on density in urban studies.
+
+### 4. [Spatial transcriptomics at subspot resolution with BayesSpace](https://doi.org/10.1038/s41587-021-00935-2)
+- **Journal:** Nature Biotechnology
+- **Authors:** Edward Zhao, M. Stone, Xing Ren, Jamie Guenthoer, K. Smythe, T. Pulliam, Stephen R. Williams, C. Uytingco, S. Taylor, P. Nghiem, J. Bielas, R. Gottardo
+- **Pub Date:** 2021-06-03
+- **DOI:** 10.1038/s41587-021-00935-2
+- **Abstract:** None
+
+### 5. [Disproportionate exposure to urban heat island intensity across major US cities](https://doi.org/10.1038/s41467-021-22799-5)
+- **Journal:** Nature Communications
+- **Authors:** A. Hsu, G. Sheriff, T. Chakraborty, D. Manya
+- **Pub Date:** 2021-05-25
+- **DOI:** 10.1038/s41467-021-22799-5
+- **Abstract:** Urban heat stress poses a major risk to public health. Case studies of individual cities suggest that heat exposure, like other environmental stressors, may be unequally distributed across income groups. There is little evidence, however, as to whether such disparities are pervasive. We combine surface urban heat island (SUHI) data, a proxy for isolating the urban contribution to additional heat exposure in built environments, with census tract-level demographic data to answer these questions for summer days, when heat exposure is likely to be at a maximum. We find that the average person of color lives in a census tract with higher SUHI intensity than non-Hispanic whites in all but 6 of the 175 largest urbanized areas in the continental United States. A similar pattern emerges for people living in households below the poverty line relative to those at more than two times the poverty line. Individual exposure to heat is associated with adverse health and economic outcomes. Here, the authors show that people of color and people living in poverty bear a disproportionate burden of urban heat exposure in almost all major cities in the continental United States.
+
+---
+

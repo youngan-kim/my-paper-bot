@@ -164,3 +164,8 @@ Colonial history and global economics distort our understanding of deep-time bio
 Geographic disparities in violent crime during the COVID-19 lockdown in Miami-Dade County, Florida, 2018–2020
 When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery Incidents Displaced by a Place-based Policing Intervention
 Untangling Eviction, Disadvantage, Race, and Social Processes: Neighborhood Factors Influencing Crime
+Exploring tissue architecture using spatial transcriptomics
+An integration of geospatial and machine learning techniques for mapping groundwater potential: a case study of the Shipra river basin, India
+Critical Commentary: Repopulating density: COVID-19 and the politics of urban value
+Spatial transcriptomics at subspot resolution with BayesSpace
+Disproportionate exposure to urban heat island intensity across major US cities
