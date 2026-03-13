@@ -1513,3 +1513,44 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-03-13
+
+### 1. [Spatial analysis for political scientists](https://doi.org/10.1017/ipo.2021.7)
+- **Journal:** Italian Political Science Review/Rivista Italiana di Scienza Politica
+- **Authors:** Jessica Di Salvatore, A. Ruggeri
+- **Pub Date:** 2021-05-11
+- **DOI:** 10.1017/ipo.2021.7
+- **Abstract:** Abstract How does space matter in our analyses? How can we evaluate diffusion of phenomena or interdependence among units? How biased can our analysis be if we do not consider spatial relationships? All the above questions are critical theoretical and empirical issues for political scientists belonging to several subfields from Electoral Studies to Comparative Politics, and also for International Relations. In this special issue on methods, our paper introduces political scientists to conceptualizing interdependence between units and how to empirically model these interdependencies using spatial regression. First, the paper presents the building blocks of any feature of spatial data (points, polygons, and raster) and the task of georeferencing. Second, the paper discusses what a spatial matrix (W) is, its varieties and the assumptions we make when choosing one. Third, the paper introduces how to investigate spatial clustering through visualizations (e.g. maps) as well as statistical tests (e.g. Moran's index). Fourth and finally, the paper explains how to model spatial relationships that are of substantive interest to some of our research questions. We conclude by inviting researchers to carefully consider space in their analysis and to reflect on the need, or the lack thereof, to use spatial models.
+
+### 2. [Leak-Off Pressure Using Weakly Correlated Geospatial Information and Machine Learning Algorithms](https://doi.org/10.3390/GEOSCIENCES11040181)
+- **Journal:** Géosciences
+- **Authors:** J. Choi, Zhong-qiang Liu, S. Lacasse, E. Skurtveit
+- **Pub Date:** 2021-04-19
+- **DOI:** 10.3390/GEOSCIENCES11040181
+- **Abstract:** Leak-off pressure (LOP) is a key parameter to determine the allowable weight of drilling mud in a well and the in situ horizontal stress. The LOP test is run in situ and is frequently used by the petroleum industry. If the well pressure exceeds the LOP, wellbore instability may occur, with hydraulic fracturing and large mud losses in the formation. A reliable prediction of LOP is required to ensure safe and economical drilling operations. The prediction of LOP is challenging because it is affected by the usually complex earlier geological loading history, and the values of LOP and their measurements can vary significantly geospatially. This paper investigates the ability of machine learning algorithms to predict leak-off pressure on the basis of geospatial information of LOP measurements. About 3000 LOP test data were collected from 1800 exploration wells offshore Norway. Three machine learning algorithms (the deep neural network (DNN), random forest (RF), and support vector machine (SVM) algorithms) optimized by three hyperparameter search methods (the grid search, randomized search and Bayesian search) were compared with multivariate regression analysis. The Bayesian search algorithm needed fewer iterations than the grid search algorithms to find an optimal combination of hyperparameters. The three machine learning algorithms showed better performance than the multivariate linear regression when the features of the geospatial inputs were properly scaled. The RF algorithm gave the most promising results regardless of data scaling. If the data were not scaled, the DNN and SVM algorithms, even with optimized parameters, did not provide significantly improved test scores compared to the multivariate regression analysis. The analyses also showed that when the number of data points in a geographical setting is much smaller than that of other geographical areas, the prediction accuracy reduces significantly.
+
+### 3. [On quantitative spatial economic models](https://doi.org/10.2139/ssrn.3144376)
+- **Journal:** Journal of Urban Economics
+- **Authors:** K. Behrens, Yasusada Murata
+- **Pub Date:** 2021-03-24
+- **DOI:** 10.2139/ssrn.3144376
+- **Abstract:** Quantitative spatial economics (QSE) specifies various components such as preferences, production technology, and frictions for the movement of goods, people, and ideas. Despite the long literature on endogenous location decisions, the question of how these specifications affect resulting spatial equilibria has not been systematically explored. In this paper we start with workhorse models of QSE based on different specifications of preferences and show that spatial equilibria in those models can be generated using the conditional logit model by McFadden (1974). Our result suggests that existing models of QSE have a common origin in one of the oldest location choice models.
+
+### 4. [On urban studies in Brazil: The favela, uneven urbanisation and beyond](https://doi.org/10.1177/0042098021993360)
+- **Journal:** Urban studies
+- **Authors:** Mariana Fix, P. Arantes
+- **Pub Date:** 2021-03-23
+- **DOI:** 10.1177/0042098021993360
+- **Abstract:** This essay discusses some key ideas and debates about urban studies in Brazil, considered historiographically, from the mid-1900s to the present. It presents the main components and particularities of what emerges as the Brazilian matrix of urban studies, interrogating the most influential work in the field with the country’s own experiences of industrialisation and urbanisation. It discusses some key urban debates of the 21st century, namely new planning models associated with globalisation, global mega-events, public–private partnerships, inner-city gentrification, housing and city financialisation, rising forms of urban warfare and social control in slums (favelas), and new activisms and urban insurgencies. Through this analysis, we point to contradictions and tensions in relation to European and North American urban theory, calling for the need to formulate new categories and hypotheses to better understand the unequal and extreme processes resulting from violent expansion of capitalist relations over the entire planet, and comment on the new practices and forms of social mobilisation emerging from turbulent contexts.
+
+### 5. [Spatial Analysis of Residents’ Response to Fear of Crime in Osogbo, Osun State, Nigeria](https://doi.org/10.36941/MJSS-2021-0007)
+- **Journal:** Mediterranean Journal of Social Sciences
+- **Authors:** S. O. Farodoye, P. Olawuni, G. Oladehinde, O. Atoyebi, Lukuman Opeyemi Ayoola
+- **Pub Date:** 2021-03-07
+- **DOI:** 10.36941/MJSS-2021-0007
+- **Abstract:** The study investigated spatial pattern of residents' response to the fear of crime in Osogbo Local Government Area, Osun State, Nigeria. Primary data was collected by stratifying the Osogbo into three residential neighborhoods, namely; core, transition, and suburban areas. Systematic sampling was used in selecting 112 respondents across residential neighborhoods. The level of Crime Occurrence Index (LCOI) in the core area was 5.03 while 5.90 and 5.31 were indices for transition and suburban areas. The study recorded that religion, police patrol, lightning, membership/ support of vigilante and use of joint community responses were the commonly used strategy in responding to fear of crime while insurance scheme, burglary alarm system, closed-circuit television (CCTV), and surveillance camera were the least strategies used in responding to fear of crime in the study area. The study concludes that there is a significant difference in the responses of residents to fear of crime in the various residential neighborhoods. 
+  
+Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 2021
+
+---
+

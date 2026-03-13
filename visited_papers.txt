@@ -169,3 +169,8 @@ An integration of geospatial and machine learning techniques for mapping groundw
 Critical Commentary: Repopulating density: COVID-19 and the politics of urban value
 Spatial transcriptomics at subspot resolution with BayesSpace
 Disproportionate exposure to urban heat island intensity across major US cities
+Spatial analysis for political scientists
+Leak-Off Pressure Using Weakly Correlated Geospatial Information and Machine Learning Algorithms
+On quantitative spatial economic models
+On urban studies in Brazil: The favela, uneven urbanisation and beyond
+Spatial Analysis of Residents’ Response to Fear of Crime in Osogbo, Osun State, Nigeria
