@@ -174,3 +174,8 @@ Leak-Off Pressure Using Weakly Correlated Geospatial Information and Machine Lea
 On quantitative spatial economic models
 On urban studies in Brazil: The favela, uneven urbanisation and beyond
 Spatial Analysis of Residents’ Response to Fear of Crime in Osogbo, Osun State, Nigeria
+Landslide susceptibility mapping using machine learning algorithms and comparison of their performance at Abha Basin, Asir Region, Saudi Arabia
+Community consequences of mass incarceration: sparking neighborhood social problems and violent crime
+The hack: What it is and why it matters to urban studies
+Machine learning techniques for analysis of hyperspectral images to determine quality of food products: A review
+Thinking through people: The potential of volunteered geographic information for mobility and urban studies
