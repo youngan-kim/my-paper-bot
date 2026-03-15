@@ -1593,3 +1593,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-15
+
+### 1. [Uniting remote sensing, crop modelling and economics for agricultural risk management](https://doi.org/10.1038/s43017-020-00122-y)
+- **Journal:** Nature Reviews Earth & Environment
+- **Authors:** E. Benami, Zhenong Jin, M. Carter, Aniruddha Ghosh, R. Hijmans, Andrew Hobbs, B. Kenduiywo, D. Lobell
+- **Pub Date:** 2021-01-19
+- **DOI:** 10.1038/s43017-020-00122-y
+- **Abstract:** None
+
+### 2. [Spatial Analysis](https://doi.org/10.1007/978-3-030-26050-7_300-1)
+- **Journal:** Encyclopedia of Mathematical Geosciences
+- **Authors:** Qiyu Chen, Gang Liu, Xiaogang Ma, Xiang Que
+- **Pub Date:** 2021
+- **DOI:** 10.1007/978-3-030-26050-7_300-1
+- **Abstract:** None
+
+### 3. [Complexity and Spatial Networks](https://doi.org/10.1007/978-3-642-23430-9_48)
+- **Journal:** Handbook of Regional Science
+- **Authors:** A. Reggiani
+- **Pub Date:** 2021
+- **DOI:** 10.1007/978-3-642-23430-9_48
+- **Abstract:** None
+
+### 4. [Spatial Economics and Nonmanufacturing Sectors](https://doi.org/10.4036/IIS.2021.R.02)
+- **Journal:** Interdisciplinary Information Sciences
+- **Authors:** Dao‐Zhi Zeng
+- **Pub Date:** 2021
+- **DOI:** 10.4036/IIS.2021.R.02
+- **Abstract:** One of the unsatisfactory aspects of spatial economics is the role ascribed to the agricultural sector. To study how economic activities are impacted by the falling trade costs of manufactured goods, it is convenient to assume that the agricultural sector has only one homogeneous product and that it is traded costlessly. This paper reports how these oversimpliﬁed assumptions can be improved and what new results are derived regarding the nonmanufacturing sectors. In particular, we survey how to apply this general-equilibrium approach to clarify the role of trade costs in disclosing some well-known puzzles, including the resource curse, Dutch disease, and transfer paradox.
+
+### 5. [Assessing the Intraday Variation of the Spillover Effect of Tweets-Derived Ambient Population on Crime](https://doi.org/10.1177/0894439320983825)
+- **Journal:** Social science computer review
+- **Authors:** Lin Liu, Minxuan Lan, J. Eck, Bo-xiong Yang, Hanlin Zhou
+- **Pub Date:** 2020-12-30
+- **DOI:** 10.1177/0894439320983825
+- **Abstract:** The spatial pattern of geotagged tweets reflects the dynamic distribution of the ambient population during day and night as a result of people’s routine activities. A few studies have assessed the impact of tweets-derived ambient population on crime and the spillover effect of such impact at different spatial and temporal scales. However, none has revealed the intraday variation of such spillover effect. This study analyzes both the direct and spillover effects of tweets-derived ambient population on crime and its intraday difference in day and night during weekdays and weekends. Four crime types, including assault, burglary, robbery, and theft, are examined at the neighborhood level. The analysis is based on negative binomial regression models, with the control of necessary socioeconomic and land-use variables driven by criminology theories. Results show (1) tweets-derived ambient population affects the magnitude of crime, but this effect varies by types of crime at different time periods of the day and week, and (2) the spillover effect of the tweets-derived ambient population exists for all four types of crime during most of the time periods at the neighborhood level and is particularly pronounced for thefts at all time periods. Similar results are seen in the block-level analysis. This study further confirms the utility of the count of geotagged tweets as a measure of the ambient population and its spatial lag for intraday analyses of crime, particularly theft.
+
+---
+

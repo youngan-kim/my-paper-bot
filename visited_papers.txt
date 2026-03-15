@@ -179,3 +179,8 @@ Community consequences of mass incarceration: sparking neighborhood social probl
 The hack: What it is and why it matters to urban studies
 Machine learning techniques for analysis of hyperspectral images to determine quality of food products: A review
 Thinking through people: The potential of volunteered geographic information for mobility and urban studies
+Uniting remote sensing, crop modelling and economics for agricultural risk management
+Spatial Analysis
+Complexity and Spatial Networks
+Spatial Economics and Nonmanufacturing Sectors
+Assessing the Intraday Variation of the Spillover Effect of Tweets-Derived Ambient Population on Crime
