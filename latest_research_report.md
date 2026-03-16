@@ -1632,3 +1632,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-16
+
+### 1. [Earthquake hazard and risk assessment using machine learning approaches at Palu, Indonesia.](https://doi.org/10.1016/j.scitotenv.2020.141582)
+- **Journal:** Science of the Total Environment
+- **Authors:** R. Jena, B. Pradhan, G. Beydoun, A. Alamri, Ardiansyah, Nizamuddin, Hizir Sofyan
+- **Pub Date:** 2020-12-20
+- **DOI:** 10.1016/j.scitotenv.2020.141582
+- **Abstract:** On 28th September 2018, a very high magnitude of earthquake Mw 7.5 struck the Palu city in the Island of Sulawesi, Indonesia. The main objective of this research is to estimate the earthquake risk based on probability and hazard in Palu region using cross-correlation among the derived parameters, Silhouette clustering (SC), pure locational clustering (PLC) based on hierarchical clustering analysis (HCA), convolutional neural network (CNN) and analytical hierarchy process (AHP) techniques. There is no specific or simple way of identifying risks as the definition of risk varies with time and space. The main aim of this study is: i) to conduct the clustering analysis to identify the earthquake-prone areas, ii) to develop a CNN model for probability estimation, and iii) to estimate and compare the risk using two calculation equations (Risk A and B). Owing to its high prediction ability, the CNN model assessed the probability while SC and PLC were implemented to understand the spatial clustering, Euclidean distance among clusters, spatial relationship and cross-correlation among the estimated Mw, PGA and intensity including events depth. Finally, AHP was implemented for the vulnerability assessment. To this end, earthquake probability assessment (EPA), susceptibility to seismic amplification (SSA) and earthquake vulnerability assessment (EVA) results were employed to generate risk A, while earthquake hazard assessment (EHA), SSA and EVA were used to generate risk B. The risk maps were compared and the differences in results were obtained. This research concludes that in the case of earthquake risk assessment (ERA), results obtained in Risk B are better than the risk A. This study achieved 89.47% accuracy for EPA while for EVA a consistency ratio of 0.07. These results have important implications for future large-scale risk assessment, land use planning and hazard mitigation.
+
+### 2. [Application of Participatory GIS in Crime Mapping of Ibadan North, Nigeria](https://doi.org/10.1080/23754931.2020.1858446)
+- **Journal:** Papers in applied geography
+- **Authors:** A. Bako, O. Aduloju, Dare J. Osewa, A. Anofi, Aisha T. Abubakar-Karma
+- **Pub Date:** 2020-12-16
+- **DOI:** 10.1080/23754931.2020.1858446
+- **Abstract:** Abstract This paper demonstrates the application of Participatory Geographic Information System (PGIS) as a tool to present people’s local spatial knowledge of crime in the form of 2-dimensional maps. This study adopted a survey research design employing both primary and secondary data sources. Primary data were collected through the administration of 96 copies of questionnaires, and a Web-based PGIS map served as a data collection instrument to collect spatial information on crime occurrences in the study area. Secondary data were sourced from journals, reports and the Nigerian Police Force. Results show that Mokola is a poor residential neighborhood occupied mainly by self-employed and low-income business merchants. It also reveals that Mokola experiences 689 percent more crime than would be expected, given the distribution of crime in the study area. Also, crime hotspots such as Roundabout junction, Dandaru hill, Darlington street were identified by participants aiding knowledge of the crime pattern in the study area. This study recommends natural surveillance as a concept of Crime Prevention through Environmental Design (CPTED) to keep potential offenders under easy observation. In conclusion, this study offers a vital link between the police and the general populace, one that has been absent in times past.
+
+### 3. [Analysis of Criminal Spatial Events in GIS for predicting hotspots](https://doi.org/10.1088/1757-899X/928/3/032071)
+- **Journal:** IOP Conference Series: Materials Science and Engineering
+- **Authors:** Abbas F. Mohammed, Wadhah R. Baiee
+- **Pub Date:** 2020-11-19
+- **DOI:** 10.1088/1757-899X/928/3/032071
+- **Abstract:** The crime rate increasing in developing countries cause of the unequal distribution of psychological, economic situation. This research aims to identify the crime mapping and investigate the hotspots and analyzing the spatial crime dataset and the predict of Spatio-temporal hotspot in Baltimore city for a period from 2012 to 2018. Analyzing crime data using data mining algorithms and The Geographic Information System (GIS) of Geographic dataset visualize and it possible for law enforcement to detect spatial crime patterns map easy and flexible and different analysis to identify the crime hotspot region efficiently. analysis crime hotspot using GIS is a useful way to the recognition for crime pattern and predicting hotspot over spatial correlation, analysis spatial data and revile crime pattern future detection. using spatial correlation, the G* statistic has been done with hotspot analysis the Getis-Ord Gi* to find the result of the spatial statistics pattern. analysis the crime to predict hotspot uses spatial variation and density crimes for clarifying the positions of statistically significant crime predict hotspots and cold spots and GIS interpolation method is used for more efficient visualization. This research using Grid network hotspots are applied to the crime data of Baltimore, Maryland state to recognize the hotspots for crime data like Shooting, Homicide and Assault by threat.
+
+### 4. [A spatial machine learning model for analysing customers’ lapse behaviour in life insurance](https://doi.org/10.1017/S1748499520000329)
+- **Journal:** Annals of Actuarial Science
+- **Authors:** Sen Hu, A. O'Hagan, James Sweeney, Mohammadhossein Ghahramani
+- **Pub Date:** 2020-11-10
+- **DOI:** 10.1017/S1748499520000329
+- **Abstract:** Abstract Spatial analysis ranges from simple univariate descriptive statistics to complex multivariate analyses and is typically used to investigate spatial patterns or to identify spatially linked consumer behaviours in insurance. This paper investigates if the incorporation of publicly available spatially linked demographic census data at population level is useful in modelling customers’ lapse behaviour (i.e. stopping payment of premiums) in life insurance policies, based on data provided by an insurance company in Ireland. From the insurance company’s perspective, identifying and assessing such lapsing risks in advance permit engagement to prevent such incidents, saving money by re-evaluating customer acquisition channels and improving capital reserve calculation and preparation. Incorporating spatial analysis in lapse modelling is expected to improve lapse prediction. Therefore, a hybrid approach to lapse prediction is proposed – spatial clustering using census data is used to reveal the underlying spatial structure of customers of the Irish life insurer, in conjunction with traditional statistical models for lapse prediction based on the company data. The primary contribution of this work is to consider the spatial characteristics of customers for life insurance lapse behaviour, via the integration of reliable government provided census demographics, which has not been considered previously in actuarial literature. Company decision-makers can use the insights gleaned from this analysis to identify customer subsets to target with personalized promotions to reduce lapse rates, and to reduce overall company risk.
+
+### 5. [Susceptibility mapping of groundwater salinity using machine learning models](https://doi.org/10.1007/s11356-020-11319-5)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** A. Mosavi, Farzaneh Sajedi Hosseini, Bahram Choubin, Fereshteh Taromideh, M. Ghodsi, B. Nazari, A. Dineva
+- **Pub Date:** 2020-10-25
+- **DOI:** 10.1007/s11356-020-11319-5
+- **Abstract:** None
+
+---
+
