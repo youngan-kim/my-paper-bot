@@ -189,3 +189,8 @@ Application of Participatory GIS in Crime Mapping of Ibadan North, Nigeria
 Analysis of Criminal Spatial Events in GIS for predicting hotspots
 A spatial machine learning model for analysing customers’ lapse behaviour in life insurance
 Susceptibility mapping of groundwater salinity using machine learning models
+Environmental Design and Neighborhood Context: A Multi-level Analysis of Crime at Apartments in Cincinnati Neighborhoods
+Spatial Patterns of Immigration and Property Crime in Vancouver: A Spatial Point Pattern Test
+Spatial interdependence and instrumental variable models
+Kyle A. Jaros, China’s Urban Champions: the Politics of Spatial Development
+History and Urban Economics
