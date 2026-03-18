@@ -194,3 +194,8 @@ Spatial Patterns of Immigration and Property Crime in Vancouver: A Spatial Point
 Spatial interdependence and instrumental variable models
 Kyle A. Jaros, China’s Urban Champions: the Politics of Spatial Development
 History and Urban Economics
+The spatial econometrics of the coronavirus pandemic
+Museum of spatial transcriptomics
+Machine Learning to Reveal Nanoparticle Dynamics from Liquid-Phase TEM Videos
+Geographically Weighted Regression Analysis for Spatial Economics Data: A Bayesian Recourse
+A comprehensive review of thermal comfort studies in urban open spaces.
