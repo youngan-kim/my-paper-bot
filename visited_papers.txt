@@ -199,3 +199,8 @@ Museum of spatial transcriptomics
 Machine Learning to Reveal Nanoparticle Dynamics from Liquid-Phase TEM Videos
 Geographically Weighted Regression Analysis for Spatial Economics Data: A Bayesian Recourse
 A comprehensive review of thermal comfort studies in urban open spaces.
+Landslide Susceptibility Mapping Using the Stacking Ensemble Machine Learning Method in Lushui, Southwest China
+Spatial analysis and GIS in the study of COVID-19. A review
+An optimal parameters-based geographical detector model enhances geographic characteristics of explanatory variables for spatial heterogeneity analysis: cases with different types of spatial data
+A comparison of machine learning models for the mapping of groundwater spring potential
+Spatial Economics for Granular Settings

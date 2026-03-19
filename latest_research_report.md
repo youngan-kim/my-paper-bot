@@ -1749,3 +1749,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-19
+
+### 1. [Landslide Susceptibility Mapping Using the Stacking Ensemble Machine Learning Method in Lushui, Southwest China](https://doi.org/10.3390/app10114016)
+- **Journal:** Applied Sciences
+- **Authors:** Xudong Hu, Han Zhang, Hongbo Mei, D. Xiao, Yuanyuan Li, Mengdi Li
+- **Pub Date:** 2020-06-10
+- **DOI:** 10.3390/app10114016
+- **Abstract:** Landslide susceptibility mapping is considered to be a prerequisite for landslide prevention and mitigation. However, delineating the spatial occurrence pattern of the landslide remains a challenge. This study investigates the potential application of the stacking ensemble learning technique for landslide susceptibility assessment. In particular, support vector machine (SVM), artificial neural network (ANN), logical regression (LR), and naive Bayes (NB) were selected as base learners for the stacking ensemble method. The resampling scheme and Pearson’s correlation analysis were jointly used to evaluate the importance level of these base learners. A total of 388 landslides and 12 conditioning factors in the Lushui area (Southwest China) were used as the dataset to develop landslide modeling. The landslides were randomly separated into two parts, with 70% used for model training and 30% used for model validation. The models’ performance was evaluated using the area under the receiver operating characteristic (ROC) curve (AUC) and statistical measures. The results showed that the stacking-based ensemble model achieved an improved predictive accuracy as compared to the single algorithms, while the SVM-ANN-NB-LR (SANL) model, the SVM-ANN-NB (SAN) model, and the ANN-NB-LR (ANL) models performed equally well, with AUC values of 0.931, 0.940, and 0.932, respectively, for validation stage. The correlation coefficient between the LR and SVM was the highest for all resampling rounds, with a value of 0.72 on average. This connotes that LR and SVM played an almost equal role when the ensemble of SANL was applied for landslide susceptibility analysis. Therefore, it is feasible to use the SAN model or the ANL model for the study area. The finding from this study suggests that the stacking ensemble machine learning method is promising for landslide susceptibility mapping in the Lushui area and is capable of targeting areas prone to landslides.
+
+### 2. [Spatial analysis and GIS in the study of COVID-19. A review](https://doi.org/10.1016/j.scitotenv.2020.140033)
+- **Journal:** Science of the Total Environment
+- **Authors:** Iván Franch-Pardo, Brian M. Napoletano, Fernando A. Rosete-Vergés, L. Billa
+- **Pub Date:** 2020-06-08
+- **DOI:** 10.1016/j.scitotenv.2020.140033
+- **Abstract:** This study entailed a review of 63 scientific articles on geospatial and spatial-statistical analysis of the geographical dimension of the 2019 coronavirus disease (COVID-19) pandemic. The diversity of themes identified in this paper can be grouped into the following categories of disease mapping: spatiotemporal analysis, health and social geography, environmental variables, data mining, and web-based mapping. Understanding the spatiotemporal dynamics of COVID-19 is essential for its mitigation, as it helps to clarify the extent and impact of the pandemic and can aid decision making, planning and community action. Health geography highlights the interaction of public health officials, affected actors and first responders to improve estimations of disease propagation and likelihoods of new outbreaks. Attempts at interdisciplinary correlation examine health policy interventions for the siting of health/sanitary services and controls, mapping/tracking of human movement, formulation of appropriate scientific and political responses and projection of spatial diffusion and temporal trends. This review concludes that, to fight COVID-19, it is important to face the challenges from an interdisciplinary perspective, with proactive planning, international solidarity and a global perspective. This review provides useful information and insight that can support future bibliographic queries, and also serves as a resource for understanding the evolution of tools used in the management of this major global pandemic of the 21 Century. It is hoped that its findings will inspire new reflections on the COVID-19 pandemic by readers.
+
+### 3. [An optimal parameters-based geographical detector model enhances geographic characteristics of explanatory variables for spatial heterogeneity analysis: cases with different types of spatial data](https://doi.org/10.1080/15481603.2020.1760434)
+- **Journal:** GIScience & Remote Sensing
+- **Authors:** Yongze Song, Jinfeng Wang, Y. Ge, Chengdong Xu
+- **Pub Date:** 2020-05-12
+- **DOI:** 10.1080/15481603.2020.1760434
+- **Abstract:** ABSTRACT Spatial heterogeneity represents a general characteristic of the inequitable distributions of spatial issues. The spatial stratified heterogeneity analysis investigates the heterogeneity among various strata of explanatory variables by comparing the spatial variance within strata and that between strata. The geographical detector model is a widely used technique for spatial stratified heterogeneity analysis. In the model, the spatial data discretization and spatial scale effects are fundamental issues, but they are generally determined by experience and lack accurate quantitative assessment in previous studies. To address this issue, an optimal parameters-based geographical detector (OPGD) model is developed for more accurate spatial analysis. The optimal parameters are explored as the best combination of spatial data discretization method, break number of spatial strata, and spatial scale parameter. In the study, the OPGD model is applied in three example cases with different types of spatial data, including spatial raster data, spatial point or areal statistical data, and spatial line segment data, and an R “GD” package is developed for computation. Results show that the parameter optimization process can further extract geographical characteristics and information contained in spatial explanatory variables in the geographical detector model. The improved model can be flexibly applied in both global and regional spatial analysis for various types of spatial data. Thus, the OPGD model can improve the overall capacity of spatial stratified heterogeneity analysis. The OPGD model and its diverse solutions can contribute to more accurate, flexible, and efficient spatial heterogeneity analysis, such as spatial patterns investigation and spatial factor explorations.
+
+### 4. [A comparison of machine learning models for the mapping of groundwater spring potential](https://doi.org/10.1007/s12665-020-08944-1)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** A. Al-Fugara, H. Pourghasemi, Abdel Rahman Al-Shabeeb, M. Habib, R. Al-Adamat, Hani Al-Amoush, A. Collins
+- **Pub Date:** 2020-05-01
+- **DOI:** 10.1007/s12665-020-08944-1
+- **Abstract:** None
+
+### 5. [Spatial Economics for Granular Settings](https://doi.org/10.2139/ssrn.3610868)
+- **Journal:** Social Science Research Network
+- **Authors:** Jonathan I. Dingel, F. Tintelnot
+- **Pub Date:** 2020-05-01
+- **DOI:** 10.2139/ssrn.3610868
+- **Abstract:** We introduce a general-equilibrium model of a "granular" spatial economy populated by a finite number of people. Our quantitative model is designed for application to the growing body of fine spatial data used to study economic outcomes for regions, cities, and neighborhoods. Conventional approaches invoking the law of large numbers are ill-suited for such empirical settings. We evaluate quantitative spatial models' out-of-sample predictions using event studies of large office openings in New York City. Our granular framework improves upon the conventional continuum-of-individuals model, which perfectly fits the pre-event data but produces predictions uncorrelated with the observed changes in commuting flows.
+
+---
+
