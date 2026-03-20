@@ -204,3 +204,8 @@ Spatial analysis and GIS in the study of COVID-19. A review
 An optimal parameters-based geographical detector model enhances geographic characteristics of explanatory variables for spatial heterogeneity analysis: cases with different types of spatial data
 A comparison of machine learning models for the mapping of groundwater spring potential
 Spatial Economics for Granular Settings
+Marijuana Dispensaries and Neighborhood Crime and Disorder in Denver, Colorado
+“The Frontier Political Science”: A Model of The Border City Policing Research
+Machine learning for cluster analysis of localization microscopy data
+Ecological Rationality in Spatial Planning: Concepts and Tools for Sustainable Land-Use Decisions
+Geospatial Artificial Intelligence: Potentials of Machine Learning for 3D Point Clouds and Geospatial Digital Twins

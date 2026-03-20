@@ -1788,3 +1788,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-20
+
+### 1. [Marijuana Dispensaries and Neighborhood Crime and Disorder in Denver, Colorado](https://doi.org/10.1080/07418825.2019.1567807)
+- **Journal:** Justice quarterly
+- **Authors:** L. Hughes, Lonnie Schaible, K. Jimmerson
+- **Pub Date:** 2020-04-15
+- **DOI:** 10.1080/07418825.2019.1567807
+- **Abstract:** Abstract Beginning with Colorado and Washington State in 2012, longstanding bans on the sale, possession, and use of marijuana for recreational purposes have been overturned in nine states and the nation’s capital. Consistent with the logic of routine activity theory and broken windows theory, critics of legalized marijuana argue that dispensaries are magnets for crime, attracting criminal offenders to the area with large sums of cash and valuable goods. The current study addresses this possibility by examining the effects of both medical and recreational marijuana dispensaries on yearly crime rates in N = 3981 neighborhood grid cells in Denver, Colorado, 2012–2015. Estimates from Bayesian spatiotemporal Poisson regression models indicate that, except for murder and auto theft, both types of dispensaries are associated with statistically significant increases in rates of neighborhood crime and disorder. The theoretical and policy implications of these findings are discussed.
+
+### 2. [“The Frontier Political Science”: A Model of The Border City Policing Research](https://doi.org/10.1109/ICUEMS50872.2020.00153)
+- **Journal:** 2020 International Conference on Urban Engineering and Management Science (ICUEMS)
+- **Authors:** Tang Liang
+- **Pub Date:** 2020-04-01
+- **DOI:** 10.1109/ICUEMS50872.2020.00153
+- **Abstract:** Because of its resources, the city has become a “Blessed Place” that the modern people yearn for. The pursuit of the welfare of resources leads to the siphon effect of population, resulting in a series of urban “Chronic Diseases” that become the breeding ground for crime. Border city belongs to the concept of city inferior, which logically connotation the advantages and disadvantages of city. The outer limit of “Border” determines the personality of “The Border City”. The extended interpretation of “Frontiers” in “The Frontier Political Science” and “The Border City” have reached the consistency of spatial identification. The theoretical framework of political science and the inherent political nature of police promote the coupling between theory and practice. Based on the above understanding, it is believed that the sublated intervention of the theoretical paradigm of “The Frontier Political Science” can provide a unique epistemological perspective and methodology for the research of the border city policing.
+
+### 3. [Machine learning for cluster analysis of localization microscopy data](https://doi.org/10.1038/s41467-020-15293-x)
+- **Journal:** Nature Communications
+- **Authors:** David J. Williamson, G. Burn, S. Simoncelli, J. Griffié, Ruby Peters, D. Davis, D. Owen
+- **Pub Date:** 2020-03-20
+- **DOI:** 10.1038/s41467-020-15293-x
+- **Abstract:** Quantifying the extent to which points are clustered in single-molecule localization microscopy data is vital to understanding the spatial relationships between molecules in the underlying sample. Many existing computational approaches are limited in their ability to process large-scale data sets, to deal effectively with sample heterogeneity, or require subjective user-defined analysis parameters. Here, we develop a supervised machine-learning approach to cluster analysis which is fast and accurate. Trained on a variety of simulated clustered data, the neural network can classify millions of points from a typical single-molecule localization microscopy data set, with the potential to include additional classifiers to describe different subtypes of clusters. The output can be further refined for the measurement of cluster area, shape, and point-density. We demonstrate this approach on simulated data and experimental data of the kinase Csk and the adaptor PAG in primary human T cell immunological synapses. The characterization of clusters in single-molecule microscopy data is vital to reconstruct emerging spatial patterns. Here, the authors present a fast and accurate machine-learning approach to clustering, to address the issues related to the size of the data and to sample heterogeneity.
+
+### 4. [Ecological Rationality in Spatial Planning: Concepts and Tools for Sustainable Land-Use Decisions](https://doi.org/10.1007/978-3-030-33027-9)
+- **Journal:** Cities and Nature
+- **Authors:** Lisa Benton-Short, John Rennie Short
+- **Pub Date:** 2020-03-03
+- **DOI:** 10.1007/978-3-030-33027-9
+- **Abstract:** None
+
+### 5. [Geospatial Artificial Intelligence: Potentials of Machine Learning for 3D Point Clouds and Geospatial Digital Twins](https://doi.org/10.1007/s41064-020-00102-3)
+- **Journal:** PFG – Journal of Photogrammetry Remote Sensing and Geoinformation Science
+- **Authors:** J. Döllner
+- **Pub Date:** 2020-02-01
+- **DOI:** 10.1007/s41064-020-00102-3
+- **Abstract:** Artificial intelligence (AI) is changing fundamentally the way how IT solutions are implemented and operated across all application domains, including the geospatial domain. This contribution outlines AI-based techniques for 3D point clouds and geospatial digital twins as generic components of geospatial AI. First, we briefly reflect on the term “AI” and outline technology developments needed to apply AI to IT solutions, seen from a software engineering perspective. Next, we characterize 3D point clouds as key category of geodata and their role for creating the basis for geospatial digital twins; we explain the feasibility of machine learning (ML) and deep learning (DL) approaches for 3D point clouds. In particular, we argue that 3D point clouds can be seen as a corpus with similar properties as natural language corpora and formulate a “Naturalness Hypothesis” for 3D point clouds. In the main part, we introduce a workflow for interpreting 3D point clouds based on ML/DL approaches that derive domain-specific and application-specific semantics for 3D point clouds without having to create explicit spatial 3D models or explicit rule sets. Finally, examples are shown how ML/DL enables us to efficiently build and maintain base data for geospatial digital twins such as virtual 3D city models, indoor models, or building information models. Georäumliche Künstliche Intelligenz: Potentiale des Maschinellen Lernens für 3D-Punktwolken und georäumliche digitale Zwillinge . Künstliche Intelligenz (KI) verändert grundlegend die Art und Weise, wie IT-Lösungen in allen Anwendungsbereichen, einschließlich dem Geoinformationsbereich, implementiert und betrieben werden. In diesem Beitrag stellen wir KI-basierte Techniken für 3D-Punktwolken als einen Baustein der georäumlichen KI vor. Zunächst werden kurz der Begriff ,,KI” und die technologischen Entwicklungen skizziert, die für die Anwendung von KI auf IT-Lösungen aus der Sicht der Softwaretechnik erforderlich sind. Als nächstes charakterisieren wir 3D-Punktwolken als Schlüsselkategorie von Geodaten und ihre Rolle für den Aufbau von räumlichen digitalen Zwillingen; wir erläutern die Machbarkeit der Ansätze für Maschinelles Lernen (ML) und Deep Learning (DL) in Bezug auf 3D-Punktwolken. Insbesondere argumentieren wir, dass 3D-Punktwolken als Korpus mit ähnlichen Eigenschaften wie natürlichsprachliche Korpusse gesehen werden können und formulieren eine ,,Natürlichkeitshypothese” für 3D-Punktwolken. Im Hauptteil stellen wir einen Workflow zur Interpretation von 3D-Punktwolken auf der Grundlage von ML/DL-Ansätzen vor, die eine domänenspezifische und anwendungsspezifische Semantik für 3D-Punktwolken ableiten, ohne explizite räumliche 3D-Modelle oder explizite Regelsätze erstellen zu müssen. Abschließend wird an Beispielen gezeigt, wie ML/DL es ermöglichen, Basisdaten für räumliche digitale Zwillinge, wie z.B. für virtuelle 3D-Stadtmodelle, Innenraummodelle oder Gebäudeinformationsmodelle, effizient aufzubauen und zu pflegen.
+
+---
+
