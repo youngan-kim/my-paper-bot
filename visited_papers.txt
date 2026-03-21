@@ -209,3 +209,8 @@ Marijuana Dispensaries and Neighborhood Crime and Disorder in Denver, Colorado
 Machine learning for cluster analysis of localization microscopy data
 Ecological Rationality in Spatial Planning: Concepts and Tools for Sustainable Land-Use Decisions
 Geospatial Artificial Intelligence: Potentials of Machine Learning for 3D Point Clouds and Geospatial Digital Twins
+Research trends and hotspots related to global carbon footprint based on bibliometric analysis: 2007–2018
+Gentrification, Land Use, and Crime
+Integrating microarray-based spatial transcriptomics and single-cell RNA-seq reveals tissue architecture in pancreatic ductal adenocarcinomas
+Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies.
+Disambiguating the southern urban critique: Propositions, pathways and possibilities for a more global urban studies

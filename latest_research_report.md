@@ -1827,3 +1827,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-21
+
+### 1. [Research trends and hotspots related to global carbon footprint based on bibliometric analysis: 2007–2018](https://doi.org/10.1007/s11356-020-08158-9)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** T. Yue, Haiwen Liu, R. Long, Hong Chen, Xin Gan, Junli Liu
+- **Pub Date:** 2020-03-25
+- **DOI:** 10.1007/s11356-020-08158-9
+- **Abstract:** None
+
+### 2. [Gentrification, Land Use, and Crime](https://doi.org/10.1146/annurev-criminol-011419-041505)
+- **Journal:** annual review of criminology
+- **Authors:** J. Macdonald, R. Stokes
+- **Pub Date:** 2020-01-13
+- **DOI:** 10.1146/annurev-criminol-011419-041505
+- **Abstract:** Over the past twenty years, many US cities have seen urban revitalization and population changes associated with an increased desire for urban living among the affluent. As inner-city neighborhoods become gentrified, they are more likely to witness the construction of new buildings and homes, the conversion of industrial spaces to mixed-used developments, expanded access to mass transit, and the arrival of coffee shops and other urban amenities. In this review, we take stock of what is known about the impact of gentrification and land-use changes on neighborhood crime. We summarize research conducted since the period of urban revitalization that started in the 1990s as well as studies that have a quasi-experimental design. We find that gentrification and associated changes to land use tend to reduce crime in neighborhoods. Our findings are tempered by the need for greater conceptual clarity on how to measure when a neighborhood has gentrified and a clearer examination of the spatial displacement of crime. We conclude with a discussion on the need for criminologists to partner with urban planners to study how changes in the land use of cities can be made to generate crime reductions that benefit all places and, finally, detail some promising directions for future research.
+
+### 3. [Integrating microarray-based spatial transcriptomics and single-cell RNA-seq reveals tissue architecture in pancreatic ductal adenocarcinomas](https://doi.org/10.1038/s41587-019-0392-8)
+- **Journal:** Nature Biotechnology
+- **Authors:** Reuben Moncada, Dalia Barkley, F. Wagner, Marta Chiodin, J. Devlin, Maayan Baron, C. Hajdu, D. Simeone, I. Yanai
+- **Pub Date:** 2020-01-13
+- **DOI:** 10.1038/s41587-019-0392-8
+- **Abstract:** None
+
+### 4. [Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies.](https://doi.org/10.1146/annurev-criminol-011419-041541)
+- **Journal:** annual review of criminology
+- **Authors:** Charles C. Lanfear, R. Matsueda, L. Beach
+- **Pub Date:** 2020-01-01
+- **DOI:** 10.1146/annurev-criminol-011419-041541
+- **Abstract:** An important criminological controversy concerns the proper causal relationships between disorder, informal social control, and crime. The broken windows thesis posits that neighborhood disorder increases crime directly and indirectly by undermining neighborhood informal social control. Theories of collective efficacy argue that the association between neighborhood disorder and crime is spurious because of the confounding variable informal social control. We review the recent empirical research on this question, which uses disparate methods, including field experiments and different models for observational data. To evaluate the causal claims made in these studies, we use a potential outcomes framework of causality. We conclude that, although there is some evidence for both broken windows and informal control theories, there is little consensus in the present research literature. Furthermore, at present, most studies do not establish causality in a strong way.
+
+### 5. [Disambiguating the southern urban critique: Propositions, pathways and possibilities for a more global urban studies](https://doi.org/10.1177/0042098019829412)
+- **Journal:** Urban studies
+- **Authors:** M. Lawhon, Yaffa Truelove
+- **Pub Date:** 2020-01-01
+- **DOI:** 10.1177/0042098019829412
+- **Abstract:** Scholarship engaging with (northern) urban theory from the south has troubled the core of urban studies. At this critical juncture, we argue that it is important to clarify core propositions and call attention to points of convergence and dissonance amongst advocates of ‘the southern urban critique’. We briefly review foundational arguments for this scholarly community, then outline three distinct iterations of the source of this critique: the south is empirically different; EuroAmerican hegemony works to displace a diversity of intellectual traditions; and the postcolonial encounter requires the critical interrogation of research practices. We then consider whether the southern urban critique is an argument for the study of a distinct southern urbanism, an ontological position about the socio-spatial contingency of all theorisation or a tactical strategy for calling attention to marginalised places and ideas to be superseded by an urban studies of a world of cities. We hope our efforts contribute to further conversation and greater analytical clarity, enabling more rigorous and robust articulations of the precise objects and objectives of the southern urban critique in particular, and urban studies more generally.
+
+---
+
