@@ -1905,3 +1905,43 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-23
+
+### 1. [Distance-based measures of spatial concentration: introducing a relative density function](https://doi.org/10.1007/s00168-019-00946-7)
+- **Journal:** The annals of regional science
+- **Authors:** G. Lang, Eric Marcon, Florence Puech
+- **Pub Date:** 2019-10-24
+- **DOI:** 10.1007/s00168-019-00946-7
+- **Abstract:** None
+
+### 2. [Statistical analysis of spatial expression patterns for spatially resolved transcriptomic studies](https://doi.org/10.1038/s41592-019-0701-7)
+- **Journal:** Nature Methods
+- **Authors:** Shiquan Sun, Jiaqiang Zhu, Xiang Zhou
+- **Pub Date:** 2019-10-21
+- **DOI:** 10.1038/s41592-019-0701-7
+- **Abstract:** Identifying genes that display spatial expression patterns in spatially resolved transcriptomic studies is an important first step toward characterizing the spatial transcriptomic landscape of complex tissues. Here we present a statistical method, SPARK, for identifying spatial expression patterns of genes in data generated from various spatially resolved transcriptomic techniques. SPARK directly models spatial count data through generalized linear spatial models. It relies on recently developed statistical formulas for hypothesis testing, providing effective control of type I errors and yielding high statistical power. With a computationally efficient algorithm, which is based on penalized quasi-likelihood, SPARK is also scalable to datasets with tens of thousands of genes measured on tens of thousands of samples. Analyzing four published spatially resolved transcriptomic datasets using SPARK, we show it can be up to ten times more powerful than existing methods and disclose biological discoveries that otherwise cannot be revealed by existing approaches. A statistical method called SPARK for analyzing spatially resolved transcriptomic data can efficiently identify spatially expressed genes with effective control of type I errors and high statistical power.
+
+### 3. [Spatial hazard assessment of the PM10 using machine learning models in Barcelona, Spain.](https://doi.org/10.1016/j.scitotenv.2019.134474)
+- **Journal:** Science of the Total Environment
+- **Authors:** Bahram Choubin, Mahsa Abdolshahnejad, E. Moradi, X. Querol, A. Mosavi, S. Shamshirband, Pedram Ghamisi
+- **Pub Date:** 2019-10-04
+- **DOI:** 10.1016/j.scitotenv.2019.134474
+- **Abstract:** Air pollution, and especially atmospheric particulate matter (PM), has a profound impact on human mortality and morbidity, environment, and ecological system. Accordingly, it is very relevant predicting air quality. Although the application of the machine learning (ML) models for predicting air quality parameters, such as PM concentrations, has been evaluated in previous studies, those on the spatial hazard modeling of them are very limited. Due to the high potential of the ML models, the spatial modeling of PM can help managers to identify the pollution hotspots. Accordingly, this study aims at developing new ML models, such as Random Forest (RF), Bagged Classification and Regression Trees (Bagged CART), and Mixture Discriminate Analysis (MDA) for the hazard prediction of PM10 (particles with a diameter less than 10 µm) in the Barcelona Province, Spain. According to the annual PM10 concentration in 75 stations, the healthy and unhealthy locations are determined, and a ratio 70/30 (53/22 stations) is applied for calibrating and validating the ML models to predict the most hazardous areas for PM10. In order to identify the influential variables of PM modeling, the simulated annealing (SA) feature selection method is used. Seven features, among the thirteen features, are selected as critical features. According to the results, all the three-machine learning (ML) models achieve an excellent performance (Accuracy > 87% and precision > 86%). However, the Bagged CART and RF models have the same performance and higher than the MDA model. Spatial hazard maps predicted by the three models indicate that the high hazardous areas are located in the middle of the Barcelona Province more than in the Barcelona's Metropolitan Area.
+
+### 4. [MODELING URBAN CRIME PATTERNS USING SPATIAL SPACE TIME AND REGRESSION ANALYSIS](https://doi.org/10.5194/isprs-archives-xlii-4-w16-247-2019)
+- **Journal:** The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** H. Hashim, W. Mohd, E. Sadek, K. M. Dimyati
+- **Pub Date:** 2019-10-01
+- **DOI:** 10.5194/isprs-archives-xlii-4-w16-247-2019
+- **Abstract:** Abstract. The population size, population density and rate of urbanization are often crediting to contributing increasing a crime pattern specially in city. Urbanism model stating that the rise in urban crime and social problems is based on three population indicators namely; size, density and heterogeneity. The objective of this paper is to identify crime patterns of the hot spot urban crime location and the factors influencing the crime pattern relationship with population size, population density and rate of urbanization population. This study employed the ArcGIS Pro 2.4 tool such as Emerging Hot Spot Analysis (Space Time) to determine a crime pattern and Ordinary Least Squares (OLS) Regression to determine the factors influencing the crime patterns. By using these analyses tools, this study found that 54 (53%) out of 102 total neighbourhood locations (2011–2017 years) had a 99 percent significance confidence level where z-score exceeded +2.58 with a small p-value (p < 0.01) as the hot spot crime location. The result of data analysis using OLS regression explains that combination of exploratory variable model rate of urbanization and population size contributes 56 percent (R2 = 0.559) variance in crime index rate incident [F (3,39) = 18.779, p < 0.01). While the population density (β = 0.045, t = 0.700, p > 0.10) is not a significance contributes to the change in crime index rate in Petaling and Klang district. The importance of the study is useful information for encouraging government and law enforcement agencies to promote safety and reduce risk of urban population crime areas.
+
+
+### 5. [Feature selection using neighborhood entropy-based uncertainty measures for gene expression data classification](https://doi.org/10.1016/J.INS.2019.05.072)
+- **Journal:** Information Sciences
+- **Authors:** Lin Sun, Xiaoyu Zhang, Y. Qian, Jiucheng Xu, Shiguang Zhang
+- **Pub Date:** 2019-10-01
+- **DOI:** 10.1016/J.INS.2019.05.072
+- **Abstract:** Abstract Gene expression data classification is an important technology for cancer diagnosis in bioinformatics and has been widely researched. Due to the large number of genes and the small sample size in gene expression data, feature selection based on neighborhood rough sets is a key step for improving the performance of gene expression data classification. However, some quantitative measures of feature sets may be nonmonotonic in neighborhood rough sets, and many feature selection methods based on evaluation functions yield high cardinality and low predictive accuracy. Therefore, investigating effective and efficient heuristic reduction algorithms is necessary. In this paper, a novel feature selection method based on neighborhood rough sets using neighborhood entropy-based uncertainty measures for cancer classification from gene expression data is proposed. First, some neighborhood entropy-based uncertainty measures are investigated for handling the uncertainty and noise of neighborhood decision systems. Then, to fully reflect the decision-making ability of attributes, the neighborhood credibility and neighborhood coverage degrees are defined and introduced into decision neighborhood entropy and mutual information, which are proven to be nonmonotonic. Moreover, some of the properties and relationships among these measures are derived, which is helpful for understanding the essence of the knowledge content and the uncertainty of neighborhood decision systems. Finally, the Fisher score method is employed to preliminarily eliminate irrelevant genes to significantly reduce complexity, and a heuristic feature selection algorithm with low computational complexity is presented to improve the performance of cancer classification using gene expression data. Experiments on ten gene expression datasets show that our proposed algorithm is indeed efficient and outperforms other related methods in terms of the number of selected genes and the classification accuracy, especially as the size of the genes increases.
+
+---
+
