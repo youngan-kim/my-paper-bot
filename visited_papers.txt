@@ -224,3 +224,8 @@ Statistical analysis of spatial expression patterns for spatially resolved trans
 Spatial hazard assessment of the PM10 using machine learning models in Barcelona, Spain.
 MODELING URBAN CRIME PATTERNS USING SPATIAL SPACE TIME AND REGRESSION ANALYSIS
 Feature selection using neighborhood entropy-based uncertainty measures for gene expression data classification
+Housing, urban growth and inequalities: The limits to deregulation and upzoning in reducing economic and spatial inequality
+Noxious Housing: The Influence of Single Room Occupancy (SRO) Facilities on Neighborhood Crime
+Spatial transcriptome profiling by MERFISH reveals subcellular RNA compartmentalization and cell cycle-dependent gene expression
+Not in my backyard? Not so fast. The effect of marijuana legalization on neighborhood crime
+High-definition spatial transcriptomics for in situ tissue profiling
