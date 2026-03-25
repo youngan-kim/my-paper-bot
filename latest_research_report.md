@@ -1984,3 +1984,44 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-25
+
+### 1. [DISEASES SPREAD PREDICTION IN TROPICAL AREAS BY MACHINE LEARNING METHODS ENSEMBLING AND SPATIAL ANALYSIS TECHNIQUES](https://doi.org/10.5194/isprs-archives-xlii-3-w8-221-2019)
+- **Journal:** The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** A. Kolesnikov, P. Kikin, A. Portnov
+- **Pub Date:** 2019-08-21
+- **DOI:** 10.5194/isprs-archives-xlii-3-w8-221-2019
+- **Abstract:** Abstract. Infection with tropical parasitic diseases has a great economic and social impact and is currently one of the most pressing health problem. These diseases, according to WHO, have a huge impact on the health of more than 40 million people worldwide and are the second leading cause of immunodeficiency. Developing countries may be providers of statistical data, but need help with forecasting and preventing epidemics. The number of infections is influenced by many factors - climatic, demographic, vegetation cover, land use, geomorphology. The purpose of the research is to investigate the space-time patterns, the relationship between diseases and environmental factors, assess the degree of influence of each of the factors, compare the quality of forecasting of individual techniques of geo-information analysis and machine learning and the way they are ensembled. Also we attempt to create a generalized mathematical model for predicting several types of diseases. The following resources were used as a data source: International Society for Infectious Diseases, Landsat, Sentinel. The paper concludes with the summary table containing the importance of individual climatic, social and spatial aspects affecting the incidence. The most effective predictions were given by a mathematical model based on a combination of spatial analysis techniques (MGWR) and neural networks based on the LSTM architecture.
+
+
+### 2. [Concentrated Burdens: How Self-Interest and Partisanship Shape Opinion on Opioid Treatment Policy](https://doi.org/10.1017/S0003055419000443)
+- **Journal:** American Political Science Review
+- **Authors:** Justin de Benedictis-Kessner, Michael Hankinson
+- **Pub Date:** 2019-07-25
+- **DOI:** 10.1017/S0003055419000443
+- **Abstract:** When does self-interest influence public opinion on contentious public policies? The bulk of theory in political science suggests that self-interest is only a minor force in public opinion. Using nationally representative survey data, we show how financial and spatial self-interest and partisanship all shape public opinion on opioid treatment policy. We find that a majority of respondents support a redistributive funding model for treatment programs, while treatment funded by taxation based on a community’s overdose rate is less popular. Moreover, financial self-interest cross-pressures lower-income Republicans, closing the partisan gap in support by more than half. We also experimentally test how the spatial burden of siting treatment clinics alters policy preferences. People across the political spectrum are less supportive when construction of a clinic is proposed closer to their home. These results highlight how partisanship and self-interest interact in shaping preferences on public policy with concentrated burdens.
+
+### 3. [Hate in the Machine: Anti-Black and Anti-Muslim Social Media Posts as Predictors of Offline Racially and Religiously Aggravated Crime](https://doi.org/10.1093/BJC/AZZ049)
+- **Journal:** British Journal of Criminology
+- **Authors:** M. Williams, P. Burnap, Amir Javed, Han Liu, Sefa Ozalp
+- **Pub Date:** 2019-07-23
+- **DOI:** 10.1093/BJC/AZZ049
+- **Abstract:** 
+ National governments now recognize online hate speech as a pernicious social problem. In the wake of political votes and terror attacks, hate incidents online and offline are known to peak in tandem. This article examines whether an association exists between both forms of hate, independent of ‘trigger’ events. Using Computational Criminology that draws on data science methods, we link police crime, census and Twitter data to establish a temporal and spatial association between online hate speech that targets race and religion, and offline racially and religiously aggravated crimes in London over an eight-month period. The findings renew our understanding of hate crime as a process, rather than as a discrete event, for the digital age.
+
+### 4. [Urban park crime: Neighborhood context and park features](https://doi.org/10.1016/J.JCRIMJUS.2019.101622)
+- **Journal:** Journal of criminal justice
+- **Authors:** R. Taylor, Cory P. Haberman, Elizabeth R. Groff
+- **Pub Date:** 2019-07-13
+- **DOI:** 10.1016/J.JCRIMJUS.2019.101622
+- **Abstract:** This work examined the determinants of park crime, drawing together into one conceptual frame three threads from community criminology - community demographic structural crime determinants; community cultural crime determinants, focusing specifically on social cohesion; and park features that are potentially crime and/or disorder relevant. Generalized structural equation models using data for 249 urban parks and their surrounds show: in the preferred model of disorder crime two aspects of nearby crime, and community social cohesion, both drive park crime; in the preferred model of violent crime, one aspect of nearby crime, community socioeconomic status, and one park feature, security fencing, all shape park crime. Implications for several domains within community criminology merit mention.
+
+### 5. [Neighborhood features in geospatial machine learning: the case of population disaggregation](https://doi.org/10.1080/15230406.2019.1618201)
+- **Journal:** Cartography and Geographic Information Science
+- **Authors:** J. Šimbera
+- **Pub Date:** 2019-07-01
+- **DOI:** 10.1080/15230406.2019.1618201
+- **Abstract:** ABSTRACT High-resolution population density data are crucial for advanced geographical analysis but are difficult to obtain owing to personal data protection. This paper presents a method to obtain these data through spatial disaggregation of aggregate data using random forests. Ancillary topographic data are used from open data sources, namely OpenStreetMap, Urban Atlas, and the NASA Shuttle Radar Topography Mission (SRTM). An attempt to increase disaggregation accuracy is made through a systematic conceptualization of proximity, neighborhood features. The method is implemented as a toolbox for Python and PostGIS and is tested on three cities in Central and Eastern Europe: Prague, Maribor, and Tallinn. It is shown that this approach produces more accurate predictions than other comparable approaches.
+
+---
+
