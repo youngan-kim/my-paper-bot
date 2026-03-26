@@ -234,3 +234,8 @@ Concentrated Burdens: How Self-Interest and Partisanship Shape Opinion on Opioid
 Hate in the Machine: Anti-Black and Anti-Muslim Social Media Posts as Predictors of Offline Racially and Religiously Aggravated Crime
 Urban park crime: Neighborhood context and park features
 Neighborhood features in geospatial machine learning: the case of population disaggregation
+Impacts of urban configuration on urban heat island: An empirical study in China mega-cities
+Interpretation: the final spatial frontier
+An analyses of the role of socio-economic classes in the spatial organization (a case study of Yazd, Iran)
+Making a place for space: Using spatial econometrics to model neighborhood effects
+Cities and quality of life. Quantitative modeling of the emergence of the happiness field in urban studies
