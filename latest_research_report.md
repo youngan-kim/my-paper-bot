@@ -2064,3 +2064,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-27
+
+### 1. [Say NOPE to social disorganization criminology: the importance of creators in neighborhood social control](https://doi.org/10.1186/s40163-022-00167-y)
+- **Journal:** Crime Science
+- **Authors:** Shannon J. Linning, Ajima Olaghere, J. Eck
+- **Pub Date:** 2022-06-21
+- **DOI:** 10.1186/s40163-022-00167-y
+- **Abstract:** Despite decades of research into social disorganization theory, criminologists have made little progress developing community programs that reduce crime. The lack of progress is due in part to faulty assumptions in the theory: that neighborhoods are important; that residents are the primary source of control; and that informal social controls are emergent. In this paper we propose an alternative: the neighborhoods out of places explanation (NOPE). NOPE starts with property parcels (i.e., proprietary places), rather than neighborhoods. It focuses on the power and legal authority of people and institutions that own property, rather than on residents. It posits that control is intentional and goal driven, rather than emergent. We refer to those who own and control as creators. This small group of elites shape city areas and residents must adapt to the environments that suppress or facilitate crime. We discuss how shifting our focus to creators provides important new implications for theory, research, and policy in criminology.
+
+### 2. [Enhancing urban ventilation performance through the development of precinct ventilation zones: A case study based on the Greater Sydney, Australia](https://doi.org/10.1016/J.SCS.2019.101472)
+- **Journal:** Sustainable cities and society
+- **Authors:** Bao-jie He, L. Ding, D. Prasad
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.SCS.2019.101472
+- **Abstract:** Abstract Along with ongoing urban development, cities are experiencing significantly different climates compared with surrounding rural or suburban areas. Among various causes, the traditional modification towards urban surface structures has been evidenced as an explanation for the variations of urban climate. This affirms the significances of urban morphology in urban climate study and management. However, urban morphology that focuses on the homogeneity of urban form is always very intricated, so that it is essential to clearly describe and differentiate the interactions between urban morphology and climatic conditions. Focusing on guiding ventilation performance-based planning, therefore, this paper aims at characterizing urban surface structures for the systematic studies of local ventilation performance. In specific, based on the pluridisciplinary method, this paper developed the protocol for the precinct ventilation characterization. The precinct ventilation zone system was derived according to ‘compactness + building height + street structure’, based on which 20 distinctive types of precinct ventilation zones in the Greater Sydney, Australia were presented. The classification system in this paper can provide wind-related researchers, engineers, designers and planners with intuitive understandings of the ventilation performance, thereby further assisting decision makers to formulate sound planning regulations with the inclusion of urban ventilation.
+
+### 3. [Theoretical foundations for spatial econometric research](https://doi.org/10.1016/J.REGSCIURBECO.2018.04.002)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** Xingbai Xu, Lung-fei Lee
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2018.04.002
+- **Abstract:** Abstract This paper reviews the development of large sample theories for spatial econometric models. These theories form important parts on statistical foundations for spatial econometrics. Another important component is the theoretical economics foundation for spatial econometric model specifications. We discuss how spatial econometric models can be regarded as the Nash equilibrium of some complete information games. Moran's I test for spatial dependence is based on a statistic with a linear-quadratic form. Scores of the ML and moments for 2SLS and GMM are also in linear-quadratic form. A statistic with a linear-quadratic form can be characterized as a sum of martingale differences, so the central limit theorem for martingale difference arrays is crucial for asymptotic distributions of such statistics. For linear spatial models, statistics on linear-quadratic forms are the basis of spatial econometrics. For nonlinear spatial models, near-epoch dependent random fields play a crucial role. We summarize some important properties of near-epoch dependent random fields and illustrate how they are used in studying nonlinear spatial models such as spatial Tobit and spatial binary choice models.
+
+### 4. [Estimation of spatial econometric linear models with large datasets: How big can spatial Big Data be?](https://doi.org/10.1016/J.REGSCIURBECO.2019.01.006)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** G. Arbia, C. Ghiringhelli, A. Mira
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2019.01.006
+- **Abstract:** Abstract Spatial econometrics is currently experiencing the Big Data revolution both in terms of the volume of data and the velocity with which they are accumulated. Regional data, employed traditionally in spatial econometric modeling, can be very large, with information that are increasingly available at a very fine resolution level such as census tracts, local markets, town blocks, regular grids or other small partitions of the territory. When dealing with spatial microeconometric models referred to the granular observations of the single economic agent, the number of observations available can be a lot higher. This paper reports the results of a systematic simulation study on the limits of the current methodologies when estimating spatial models with large datasets. In our study we simulate a Spatial Lag Model (SLM), we estimate it using Maximum Likelihood (ML), Two Stages Least Squares (2SLS) and Bayesian estimator (B), and we test their performances for different sample sizes and different levels of sparsity of the weight matrices. We considered three performance indicators, namely: computing time, storage required and accuracy of the estimators. The results show that using standard computer capabilities the analysis becomes prohibitive and unreliable when the sample size is greater than 70,000 even for low levels of sparsity. This result suggests that new approaches should be introduced to analyze the big datasets that are quickly becoming the new standard in spatial econometrics.
+
+### 5. [A time-space dynamic panel data model with spatial moving average errors](https://doi.org/10.1016/J.REGSCIURBECO.2018.04.013)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** B. Baltagi, B. Fingleton, A. Pirotte
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2018.04.013
+- **Abstract:** This paper focuses on the estimation and predictive performance of several estimators for the time-space dynamic panel data model with Spatial Moving Average Random Effects (SMA-RE) structure of the disturbances. A dynamic spatial Generalized Moments (GM) estimator is proposed which combines the approaches proposed by Baltagi, Fingleton and Pirotte (2014) and Fingleton (2008). The main idea is to mix non-spatial and spatial instruments to obtain consistent estimates of the parameters. Then, a forecasting approach is proposed and a linear predictor is derived. Using Monte Carlo simulations, we compare the short-run and long-run effects and evaluate the predictive efficiencies of optimal and various suboptimal predictors using the Root Mean Square Error (RMSE) criterion. Last, our approach is illustrated by an application in geographical economics which studies the employment levels across 255 NUTS regions of the EU over the period 2001-2012, with the last two years reserved for prediction.
+
+---
+

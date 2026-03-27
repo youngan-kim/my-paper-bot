@@ -239,3 +239,8 @@ Interpretation: the final spatial frontier
 An analyses of the role of socio-economic classes in the spatial organization (a case study of Yazd, Iran)
 Making a place for space: Using spatial econometrics to model neighborhood effects
 Cities and quality of life. Quantitative modeling of the emergence of the happiness field in urban studies
+Say NOPE to social disorganization criminology: the importance of creators in neighborhood social control
+Enhancing urban ventilation performance through the development of precinct ventilation zones: A case study based on the Greater Sydney, Australia
+Theoretical foundations for spatial econometric research
+Estimation of spatial econometric linear models with large datasets: How big can spatial Big Data be?
+A time-space dynamic panel data model with spatial moving average errors
