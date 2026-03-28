@@ -2103,3 +2103,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-03-28
+
+### 1. [Spatial transcriptomics identifies molecular niche dysregulation associated with distal lung remodeling in pulmonary fibrosis](https://doi.org/10.1038/s41588-025-02080-x)
+- **Journal:** Nature Genetics
+- **Authors:** A. Vannan, R. Lyu, A. L. Williams, N. Negretti, E. D. Mee, J. Hirsh, S. Hirsh, Niran Hadad, David Nichols, C. Calvi, Chase J. Taylor, V. Polosukhin, A. Serezani, A. McCall, J. Gokey, Heejung Shim, Lorraine B. Ware, M. Bacchetta, C. Shaver, Timothy S. Blackwell, Rajat Walia, J. Sucre, JA Kropski, Davis J. McCarthy, N. Banovich
+- **Pub Date:** 2025-02-03
+- **DOI:** 10.1038/s41588-025-02080-x
+- **Abstract:** Large-scale changes in the structure and cellular makeup of the distal lung are a hallmark of pulmonary fibrosis (PF), but the spatial contexts that contribute to disease pathogenesis have remained uncertain. Using image-based spatial transcriptomics, we analyzed the gene expression of 1.6 million cells from 35 unique lungs. Through complementary cell-based and innovative cell-agnostic analyses, we characterized the localization of PF-emergent cell types, established the cellular and molecular basis of classical PF histopathologic features and identified a diversity of distinct molecularly defined spatial niches in control and PF lungs. Using machine learning and trajectory analysis to segment and rank airspaces on a gradient of remodeling severity, we identified compositional and molecular changes associated with progressive distal lung pathology, beginning with alveolar epithelial dysregulation and culminating with changes in macrophage polarization. Together, these results provide a unique, spatially resolved view of PF and establish methods that could be applied to other spatial transcriptomic studies. Xenium spatial transcriptomic profiling of pulmonary fibrosis characterizes cell composition dynamics and histopathological features associated with the disease.
+
+### 2. [Neighborhood, social cohesion, and the Elderly's depression in Shanghai.](https://doi.org/10.1016/j.socscimed.2018.08.022)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Jia Miao, Xiaogang Wu, Xiulin Sun
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/j.socscimed.2018.08.022
+- **Abstract:** Neighborhood plays an important role in the provision of elderly care in the context of rapid population aging and dwindling traditional family support in China. This study investigates the association between neighborhood characteristics and depression and its mechanisms among older adults in Shanghai, focusing on social cohesion and social engagement. Based on data from the first wave of Shanghai Urban Neighborhood Survey (SUNS), we show that social cohesion is a channel through which neighborhood attributes are linked with the elderly's subjective well-being. Different from findings in Western societies, Chinese older adults living in neighborhoods of lower socioeconomic status are more likely to interact with their neighbors and thus perceive a higher level of social cohesion. Social cohesion, in turn, is associated with a lower rate of depression. We argue that housing policy in the pre-reform period that integrated work and housing led to the formation of unique Chinese neighborhoods, and that those living in socioeconomically disadvantaged neighborhoods have strong social ties, which moderate the negative consequences of living in a disadvantaged one. Moreover, a neighborhood with a lower dependency ratio provides more opportunities for volunteer participation which significantly associates with increased social cohesion and decreased depressive symptoms.
+
+### 3. [Network Spillovers and Neighborhood Crime: A Computational Statistics Analysis of Employment-Based Networks of Neighborhoods](https://doi.org/10.1080/07418825.2019.1602160)
+- **Journal:** Justice quarterly
+- **Authors:** C. Graif, Brittany N. Freelin, Yu-Hsuan Kuo, Hongjian Wang, Z. Li, Daniel Kifer
+- **Pub Date:** 2019-04-26
+- **DOI:** 10.1080/07418825.2019.1602160
+- **Abstract:** Abstract Research on communities and crime has predominantly focused on social conditions within an area or in its immediate proximity. However, a growing body of research shows that people often travel to areas away from home, contributing to connections between places. A few studies highlight the criminological implications of such connections, focusing on important but rare ties like co-offending or gang conflicts. The current study extends this idea by analyzing more common ties based on commuting across Chicago communities. It integrates standard criminological methods with machine learning and computational statistics approaches to investigate the extent to which neighborhood crime depends on the disadvantage of areas connected to it through commuting. The findings suggest that connected communities can influence each other from a distance and that connectivity to less disadvantaged work hubs may decrease local crime – with implications for advancing knowledge on the relational ecology of crime, social isolation, and ecological networks.
+
+### 4. [The Econometric Analysis of Non-Stationary Spatial Panel Data](https://doi.org/10.1007/978-3-030-03614-0)
+- **Journal:** Advances in Spatial Science
+- **Authors:** M. Beenstock, D. Felsenstein
+- **Pub Date:** 2019-03-28
+- **DOI:** 10.1007/978-3-030-03614-0
+- **Abstract:** None
+
+### 5. [The Sensitivity of Spatial Regression Models to Network Misspecification](https://doi.org/10.1017/pan.2019.12)
+- **Journal:** Political Analysis
+- **Authors:** Sebastian Juhl
+- **Pub Date:** 2019-03-25
+- **DOI:** 10.1017/pan.2019.12
+- **Abstract:** Spatial econometric models become increasingly popular in various subfields of political science. However, the necessity to specify the underlying network of dependencies, denoted by $\boldsymbol{W}$ , prior to estimation is a prevalent source of criticism since the true dependence structure is rarely known and theories mostly provide insufficient guidance. The present study investigates the effects of this network uncertainty which is a special case of model uncertainty that arises from uncertainty about the correct specification of $\boldsymbol{W}$ . It advocates Bayesian model averaging (BMA) as a superior approach to this problem, located at the intersection of theory and empirics. Conducting Monte Carlo experiments, I demonstrate that, while the effect estimates are robust toward a misspecification in the functional form of $\boldsymbol{W}$ , uncertainty in the neighborhood definition can bias the effect estimates derived from spatial autoregressive models. In contrast to alternative techniques, BMA directly addresses network uncertainty, correctly identifies the true network structure in the set of feasible alternatives, and provides unbiased effect estimates. Two replication studies from different subfields of the discipline illustrate the benefits of this approach for applied research.
+
+---
+

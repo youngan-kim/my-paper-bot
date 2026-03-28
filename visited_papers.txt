@@ -244,3 +244,8 @@ Enhancing urban ventilation performance through the development of precinct vent
 Theoretical foundations for spatial econometric research
 Estimation of spatial econometric linear models with large datasets: How big can spatial Big Data be?
 A time-space dynamic panel data model with spatial moving average errors
+Spatial transcriptomics identifies molecular niche dysregulation associated with distal lung remodeling in pulmonary fibrosis
+Neighborhood, social cohesion, and the Elderly's depression in Shanghai.
+Network Spillovers and Neighborhood Crime: A Computational Statistics Analysis of Employment-Based Networks of Neighborhoods
+The Econometric Analysis of Non-Stationary Spatial Panel Data
+The Sensitivity of Spatial Regression Models to Network Misspecification
