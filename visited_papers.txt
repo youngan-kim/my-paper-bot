@@ -254,3 +254,8 @@ Role of economics in analyzing the environment and sustainable development
 Changing spatial patterns of residential burglary and the crime drop: The need for spatial data signatures
 Simulating the impact of transport infrastructure investment on wages: A dynamic spatial panel model approach
 The ASIM Mission on the International Space Station
+From race-to-the-bottom to strategic imitation: how does political competition impact the environmental enforcement of local governments in China?
+Modeling Crime in an Uptown Neighborhood: The Case of Santa Fe in Mexico City
+The Concentration of Crime at Place in Montreal and Toronto
+The Spatial Effect of Police Foot Patrol on Crime Patterns: A Local Analysis
+Postsecondary Education, Neighborhood Disadvantage, and Crime: An Examination of Life Course Relative Deprivation

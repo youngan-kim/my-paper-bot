@@ -2187,3 +2187,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-03-30
+
+### 1. [From race-to-the-bottom to strategic imitation: how does political competition impact the environmental enforcement of local governments in China?](https://doi.org/10.1007/s11356-020-09003-9)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Zhenbo Zhang, Taijun Jin, Xiaohua Meng
+- **Pub Date:** 2020-04-30
+- **DOI:** 10.1007/s11356-020-09003-9
+- **Abstract:** None
+
+### 2. [Modeling Crime in an Uptown Neighborhood: The Case of Santa Fe in Mexico City](https://doi.org/10.1080/23754931.2018.1554502)
+- **Journal:** Papers in applied geography
+- **Authors:** Carlos Vilalta, Gustavo Fondevila
+- **Pub Date:** 2019-02-23
+- **DOI:** 10.1080/23754931.2018.1554502
+- **Abstract:** Abstract What are the correlates of crime incidence in an uptown and wealthy neighborhood? This article focuses on the Santa Fe neighborhood in Mexico City as a case study to answer to this question. Theoretically, it makes use of crime pattern and social disorganization theories. It is argued that crime incidence in an uptown neighborhood can also be modeled based on variables that represent crime generators and crime attractors. It is also argued that the existence of structurally disadvantaged census blocks within this neighborhood will increase the odds of crime incidence. Empirically it uses crime incidence data from the local police in Mexico City and census data from the National Institute of Statistics. The study shows that crime opportunity theory gives a better fit to the data, and that a mixed geographically weighted Poisson regression gives more reliable estimates of crime incidence.
+
+### 3. [The Concentration of Crime at Place in Montreal and Toronto](https://doi.org/10.3138/CJCCJ.2018-0007)
+- **Journal:** Canadian Journal of Criminology and Criminal Justice
+- **Authors:** R. Boivin, Silas Nogueira de Melo
+- **Pub Date:** 2019-02-20
+- **DOI:** 10.3138/CJCCJ.2018-0007
+- **Abstract:** Abstract:The identification of hot spots of crime – areas of high crime intensity – is of primary importance for crime prevention strategies. While the notion of crime hot spots is well accepted in Anglo-Saxon criminology, its empirical foundation is largely drawn from U.S. studies, and comparatively little literature is available for other countries, including Canada. Taking advantage of their respective “open data” initiatives, this study compares the spatial pattern of the two largest Canadian cities, Montreal and Toronto. The authors also review and empirically explore five propositions from the existing literature: (1) that a small proportion of places account for a large proportion of recorded criminal incidents; (2) that crime concentration is inversely correlated with the size of geographic units; (3) that crime concentration drastically varies whether all places or only places where at least one crime occurred are considered; (4) that different hot spots are identified at particular times of the day; and (5) that hot spots of different crime types do not overlap much. Both Toronto and Montreal appear to be very similar in terms of crime concentrations and hot spots. Additionally, this study provides preliminary support for the idea that findings from other countries can be generalized to the Canadian context.Résumé:L’identification de secteurs sensibles – des secteurs où l’intensité du crime est élevée – est de première importance dans les stratégies de prévention du crime. Tandis que l’idée de secteurs sensibles est acceptée dans la terminologie anglo-saxonne, ses fondements empiriques sont surtout tirés d’études américaines et comparativement peu de littérature est disponible dans d’autres pays, notamment le Canada. En tirant profit de leurs projets respectifs de « données ouvertes », cette étude compare les motifs spatiaux des deux plus grandes villes canadiennes : Montréal et Toronto. De plus, les auteurs révisent et explorent de manière empirique les cinq propositions découlant de la littérature existante, notamment que : (1) une petite proportion d’endroits explique une grande proportion d’incidents criminels enregistrés; (2) la concentration du crime est en corrélation inverse avec la taille des unités géographiques; (3) la concentration du crime varie de façon importante, peu importe si tous les endroits où seuls les endroits où au moins un crime a eu lieu sont considérés; (4) différents secteurs sensibles sont identifiés à des heures de la journée particulière; et (5) les secteurs sensibles de différents types de crime ne se chevauchent pas souvent. Toronto et Montréal semblent être similaires en matière de concentrations du crime et de secteurs sensibles. De plus, cette étude fournit un appui préliminaire à l’idée que les résultats des autres pays peuvent être généralisés pour s’inscrire dans le contexte canadien.
+
+### 4. [The Spatial Effect of Police Foot Patrol on Crime Patterns: A Local Analysis](https://doi.org/10.1177/0306624X19828586)
+- **Journal:** International journal of offender therapy and comparative criminology
+- **Authors:** Martin A. Andresen, Jen-Li Shen
+- **Pub Date:** 2019-02-06
+- **DOI:** 10.1177/0306624X19828586
+- **Abstract:** A foot patrol program was implemented in Lower Lonsdale, British Columbia, in the summer of 2010 and continues today. As a part of assessing the foot patrol’s effect on crime in the neighbourhood, the spatial similarity was examined by comparing the crime pattern before the foot patrol initiative (2007-2009) with the crime pattern during the foot patrol program (2010-2012). Considering these baseline and treatment data sets and a spatial point pattern test, the spatial similarity between two data sets is analyzed. In general, the continued presence of foot patrol appears to have created a concentration of crime in specific areas, rather than a diffusion effect. The areas that continued to experience increased crime during foot patrol presence were often in the catchment area, suggesting displacement does occur, or along the border between the catchment and primary patrol area.
+
+### 5. [Postsecondary Education, Neighborhood Disadvantage, and Crime: An Examination of Life Course Relative Deprivation](https://doi.org/10.1177/0011128717753115)
+- **Journal:** Crime and delinquency
+- **Authors:** Christopher R. Dennison, Raymond R. Swisher
+- **Pub Date:** 2019-02-01
+- **DOI:** 10.1177/0011128717753115
+- **Abstract:** None
+
+---
+
