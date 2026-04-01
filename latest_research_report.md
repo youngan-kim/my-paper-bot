@@ -2265,3 +2265,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-01
+
+### 1. [Spatial proteomics: a powerful discovery tool for cell biology](https://doi.org/10.1038/s41580-018-0094-y)
+- **Journal:** Nature reviews. Molecular cell biology
+- **Authors:** E. Lundberg, Georg H. H. Borner
+- **Pub Date:** 2019-01-18
+- **DOI:** 10.1038/s41580-018-0094-y
+- **Abstract:** None
+
+### 2. [Looking Through Broken Windows: The Impact of Neighborhood Disorder on Aggression and Fear of Crime Is an Artifact of Research Design](https://doi.org/10.1146/ANNUREV-CRIMINOL-011518-024638)
+- **Journal:** annual review of criminology
+- **Authors:** D. O’Brien, Chelsea Farrell, Brandon C. Welsh
+- **Pub Date:** 2019-01-14
+- **DOI:** 10.1146/ANNUREV-CRIMINOL-011518-024638
+- **Abstract:** Broken windows theory (BWT) has heavily influenced social science and policy over the past 30 years. It posits that disorder in neighborhoods leads to elevated crime by inviting additional criminal activity and by discouraging the positive social behavior that prevents crime. Scholars have debated the veracity of BWT, and here we conduct a meta-analysis of 96 studies to examine the effects of disorder on residents’ ( a) general proclivities for aggressive behavior and ( b) perceptions of and attitudes toward their neighborhood (e.g., fear of crime), with particular attention to aspects of research design that might confound causal inference. We found no consistent evidence that disorder induces greater aggression or more negative attitudes toward the neighborhood. Studies that found such effects disproportionately utilized weaker research designs that omit key correlates or confound perceptions of disorder with other neighborhood attitudes. We explore implications for theory, research, and policy.
+
+### 3. [A review of mitigating strategies to improve the thermal environment and thermal comfort in urban outdoor spaces.](https://doi.org/10.1016/j.scitotenv.2019.01.062)
+- **Journal:** Science of the Total Environment
+- **Authors:** D. Lai, Wenyu Liu, Tingting Gan, Kuixing Liu, Qingyan Chen
+- **Pub Date:** 2019-01-08
+- **DOI:** 10.1016/j.scitotenv.2019.01.062
+- **Abstract:** Urban open space provides various benefits to citizens, but the thermal environment of this space is impacted by global warming and urban heat islands. A growing number of studies have been conducted on strategies for improving the urban thermal environment and attracting more people to outdoor spaces. This paper reviews the mechanisms and cooling effects of four major mitigation strategies, namely, changing the urban geometry, planting vegetation, using cool surface, and incorporating bodies of water. Our review found that on summer days these four strategies yielded a median reduction in air temperature of 2.1 K, 2.0 K, 1.9 K, and 1.8 K, respectively. In terms of integrated effect on thermal comfort, changing the urban geometry provided the greatest improvement, with the largest reduction in physiologically equivalent temperature (PET) in summer (median ΔPET = 18.0 K). The use of vegetation and water bodies reduced the median PET by 13.0 K and 4.6 K, respectively. However, some simulation studies found that reflective surface led to higher PET in summer because of the increased amount of reflected solar radiation. The mitigation strategies improved the urban thermal environment to a greater extent in hotter and drier climates. Vegetation, cool surface, and water bodies provided less cooling in compact urban spaces than in open areas. The results that we reviewed can be used by designers and planners seeking to create thermally comfortable urban open spaces.
+
+### 4. [Exploring the impact of 9398 demolitions on neighborhood-level crime in Detroit, Michigan](https://doi.org/10.1016/J.JCRIMJUS.2018.11.002)
+- **Journal:** Journal of criminal justice
+- **Authors:** M. Larson, Yanqing Xu, Leah Ouellet, Charles F. Klahm
+- **Pub Date:** 2019-01-01
+- **DOI:** 10.1016/J.JCRIMJUS.2018.11.002
+- **Abstract:** Abstract The intersection of neighborhood-level processes and crime has received a wealth of attention in the criminological literature over the last century. In line with this tradition, the current study focuses its attention to one of the more recent, and woefully under-explored, policy phenomena embraced by a growing number of cities throughout the United States: demolitions. From 2010 to 2014, the city of Detroit successfully completed a total of 9398 demolitions, making it the nation's leader in the demolitions experiment. Focusing specifically on crime at the block-group level, we examine the association between demolitions and changes in four crime types (i.e. total crime, violent crime, drug crime, and property crime) by calling upon a set of publicly available geo-spatial crime and demolition data. We find that demolitions have a statistically and substantively meaningful negative relationship with total crime, violent crime, and property crime in 2014, net of controls for prior crime and structural covariates. Supplemental analyses also indicate that reductions in crime from 2009 to 2014 were greatest among block-groups that experienced the greatest number of demolitions. We conclude with a discussion of the theoretical and policy implications of demolitions as a potentially valuable crime reduction strategy.
+
+### 5. [Explaining the temporal and spatial dimensions of robbery: Differences across measures of the physical and social environment](https://doi.org/10.1016/J.JCRIMJUS.2018.10.005)
+- **Journal:** Journal of criminal justice
+- **Authors:** John R. Hipp, Young-An Kim
+- **Pub Date:** 2019
+- **DOI:** 10.1016/J.JCRIMJUS.2018.10.005
+- **Abstract:** Given the evidence that crime events exhibit both a spatial and a temporal pattern, we explore whether certain social and physical environment characteristics have varying relationships with crime at different times of day.
+
+---
+
