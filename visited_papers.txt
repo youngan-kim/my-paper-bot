@@ -269,3 +269,8 @@ Looking Through Broken Windows: The Impact of Neighborhood Disorder on Aggressio
 A review of mitigating strategies to improve the thermal environment and thermal comfort in urban outdoor spaces.
 Exploring the impact of 9398 demolitions on neighborhood-level crime in Detroit, Michigan
 Explaining the temporal and spatial dimensions of robbery: Differences across measures of the physical and social environment
+(Under What Conditions) Do Politicians Reward Their Supporters? Evidence from Kenya’s Constituencies Development Fund
+Interpreting Spatial Econometric Models
+SKYNET: An R package for generating air passenger networks for urban studies
+The street level and beyond: The impact of ethnic diversity on neighborhood cohesion and fear of crime among Dutch natives and nonnatives
+Racial or Spatial Voting? The Effects of Candidate Ethnicity and Ethnic Group Endorsements in Local Elections
