@@ -2343,3 +2343,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-03
+
+### 1. [Chronic urban trauma: The slow violence of housing dispossession](https://doi.org/10.1177/0042098018795796)
+- **Journal:** Urban studies
+- **Authors:** R. Pain
+- **Pub Date:** 2018-11-15
+- **DOI:** 10.1177/0042098018795796
+- **Abstract:** This paper sets the idea of slow violence into dialogue with trauma, to understand the practice and legitimisation of the repeated damage done to certain places through state violence. Slow violence (Nixon R (2011) Slow Violence and the Environmentalism of the Poor. Cambridge, MA: Harvard University Press) describes the ‘attritional lethality’ of many contemporary effects of globalisation. While originating in environmental humanities, it has clear relevance for urban studies. After assessing accounts of the post-traumatic city, the paper draws insights from feminist psychiatry and postcolonial analysis to develop the concept of chronic urban trauma, as a psychological effect of violence involving an ongoing relational dynamic. Reporting from a three-year participatory action research project on the managed decline and disposal of social housing in a former coalmining village in north-east England, the paper discusses the temporal and place-based effects of slow violence. It argues that chronic urban trauma becomes hard-wired in place, enabling retraumatisation while also remaining open to efforts to heal and rebuild.
+
+### 2. [Analyzing the ENVI-met microclimate model’s performance and assessing cool materials and urban vegetation applications–A review](https://doi.org/10.1016/J.SCS.2018.08.009)
+- **Journal:** Sustainable cities and society
+- **Authors:** S. Tsoka, A. Tsikaloudaki, T. Theodosiou
+- **Pub Date:** 2018-11-01
+- **DOI:** 10.1016/J.SCS.2018.08.009
+- **Abstract:** Abstract Increased urban air temperatures due to urbanization affect the buildings’ energy performance and the outdoor thermal comfort. Aiming on the establishment of adaption strategies, urban microclimate studies using numerical simulation tools are gaining great scientific attention. The ENVI-met model is one of the most widely employed dynamic simulation tools. Considering its increasing use, this review aims to perform a meta-analysis of the reported evaluation results, reflecting the capability of the model to accurately calculate the diurnal profile of microclimatic variables. The analysis relies on the definition of the range of the reported metrics and on the investigation of the relationship between the various indices, applied for the model evaluation. Secondly, the study assesses the existing ENVI-met simulation results, indicating the cooling potential of urban greenery and cool materials regarding air, surface and mean radiant temperature modifications. The analysis revealed that the model can be considered as a helpful tool for urban climate analysis, provided that its limitations and features are accounted for by the user during the interpretation of the simulation outcome. Concerning the performance of the examined mitigation strategies, the most popular technology is the urban greenery while the mitigation potential is increased when different strategies are combined.
+
+### 3. [Spatiotemporal Modeling of Correlated Small‐Area Outcomes: Analyzing the Shared and Type‐Specific Patterns of Crime and Disorder](https://doi.org/10.1111/GEAN.12173)
+- **Journal:** Geographical Analysis
+- **Authors:** Matthew Quick, Guangquan Li, J. Law
+- **Pub Date:** 2018-10-23
+- **DOI:** 10.1111/GEAN.12173
+- **Abstract:** This research applies a Bayesian spatio-temporal modeling approach to jointly analyze physical disorder, social disorder, property crime, and violent crime over five years at the small-area scale. Despite crime and disorder outcomes exhibiting similar spatio-temporal patterns, as hypothesized by broken windows and collective efficacy theories, past research often analyzes one outcome and overlooks correlations between related crimes as well as underlying spatial and/or temporal patterns common to multiple crime and disorder types. In this article, the best fitting model partitions the area-specific risk of each type of crime and disorder into one spatial shared component and four type-specific spatial, temporal, and space-time components. The shared component captures the spatial pattern common to physical disorder, social disorder, property crime, and violent crime. Results show that the spatial shared component explains the largest amounts of variability for all types of crime and disorder and that temporal components explained the least. Space-time interaction hotspots are identified via posterior probabilities and are examined to contextualize the broken windows theory. The applications of joint spatio-temporal modeling to ecological crime theories, policing, and urban policy are discussed.
+
+### 4. [Space-time-coding digital metasurfaces](https://doi.org/10.1038/s41467-018-06802-0)
+- **Journal:** Nature Communications
+- **Authors:** Lei Zhang, X. Q. Chen, Shuo Liu, Qian Zhang, Jie Zhao, J. Dai, G. Bai, X. Wan, Q. Cheng, G. Castaldi, V. Galdi, T. Cui
+- **Pub Date:** 2018-10-18
+- **DOI:** 10.1038/s41467-018-06802-0
+- **Abstract:** The recently proposed digital coding metasurfaces make it possible to control electromagnetic (EM) waves in real time, and allow the implementation of many different functionalities in a programmable way. However, current configurations are only space-encoded, and do not exploit the temporal dimension. Here, we propose a general theory of space-time modulated digital coding metasurfaces to obtain simultaneous manipulations of EM waves in both space and frequency domains, i.e., to control the propagation direction and harmonic power distribution simultaneously. As proof-of-principle application examples, we consider harmonic beam steering, beam shaping, and scattering-signature control. For validation, we realize a prototype controlled by a field-programmable gate array, which implements the harmonic beam steering via an optimized space-time coding sequence. Numerical and experimental results, in good agreement, demonstrate good performance of the proposed approach, with potential applications to diverse fields such as wireless communications, cognitive radars, adaptive beamforming, holographic imaging. Current digital coding metasurfaces are only space-encoded. Here, the authors propose space-time modulated digital coding metasurfaces to obtain simultaneous manipulations of electromagnetic waves and present harmonic beam steering, beam shaping, and scattering-signature control as application examples.
+
+### 5. [Dynamic DNA methylation: In the right place at the right time](https://doi.org/10.1126/science.aat6806)
+- **Journal:** Science
+- **Authors:** C. Luo, P. Hájková, J. Ecker
+- **Pub Date:** 2018-09-28
+- **DOI:** 10.1126/science.aat6806
+- **Abstract:** The classical model of cytosine DNA methylation (the presence of 5-methylcytosine, 5mC) regulation depicts this covalent modification as a stable repressive regulator of promoter activity. However, whole-genome analysis of 5mC reveals widespread tissue- and cell type–specific patterns and pervasive dynamics during mammalian development. Here we review recent findings that delineate 5mC functions in developmental stages and diverse genomic compartments as well as discuss the molecular mechanisms that connect transcriptional regulation and 5mC. Beyond the newly appreciated dynamics, regulatory roles for 5mC have been suggested in new biological contexts, such as learning and memory or aging. The use of new single-cell measurement techniques and precise editing tools will enable functional analyses of 5mC in gene expression, clarifying its role in various biological processes.
+
+---
+
