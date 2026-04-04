@@ -279,3 +279,8 @@ Analyzing the ENVI-met microclimate model’s performance and assessing cool mat
 Spatiotemporal Modeling of Correlated Small‐Area Outcomes: Analyzing the Shared and Type‐Specific Patterns of Crime and Disorder
 Space-time-coding digital metasurfaces
 Dynamic DNA methylation: In the right place at the right time
+Predictive machine learning and geospatial modeling reveal PM10 hotspots and guide targeted air pollution interventions in Addis Ababa, Ethiopia
+Institutional Completeness and Crime Rates in Immigrant Neighborhoods
+Connected in Crime: The Enduring Effect of Neighborhood Networks on the Spatial Patterning of Violence1
+Crime-general and crime-specific spatial patterns: A multivariate spatial analysis of four crime types at the small-area scale
+Effects of urban form on the urban heat island effect based on spatial regression model.
