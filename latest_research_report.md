@@ -2421,3 +2421,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-05
+
+### 1. [Low-Income Housing and Crime: The Influence of Housing Development and Neighborhood Characteristics](https://doi.org/10.1177/0011128718794185)
+- **Journal:** Crime and delinquency
+- **Authors:** Marie Skubak Tillyer, Rebecca J. Walter
+- **Pub Date:** 2018-08-17
+- **DOI:** 10.1177/0011128718794185
+- **Abstract:** This study examines the distribution of crime across various types of low-income housing developments and estimates the main and interactive effects of housing development and neighborhood characteristics on crime. Negative binomial regression models were estimated to observe the influence of security and design features, neighborhood concentrated disadvantage, residential stability, and nearby nonresidential land use on crime at the housing developments. The findings suggest that low-income housing developments are not uniformly criminogenic, and both development characteristics and neighborhood conditions are relevant for understanding crime in low-income housing developments. Implications for prevention are discussed.
+
+### 2. [The hippocampal engram maps experience but not place](https://doi.org/10.1126/science.aat5397)
+- **Journal:** Science
+- **Authors:** Kazumasa Z. Tanaka, Hongshen He, Anupratap Tomar, K. Niisato, Arthur J. Y. Huang, T. McHugh
+- **Pub Date:** 2018-07-27
+- **DOI:** 10.1126/science.aat5397
+- **Abstract:** Support for the memory index theory The link between contextual memory representations and locations or routes represented by hippocampal place cells during exploration remains unknown. Tanaka et al. examined spatial firing properties of neurons in hippocampal area CA1 on the basis of whether they had recently expressed the immediate-early activity-induced gene c-Fos in response to a novel context. The c-Fos–positive neurons displayed a more on-off firing pattern than the c-Fos–negative cells during context discrimination. In a contextual recognition paradigm, these results support the index theory of hippocampal function over a cognitive mapping theory. Science, this issue p. 392 Neuronal firing in the hippocampus is related to experience rather than just a representation of place. Episodic memories are encoded by a sparse population of hippocampal neurons. In mice, optogenetic manipulation of this memory engram established that these neurons are indispensable and inducing for memory recall. However, little is known about their in vivo activity or precise role in memory. We found that during memory encoding, only a fraction of CA1 place cells function as engram neurons, distinguished by firing repetitive bursts paced at the theta frequency. During memory recall, these neurons remained highly context specific, yet demonstrated preferential remapping of their place fields. These data demonstrate a dissociation of precise spatial coding and contextual indexing by distinct hippocampal ensembles and suggest that the hippocampal engram serves as an index of memory content.
+
+### 3. [Revisiting the Crime Control Benefits of Voluntary Organizations: Organizational Presence, Organizational Capacity, and Crime Rates in Los Angeles Neighborhoods](https://doi.org/10.1177/0011128718787517)
+- **Journal:** Crime and delinquency
+- **Authors:** James C. Wo
+- **Pub Date:** 2018-07-19
+- **DOI:** 10.1177/0011128718787517
+- **Abstract:** This study examines the independent effects that the number of voluntary organizations and the total amount of income they possess have on neighborhood crime, over time. Drawing upon a sample of Los Angeles census blocks from 2000 to 2010, I utilize fixed-effects negative binomial regression to estimate crime models. The number of voluntary organizations and the total amount of income they possess in the focal block, respectively, are not related to most crime types the following year. Yet, both aspects of voluntary organizations exhibit crime-reducing influences when accounting for their broader spatial impact, and controlling for numerous factors that have been shown to be associated with crime rates. The implications for communities and crime research are discussed.
+
+### 4. [Examining the Association Between Massage Parlors and Neighborhood Crime](https://doi.org/10.1177/0011128718787154)
+- **Journal:** Crime and delinquency
+- **Authors:** Jessica Huff, D. Wallace, Courtney Riggs, C. Katz, David E. Choate
+- **Pub Date:** 2018-07-18
+- **DOI:** 10.1177/0011128718787154
+- **Abstract:** Although massage parlors have been associated with illicit activities including prostitution, less is known about their association with neighborhood crime. Employing the Computer Automated Dispatch/Record Management System (CAD/RMS), online user review, licensing, Census, and zoning data, we examine the impact of massage parlors on crime in their surrounding neighborhoods. Using spatial autoregressive models, our results indicate the total number of massage parlors was associated with increased social disorder. The presence of illicit massage parlors in adjacent neighborhoods was associated with crime and physical disorder in the focal neighborhoods. This study has consequences for how police address crime associated with massage parlors. Specifically, the use of online user review forums could be an effective way to identify illicit massage parlors. Recommendations for policing and code enforcement are discussed.
+
+### 5. [Urban mobility and neighborhood isolation in America’s 50 largest cities](https://doi.org/10.1073/pnas.1802537115)
+- **Journal:** Proceedings of the National Academy of Sciences of the United States of America
+- **Authors:** Q. Wang, N. E. Phillips, M. Small, R. Sampson
+- **Pub Date:** 2018-07-09
+- **DOI:** 10.1073/pnas.1802537115
+- **Abstract:** Significance Living in disadvantaged neighborhoods is widely assumed to undermine life chances because residents are isolated from neighborhoods with greater resources. Yet, residential isolation may be mitigated by individuals spending much of their everyday lives outside their home neighborhoods, a possibility that has been difficult to assess on a large scale. Using new methods to analyze urban mobility in the 50 largest American cities, we find that residents of primarily black and Hispanic neighborhoods—whether poor or not—are far less exposed to either nonpoor or white middle-class neighborhoods than residents of primarily white neighborhoods. Although residents of disadvantaged neighborhoods regularly travel as far and to as many different neighborhoods as those from advantaged neighborhoods, their relative isolation and segregation persist. Influential research on the negative effects of living in a disadvantaged neighborhood assumes that its residents are socially isolated from nonpoor or “mainstream” neighborhoods, but the extent and nature of such isolation remain in question. We develop a test of neighborhood isolation that improves on static measures derived from commonly used census reports by leveraging fine-grained dynamic data on the everyday movement of residents in America’s 50 largest cities. We analyze 650 million geocoded Twitter messages to estimate the home locations and travel patterns of almost 400,000 residents over 18 mo. We find surprisingly high consistency across neighborhoods of different race and income characteristics in the average travel distance (radius) and number of neighborhoods traveled to (spread) in the metropolitan region; however, we uncover notable differences in the composition of the neighborhoods visited. Residents of primarily black and Hispanic neighborhoods—whether poor or not—are far less exposed to either nonpoor or white middle-class neighborhoods than residents of primarily white neighborhoods. These large racial differences are notable given recent declines in segregation and the increasing diversity of American cities. We also find that white poor neighborhoods are substantially isolated from nonpoor white neighborhoods. The results suggest that even though residents of disadvantaged neighborhoods travel far and wide, their relative isolation and segregation persist.
+
+---
+
