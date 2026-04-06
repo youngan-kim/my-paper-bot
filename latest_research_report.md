@@ -2460,3 +2460,43 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-06
+
+### 1. [A spatial overview of the global importance of Indigenous lands for conservation](https://doi.org/10.1038/s41893-018-0100-6)
+- **Journal:** Nature Sustainability
+- **Authors:** S. Garnett, N. Burgess, J. Fa, Á. Fernández‐Llamazares, Z. Mólnar, C. Robinson, J. Watson, K. Zander, B. Austin, Eduardo S Brondízio, Neil Collier, Tom Duncan, Erle C. Ellis, H. Geyle, M. Jackson, Harry D. Jonas, Pernilla Malmer, Ben McGowan, Amphone Sivongxay, I. Leiper
+- **Pub Date:** 2018-07-01
+- **DOI:** 10.1038/s41893-018-0100-6
+- **Abstract:** None
+
+### 2. [Towards a Crime Hotspot Detection Framework for Patrol Planning](https://doi.org/10.1109/HPCC/SmartCity/DSS.2018.00211)
+- **Journal:** 2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+- **Authors:** A. Araújo, N. Cacho, L. Bezerra, Carlos Vieira, J. Borges
+- **Pub Date:** 2018-06-01
+- **DOI:** 10.1109/HPCC/SmartCity/DSS.2018.00211
+- **Abstract:** By monitoring crime incidence with quantitative techniques, many studies have shown that it is possible to improve decision making through pattern recognition and prediction. In a smart city scenario, such approaches can be used to compose analytical background to improve resource allocation. This work presents a novel framework to improve patrol planning that precisely provides places and times that are likely to be more dangerous than short-term average using a portfolio of machine learning algorithms. Our approach follows an algorithm-as-a-service architecture (AaaS), providing insights to existing public safety systems and platforms. The service comprises the broader ROTA framework, a robust public safety platform devised for the ongoing smart cities initiative of Natal, Brazil. Results of an experimental evaluation provided insights about spatial granularity effects on the performance of the estimators adopted. Furthermore, an evaluation on algorithm selection demonstrates its outcomes on the hotspot detection task.
+
+### 3. [Do spatial patterns of urbanization and land consumption reflect different socioeconomic contexts in Europe?](https://doi.org/10.1016/j.scitotenv.2017.12.341)
+- **Journal:** Science of the Total Environment
+- **Authors:** L. Salvati, I. Zambon, F. Chelli, P. Serra
+- **Pub Date:** 2018-06-01
+- **DOI:** 10.1016/j.scitotenv.2017.12.341
+- **Abstract:** Land-use changes and urban sprawl have transformed European cities, with a direct impact on both metropolitan structures and socioeconomic functions. However, these processes tend to be relatively different across countries, being influenced by place-specific factors associated to socioeconomic, historical, political and cultural factors that influence decisions on the use of land. Considering 155 metropolitan areas in 6 European macro-regions, the present study investigates spatial patterns of land consumption profiling cities according to a large set of territorial variables, with the final objective to identify relevant socioeconomic dimensions characteristic of recent processes of urban growth. Investigating the socioeconomic background underlying land-use changes in metropolitan regions allows identification of place-specific factors improving the design of effective strategies containing land consumption in different European urban typologies. An exhaustive analysis of land-use changes at regional and local spatial scales contributes to find alternative policies for land-use efficiency and long-term environmental sustainability.
+
+### 4. [On the Use and Abuse of Spatial Instruments](https://doi.org/10.1017/pan.2018.10)
+- **Journal:** Political Analysis
+- **Authors:** Timm Betz, S. Cook, Florian M. Hollenbach
+- **Pub Date:** 2018-05-21
+- **DOI:** 10.1017/pan.2018.10
+- **Abstract:** None
+
+### 5. [Optimal Spatial Policies, Geography, and Sorting*](https://doi.org/10.3386/W24632)
+- **Journal:** Quarterly Journal of Economics
+- **Authors:** Pablo D. Fajgelbaum, Cecile Gaubert, Cecile Gaubert
+- **Pub Date:** 2018-05-18
+- **DOI:** 10.3386/W24632
+- **Abstract:** 
+ We study optimal spatial policies in a quantitative trade and geography framework with spillovers and spatial sorting of heterogeneous workers. We characterize the spatial transfers that must hold in efficient allocations, as well as labor subsidies that can implement them. There exists scope for welfare-enhancing spatial policies even when spillovers are common across locations. Using data on U.S. cities and existing estimates of the spillover elasticities, we find that the U.S. economy would benefit from a reallocation of workers to currently low-wage cities. The optimal allocation features a greater share of high-skill workers in smaller cities relative to the observed allocation. Inefficient sorting may lead to substantial welfare costs.
+
+---
+
