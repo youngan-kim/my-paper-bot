@@ -2500,3 +2500,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-07
+
+### 1. [The biofilm matrix: multitasking in a shared space](https://doi.org/10.1038/s41579-022-00791-0)
+- **Journal:** Nature Reviews Microbiology
+- **Authors:** H. Flemming, E. V. van Hullebusch, T. Neu, P. Nielsen, T. Seviour, P. Stoodley, J. Wingender, S. Wuertz
+- **Pub Date:** 2022-09-20
+- **DOI:** 10.1038/s41579-022-00791-0
+- **Abstract:** None
+
+### 2. [Experimental effects of climate messages vary geographically](https://doi.org/10.1038/s41558-018-0122-0)
+- **Journal:** Nature Climate Change
+- **Authors:** Baobao Zhang, S. van der Linden, M. Mildenberger, J. Marlon, P. Howe, A. Leiserowitz
+- **Pub Date:** 2018-04-16
+- **DOI:** 10.1038/s41558-018-0122-0
+- **Abstract:** None
+
+### 3. [Using Social Media to Measure Temporal Ambient Population: Does it Help Explain Local Crime Rates?](https://doi.org/10.1080/07418825.2018.1445276)
+- **Journal:** Justice quarterly
+- **Authors:** John R. Hipp, Christopher J. Bates, Moshe Lichman, Padhraic Smyth
+- **Pub Date:** 2018-03-20
+- **DOI:** 10.1080/07418825.2018.1445276
+- **Abstract:** A challenge for studies assessing routine activities theory is accounting for the spatial and temporal confluence of offenders and targets given that people move about during the daytime and nighttime. We propose exploiting social media (Twitter) data to construct estimates of the population at various locations at different times of day, and assess whether these estimates help predict the amount of crime during two-hour time periods over the course of the day. We address these questions using crime data for 97,428 blocks in the Southern California region, along with geocoded information on tweets in the region over an eight month period. The results show that this measure of the temporal ambient population helps explain the level of crime in blocks during particular time periods. The use of social media data appear promising for testing various implications of routine activities and crime pattern theories, given their explicit spatial and temporal nature.
+
+### 4. [Spillovers in Space and Time: Where Spatial Econometrics and Global VAR Models Meet](https://doi.org/10.2866/084378)
+- **Journal:** Social Science Research Network
+- **Authors:** J. Elhorst, M. Gross, Eugen Tereanu
+- **Pub Date:** 2018-02-01
+- **DOI:** 10.2866/084378
+- **Abstract:** We bring together the spatial and global vector autoregressive (GVAR) classes of econometric models by providing a detailed methodological review of where they meet in terms of structure, interpretation, and estimation methods. We discuss the structure of cross-section connectivity (weight) matrices used by these models and its implications for estimation. Primarily motivated by the continuously expanding literature on spillovers, we define a broad and measurable concept of spillovers. We formalize it analytically through the indirect effects used in the spatial literature and impulse responses used in the GVAR literature. Finally, we propose a practical step-by-step approach for applied researchers who need to account for the existence and strength of cross-sectional dependence in the data. This approach aims to support the selection of the appropriate modeling and estimation method and of choices that represent empirical spillovers in a clear and interpretable form. JEL Classification: C33, C38, C51
+
+### 5. [Social place-cells in the bat hippocampus](https://doi.org/10.1126/science.aao3474)
+- **Journal:** Science
+- **Authors:** David B. Omer, S. Maimon, Liora Las, N. Ulanovsky
+- **Pub Date:** 2018-01-12
+- **DOI:** 10.1126/science.aao3474
+- **Abstract:** None
+
+---
+
