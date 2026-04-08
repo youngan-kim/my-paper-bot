@@ -2539,3 +2539,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-08
+
+### 1. [The surface urban heat island response to urban expansion: A panel analysis for the conterminous United States.](https://doi.org/10.1016/j.scitotenv.2017.06.229)
+- **Journal:** Science of the Total Environment
+- **Authors:** Xiaoma Li, Yuyu Zhou, G. Asrar, M. Imhoff, Xuecao Li
+- **Pub Date:** 2017-12-15
+- **DOI:** 10.1016/j.scitotenv.2017.06.229
+- **Abstract:** None
+
+### 2. [Ecological Networks and Urban Crime: The Structure of Shared Routine Activity Locations and Neighborhood-Level Informal Control Capacity.](https://doi.org/10.1111/1745-9125.12152)
+- **Journal:** Criminology (Beverly Hills)
+- **Authors:** Christopher R. Browning, Catherine A. Calder, Bethany Boettner, Anna L. Smith
+- **Pub Date:** 2017-11-14
+- **DOI:** 10.1111/1745-9125.12152
+- **Abstract:** None
+
+### 3. [Reframing place promotion, place marketing, and place branding - moving beyond conceptual confusion](https://doi.org/10.1016/J.CITIES.2017.08.021)
+- **Journal:** Cities
+- **Authors:** Martin Boisen, K. Terlouw, P. Groote, O. Couwenberg
+- **Pub Date:** 2017-11-01
+- **DOI:** 10.1016/J.CITIES.2017.08.021
+- **Abstract:** Abstract The literature and practice of place promotion, place marketing and place branding lack a common understanding of what these three concepts mean and through what kind of policies they can be implemented. Although scholars have provided several theoretical frameworks and definitions, both scholars and practitioners (advisors, civil servants, public and private stakeholders, and politicians) often use them synonymously. This paper argues that recent developments in both theory and practice – with respect to place promotion, place marketing and place branding – provide an opportunity to address this conceptual confusion. In the academic debate, a common understanding is slowly emerging and in practice, a more integral approach is gaining ground. To contribute to these advances, we present the outline of a framework to help distinguish between place promotion, place marketing and place branding, along with a discussion on why we believe these differences (should) matter to practitioners.
+
+### 4. [The spatial politics of place and health policy: Exploring Sustainability and Transformation Plans in the English NHS.](https://doi.org/10.1016/j.socscimed.2017.08.007)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** J. Hammond, Colin Lorne, A. Coleman, P. Allen, N. Mays, Rinita Dam, Thomas Mason, K. Checkland
+- **Pub Date:** 2017-10-01
+- **DOI:** 10.1016/j.socscimed.2017.08.007
+- **Abstract:** None
+
+### 5. [Behavioral time scale synaptic plasticity underlies CA1 place fields](https://doi.org/10.1126/science.aan3846)
+- **Journal:** Science
+- **Authors:** Katie C. Bittner, Aaron D. Milstein, Christine Grienberger, S. Romani, J. Magee
+- **Pub Date:** 2017-09-08
+- **DOI:** 10.1126/science.aan3846
+- **Abstract:** None
+
+---
+
