@@ -304,3 +304,8 @@ Ecological Networks and Urban Crime: The Structure of Shared Routine Activity Lo
 Reframing place promotion, place marketing, and place branding - moving beyond conceptual confusion
 The spatial politics of place and health policy: Exploring Sustainability and Transformation Plans in the English NHS.
 Behavioral time scale synaptic plasticity underlies CA1 place fields
+Place branding as urban policy: the (im)political place branding
+Classifying urban land use by integrating remote sensing and social media data
+Guerrilla warfare, flagship project: the spatial politics of Chinese rock in Shenzhen’s post-political making of a musical city
+A new method for dealing simultaneously with spatial autocorrelation and spatial heterogeneity in regression models
+Firefly algorithm with neighborhood attraction
