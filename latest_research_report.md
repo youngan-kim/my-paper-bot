@@ -2617,3 +2617,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-10
+
+### 1. [Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq](https://doi.org/10.1038/nprot.2017.003)
+- **Journal:** Nature Protocols
+- **Authors:** Jun Chen, Shengbao Suo, P. Tam, J. Han, Guangdun Peng, N. Jing
+- **Pub Date:** 2017-02-16
+- **DOI:** 10.1038/nprot.2017.003
+- **Abstract:** None
+
+### 2. [Who gets evicted? Assessing individual, neighborhood, and network factors.](https://doi.org/10.1016/j.ssresearch.2016.08.017)
+- **Journal:** Social Science Research
+- **Authors:** Matthew Desmond, C. Gershenson
+- **Pub Date:** 2017-02-01
+- **DOI:** 10.1016/j.ssresearch.2016.08.017
+- **Abstract:** None
+
+### 3. [Global urban signatures of phenotypic change in animal and plant populations](https://doi.org/10.1073/pnas.1606034114)
+- **Journal:** Proceedings of the National Academy of Sciences of the United States of America
+- **Authors:** M. Alberti, C. Correa, J. Marzluff, A. Hendry, E. Palkovacs, K. Gotanda, V. Hunt, T. M. Apgar, Yuyu Zhou
+- **Pub Date:** 2017-01-03
+- **DOI:** 10.1073/pnas.1606034114
+- **Abstract:** None
+
+### 4. [Research on neighborhood effects on health in the United States: A systematic review of study characteristics.](https://doi.org/10.1016/j.socscimed.2016.08.047)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Mariana C. Arcaya, R. Tucker-Seeley, Rockli Kim, Alina S Schnake-Mahl, Marvin So, S. Subramanian
+- **Pub Date:** 2016-11-01
+- **DOI:** 10.1016/j.socscimed.2016.08.047
+- **Abstract:** None
+
+### 5. [Collective efficacy: How is it conceptualized, how is it measured, and does it really matter for understanding perceived neighborhood crime and disorder?](https://doi.org/10.1016/J.JCRIMJUS.2016.02.016)
+- **Journal:** Journal of criminal justice
+- **Authors:** John R. Hipp
+- **Pub Date:** 2016-09-01
+- **DOI:** 10.1016/J.JCRIMJUS.2016.02.016
+- **Abstract:** None
+
+---
+

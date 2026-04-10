@@ -309,3 +309,8 @@ Classifying urban land use by integrating remote sensing and social media data
 Guerrilla warfare, flagship project: the spatial politics of Chinese rock in Shenzhen’s post-political making of a musical city
 A new method for dealing simultaneously with spatial autocorrelation and spatial heterogeneity in regression models
 Firefly algorithm with neighborhood attraction
+Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
+Who gets evicted? Assessing individual, neighborhood, and network factors.
+Global urban signatures of phenotypic change in animal and plant populations
+Research on neighborhood effects on health in the United States: A systematic review of study characteristics.
+Collective efficacy: How is it conceptualized, how is it measured, and does it really matter for understanding perceived neighborhood crime and disorder?
