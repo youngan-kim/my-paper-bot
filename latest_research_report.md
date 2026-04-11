@@ -2656,3 +2656,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-11
+
+### 1. [Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2](https://doi.org/10.1038/s41587-020-0739-1)
+- **Journal:** Nature Biotechnology
+- **Authors:** Robert R. Stickels, Evan Murray, Pawan Kumar, Jilong Li, Jamie L. Marshall, Daniela J. Di Bella, P. Arlotta, Evan Z. Macosko, Fei Chen
+- **Pub Date:** 2020-12-07
+- **DOI:** 10.1038/s41587-020-0739-1
+- **Abstract:** None
+
+### 2. [Neighborhood Violent Crime and Academic Growth in Chicago: Lasting Effects of Early Exposure](https://doi.org/10.1093/sf/sow041)
+- **Journal:** Social forces; a scientific medium of social study and interpretation
+- **Authors:** Julia Burdick-Will
+- **Pub Date:** 2016-09-01
+- **DOI:** 10.1093/sf/sow041
+- **Abstract:** None
+
+### 3. [Measuring the Spatial and Temporal Patterns of Police Proactivity](https://doi.org/10.1007/s10940-016-9318-5)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** Xiaoyun Wu, C. Lum
+- **Pub Date:** 2016-09-01
+- **DOI:** 10.1007/s10940-016-9318-5
+- **Abstract:** None
+
+### 4. [Visualization and analysis of gene expression in tissue sections by spatial transcriptomics](https://doi.org/10.1126/science.aaf2403)
+- **Journal:** Science
+- **Authors:** Patrik L. Ståhl, Fredrik Salmén, S. Vickovic, Anna Lundmark, J. F. Navarro, J. Magnusson, Stefania Giacomello, Michaela Asp, J. Westholm, M. Huss, A. Mollbrink, S. Linnarsson, S. Codeluppi, Å. Borg, F. Pontén, P. Costea, P. Sahlén, J. Mulder, O. Bergmann, J. Lundeberg, J. Frisén
+- **Pub Date:** 2016-07-01
+- **DOI:** 10.1126/science.aaf2403
+- **Abstract:** None
+
+### 5. [All Economics is Local: Spatial Aggregations of Economic Information*](https://doi.org/10.1017/psrm.2016.26)
+- **Journal:** Political Science Research and Methods
+- **Authors:** D. Fortunato, Clint S. Swift, Laron K. Williams
+- **Pub Date:** 2016-06-20
+- **DOI:** 10.1017/psrm.2016.26
+- **Abstract:** None
+
+---
+

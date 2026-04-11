@@ -314,3 +314,8 @@ Who gets evicted? Assessing individual, neighborhood, and network factors.
 Global urban signatures of phenotypic change in animal and plant populations
 Research on neighborhood effects on health in the United States: A systematic review of study characteristics.
 Collective efficacy: How is it conceptualized, how is it measured, and does it really matter for understanding perceived neighborhood crime and disorder?
+Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2
+Neighborhood Violent Crime and Academic Growth in Chicago: Lasting Effects of Early Exposure
+Measuring the Spatial and Temporal Patterns of Police Proactivity
+Visualization and analysis of gene expression in tissue sections by spatial transcriptomics
+All Economics is Local: Spatial Aggregations of Economic Information*
