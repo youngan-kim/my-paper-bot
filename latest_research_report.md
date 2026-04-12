@@ -2695,3 +2695,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-12
+
+### 1. [Does the Configuration of the Street Network Influence Where Outdoor Serious Violence Takes Place? Using Space Syntax to Test Crime Pattern Theory](https://doi.org/10.1007/s10940-016-9306-9)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** L. Summers, Shane D. Johnson
+- **Pub Date:** 2016-06-17
+- **DOI:** 10.1007/s10940-016-9306-9
+- **Abstract:** To examine the effect of the physical layout of the street network on the spatial distribution of outdoor serious violence. Crime pattern theory predicts crime would be more prevalent on more connected, accessible or traveled street segments, as these will be more likely to fall within an offender’s awareness space. The distribution of incidents of outdoor murder, attempted murder and other near-lethal violent crimes that occurred in one London (UK) borough (N = 447 offenses) was analyzed. The space syntax methodology was used to estimate the to- and through-movement potential of individual street segments. Regression analyses showed higher levels of integration (a measure of to-movement potential) and choice (through-movement potential) were associated with greater odds of a street segment containing at least one crime. Risk was also higher for segments located near to segments with the highest global choice values. In contrast, connectivity (the number of other segments a street segment is adjacent to) was negatively associated with crime occurrence. As predicted, the configuration of the street network was associated with the spatial distribution of outdoor serious violence. Crime reduction measures should be targeted at high-choice street segments (typically main arteries) and segments nearby.
+
+### 2. [Ground-based image analysis: A tutorial on machine-learning techniques and applications](https://doi.org/10.1109/MGRS.2015.2510448)
+- **Journal:** IEEE Geoscience and Remote Sensing Magazine
+- **Authors:** Soumyabrata Dev, B. Wen, Y. Lee, Stefan Winkler
+- **Pub Date:** 2016-06-07
+- **DOI:** 10.1109/MGRS.2015.2510448
+- **Abstract:** Ground-based whole-sky cameras have opened up new opportunities for monitoring the earth's atmosphere. These cameras are an important complement to satellite images by providing geoscientists with cheaper, faster, and more localized data. The images captured by whole-sky imagers (WSI) can have high spatial and temporal resolution, which is an important prerequisite for applications such as solar energy modeling, cloud attenuation analysis, local weather prediction, and more. Extracting the valuable information from the huge amount of image data by detecting and analyzing the various entities in these images is challenging. However, powerful machine-learning techniques have become available to aid with the image analysis. This article provides a detailed explanation of recent developments in these techniques and their applications in ground-based imaging, aiming to bridge the gap between computer vision and remote sensing with the help of illustrative examples. We demonstrate the advantages of using machine-learning techniques in ground-based image analysis via three primary applications: segmentation, classification, and denoising.
+
+### 3. [The New Economics of Religion](https://doi.org/10.1257/JEL.54.2.395)
+- **Journal:** Social Science Research Network
+- **Authors:** Sriya Iyer
+- **Pub Date:** 2016-06-01
+- **DOI:** 10.1257/JEL.54.2.395
+- **Abstract:** The economics of religion is a relatively new field of research in economics. This survey serves two purposes--it is backward-looking in that it traces the historical and sociological origins of this field, and it is forward-looking in that it examines the insights and research themes that are offered by economists to investigate religion globally in the modern world. Several factors have influenced the economics of religion: (1) new developments in theoretical models including spatial models of religious markets and evolutionary models of religious traits; (2) empirical work that addresses innovatively econometric identification in examining causal influences on religious behavior; (3) new research in the economic history of religion that considers religion as an independent, rather than a dependent, variable; and (4) more studies of religion outside the Western world. Based on these developments, this paper discusses four themes--first, secularization, pluralism, regulation, and economic growth; second, religious markets, club goods, differentiated products, and networks; third, identification including secular competition and charitable giving; and fourth, conflict and cooperation in developing societies. In reviewing this paradoxically ancient yet burgeoning field, this paper puts forward unanswered questions for scholars of the economics of religion to reflect upon in years to come.
+
+### 4. [Party Policy Diffusion](https://doi.org/10.1017/S0003055416000162)
+- **Journal:** American Political Science Review
+- **Authors:** Tobias Böhmelt, L. Ezrow, R. Lehrer, Hugh Ward
+- **Pub Date:** 2016-05-01
+- **DOI:** 10.1017/S0003055416000162
+- **Abstract:** None
+
+### 5. [Crime at Places and Spatial Concentrations: Exploring the Spatial Stability of Property Crime in Vancouver BC, 2003–2013](https://doi.org/10.1007/s10940-016-9295-8)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** Martin A. Andresen, Shannon J. Linning, N. Malleson
+- **Pub Date:** 2016-03-24
+- **DOI:** 10.1007/s10940-016-9295-8
+- **Abstract:** None
+
+---
+

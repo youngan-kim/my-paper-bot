@@ -319,3 +319,8 @@ Neighborhood Violent Crime and Academic Growth in Chicago: Lasting Effects of Ea
 Measuring the Spatial and Temporal Patterns of Police Proactivity
 Visualization and analysis of gene expression in tissue sections by spatial transcriptomics
 All Economics is Local: Spatial Aggregations of Economic Information*
+Does the Configuration of the Street Network Influence Where Outdoor Serious Violence Takes Place? Using Space Syntax to Test Crime Pattern Theory
+Ground-based image analysis: A tutorial on machine-learning techniques and applications
+The New Economics of Religion
+Party Policy Diffusion
+Crime at Places and Spatial Concentrations: Exploring the Spatial Stability of Property Crime in Vancouver BC, 2003–2013
