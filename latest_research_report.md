@@ -2734,3 +2734,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-13
+
+### 1. [Association of neighborhood context with offspring risk of preterm birth and low birthweight: A systematic review and meta-analysis of population-based studies.](https://doi.org/10.1016/j.socscimed.2016.02.014)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Collette N. Ncube, D. Enquobahrie, S. Albert, A. Herrick, J. Burke
+- **Pub Date:** 2016-03-01
+- **DOI:** 10.1016/j.socscimed.2016.02.014
+- **Abstract:** None
+
+### 2. [A Categorization Theory of Spatial Voting: How the Center Divides the Political Space](https://doi.org/10.1017/S0007123415000393)
+- **Journal:** British Journal of Political Science
+- **Authors:** Unknown Authors
+- **Pub Date:** 2016-01-19
+- **DOI:** 10.1017/S0007123415000393
+- **Abstract:** None
+
+### 3. [Neighborhood crime as a predictor of individual differences in emotional processing and regulation.](https://doi.org/10.1111/desc.12287)
+- **Journal:** Developmental Science
+- **Authors:** D. C. McCoy, A. Roy, C. Raver
+- **Pub Date:** 2016
+- **DOI:** 10.1111/desc.12287
+- **Abstract:** None
+
+### 4. [Neighborhood crime and depressive symptoms among African American women: Genetic moderation and epigenetic mediation of effects.](https://doi.org/10.1016/j.socscimed.2015.10.035)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** M. Lei, S. Beach, R. Simons, R. Philibert
+- **Pub Date:** 2015-12-01
+- **DOI:** 10.1016/j.socscimed.2015.10.035
+- **Abstract:** None
+
+### 5. [Patterns of local segregation: Do they matter for neighborhood crime?](https://doi.org/10.1016/j.ssresearch.2015.08.005)
+- **Journal:** Social Science Research
+- **Authors:** Lauren J. Krivo, R. Byron, Catherine A. Calder, R. D. Peterson, Christopher R. Browning, M. Kwan, Jae Yong Lee
+- **Pub Date:** 2015-11-01
+- **DOI:** 10.1016/j.ssresearch.2015.08.005
+- **Abstract:** None
+
+---
+
