@@ -329,3 +329,8 @@ A Categorization Theory of Spatial Voting: How the Center Divides the Political 
 Neighborhood crime as a predictor of individual differences in emotional processing and regulation.
 Neighborhood crime and depressive symptoms among African American women: Genetic moderation and epigenetic mediation of effects.
 Patterns of local segregation: Do they matter for neighborhood crime?
+Geographic Information Science
+Handbook of spatial point-pattern analysis in ecology
+Important progress and future direction of studies on China’s urban agglomerations
+Intra-week spatial-temporal patterns of crime
+Editorial: crime patterns in time and space: the dynamics of crime opportunities in urban areas
