@@ -334,3 +334,8 @@ Handbook of spatial point-pattern analysis in ecology
 Important progress and future direction of studies on China’s urban agglomerations
 Intra-week spatial-temporal patterns of crime
 Editorial: crime patterns in time and space: the dynamics of crime opportunities in urban areas
+Novel evidence for within-species leaf economics spectrum at multiple spatial scales
+You’ve Got Some Explaining To Do The Influence of Economic Conditions and Spatial Competition on Party Strategy*
+Effect of neighborhood stigma on economic transactions
+Testing Ecological Theories of Offender Spatial Decision Making Using a Discrete Choice Model
+Metadata and provenance for spatial analysis: the case of spatial weights

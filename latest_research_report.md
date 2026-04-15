@@ -2812,3 +2812,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-15
+
+### 1. [Novel evidence for within-species leaf economics spectrum at multiple spatial scales](https://doi.org/10.3389/fpls.2015.00901)
+- **Journal:** Frontiers in Plant Science
+- **Authors:** Yu‐Kun Hu, Xu Pan, Guofang Liu, Wenbing Li, Wen-Hong Dai, Shuang-Li Tang, Yalin Zhang, Tao Xiao, Lingzhi Chen, Wei Xiong, Meng-Yao Zhou, Yao-Bin Song, M. Dong
+- **Pub Date:** 2015-10-26
+- **DOI:** 10.3389/fpls.2015.00901
+- **Abstract:** Leaf economics spectrum (LES), characterizing covariation among a suite of leaf traits relevant to carbon and nutrient economics, has been examined largely among species but hardly within species. In addition, very little attempt has been made to examine whether the existence of LES depends on spatial scales. To address these questions, we quantified the variation and covariation of four leaf economic traits (specific leaf area, leaf dry matter content, leaf nitrogen and phosphorus contents) in a cosmopolitan wetland species (Phragmites australis) at three spatial (inter-regional, regional, and site) scales across most of the species range in China. The species expressed large intraspecific variation in the leaf economic traits at all of the three spatial scales. It also showed strong covariation among the four leaf economic traits across the species range. The coordination among leaf economic traits resulted in LES at all three scales and the environmental variables determining variation in leaf economic traits were different among the spatial scales. Our results provide novel evidence for within-species LES at multiple spatial scales, indicating that resource trade-off could also constrain intraspecific trait variation mainly driven by climatic and/or edaphic differences.
+
+### 2. [You’ve Got Some Explaining To Do The Influence of Economic Conditions and Spatial Competition on Party Strategy*](https://doi.org/10.1017/psrm.2015.13)
+- **Journal:** Political Science Research and Methods
+- **Authors:** Laron K. Williams, Katsunori Seki, G. Whitten
+- **Pub Date:** 2015-05-14
+- **DOI:** 10.1017/psrm.2015.13
+- **Abstract:** None
+
+### 3. [Effect of neighborhood stigma on economic transactions](https://doi.org/10.1073/pnas.1414139112)
+- **Journal:** Proceedings of the National Academy of Sciences of the United States of America
+- **Authors:** Max Besbris, Jacob W. Faber, Peter M. Rich, P. Sharkey
+- **Pub Date:** 2015-04-06
+- **DOI:** 10.1073/pnas.1414139112
+- **Abstract:** None
+
+### 4. [Testing Ecological Theories of Offender Spatial Decision Making Using a Discrete Choice Model](https://doi.org/10.1177/0011128714540276)
+- **Journal:** Crime and delinquency
+- **Authors:** Shane D. Johnson, L. Summers
+- **Pub Date:** 2015-04-01
+- **DOI:** 10.1177/0011128714540276
+- **Abstract:** Research demonstrates that crime is spatially concentrated. However, most research relies on information about where crimes occur, without reference to where offenders reside. This study examines how the characteristics of neighborhoods and their proximity to offender home locations affect offender spatial decision making. Using a discrete choice model and data for detected incidents of theft from vehicles (TFV), we test predictions from two theoretical perspectives—crime pattern and social disorganization theories. We demonstrate that offenders favor areas that are low in social cohesion and closer to their home, or other age-related activity nodes. For adult offenders, choices also appear to be influenced by how accessible a neighborhood is via the street network. The implications for criminological theory and crime prevention are discussed.
+
+### 5. [Metadata and provenance for spatial analysis: the case of spatial weights](https://doi.org/10.1080/13658816.2014.917313)
+- **Journal:** International Journal of Geographical Information Science
+- **Authors:** L. Anselin, S. Rey, Wenwen Li
+- **Pub Date:** 2014-11-01
+- **DOI:** 10.1080/13658816.2014.917313
+- **Abstract:** None
+
+---
+
