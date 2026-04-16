@@ -2851,3 +2851,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-16
+
+### 1. [Detecting the dynamics of urban structure through spatial network analysis](https://doi.org/10.1080/13658816.2014.914521)
+- **Journal:** International Journal of Geographical Information Science
+- **Authors:** Chen Zhong, S. Arisona, Xianfeng Huang, M. Batty, G. Schmitt
+- **Pub Date:** 2014-11-01
+- **DOI:** 10.1080/13658816.2014.914521
+- **Abstract:** None
+
+### 2. [Does a hospital's quality depend on the quality of other hospitals? A spatial econometrics approach](https://doi.org/10.1016/J.REGSCIURBECO.2014.09.005)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** H. Gravelle, Rita Santos, L. Siciliani
+- **Pub Date:** 2014-11-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2014.09.005
+- **Abstract:** We examine whether a hospital's quality is affected by the quality provided by other hospitals in the same market. We first sketch a theoretical model with regulated prices and derive conditions on demand and cost functions which determine whether a hospital will increase its quality if its rivals increase their quality. We then apply spatial econometric methods to a sample of English hospitals in 2009–10 and a set of 16 quality measures including mortality rates, readmission, revision and redo rates, and three patient reported indicators, to examine the relationship between the quality of hospitals. We find that a hospital's quality is positively associated with the quality of its rivals for seven out of the sixteen quality measures. There are no statistically significant negative associations. In those cases where there is a significant positive association, an increase in rivals' quality by 10% increases a hospital's quality by 1.7% to 2.9%. The finding suggests that for some quality measures a policy which improves the quality in one hospital will have positive spillover effects on the quality in other hospitals.
+
+### 3. [Examining the Relationship Between Road Structure and Burglary Risk Via Quantitative Network Analysis](https://doi.org/10.1007/s10940-014-9235-4)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** Toby P Davies, Shane D. Johnson
+- **Pub Date:** 2014-10-11
+- **DOI:** 10.1007/s10940-014-9235-4
+- **Abstract:** To test the hypothesis that the spatial distribution of residential burglary is shaped by the configuration of the street network, as predicted by, for example, crime pattern theory. In particular, the study examines whether burglary risk is higher on street segments with higher usage potential. Residential burglary data for Birmingham (UK) are examined at the street segment level using a hierarchical linear model. Estimates of the usage of street segments are derived from the graph theoretical metric of betweenness, which measures how frequently segments feature in the shortest paths (those most likely to be used) through the network. Several variants of betweenness are considered. The geometry of street segments is also incorporated—via a measure of their linearity—as are several socio-demographic factors. As anticipated by theory, the measure of betweenness was found to be a highly-significant predictor of the burglary victimization count at the street segment level for all but one of the variants considered. The non-significant result was found for the most localized measure of betweenness considered. More linear streets were generally found to be at lower risk of victimization. Betweenness offers a more granular and objective means of measuring the street network than categorical classifications previously used, and its meaning links more directly to theory. The results provide support for crime pattern theory, suggesting a higher risk of burglary for streets with more potential usage. The apparent negative effect of linearity suggests the need for further research into the visual component of target choice, and the role of guardianship.
+
+### 4. [People, Places and Public Policy: Some Simple Welfare Economics of Local Economic Development Programs](https://doi.org/10.1146/ANNUREV-ECONOMICS-080213-041024)
+- **Journal:** Social Science Research Network
+- **Authors:** Patrick M. Kline, Enrico Moretti, Enrico Moretti
+- **Pub Date:** 2014-08-04
+- **DOI:** 10.1146/ANNUREV-ECONOMICS-080213-041024
+- **Abstract:** Most countries exhibit large and persistent geographical differences in wages, income, and unemployment rates. A growing class of place-based policies attempts to address these differences through public investments and subsidies that target disadvantaged neighborhoods, cities, or regions. Place-based policies have the potential to profoundly affect the location of economic activity, along with the wages, employment, and industry mix of communities. These programs are widespread in the United States and throughout the world but have only recently been studied closely by economists. We consider the following questions: Who benefits from place-based interventions? Do the national benefits outweigh the costs? What sorts of interventions are most likely to be effective? To study these questions, we develop a simple spatial equilibrium model designed to characterize the welfare effects of place-based policies on the local and the national economy. Using this model, we critically evaluate the economic rationales for place-based policies and assess the latest evidence on their effects. We conclude with some lessons for policy and directions for future research.
+
+### 5. [Disentangling neighborhood contextual associations with child body mass index, diet, and physical activity: the role of built, socioeconomic, and social environments.](https://doi.org/10.1016/j.socscimed.2013.04.003)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** A. Carroll-Scott, Kathryn Gilstad-Hayden, L. Rosenthal, S. M. Peters, Catherine McCaslin, R. Joyce, J. Ickovics
+- **Pub Date:** 2013-10-01
+- **DOI:** 10.1016/j.socscimed.2013.04.003
+- **Abstract:** None
+
+---
+

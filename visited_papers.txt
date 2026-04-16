@@ -339,3 +339,8 @@ You’ve Got Some Explaining To Do The Influence of Economic Conditions and Spat
 Effect of neighborhood stigma on economic transactions
 Testing Ecological Theories of Offender Spatial Decision Making Using a Discrete Choice Model
 Metadata and provenance for spatial analysis: the case of spatial weights
+Detecting the dynamics of urban structure through spatial network analysis
+Does a hospital's quality depend on the quality of other hospitals? A spatial econometrics approach
+Examining the Relationship Between Road Structure and Burglary Risk Via Quantitative Network Analysis
+People, Places and Public Policy: Some Simple Welfare Economics of Local Economic Development Programs
+Disentangling neighborhood contextual associations with child body mass index, diet, and physical activity: the role of built, socioeconomic, and social environments.
