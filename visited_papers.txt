@@ -344,3 +344,8 @@ Does a hospital's quality depend on the quality of other hospitals? A spatial ec
 Examining the Relationship Between Road Structure and Burglary Risk Via Quantitative Network Analysis
 People, Places and Public Policy: Some Simple Welfare Economics of Local Economic Development Programs
 Disentangling neighborhood contextual associations with child body mass index, diet, and physical activity: the role of built, socioeconomic, and social environments.
+Quantifying the Influence of Climate on Human Conflict
+Effects of neighborhood violence and perceptions of neighborhood safety on depressive symptoms of older adults.
+Hippocampal place cell sequences depict future paths to remembered goals
+Space-division multiplexing in optical fibres
+Diversity enhanced particle swarm optimization with neighborhood search

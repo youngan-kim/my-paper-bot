@@ -2890,3 +2890,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-17
+
+### 1. [Quantifying the Influence of Climate on Human Conflict](https://doi.org/10.1126/science.1235367)
+- **Journal:** Science
+- **Authors:** S. Hsiang, M. Burke, E. Miguel
+- **Pub Date:** 2013-09-13
+- **DOI:** 10.1126/science.1235367
+- **Abstract:** None
+
+### 2. [Effects of neighborhood violence and perceptions of neighborhood safety on depressive symptoms of older adults.](https://doi.org/10.1016/j.socscimed.2013.02.028)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** M. Wilson‐Genderson, R. Pruchno
+- **Pub Date:** 2013-05-01
+- **DOI:** 10.1016/j.socscimed.2013.02.028
+- **Abstract:** None
+
+### 3. [Hippocampal place cell sequences depict future paths to remembered goals](https://doi.org/10.1038/nature12112)
+- **Journal:** Nature
+- **Authors:** Brad E. Pfeiffer, David J. Foster
+- **Pub Date:** 2013-04-04
+- **DOI:** 10.1038/nature12112
+- **Abstract:** Effective navigation requires planning extended routes to remembered goal locations. Hippocampal place cells have been proposed to have a role in navigational planning, but direct evidence has been lacking. Here we show that before goal-directed navigation in an open arena, the rat hippocampus generates brief sequences encoding spatial trajectories strongly biased to progress from the subject’s current location to a known goal location. These sequences predict immediate future behaviour, even in cases in which the specific combination of start and goal locations is novel. These results indicate that hippocampal sequence events characterized previously in linearly constrained environments as ‘replay’ are also capable of supporting a goal-directed, trajectory-finding mechanism, which identifies important places and relevant behavioural paths, at specific times when memory retrieval is required, and in a manner that could be used to control subsequent navigational behaviour.
+
+### 4. [Space-division multiplexing in optical fibres](https://doi.org/10.1038/nphoton.2013.94)
+- **Journal:** Nature Photonics
+- **Authors:** D. Richardson, J. Fini, L. Nelson
+- **Pub Date:** 2013-03-15
+- **DOI:** 10.1038/nphoton.2013.94
+- **Abstract:** This Review summarizes the simultaneous transmission of several independent spatial channels of light along optical fibres to expand the data-carrying capacity of optical communications. Recent results achieved in both multicore and multimode optical fibres are documented. Optical communication technology has been advancing rapidly for several decades, supporting our increasingly information-driven society and economy. Much of this progress has been in finding innovative ways to increase the data-carrying capacity of a single optical fibre. To achieve this, researchers have explored and attempted to optimize multiplexing in time, wavelength, polarization and phase. Commercial systems now utilize all four dimensions to send more information through a single fibre than ever before. The spatial dimension has, however, remained untapped in single fibres, despite it being possible to manufacture fibres supporting hundreds of spatial modes or containing multiple cores, which could be exploited as parallel channels for independent signals.
+
+### 5. [Diversity enhanced particle swarm optimization with neighborhood search](https://doi.org/10.1016/j.ins.2012.10.012)
+- **Journal:** Information Sciences
+- **Authors:** Hui Wang, Hui Sun, Changhe Li, S. Rahnamayan, Jeng‐Shyang Pan
+- **Pub Date:** 2013-02-01
+- **DOI:** 10.1016/j.ins.2012.10.012
+- **Abstract:** None
+
+---
+
