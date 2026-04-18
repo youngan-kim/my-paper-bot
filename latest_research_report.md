@@ -2929,3 +2929,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-18
+
+### 1. [Perceived neighborhood quality, sleep quality, and health status: evidence from the Survey of the Health of Wisconsin.](https://doi.org/10.1016/j.socscimed.2012.07.021)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** L. Hale, Terrence D. Hill, Elliot Friedman, F. Nieto, L. Galvão, C. Engelman, Kristen M C Malecki, P. Peppard
+- **Pub Date:** 2013-02-01
+- **DOI:** 10.1016/j.socscimed.2012.07.021
+- **Abstract:** None
+
+### 2. [Neighborhood characteristics and depressive symptoms of older people: local spatial analyses.](https://doi.org/10.1016/j.socscimed.2012.08.033)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** E. Cromley, M. Wilson‐Genderson, R. Pruchno
+- **Pub Date:** 2012-12-01
+- **DOI:** 10.1016/j.socscimed.2012.08.033
+- **Abstract:** None
+
+### 3. [Spatial econometrics in an age of CyberGIScience](https://doi.org/10.1080/13658816.2012.664276)
+- **Journal:** International Journal of Geographical Information Science
+- **Authors:** L. Anselin, S. Rey
+- **Pub Date:** 2012-12-01
+- **DOI:** 10.1080/13658816.2012.664276
+- **Abstract:** None
+
+### 4. [Unemployment and crime: A neighborhood level panel data approach.](https://doi.org/10.1016/j.ssresearch.2012.07.003)
+- **Journal:** Social Science Research
+- **Authors:** Martin A. Andresen
+- **Pub Date:** 2012-11-01
+- **DOI:** 10.1016/j.ssresearch.2012.07.003
+- **Abstract:** None
+
+### 5. [Neighborhood social capital and crime victimization: comparison of spatial regression analysis and hierarchical regression analysis.](https://doi.org/10.1016/j.socscimed.2012.07.039)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** D. Takagi, Ken’ichi Ikeda, I. Kawachi
+- **Pub Date:** 2012-11-01
+- **DOI:** 10.1016/j.socscimed.2012.07.039
+- **Abstract:** None
+
+---
+

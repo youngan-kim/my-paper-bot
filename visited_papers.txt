@@ -349,3 +349,8 @@ Effects of neighborhood violence and perceptions of neighborhood safety on depre
 Hippocampal place cell sequences depict future paths to remembered goals
 Space-division multiplexing in optical fibres
 Diversity enhanced particle swarm optimization with neighborhood search
+Perceived neighborhood quality, sleep quality, and health status: evidence from the Survey of the Health of Wisconsin.
+Neighborhood characteristics and depressive symptoms of older people: local spatial analyses.
+Spatial econometrics in an age of CyberGIScience
+Unemployment and crime: A neighborhood level panel data approach.
+Neighborhood social capital and crime victimization: comparison of spatial regression analysis and hierarchical regression analysis.
