@@ -2968,3 +2968,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-19
+
+### 1. [The contemporary foreclosure crisis and US crime rates.](https://doi.org/10.1016/j.ssresearch.2012.05.013)
+- **Journal:** Social Science Research
+- **Authors:** Ashley N. Arnio, E. Baumer, Kevin T. Wolff
+- **Pub Date:** 2012-11-01
+- **DOI:** 10.1016/j.ssresearch.2012.05.013
+- **Abstract:** None
+
+### 2. [The global diversity of birds in space and time](https://doi.org/10.1038/nature11631)
+- **Journal:** Nature
+- **Authors:** W. Jetz, G. Thomas, J. Joy, K. Hartmann, A. Mooers
+- **Pub Date:** 2012-10-31
+- **DOI:** 10.1038/nature11631
+- **Abstract:** None
+
+### 3. [Neighborhood stressors and cardiovascular health: crime and C-reactive protein in Dallas, USA.](https://doi.org/10.1016/j.socscimed.2012.03.027)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** C. Browning, K. Cagney, James Iveniuk
+- **Pub Date:** 2012-10-01
+- **DOI:** 10.1016/j.socscimed.2012.03.027
+- **Abstract:** None
+
+### 4. [Neighborhood Effects on the Long-Term Well-Being of Low-Income Adults](https://doi.org/10.1126/science.1224648)
+- **Journal:** Science
+- **Authors:** J. Ludwig, G. Duncan, L. Gennetian, Lawrence F. Katz, R. Kessler, Jeffrey R. Kling, L. Sanbonmatsu
+- **Pub Date:** 2012-09-21
+- **DOI:** 10.1126/science.1224648
+- **Abstract:** None
+
+### 5. [Terabit free-space data transmission employing orbital angular momentum multiplexing](https://doi.org/10.1038/nphoton.2012.138)
+- **Journal:** Nature Photonics
+- **Authors:** Jian Wang, Jeng-Yuan Yang, I. Fazal, N. Ahmed, Yan Yan, Hao Huang, Yongxiong Ren, Y. Yue, S. Dolinar, M. Tur, A. Willner
+- **Pub Date:** 2012-06-24
+- **DOI:** 10.1038/nphoton.2012.138
+- **Abstract:** None
+
+---
+
