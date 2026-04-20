@@ -3007,3 +3007,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-20
+
+### 1. [Human Mobility and Crime: Theoretical Approaches and Novel Data Collection Strategies.](https://doi.org/10.1146/ANNUREV-CRIMINOL-061020-021551)
+- **Journal:** annual review of criminology
+- **Authors:** Christopher R. Browning, Nicolo P. Pinchak, Catherine A. Calder
+- **Pub Date:** 2021-01-01
+- **DOI:** 10.1146/ANNUREV-CRIMINOL-061020-021551
+- **Abstract:** This review outlines approaches to explanations of crime that incorporate the concept of human mobility-or the patterns of movement throughout space of individuals or populations in the context of everyday routines-with a focus on novel strategies for the collection of geographically referenced data on mobility patterns. We identify three approaches to understanding mobility-crime linkages: (a) Place and neighborhood approaches characterize local spatial units of analysis of varying size with respect to the intersection in space and time of potential offenders, victims, and guardians; (b) person-centered approaches emphasize the spatial trajectories of individuals and person-place interactions that influence crime risk; and (c) ecological network approaches consider links between persons or collectivities based on shared activity locations, capturing influences of broader systems of interconnection on spatial- and individual-level variation in crime. We review data collection strategies for the measurement of mobility across these approaches, considering both the challenges and promise of mobility-based research for criminology.
+
+### 2. [A systems approach reveals urban pollinator hotspots and conservation opportunities](https://doi.org/10.1038/s41559-018-0769-y)
+- **Journal:** Nature Ecology & Evolution
+- **Authors:** K. Baldock, Mark A. Goddard, D. Hicks, W. Kunin, N. Mitschunas, Helen Morse, Lynne M. Osgathorpe, S. Potts, Kirsty M. Robertson, A. V. Scott, Phillip P. A. Staniczenko, G. Stone, I. Vaughan, J. Memmott
+- **Pub Date:** 2019-01-14
+- **DOI:** 10.1038/s41559-018-0769-y
+- **Abstract:** Urban areas are often perceived to have lower biodiversity than the wider countryside, but a few small-scale studies suggest that some urban land uses can support substantial pollinator populations. We present a large-scale, well-replicated study of floral resources and pollinators in 360 sites incorporating all major land uses in four British cities. Using a systems approach, we developed Bayesian network models integrating pollinator dispersal and resource switching to estimate city-scale effects of management interventions on plant–pollinator community robustness to species loss. We show that residential gardens and allotments (community gardens) are pollinator ‘hotspots’: gardens due to their extensive area, and allotments due to their high pollinator diversity and leverage on city-scale plant–pollinator community robustness. Household income was positively associated with pollinator abundance in gardens, highlighting the influence of socioeconomic factors. Our results underpin urban planning recommendations to enhance pollinator conservation, using increasing city-scale community robustness as our measure of success. Analysing plant–pollinator interactions across all major land use classes in four cities, the authors show that residential gardens and community gardens are urban pollinator hotspots, with pollinator abundance positively associated with household income.
+
+### 3. [Review on space robotics: Toward top-level science through space exploration](https://doi.org/10.1126/scirobotics.aan5074)
+- **Journal:** Science Robotics
+- **Authors:** Steve Ankuo Chien
+- **Pub Date:** 2017-06-28
+- **DOI:** 10.1126/scirobotics.aan5074
+- **Abstract:** None
+
+### 4. [Neighborhood Effects in Temporal Perspective](https://doi.org/10.1177/0003122411420816)
+- **Journal:** American Sociological Review
+- **Authors:** G. Wodtke, David J. Harding, Felix Elwert
+- **Pub Date:** 2011-10-01
+- **DOI:** 10.1177/0003122411420816
+- **Abstract:** None
+
+### 5. [Horizontal Inequalities and Ethnonationalist Civil War: A Global Comparison](https://doi.org/10.1017/S0003055411000207)
+- **Journal:** American Political Science Review
+- **Authors:** L. Cederman, Nils B. Weidmann, K. Gleditsch
+- **Pub Date:** 2011-07-11
+- **DOI:** 10.1017/S0003055411000207
+- **Abstract:** None
+
+---
+
