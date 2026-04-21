@@ -3046,3 +3046,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-21
+
+### 1. [Urban growth simulation by incorporating planning policies into a CA-based future land-use simulation model](https://doi.org/10.1080/13658816.2018.1502441)
+- **Journal:** International Journal of Geographical Information Science
+- **Authors:** Xun Liang, Xiaoping Liu, Dan Li, H Zhao, Guangzhao Chen
+- **Pub Date:** 2018-08-03
+- **DOI:** 10.1080/13658816.2018.1502441
+- **Abstract:** ABSTRACT Urban land-use change is affected by urban planning and government decision-making. Previous urban simulation methods focused only on planning constraints that prevent urban growth from developing in specific regions. However, regional planning produces planning policies that drive urban development, such as traffic planning and development zones, which have rarely been considered in previous studies. This study aims to design two mechanisms based on a cellular automata-based future land-use simulation model to integrate different planning drivers into simulations. The first update mechanism considers the influence of traffic planning, while the second mechanism can model the guiding effect of planning development zones. The proposed mechanisms are applied to the Pearl River Delta region, which is one of the fastest growing areas in China. The first mechanism is validated using simulations from 2000–2013 and demonstrates that simulation accuracy is improved by the consideration of traffic planning. In the simulation from 2013–2052, the two mechanisms are implemented and yield more realistic urban spatial patterns. The simulation outcomes can be employed to identify potential urban expansion inside the master plan. The proposed methods can serve as a useful tool that assists planners in their evaluation of urban evolvement under the impact of different planning policies.
+
+### 2. [The Legacy of Disadvantage: Multigenerational Neighborhood Effects on Cognitive Ability](https://doi.org/10.1086/660009)
+- **Journal:** American Journal of Sociology
+- **Authors:** P. Sharkey, Felix Elwert
+- **Pub Date:** 2011-05-01
+- **DOI:** 10.1086/660009
+- **Abstract:** None
+
+### 3. [Preplay of future place cell sequences by hippocampal cellular assemblies](https://doi.org/10.1038/nature09633)
+- **Journal:** Nature
+- **Authors:** G. Dragoi, S. Tonegawa
+- **Pub Date:** 2011-01-20
+- **DOI:** 10.1038/nature09633
+- **Abstract:** None
+
+### 4. [Cultural Mechanisms and the Persistence of Neighborhood Violence1](https://doi.org/10.1086/655754)
+- **Journal:** American Journal of Sociology
+- **Authors:** D. Kirk, A. Papachristos
+- **Pub Date:** 2011-01-01
+- **DOI:** 10.1086/655754
+- **Abstract:** None
+
+### 5. [Functional imaging of hippocampal place cells at cellular resolution during virtual navigation](https://doi.org/10.1038/nn.2648)
+- **Journal:** Nature Neuroscience
+- **Authors:** D. Dombeck, C. Harvey, L. Tian, L. Looger, D. Tank
+- **Pub Date:** 2010-09-11
+- **DOI:** 10.1038/nn.2648
+- **Abstract:** Spatial navigation is often used as a behavioral task in studies of the neuronal circuits that underlie cognition, learning and memory in rodents. The combination of in vivo microscopy with genetically encoded indicators has provided an important new tool for studying neuronal circuits, but has been technically difficult to apply during navigation. Here we describe methods for imaging the activity of neurons in the CA1 region of the hippocampus with subcellular resolution in behaving mice. Neurons that expressed the genetically encoded calcium indicator GCaMP3 were imaged through a chronic hippocampal window. Head-restrained mice performed spatial behaviors in a setup combining a virtual reality system and a custom-built two-photon microscope. We optically identified populations of place cells and determined the correlation between the location of their place fields in the virtual environment and their anatomical location in the local circuit. The combination of virtual reality and high-resolution functional imaging should allow a new generation of studies to investigate neuronal circuit dynamics during behavior.
+
+---
+

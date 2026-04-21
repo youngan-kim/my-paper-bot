@@ -364,3 +364,8 @@ A systems approach reveals urban pollinator hotspots and conservation opportunit
 Review on space robotics: Toward top-level science through space exploration
 Neighborhood Effects in Temporal Perspective
 Horizontal Inequalities and Ethnonationalist Civil War: A Global Comparison
+Urban growth simulation by incorporating planning policies into a CA-based future land-use simulation model
+The Legacy of Disadvantage: Multigenerational Neighborhood Effects on Cognitive Ability
+Preplay of future place cell sequences by hippocampal cellular assemblies
+Cultural Mechanisms and the Persistence of Neighborhood Violence1
+Functional imaging of hippocampal place cells at cellular resolution during virtual navigation
