@@ -3085,3 +3085,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-22
+
+### 1. [The Ideological Mapping of American Legislatures](https://doi.org/10.1017/S0003055411000153)
+- **Journal:** American Political Science Review
+- **Authors:** Boris Shor, N. McCarty
+- **Pub Date:** 2010-07-01
+- **DOI:** 10.1017/S0003055411000153
+- **Abstract:** None
+
+### 2. [Real-space observation of a two-dimensional skyrmion crystal](https://doi.org/10.1038/nature09124)
+- **Journal:** Nature
+- **Authors:** X. Z. Yu, Y. Onose, N. Kanazawa, Jin-Hong Park, J. Han, Y. Matsui, N. Nagaosa, Y. Tokura
+- **Pub Date:** 2010-06-17
+- **DOI:** 10.1038/nature09124
+- **Abstract:** None
+
+### 3. [Sense of community and its relationship with walking and neighborhood design.](https://doi.org/10.1016/j.socscimed.2010.01.021)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** L. Wood, L. Frank, B. Giles-Corti
+- **Pub Date:** 2010-05-01
+- **DOI:** 10.1016/j.socscimed.2010.01.021
+- **Abstract:** None
+
+### 4. [Place illusion and plausibility can lead to realistic behaviour in immersive virtual environments](https://doi.org/10.1098/rstb.2009.0138)
+- **Journal:** Philosophical Transactions of the Royal Society B: Biological Sciences
+- **Authors:** M. Slater
+- **Pub Date:** 2009-12-12
+- **DOI:** 10.1098/rstb.2009.0138
+- **Abstract:** None
+
+### 5. [The Changing Bases of Segregation in the United States](https://doi.org/10.1177/0002716209343558)
+- **Journal:** The Annals of the American Academy of Political and Social Science
+- **Authors:** D. Massey, J. Rothwell, T. Domina
+- **Pub Date:** 2009-10-26
+- **DOI:** 10.1177/0002716209343558
+- **Abstract:** None
+
+---
+
