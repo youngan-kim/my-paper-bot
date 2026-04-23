@@ -3124,3 +3124,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-23
+
+### 1. [A safe operating space for humanity](https://doi.org/10.1038/461472a)
+- **Journal:** Nature
+- **Authors:** Johan Rockström, Johan Rockström, Will Steffen, Will Steffen, K. Noone, Å. Persson, Å. Persson, F. Chapin, E. Lambin, T. Lenton, M. Scheffer, Carl Folke, Carl Folke, H. Schellnhuber, B. Nykvist, B. Nykvist, C. A. Wit, T. Hughes, S. Leeuw, H. Rodhe, S. Sörlin, S. Sörlin, P. Snyder, Robert Costanza, Robert Costanza, U. Svedin, M. Falkenmark, M. Falkenmark, Louise Karlberg, Louise Karlberg, R. Corell, V. Fabry, J. Hansen, Brian Walker, Brian Walker, Diana Liverman, Diana Liverman, K. Richardson, P. Crutzen, J. Foley
+- **Pub Date:** 2009-09-23
+- **DOI:** 10.1038/461472a
+- **Abstract:** None
+
+### 2. [Intracellular dynamics of hippocampal place cells during virtual navigation](https://doi.org/10.1038/nature08499)
+- **Journal:** Nature
+- **Authors:** C. Harvey, Forrest Collman, D. Dombeck, D. Tank
+- **Pub Date:** 2009-09-18
+- **DOI:** 10.1038/nature08499
+- **Abstract:** Hippocampal place cells encode spatial information in rate and temporal codes. To examine the mechanisms underlying hippocampal coding, here we measured the intracellular dynamics of place cells by combining in vivo whole-cell recordings with a virtual-reality system. Head-restrained mice, running on a spherical treadmill, interacted with a computer-generated visual environment to perform spatial behaviours. Robust place-cell activity was present during movement along a virtual linear track. From whole-cell recordings, we identified three subthreshold signatures of place fields: an asymmetric ramp-like depolarization of the baseline membrane potential, an increase in the amplitude of intracellular theta oscillations, and a phase precession of the intracellular theta oscillation relative to the extracellularly recorded theta rhythm. These intracellular dynamics underlie the primary features of place-cell rate and temporal codes. The virtual-reality system developed here will enable new experimental approaches to study the neural circuits underlying navigation.
+
+### 3. [Neighborhood built environment and income: examining multiple health outcomes.](https://doi.org/10.1016/j.socscimed.2009.01.017)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** J. Sallis, B. Saelens, L. Frank, T. Conway, D. Slymen, K. Cain, J. Chapman, J. Kerr
+- **Pub Date:** 2009-04-01
+- **DOI:** 10.1016/j.socscimed.2009.01.017
+- **Abstract:** None
+
+### 4. [Spatial Voting in the 2004 Presidential Election](https://doi.org/10.1017/S000305540909008X)
+- **Journal:** American Political Science Review
+- **Authors:** S. Jessee
+- **Pub Date:** 2009-02-01
+- **DOI:** 10.1017/S000305540909008X
+- **Abstract:** None
+
+### 5. [An Application of the Dynamic Pattern Analysis Framework to the Analysis of Spatial-Temporal Crime Relationships](https://doi.org/10.3217/jucs-015-09-1852)
+- **Journal:** Journal of universal computer science (Online)
+- **Authors:** Kelvin Leong, Junco Li, S. Chan, V. Ng
+- **Pub Date:** 2009
+- **DOI:** 10.3217/jucs-015-09-1852
+- **Abstract:** Dynamic pattern analysis refers to analyzing the relationship of spatial patterns at different time points. Traditional spatial pattern analysis such as data clustering can find the spatial patterns extant at a geographical location at a particular time point but failing to identify spatial dynamics, or changes that occur over time in a particular place. In this paper, we present a dynamic pattern analysis framework, the DPA framework. This framework allows user to identify three types of dynamic patterns in spatial-temporal data: 1) similar spatial patterns at different time points, 2) interactive relationship between two geographical locations as a result of a specific reason and 3) frequent association rules related to particular types of events, geographical locations, and time points. To evaluate the proposed framework, we used it to analyze a set of reported crime data for a district of Hong Kong and compared the identified patterns with some expectations of field experts and prior empirical studies for this kind of data and patterns. In line with expert predictions, we found strong correlations between school holidays and crime clusters. On the contrary, in our data set, we could not find obvious seasonal dependency. These findings are corroborated by related empirical crime studies.
+
+---
+
