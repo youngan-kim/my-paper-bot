@@ -379,3 +379,8 @@ Intracellular dynamics of hippocampal place cells during virtual navigation
 Neighborhood built environment and income: examining multiple health outcomes.
 Spatial Voting in the 2004 Presidential Election
 An Application of the Dynamic Pattern Analysis Framework to the Analysis of Spatial-Temporal Crime Relationships
+Neighborhood rough set based heterogeneous feature subset selection
+Moving to Inequality: Neighborhood Effects and Experiments Meet Social Structure1
+Place cells, grid cells, and the brain's spatial representation system.
+Emanating Political Participation: Untangling the Spatial Structure Behind Participation
+Understanding and representing 'place' in health research: a relational approach.

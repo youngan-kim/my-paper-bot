@@ -3163,3 +3163,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-24
+
+### 1. [Neighborhood rough set based heterogeneous feature subset selection](https://doi.org/10.1016/j.ins.2008.05.024)
+- **Journal:** Information Sciences
+- **Authors:** Qinghua Hu, Daren Yu, Jinfu Liu, Congxin Wu
+- **Pub Date:** 2008-09-20
+- **DOI:** 10.1016/j.ins.2008.05.024
+- **Abstract:** None
+
+### 2. [Moving to Inequality: Neighborhood Effects and Experiments Meet Social Structure1](https://doi.org/10.1086/589843)
+- **Journal:** American Journal of Sociology
+- **Authors:** R. Sampson
+- **Pub Date:** 2008-07-01
+- **DOI:** 10.1086/589843
+- **Abstract:** The Moving to Opportunity (MTO) housing experiment has proven to be an important intervention not just in the lives of the poor, but in social science theories of neighborhood effects. Competing causal claims have been the subject of considerable disagreement, culminating in the debate between Clampet‐Lundquist and Massey and Ludwig et al. in this issue. This article assesses the debate by clarifying analytically distinct questions posed by neighborhood‐level theories, reconceptualizing selection bias as a fundamental social process worthy of study in its own right rather than a statistical nuisance, and reconsidering the scientific method of experimentation, and hence causality, in the social world of the city. The author also analyzes MTO and independent survey data from Chicago to examine trajectories of residential attainment. Although MTO provides crucial leverage for estimating neighborhood effects on individuals, as proponents rightly claim, this study demonstrates the implications imposed by a stratified urban structure and how MTO simultaneously provides a new window on the social reproduction of concentrated inequality.
+
+### 3. [Place cells, grid cells, and the brain's spatial representation system.](https://doi.org/10.1146/annurev.neuro.31.061307.090723)
+- **Journal:** Annual Review of Neuroscience
+- **Authors:** E. Moser, E. Kropff, M. Moser
+- **Pub Date:** 2008-06-17
+- **DOI:** 10.1146/annurev.neuro.31.061307.090723
+- **Abstract:** None
+
+### 4. [Emanating Political Participation: Untangling the Spatial Structure Behind Participation](https://doi.org/10.1017/S0007123408000148)
+- **Journal:** British Journal of Political Science
+- **Authors:** W. Cho, T. Rudolph
+- **Pub Date:** 2008-02-08
+- **DOI:** 10.1017/S0007123408000148
+- **Abstract:** None
+
+### 5. [Understanding and representing 'place' in health research: a relational approach.](https://doi.org/10.1016/J.SOCSCIMED.2007.05.036)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** S. Cummins, S. Curtis, A. Diez-Roux, S. Macintyre
+- **Pub Date:** 2007-11-01
+- **DOI:** 10.1016/J.SOCSCIMED.2007.05.036
+- **Abstract:** None
+
+---
+
