@@ -3202,3 +3202,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-25
+
+### 1. [Neighborhood Ethnic Diversity and Trust](https://doi.org/10.1177/0956797613508956)
+- **Journal:** Psychology Science
+- **Authors:** Katharina Schmid, A. Ramiah, M. Hewstone
+- **Pub Date:** 2014-01-16
+- **DOI:** 10.1177/0956797613508956
+- **Abstract:** None
+
+### 2. [Stepping towards causation: do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?](https://doi.org/10.1016/J.SOCSCIMED.2007.05.053)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** L. Frank, B. Saelens, K. Powell, J. Chapman
+- **Pub Date:** 2007-11-01
+- **DOI:** 10.1016/J.SOCSCIMED.2007.05.053
+- **Abstract:** None
+
+### 3. [Forward and reverse hippocampal place-cell sequences during ripples](https://doi.org/10.1038/nn1961)
+- **Journal:** Nature Neuroscience
+- **Authors:** K. Diba, G. Buzsáki
+- **Pub Date:** 2007-10-01
+- **DOI:** 10.1038/nn1961
+- **Abstract:** None
+
+### 4. [The Product Space Conditions the Development of Nations](https://doi.org/10.1126/science.1144581)
+- **Journal:** Science
+- **Authors:** César A. Hidalgo, B. Klinger, A. Barabási, R. Hausmann
+- **Pub Date:** 2007-07-27
+- **DOI:** 10.1126/science.1144581
+- **Abstract:** Economies grow by upgrading the products they produce and export. The technology, capital, institutions, and skills needed to make newer products are more easily adapted from some products than from others. Here, we study this network of relatedness between products, or “product space,” finding that more-sophisticated products are located in a densely connected core whereas less-sophisticated products occupy a less-connected periphery. Empirically, countries move through the product space by developing goods close to those they currently produce. Most countries can reach the core only by traversing empirically infrequent distances, which may help explain why poor countries have trouble developing more competitive exports and fail to converge to the income levels of rich countries.
+
+### 5. [The spindle-assembly checkpoint in space and time](https://doi.org/10.1038/nrm2163)
+- **Journal:** Nature reviews. Molecular cell biology
+- **Authors:** A. Musacchio, E. Salmon
+- **Pub Date:** 2007-05-01
+- **DOI:** 10.1038/nrm2163
+- **Abstract:** None
+
+---
+
