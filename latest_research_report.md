@@ -3241,3 +3241,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-26
+
+### 1. [Spatial Econometric Models of Cross-Sectional Interdependence in Political Science Panel and Time-Series-Cross-Section Data](https://doi.org/10.1093/pan/mpm005)
+- **Journal:** Political Analysis
+- **Authors:** R. Franzese, Jude C. Hays
+- **Pub Date:** 2007-03-20
+- **DOI:** 10.1093/pan/mpm005
+- **Abstract:** None
+
+### 2. [Neighborhood microclimates and vulnerability to heat stress.](https://doi.org/10.1016/J.SOCSCIMED.2006.07.030)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** S. Harlan, A. Brazel, L. Prashad, W. Stefanov, Larissa Larsen
+- **Pub Date:** 2006-12-01
+- **DOI:** 10.1016/J.SOCSCIMED.2006.07.030
+- **Abstract:** None
+
+### 3. [An Adaptive Large Neighborhood Search Heuristic for the Pickup and Delivery Problem with Time Windows](https://doi.org/10.1287/TRSC.1050.0135)
+- **Journal:** Transportation Science
+- **Authors:** S. Røpke, David Pisinger
+- **Pub Date:** 2006-11-01
+- **DOI:** 10.1287/TRSC.1050.0135
+- **Abstract:** None
+
+### 4. [Reverse replay of behavioural sequences in hippocampal place cells during the awake state](https://doi.org/10.1038/nature04587)
+- **Journal:** Nature
+- **Authors:** David J. Foster, M. Wilson
+- **Pub Date:** 2006-03-30
+- **DOI:** 10.1038/nature04587
+- **Abstract:** None
+
+### 5. [Cell-signalling dynamics in time and space](https://doi.org/10.1038/nrm1838)
+- **Journal:** Nature reviews. Molecular cell biology
+- **Authors:** B. Kholodenko
+- **Pub Date:** 2006-03-01
+- **DOI:** 10.1038/nrm1838
+- **Abstract:** None
+
+---
+
