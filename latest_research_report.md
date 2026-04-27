@@ -3280,3 +3280,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-27
+
+### 1. [Spatial and temporal heterogeneity of mouse and human microglia at single-cell resolution](https://doi.org/10.1038/s41586-019-0924-x)
+- **Journal:** Nature
+- **Authors:** Takahiro Masuda, R. Sankowski, O. Staszewski, C. Böttcher, Lukas Amann, Sagar, Christian Scheiwe, S. Nessler, Patrik Kunz, G. Loo, Volker A. Coenen, P. Reinacher, Anna Michel, U. Sure, Ralf Gold, Dominic Grün, Josef Priller, Josef Priller, C. Stadelmann, Marco Prinz
+- **Pub Date:** 2019-02-01
+- **DOI:** 10.1038/s41586-019-0924-x
+- **Abstract:** None
+
+### 2. [Identification of spatial expression trends in single-cell gene expression data](https://doi.org/10.1038/nmeth.4634)
+- **Journal:** Nature Methods
+- **Authors:** D. Edsgärd, P. Johnsson, R. Sandberg
+- **Pub Date:** 2018-03-19
+- **DOI:** 10.1038/nmeth.4634
+- **Abstract:** As methods for measuring spatial gene expression at single-cell resolution become available, there is a need for computational analysis strategies. We present trendsceek, a method based on marked point processes that identifies genes with statistically significant spatial expression trends. trendsceek finds these genes in spatial transcriptomic and sequential fluorescence in situ hybridization data, and also reveals significant gene expression gradients and hot spots in low-dimensional projections of dissociated single-cell RNA-seq data.
+
+### 3. [Objective and perceived neighborhood environment, individual SES and psychosocial factors, and self-rated health: an analysis of older adults in Cook County, Illinois.](https://doi.org/10.1016/J.SOCSCIMED.2006.06.025)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** M. Wen, Louise C. Hawkley, J. Cacioppo
+- **Pub Date:** 2006-11-01
+- **DOI:** 10.1016/J.SOCSCIMED.2006.06.025
+- **Abstract:** None
+
+### 4. [Toward a neighborhood resource-based theory of social capital for health: can Bourdieu and sociology help?](https://doi.org/10.1016/J.SOCSCIMED.2005.05.020)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Richard M. Carpiano
+- **Pub Date:** 2006
+- **DOI:** 10.1016/J.SOCSCIMED.2005.05.020
+- **Abstract:** None
+
+### 5. [Competition Between Unequals: The Role of Mainstream Party Strategy in Niche Party Success](https://doi.org/10.1017/S0003055405051701)
+- **Journal:** American Political Science Review
+- **Authors:** Bonnie M. Meguid
+- **Pub Date:** 2005-08-01
+- **DOI:** 10.1017/S0003055405051701
+- **Abstract:** None
+
+---
+

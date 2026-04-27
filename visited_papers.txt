@@ -394,3 +394,8 @@ Neighborhood microclimates and vulnerability to heat stress.
 An Adaptive Large Neighborhood Search Heuristic for the Pickup and Delivery Problem with Time Windows
 Reverse replay of behavioural sequences in hippocampal place cells during the awake state
 Cell-signalling dynamics in time and space
+Spatial and temporal heterogeneity of mouse and human microglia at single-cell resolution
+Identification of spatial expression trends in single-cell gene expression data
+Objective and perceived neighborhood environment, individual SES and psychosocial factors, and self-rated health: an analysis of older adults in Cook County, Illinois.
+Toward a neighborhood resource-based theory of social capital for health: can Bourdieu and sociology help?
+Competition Between Unequals: The Role of Mainstream Party Strategy in Niche Party Success
