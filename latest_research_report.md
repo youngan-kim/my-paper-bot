@@ -3319,3 +3319,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-28
+
+### 1. [Settlement scaling theory: Bridging the study of ancient and contemporary urban systems](https://doi.org/10.1177/0042098019873796)
+- **Journal:** Urban studies
+- **Authors:** J. Lobo, L. Bettencourt, Michael E. Smith, S. Ortman
+- **Pub Date:** 2019-10-17
+- **DOI:** 10.1177/0042098019873796
+- **Abstract:** A general explanatory framework for the social processes underpinning urbanisation should account for empirical regularities that are shared among contemporary urban systems and ancient settlement systems known throughout archaeology and history. The identification of such shared properties has been facilitated by research traditions in each field that define cities and settlements as areas that capture networks of social interaction embedded in space. Using Settlement Scaling Theory (SST) – a set of hypotheses and mathematical relationships that together generate predictions for how measurable quantitative attributes of settlements are related to their population size – we show that aggregate properties of ancient settlement systems and contemporary metropolitan systems scale up in similar ways across time, geography and culture. Settlement scaling theory thus provides a unified framework for understanding and predicting these regularities across time and space, and for identifying putative processes common to all human settlements.
+
+### 2. [Neighborhood Environment Walkability Scale: validity and development of a short form.](https://doi.org/10.1249/01.MSS.0000227639.83607.4D)
+- **Journal:** Medicine & Science in Sports & Exercise
+- **Authors:** E. Cerin, B. Saelens, J. Sallis, L. Frank
+- **Pub Date:** 2006-09-01
+- **DOI:** 10.1249/01.MSS.0000227639.83607.4D
+- **Abstract:** None
+
+### 3. [Interactions between number and space in parietal cortex](https://doi.org/10.1038/nrn1684)
+- **Journal:** Nature Reviews Neuroscience
+- **Authors:** E. Hubbard, M. Piazza, P. Pinel, S. Dehaene
+- **Pub Date:** 2005-06-01
+- **DOI:** 10.1038/nrn1684
+- **Abstract:** None
+
+### 4. [A Unified Theory of Party Competition: A Cross-National Analysis Integrating Spatial and Behavioral Factors](https://doi.org/10.1017/S0008423905299973)
+- **Journal:** Canadian Journal of Political Science/Revue canadienne de science politique
+- **Authors:** C. Nikolenyi
+- **Pub Date:** 2005-03-21
+- **DOI:** 10.1017/S0008423905299973
+- **Abstract:** None
+
+### 5. [Spatial Models of Delegation](https://doi.org/10.1017/S0003055404001157)
+- **Journal:** American Political Science Review
+- **Authors:** Jonathan Bendor, Adam Meirowitz
+- **Pub Date:** 2004-05-01
+- **DOI:** 10.1017/S0003055404001157
+- **Abstract:** None
+
+---
+
