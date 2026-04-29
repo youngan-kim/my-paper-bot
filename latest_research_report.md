@@ -3358,3 +3358,43 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-29
+
+### 1. [The (mis)estimation of neighborhood effects: causal inference for a practicable social epidemiology.](https://doi.org/10.1016/J.SOCSCIMED.2003.08.004)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** J. Oakes
+- **Pub Date:** 2004-05-01
+- **DOI:** 10.1016/J.SOCSCIMED.2003.08.004
+- **Abstract:** None
+
+### 2. [The Measurement of Place Attachment: Validity and Generalizability of a Psychometric Approach](https://doi.org/10.1093/FORESTSCIENCE/49.6.830)
+- **Journal:** Forestry sciences
+- **Authors:** Daniel R. Williams, J. Vaske
+- **Pub Date:** 2003-12-01
+- **DOI:** 10.1093/FORESTSCIENCE/49.6.830
+- **Abstract:** 
+ To enhance land managers' ability to address deeper landscape meanings and place-specific symbolic values in natural resource decision making, this study evaluated the psychometric properties of a place attachment measure designed to capture the extent of emotions and feelings people have for places. Building on previous measurement efforts, this study examined the validity and generalizability of place attachment across measurement items, places, and dimensions (place dependence and place identity) of attachment. Colorado State University students (n = 65) rated four forest-based recreation sites on two dimensions of place attachment. In addition, data from a sample of University of Illinois students (n = 380) and visitors to Shenandoah National Park (n = 2005) and Mt. Rogers National Recreation Area (n = 369) were analyzed and compared to the Colorado sample. Confirmatory factor analysis of these four data sets demonstrated that subjects distinguish between two dimensions of attachment and assign different levels of attachment to the different areas. Generalizability analysis of the Colorado data provided additional evidence for the two-dimensional structure and suggested that each attachment dimension can be reliably measured with as few as four questionnaire items. Convergent validity was supported through analyses of the relationships between the place attachment measures and both behavioral and psychological variables predicted to be related to place attachment.
+
+### 3. [A theory of magnitude: common cortical metrics of time, space and quantity.](https://doi.org/10.1016/J.TICS.2003.09.002)
+- **Journal:** Trends in Cognitive Sciences
+- **Authors:** Vincent Walsh
+- **Pub Date:** 2003-11-01
+- **DOI:** 10.1016/J.TICS.2003.09.002
+- **Abstract:** None
+
+### 4. [Counterfactual Models of Neighborhood Effects: The Effect of Neighborhood Poverty on Dropping Out and Teenage Pregnancy1](https://doi.org/10.1086/379217)
+- **Journal:** American Journal of Sociology
+- **Authors:** David J. Harding
+- **Pub Date:** 2003-11-01
+- **DOI:** 10.1086/379217
+- **Abstract:** None
+
+### 5. [Social capital and neighborhood mortality rates in Chicago.](https://doi.org/10.1016/S0277-9536(02)00177-6)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** K. Lochner, I. Kawachi, R. Brennan, S. Buka
+- **Pub Date:** 2003-04-01
+- **DOI:** 10.1016/S0277-9536(02)00177-6
+- **Abstract:** None
+
+---
+
