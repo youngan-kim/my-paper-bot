@@ -3398,3 +3398,43 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-04-30
+
+### 1. [Identifying suitable dam sites using geospatial data and machine learning: a case study of the katsina-ala river in Benue State, Nigeria](https://doi.org/10.1007/s12145-025-01974-y)
+- **Journal:** Earth Science Informatics
+- **Authors:** Ugochukwu Charles Akajiaku, E. I. Ohimain, Ebikombo-ere B. Olodiama, D. Eteh, Ayebawanaemi G. Winston, Prince Chukwuemeka, Anslem O. Otutu, B. P. Bamiekumo, Okes Imoni
+- **Pub Date:** 2025-08-14
+- **DOI:** 10.1007/s12145-025-01974-y
+- **Abstract:** None
+
+### 2. [THE ECONOMICS OF SPATIAL MOBILITY: THEORY AND EVIDENCE USING SMARTPHONE DATA](https://doi.org/10.1093/qje/qjaf038)
+- **Journal:** Quarterly Journal of Economics
+- **Authors:** Y. Miyauchi, Kentaro Nakajima, Stephen J. Redding
+- **Pub Date:** 2025-08-08
+- **DOI:** 10.1093/qje/qjaf038
+- **Abstract:** 
+ We develop a tractable quantitative framework for modelling the rich patterns of spatial mobility observed in smartphone data. We show that travel is frequently undertaken as part of a travel itinerary, defined as a journey starting and ending at home that can include more than one intermediate stop on a given day. We show that these travel itineraries provide microfoundations for consumption externalities and generate both complementarity and substitutability between locations. We show that the consumption externalities implied by travel itineraries are central to matching quasi-experimental evidence from the shift to WFH. We find that these consumption externalities are key drivers of the agglomeration of economic activity in central cities and shape the relative welfare gains from alternative transport improvements in favor of investments in central cities.
+
+### 3. [Identifying climate and environmental determinants of spatial disparities in wheat production using a geospatial machine learning model](https://doi.org/10.1080/15481603.2025.2533487)
+- **Journal:** GIScience &amp; Remote Sensing
+- **Authors:** Kai Ren, Yongze Song, Linchao Li, Francesco Mancini, Zhuoyao Xiao, Xueyuan Zhang, Rui Qu, Qiang Yu
+- **Pub Date:** 2025-07-14
+- **DOI:** 10.1080/15481603.2025.2533487
+- **Abstract:** ABSTRACT Wheat production is crucial in global food security and sustainable development, especially in severe global climate change, frequent extreme weather events, and significant population growth worldwide. A deeper understanding of spatial variation in wheat production and its determining factors is essential for implementing different cultivation practices, water and fertilizer management, and adaptive variety selection across different regions. However, existing methods primarily focused on identifying single-variable factors while lacking geographical spatial characteristics, which may lead to an incomplete exploration of spatial disparities in wheat production, predictions, and responses to changes in determining factors. This study develops a geospatial machine learning model by integrating spatial autocorrelation, spatial stratified heterogeneity, and decision tree to identify spatial disparities and their determinants of wheat production. The model is applied to wheat production analysis in Australia, the world’s 5th (2022) wheat-producing country. First, a spatial autocorrelation method is employed to identify the hotspot area of wheat production in Australia. Next, the geographically optimal zones-based heterogeneity (GOZH) model, an integration of spatial stratified heterogeneity and decision tree learning models, is used to identify determinants and their interactions on spatial disparities of wheat production. Finally, the developed geospatial machine learning model is evaluated by comparing its effectiveness with the commonly used geographical detector model. The results demonstrate pronounced spatial heterogeneity in Australian wheat production driven by environmental, climatic, and soil factors and their interactions. Identifying these spatial determinants enables more efficient crop management – such as targeted sub – regional practices, climate – adaptive variety selection, and soil health strategies – thereby supporting food security and sustainable agricultural systems.
+
+### 4. [There is No Pearl in this Zionist Oyster: Just a Misuse of Research Discontinuity Design (RDD)](https://doi.org/10.1007/s41111-025-00303-4)
+- **Journal:** Chinese Political Science Review
+- **Authors:** Dwayne Woods
+- **Pub Date:** 2025-07-05
+- **DOI:** 10.1007/s41111-025-00303-4
+- **Abstract:** None
+
+### 5. [Assessing the impact of climate change on flood patterns in downstream Nigeria using machine learning and geospatial techniques (2018–2024)](https://doi.org/10.1007/s44288-025-00178-7)
+- **Journal:** Discover Geoscience
+- **Authors:** D. Eteh, B. R. Japheth, Charles U. Akajiaku, Ifunanya Osondu, Omabuwa O. Mene-Ejegi, E. M. Nwachukwu, Miebaka D. Oriasi, E. Omietimi, A. Ayo-Bali
+- **Pub Date:** 2025-07-02
+- **DOI:** 10.1007/s44288-025-00178-7
+- **Abstract:** None
+
+---
+
