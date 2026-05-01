@@ -3438,3 +3438,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-05-01
+
+### 1. [Evaluating groundwater potential with the synergistic use of geospatial methods and advanced machine learning approaches](https://doi.org/10.1007/s44327-025-00095-x)
+- **Journal:** Discover Cities
+- **Authors:** Vicky Anand, V. Rajput, T. Minkina, S. Mandzhieva, Aastha Sharma, Deepak Kumar, Sunil Kumar
+- **Pub Date:** 2025-06-02
+- **DOI:** 10.1007/s44327-025-00095-x
+- **Abstract:** None
+
+### 2. [Harnessing machine learning and geospatial technologies for precise soil erodibility mapping and prediction](https://doi.org/10.1007/s12665-025-12270-9)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** Wudu Abiye, E. Alebachew, O. Dengiz
+- **Pub Date:** 2025-05-01
+- **DOI:** 10.1007/s12665-025-12270-9
+- **Abstract:** None
+
+### 3. [For what and for whom? A political ecology of agrivoltaics in the Southwestern United States](https://doi.org/10.1007/s11625-025-01653-3)
+- **Journal:** Sustainability Science
+- **Authors:** Carrie Seay-Fleming, Tyler Swanson, Andrea Gerlak
+- **Pub Date:** 2025-04-12
+- **DOI:** 10.1007/s11625-025-01653-3
+- **Abstract:** None
+
+### 4. [Forecasting shoreline dynamics and land use/land cover changes in Balukhand-Konark Wildlife Sanctuary (India) using geospatial techniques and machine learning.](https://doi.org/10.1016/j.scitotenv.2025.179207)
+- **Journal:** Science of the Total Environment
+- **Authors:** Manoranjan Mishra, Debdeep Bhattacharyya, Brihaspati Mondal, Suman Paul, R. M. D. Silva, C. Santos, Rajkumar Guria
+- **Pub Date:** 2025-04-03
+- **DOI:** 10.1016/j.scitotenv.2025.179207
+- **Abstract:** Coastal ecosystems play a critical role in biodiversity conservation, climate regulation, and supporting human livelihoods. This study investigates future shoreline and land use/land cover change (LULCC) projections in the Balukhand-Konark Wildlife Sanctuary (BKWS). Shoreline and LULCC dynamics were quantified using satellite imagery, geospatial tools, and predictive modeling. An ensemble machine learning approach, combining Cellular Automata-Artificial Neural Networks (CA-ANN) and Random Forest techniques, was employed to enhance prediction accuracy. The shoreline dynamics analysis indicated persistent erosion in the northern zones and accretion in the southern zones, trends projected to continue through 2033 and 2043. LULC assessments showed a high reduction in dense vegetation, from 41.8 % in 1993 to 37.1 % in 2023, alongside an increase in sparse vegetation to 50.3 %. Predictions suggest continued degradation in the northern sections of BKWS, stabilization of sparse vegetation, and expansion of sandy areas by 2043. The results highlight high shoreline erosion and LULC changes. This study shows the need to integrate shoreline dynamics and LULC analyses into coastal management practices and provides actionable recommendations for habitat restoration, sustainable land-use planning, and climate adaptation strategies.
+
+### 5. [Predictive machine learning and geospatial modeling reveal PM10 hotspots and guide targeted air pollution interventions in Addis Ababa, Ethiopia](https://doi.org/10.1007/s42452-025-06723-w)
+- **Journal:** Discover Applied Sciences
+- **Authors:** Kalid Hassen Yasin, Muaz Ismael Yasin, Anteneh Derribew Iguala, Tadele Bedo Gelete, Diriba Tulu, Erana Kebede Neda
+- **Pub Date:** 2025-03-26
+- **DOI:** 10.1007/s42452-025-06723-w
+- **Abstract:** Air pollution is a critical twenty-first century environmental and public health challenge that is linked to millions of deaths and ecological harm. Accurate prediction of pollutants such as PM10 is vital for mitigation and urban sustainability. This study combines geospatial modeling with three machine learning algorithms (MLAs), Random Forest (RF), K-Nearest Neighbor (KNN), and Naïve Bayes (NB), to identify PM10 hotspots in Addis Ababa, Ethiopia. PM10 data from 11 stations (August 2021–August 2023) were analyzed alongside 25 atmospheric, climatic, anthropogenic, and pollution source predictors. A concentric zonal approach was used to assess spatial variability across radial distances and directional sectors and was supported by 30 m-resolution satellite imagery, climate data, and local geospatial repositories. The model accuracies were 0.95 (KNN), 0.93 (RF), and 0.88 (NB), with distinct performance trade-offs: RF predicted the largest “Good” PM10 zones (78.98 km2), KNN highlighted the most “UnHealSen” areas (279 km2), and NB predict “Moderate” coverage (311 km2). High PM10 concentrations clustered in eastern and northwestern sectors, aligning with industrial zones and traffic density. The results demonstrate the efficacy of MLAs and geospatial integration in producing high-resolution pollution maps. We advocate for targeted emission controls in hotspots, expanding public transit to reduce vehicular emissions, and incorporating air quality metrics into urban planning. This study advances air quality assessment methods for rapidly urbanizing regions, providing data-driven strategies to combat pollution and enhance ecological resilience in African cities. Geospatial modeling combined with machine learning algorithms offers promising tools for PM10 prediction. Compared with the other models, the random forest (RF) algorithm achieved better accuracy in PM10 hotspot detection. The spatial prediction reveals hotspots 8–16.5 km in E, ENE, ESE and NW from the city center. Addis Ababa PM10 reduction via emission controls and monitoring needs policy reforms, stakeholder engagement to tackle fiscal/regulatory barriers. Geospatial modeling combined with machine learning algorithms offers promising tools for PM10 prediction. Compared with the other models, the random forest (RF) algorithm achieved better accuracy in PM10 hotspot detection. The spatial prediction reveals hotspots 8–16.5 km in E, ENE, ESE and NW from the city center. Addis Ababa PM10 reduction via emission controls and monitoring needs policy reforms, stakeholder engagement to tackle fiscal/regulatory barriers.
+
+---
+
