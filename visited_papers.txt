@@ -9,3 +9,8 @@ Harnessing machine learning and geospatial technologies for precise soil erodibi
 For what and for whom? A political ecology of agrivoltaics in the Southwestern United States
 Forecasting shoreline dynamics and land use/land cover changes in Balukhand-Konark Wildlife Sanctuary (India) using geospatial techniques and machine learning.
 Predictive machine learning and geospatial modeling reveal PM10 hotspots and guide targeted air pollution interventions in Addis Ababa, Ethiopia
+Geospatial mapping of potential aggregate resources using integrated GIS-AHP, geotechnical, petrographic and machine learning approaches
+Advanced Methodology for Fraud Detection in Energy Using Machine Learning Algorithms
+The Modifiable Areal Unit Problem in Political Science
+Assessing the impact of climate and land use change on flood vulnerability: a machine learning approach in coastal region of Tamil Nadu, India
+FreshWater Watch: Investigating the Health of Freshwater Ecosystems, from the Bottom Up

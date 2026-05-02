@@ -3477,3 +3477,43 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-05-02
+
+### 1. [Geospatial mapping of potential aggregate resources using integrated GIS-AHP, geotechnical, petrographic and machine learning approaches](https://doi.org/10.1007/s12145-025-01794-0)
+- **Journal:** Earth Science Informatics
+- **Authors:** Javid Hussain, Nafees Ali, Xiaodong Fu, Jian Chen, Sayed Muhammad Iqbal, Altaf Hussain, H. Salam
+- **Pub Date:** 2025-03-22
+- **DOI:** 10.1007/s12145-025-01794-0
+- **Abstract:** None
+
+### 2. [Advanced Methodology for Fraud Detection in Energy Using Machine Learning Algorithms](https://doi.org/10.3390/app15063361)
+- **Journal:** Applied Sciences
+- **Authors:** Silviu Gresoi, G. Stamatescu, I. Făgărășan
+- **Pub Date:** 2025-03-19
+- **DOI:** 10.3390/app15063361
+- **Abstract:** The increasing cost of energy and the prevalence of electricity theft pose significant financial and operational challenges for energy providers. Traditional fraud detection methods often fail to identify sophisticated unauthorized consumption, particularly in non-smart-grid environments. This study proposes an advanced machine learning-based methodology for detecting energy fraud, leveraging real-world data from energy distribution networks. This approach integrates multiple machine learning models—k-nearest neighbors (kNN), decision trees, random forest, and artificial neural networks (ANNs)—to improve detection accuracy and efficiency. Experimental results demonstrate an 89.5% fraud detection accuracy, significantly outperforming conventional methods. Furthermore, the implementation of this model led to an estimated financial loss reduction of EUR 45,200. By analyzing historical consumption patterns, anomaly detection techniques, and geospatial data, the proposed system enhances fraud detection capabilities across both smart and non-smart grids. Future research will focus on real-time detection, scalability, and the integration of external data sources to further refine predictive accuracy.
+
+### 3. [The Modifiable Areal Unit Problem in Political Science](https://doi.org/10.1017/pan.2025.2)
+- **Journal:** Political Analysis
+- **Authors:** Dong Wook Lee, Melissa Rogers, H. Soifer
+- **Pub Date:** 2025-02-18
+- **DOI:** 10.1017/pan.2025.2
+- **Abstract:** 
+ Building on the availability of geospatial data, improvements in mapping software, and innovations in spatial statistics, political scientists are increasingly taking geography seriously. As we adopt the tools of geographers, we must also consider the methodological challenges they have identified. We focus on the modifiable areal unit problem (MAUP)—the idea that the size of aggregate spatial units and the location of their borders affect the empirical results we obtain. We first describe the logic of the MAUP, and then demonstrate the MAUP through simulations, showing MAUP-related inconsistency in regression results in randomly generated and real-world data. We identify MAUP concerns, and best practices, in top journals in political science. We conclude by suggesting how scholars may respond in theoretical and empirical terms to concerns about validity and reliability that arise from the MAUP.
+
+### 4. [Assessing the impact of climate and land use change on flood vulnerability: a machine learning approach in coastal region of Tamil Nadu, India](https://doi.org/10.1186/s40562-025-00377-7)
+- **Journal:** Geoscience Letters
+- **Authors:** D. Abijith, S. Saravanan, K. Parthasarathy, NagireddyMasthan Reddy, Janardhanam Niraimathi, A. Bindajam, Javed Mallick, Maged Muteb Alharbi, G. Abdo, H. Abdo
+- **Pub Date:** 2025-01-27
+- **DOI:** 10.1186/s40562-025-00377-7
+- **Abstract:** Flooding and other natural disasters threaten human life and property worldwide. They can cause significant damage to infrastructure and disrupt economies. Tamil Nadu coast is severely prone to flooding due to land use and climate changes. This research applies geospatial tools and machine learning to improve flood susceptibility mapping across the Tamil Nadu coast in India, using projections of Land Use and Land Cover (LULC) changes under current and future climate change scenarios. To identify flooded areas, the study utilised Google Earth Engine (GEE), Sentinel-1 data, and 12 geospatial datasets from multiple sources. A random forest algorithm was used for LULC change and flood susceptibility mapping. The LULC data are classified for the years 2000, 2010, and 2020, and from the classified data, the LULC for years 2030, 2040, and 2050 are projected for the study. Four future climate scenarios (SSP 126, 245, 370, and 585) were used for the average annual precipitation from the Coupled Model Intercomparison Project 6 (CMIP6). The results showed that the random forest model performed better in classifying LULC and identifying flood-prone areas. From the results, it has been depicted that the risk of flooding will increase across all scenarios over the period of 2000–2100, with some decadal fluctuations. A significant outcome indicates that the percentage of the area transitioning to moderate and very high flood risk consistently rises across all future projections. This study presents a viable method for flood susceptibility mapping based on different climate change scenarios and yields estimates of flood risk, which can provide valuable insights for managing flood risks.
+
+### 5. [FreshWater Watch: Investigating the Health of Freshwater Ecosystems, from the Bottom Up](https://doi.org/10.5334/cstp.754)
+- **Journal:** Citizen Science: Theory and Practice
+- **Authors:** I. Bishop, A. Boldrini, Wim Clymans, Charlotte Hall, Heather Moorhouse, Stephen Parkinson, Kesella Scott-Somme, I. Thornhill, Steven Loiselle
+- **Pub Date:** 2025-01-08
+- **DOI:** 10.5334/cstp.754
+- **Abstract:** Freshwater ecosystems are increasingly facing major global and local stressors, while monitoring surface water status by regulatory agencies is often limited by financial and political constraints. Citizen science–based approaches with robust quality control and training can support regulatory monitoring and decision-making. Herein, we outline the criteria used to develop a citizen science monitoring program for water quality, based on a standardized methodology designed to support the Agenda 2030 indicator 6.3.2 and the EU’s Water Framework Directive. We explore the evolution of protocols used to ensure data robustness and transferability and examine the utility of contextual information registered by citizen scientists. We present laboratory and field experiments conducted to validate chemical and optical methods. Using the data from more than 80 projects across 4 biogeographical regions, we explore consistencies and differences in seasonal and spatial trends in macronutrient concentrations between regions. Our results indicate that nitrate and phosphate concentrations tend to increase in areas with agricultural intensification and industrial land use. Seasonally, nitrate concentrations reach a maximum in spring and autumn in temperate regions, while phosphate levels are highest in summer and autumn, reaching a minimum in winter. We also found that observations of algal blooms coincided with periods of lower nitrate concentrations. Importantly, data of ecological, chemical, and optical conditions recorded by citizen scientists are being used by local and regional stakeholders in managing freshwater ecosystems. This study reveals the potential for scaling citizen science–based monitoring programs to contribute towards a global assessment of water quality.
+
+---
+
