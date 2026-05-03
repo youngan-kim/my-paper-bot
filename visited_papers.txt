@@ -14,3 +14,8 @@ Advanced Methodology for Fraud Detection in Energy Using Machine Learning Algori
 The Modifiable Areal Unit Problem in Political Science
 Assessing the impact of climate and land use change on flood vulnerability: a machine learning approach in coastal region of Tamil Nadu, India
 FreshWater Watch: Investigating the Health of Freshwater Ecosystems, from the Bottom Up
+Assessment of forest cover dynamics for the detection of deforestation in the Hindu Kush Himalayan region using geospatial and machine learning approaches
+Machine learning applications for urban geospatial analysis: A review of urban and environmental studies
+Geospatial urban heat mapping with interpretable machine learning and deep learning: a case study in Hue City, Vietnam
+Enhancing flood risk assessment in northern Morocco with tuned machine learning and advanced geospatial techniques
+Spatiotemporal pattern of water hyacinth (Pontederia crassipes) distribution in Lake Tana, Ethiopia, using a random forest machine learning model

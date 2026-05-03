@@ -3517,3 +3517,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-05-03
+
+### 1. [Assessment of forest cover dynamics for the detection of deforestation in the Hindu Kush Himalayan region using geospatial and machine learning approaches](https://doi.org/10.1007/s12145-024-01517-x)
+- **Journal:** Earth Science Informatics
+- **Authors:** Laxmi Gupta, J. Dixit, Prem Chandra Pandey, Manish Pandey
+- **Pub Date:** 2025-01-01
+- **DOI:** 10.1007/s12145-024-01517-x
+- **Abstract:** None
+
+### 2. [Machine learning applications for urban geospatial analysis: A review of urban and environmental studies](https://doi.org/10.1016/j.cities.2025.106139)
+- **Journal:** Cities
+- **Authors:** Abdulrazzaq Shaamala, Tan Yigitcanlar, Alireza Nili, Dan Nyandega
+- **Pub Date:** 2025
+- **DOI:** 10.1016/j.cities.2025.106139
+- **Abstract:** None
+
+### 3. [Geospatial urban heat mapping with interpretable machine learning and deep learning: a case study in Hue City, Vietnam](https://doi.org/10.1007/s12145-024-01582-2)
+- **Journal:** Earth Science Informatics
+- **Authors:** Nhat-Duc Hoang, Phu Pham, Thanh-Canh Huynh, Minh-Tu Cao, D. Bui
+- **Pub Date:** 2024-12-17
+- **DOI:** 10.1007/s12145-024-01582-2
+- **Abstract:** None
+
+### 4. [Enhancing flood risk assessment in northern Morocco with tuned machine learning and advanced geospatial techniques](https://doi.org/10.1007/s11442-024-2301-4)
+- **Journal:** Journal of Geographical Science
+- **Authors:** Wassima Moutaouakil, S. Hamida, Shawki Saleh, Driss Lamrani, Mohamed Amine Mahjoubi, B. Cherradi, A. Raihani
+- **Pub Date:** 2024-12-01
+- **DOI:** 10.1007/s11442-024-2301-4
+- **Abstract:** None
+
+### 5. [Spatiotemporal pattern of water hyacinth (Pontederia crassipes) distribution in Lake Tana, Ethiopia, using a random forest machine learning model](https://doi.org/10.3389/fenvs.2024.1476014)
+- **Journal:** Frontiers in Environmental Science
+- **Authors:** Matiwos Belayhun, Zerihun Chere, Nigus Gebremedhn Abay, Yonas Nicola, Abay Asmamaw
+- **Pub Date:** 2024-11-14
+- **DOI:** 10.3389/fenvs.2024.1476014
+- **Abstract:** Water hyacinth (Pontederia crassipes) is an invasive weed that covers a significant portion of Lake Tana. The infestation has an impact on the lake’s ecological and socioeconomic systems. Early detection of the spread of water hyacinth using geospatial techniques is crucial for its effective management and control. The main objective of this study was to examine the spatiotemporal distribution of water hyacinth from 2016 to 2022 using a random forest machine learning model. The study used 16 variables obtained from Sentinel-2A, Sentinel-1 SAR, and SRTM DEM, and a random forest supervised classification model was applied. Seven spectral indices, five spectral bands, two Sentinel-1 SAR bands, and two topographic variables were used in combination to model the spatial distribution of water hyacinth. The model was evaluated using the overall accuracy and kappa coefficient. The findings demonstrated that the overall accuracy ranged from 0.91 to 0.94 and kappa coefficient from 0.88 to 0.92 in the wet season and 0.93 to 0.95 and 0.90 to 0.93 in the dry season, respectively. B11 and B5 (2022), VH, soil adjusted vegetation index (SAVI), and normalized difference water index (NDWI) (2020), B5 and B12 (2018), and VH and slope (2016) are the highly important variables in the classification. The study found that the spatial coverage of water hyacinth was 686.5 and 650.4 ha (2016), 1,851 and 1,259 ha (2018), 1,396.7 and 1,305.7 ha (2020), and 1,436.5 and 1,216.5 ha (2022) in the wet and dry seasons, respectively. The research findings indicate that variables derived from optical (Sentinel-2A and SRTM) and non-optical (Sentinel-1 SAR) satellite imagery effectively identify water hyacinth and display its spatiotemporal spread using the random forest machine learning algorithm.
+
+---
+
