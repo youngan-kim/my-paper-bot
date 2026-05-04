@@ -3556,3 +3556,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-05-04
+
+### 1. [Milling Machine Fault Diagnosis Using Acoustic Emission and Hybrid Deep Learning with Feature Optimization](https://doi.org/10.3390/app142210404)
+- **Journal:** Applied Sciences
+- **Authors:** Muhammad Umar, Muhammad Farooq Siddique, Niamat Ullah, Jong-Myon Kim
+- **Pub Date:** 2024-11-12
+- **DOI:** 10.3390/app142210404
+- **Abstract:** This paper presents a fault diagnosis technique for milling machines based on acoustic emission (AE) signals and a hybrid deep learning model optimized with a genetic algorithm. Mechanical failures in milling machines, particularly in critical components like cutting tools, gears, and bearings, account for a significant portion of operational breakdowns, leading to unplanned downtime and financial losses. To address this issue, the proposed method first acquires AE signals from the milling machine. AE signals, capturing the dynamic responses of machine components, are transformed into continuous wavelet transform (CWT) scalograms for further analysis. Gaussian filtering is applied to enhance the clarity of these scalograms, effectively reducing noise while maintaining essential features. A convolutional neural network (CNN) based on the VGG16 architecture is utilized for spatial feature extraction, followed by a bidirectional long short-term memory (BiLSTM) network to capture the temporal dependencies of the scalograms. The genetic algorithm (GA) is used to optimize feature selection and ensure the selection of the most relevant features to further improve the model’s performance. The optimized features are finally fed into a fully connected (FC) layer of the proposed hybrid model for fault classification. The proposed method achieves an accuracy of 99.6%, significantly outperforming traditional approaches. This method offers a highly accurate and efficient solution for fault detection in milling machines, allowing for more reliable predictive maintenance and operational efficiency in industrial settings.
+
+### 2. [Surface texture evolution of weathering steel in corrosive marine atmospheres: Geospatial variability and explainable machine learning models](https://doi.org/10.1016/j.corsci.2024.112602)
+- **Journal:** Corrosion Science
+- **Authors:** Lianheng Cai, Aran Kim, S. Kainuma
+- **Pub Date:** 2024-11-01
+- **DOI:** 10.1016/j.corsci.2024.112602
+- **Abstract:** None
+
+### 3. [Spatial Economics](https://doi.org/10.14530/se)
+- **Journal:** Social Science Research Network
+- **Authors:** Stephen J. Redding
+- **Pub Date:** 2024-11-01
+- **DOI:** 10.14530/se
+- **Abstract:** This paper reviews recent research in spatial economics. The field of spatial economics is concerned with the determinants and effects of the location of economic activity in geographic space. It analyses how geographical location shapes the economic activities performed by agents, their interactions with one another, their welfare, and the effects of public policy interventions. Research in this area has benefited from the simultaneous development of new theoretical techniques, new sources of geographic information systems (GIS) data, rapid advances in computing power, machine learning and artificial intelligence, and renewed public policy interest in infrastructure and appropriate policies towards places “left-behind” by globalization and technology. Among the insights from this research are the role of goods and commuting market access in determining location choices; the conditions under which the location of economic activity is characterized by multiple equilibria; the circumstances under which temporary shocks can have permanent effects (hysteresis or path dependence); the heterogeneous and persistent impact of local shocks; the magnitude and spatial decay of agglomeration economics; and the role of both agglomeration forces and endogenous changes in land use in shaping the impact of transport infrastructure improvements.
+
+### 4. [A Machine Learning Approach to Analyzing Crime Concentration: The Case of New York City](https://doi.org/10.1080/07418825.2024.2401938)
+- **Journal:** Justice quarterly
+- **Authors:** Keungoui Kim, Young-An Kim
+- **Pub Date:** 2024-10-04
+- **DOI:** 10.1080/07418825.2024.2401938
+- **Abstract:** Abstract Building upon prior work, we propose an alternative way to look at the pattern of spatial crime concentration and temporal stability of it. We first identify a high-crime cluster using the sample block groups in New York City by employing a k-means clustering method. We then examine the temporal stability of the high-crime cluster over time. We also longitudinally assess how our high-crime cluster classification is associated with the actual amount of crime while accounting for the measures of social and physical environments. We observed that about 6–12% of total areas are identified to be in the high-crime cluster. We also found that block groups identified to be high-crime cluster in one year are more likely to be that way in the next year. We hope future research may consider using data-driven approaches to expand understanding of spatial and temporal crime patterns.
+
+### 5. [The Universal Neighborhood Effect Averaging in Mobility-Dependent Environmental Exposures](https://doi.org/10.1021/acs.est.4c02464)
+- **Journal:** Environmental Science and Technology
+- **Authors:** Jiannan Cai, Mei‐Po Kwan
+- **Pub Date:** 2024-10-03
+- **DOI:** 10.1021/acs.est.4c02464
+- **Abstract:** The neighborhood effect averaging problem (NEAP) is a fundamental statistical phenomenon in mobility-dependent environmental exposures. It suggests that individual environmental exposures tend toward the average exposure in the study area when considering human mobility. However, the universality of the NEAP across various environmental exposures and the mechanisms underlying its occurrence remain unclear. Here, using a large human mobility data set of more than 27 000 individuals in the Chicago Metropolitan Area, we provide robust evidence of the existence of the NEAP in a range of individual environmental exposures, including green spaces, air pollution, healthy food environments, transit accessibility, and crime rates. We also unveil the social and spatial disparities in the NEAP’s influence on individual environmental exposure estimates. To further reveal the mechanisms behind the NEAP, we perform multiscenario analyses based on environmental variation and human mobility simulations. The results reveal that the NEAP is a statistical phenomenon of regression to the mean (RTM) under the constraints of spatial autocorrelation in environmental data. Increasing travel distances and out-of-home durations can intensify and promote the NEAP’s impact, particularly for highly dynamic environmental factors like air pollution. These findings illuminate the complex interplay between human mobility and environmental factors, guiding more effective public health interventions.
+
+---
+
