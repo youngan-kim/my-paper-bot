@@ -24,3 +24,8 @@ Surface texture evolution of weathering steel in corrosive marine atmospheres: G
 Spatial Economics
 A Machine Learning Approach to Analyzing Crime Concentration: The Case of New York City
 The Universal Neighborhood Effect Averaging in Mobility-Dependent Environmental Exposures
+Smart Hotspot Detection Using Geospatial Artificial Intelligence: A Machine Learning Approach to Reduce Flood Risk
+Mixed-use urban land parcels identification integrating geospatial data and machine learning
+Spatial and spatiotemporal modelling of intra-urban ultrafine particles: A comparison of linear, nonlinear, regularized, and machine learning methods.
+Geospatial Intelligence Enhancement using Advanced Data Science and Machine Learning: A Systematic Literature Review
+Integrated machine learning and geospatial analysis enhanced gully erosion susceptibility modeling in the Erer watershed in Eastern Ethiopia

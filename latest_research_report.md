@@ -3595,3 +3595,59 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-05-05
+
+### 1. [Smart Hotspot Detection Using Geospatial Artificial Intelligence: A Machine Learning Approach to Reduce Flood Risk](https://doi.org/10.1016/j.scs.2024.105873)
+- **Journal:** Sustainable cities and society
+- **Authors:** S. M. Rezvani, Alexandre Gonçalves, Maria João Falcão Silva, Nuno Marques de Almeida
+- **Pub Date:** 2024-10-01
+- **DOI:** 10.1016/j.scs.2024.105873
+- **Abstract:** None
+
+### 2. [Mixed-use urban land parcels identification integrating geospatial data and machine learning](https://doi.org/10.1080/10095020.2024.2374996)
+- **Journal:** Geo-Spatial Information Science
+- **Authors:** Shijin Qu, Hui Wang, Zongnan Hu, Zhenzhen Wang, Shougeng Hu
+- **Pub Date:** 2024-09-04
+- **DOI:** 10.1080/10095020.2024.2374996
+- **Abstract:** ABSTRACT Urban land use information is essential for urban planning and sustainable development. However, the increasing prevalence of Mixed-Use Urban Land (MUUL) introduces uncertainty in land use mapping. Due to the compatibility of different human activities within MUUL, identifying MUUL is still a challenge for scholars. In this study, we proposed a novel framework by integrating geographic big data and machine learning to identify it. First, to be consistent with urban planning practices, we delineated mapping units from urban planning map. Second, based on the variability of the spatial pattern of POIs, two indices, the Amount of POI (AP) and the Deviation Index (DI), were developed. Finally, the random forest model was employed. The empirical study in the Jianghan District of Wuhan, China, showed that the MUUL and non-MUUL exhibited significant spatial pattern of POIs separability, the average AP and DI of the MUUL were much larger than those of the non-MUUL. Moreover, the relatively high identification accuracy (Kappa Coefficient (KC) = 0.85, Hellden’s Mean Accuracy (MA) = 0.87) further demonstrated the effectiveness of the developed indices. The proposed framework in this study can reduce the adverse impacts of MUUL on urban land identification by avoiding the MUUL from being incorrectly identified as a single function. Moreover, by extracting MUUL in advance, it can improve the research efficiency by avoiding the application of the segmentation algorithm to all mapping units as in the previous study. Overall, this study provides important references for scholars to increase the accuracy of urban land use identification and allows authorities and policymakers to monitor the dynamics of MUUL that are essential to urban vibrancy. The spatial pattern indices proposed in this study can also be applied to urban land use identification studies as important features.
+
+### 3. [Spatial and spatiotemporal modelling of intra-urban ultrafine particles: A comparison of linear, nonlinear, regularized, and machine learning methods.](https://doi.org/10.1016/j.scitotenv.2024.176523)
+- **Journal:** Science of the Total Environment
+- **Authors:** Julien Vachon, S. Buteau, Ying Liu, Keith Van Ryswyk, M. Hatzopoulou, A. Smargiassi
+- **Pub Date:** 2024-09-01
+- **DOI:** 10.1016/j.scitotenv.2024.176523
+- **Abstract:** BACKGROUND
+Machine learning methods are proposed to improve the predictions of ambient air pollution, yet few studies have compared ultrafine particles (UFP) models across a broad range of statistical and machine learning approaches, and only one compared spatiotemporal models. Most reported marginal differences between methods. This limits our ability to draw conclusions about the best methods to model ambient UFPs.
+
+
+OBJECTIVE
+To compare the performance and predictions of statistical and machine learning methods used to model spatial and spatiotemporal ambient UFPs.
+
+
+METHODS
+Daily and annual models were developed from UFP measurements from a year-long mobile monitoring campaign in Quebec City, Canada, combined with 262 geospatial and six meteorological predictors. Various road segment lengths were considered (100/300/500 m) for UFP data aggregation. Four statistical methods included linear, non-linear, and regularized regressions, whereas eight machine learning regressions utilized tree-based, neural networks, support vector, and kernel ridge algorithms. Nested cross-validation was used for model training, hyperparameter tuning and performance evaluation.
+
+
+RESULTS
+Mean annual UFP concentrations was 13,335 particles/cm3. Machine learning outperformed statistical methods in predicting UFPs. Tree-based methods performed best across temporal scales and segment lengths, with XGBoost producing the overall best performing models (annual R2 = 0.78-0.86, RMSE = 2163-2169 particles/cm3; daily R2 = 0.47-0.48, RMSE = 8651-11,422 particles/cm3). With 100 m segments, other annual models performed similarly well, but their prediction surfaces of annual mean UFP concentrations showed signs of overfitting. Spatial aggregation of monitoring data significantly impacted model performance. Longer segments yielded lower RMSE in all daily models and for annual statistical models, but not for annual machine learning models.
+
+
+CONCLUSIONS
+The use of tree-based methods significantly improved spatiotemporal predictions of UFP concentrations, and to a lesser extent annual concentrations. Segment length and hyperparameter tuning had notable impacts on model performance and should be considered in future studies.
+
+### 4. [Geospatial Intelligence Enhancement using Advanced Data Science and Machine Learning: A Systematic Literature Review](https://doi.org/10.5121/csit.2024.141502)
+- **Journal:** Computer Science and Information Technology Advances
+- **Authors:** Vinothkumar Kolluru, Sudeep Mungara, Advaitha Naidu
+- **Pub Date:** 2024-08-20
+- **DOI:** 10.5121/csit.2024.141502
+- **Abstract:** In the era of rapid advancements in artificial intelligence, the geospatial field is experiencing transformative changes. Traditional methods for land cover classification and anomaly detection have often been inconsistent and inaccurate, leading to significant real-world issues such as resource misallocation, unnoticed illegal activities like deforestation, unmonitored topographical changes such as unauthorized constructions, unattended forest fires, and border fence crises, all of which exacerbate climate change and urbanization challenges. This study systematically explores various machine learning (ML) techniques and their application to publicly available geospatial datasets. Specifically, it compares selected Convolutional Neural Networks (CNNs) and other ML models on these datasets to evaluate multiple performance metrics and conduct a comparative analysis. While numerous ML models have been previously employed for land cover classification and anomaly detection, this review seeks to enhance performance metrics and improve classification accuracy. Prior studies have employed techniques such as Random Forest on Sentinel-2 data (Gromny et al., 2019), multiple regression approaches on Landsat data (Wu et al., 2016), and Principal Component Analysis (PCA) on OpenStreetMap data (Feldmeyer et al., 2020). Our study introduces the application of advanced models like VGG16, UNet, and Isolation Forest to geospatial datasets, assessing their impact on enhancing land cover classification and anomaly detection. This research not only aims to achieve higher classification accuracy but also contributes to the field by providing insights into the effectiveness of these models and proposing future directions and opportunities.
+
+### 5. [Integrated machine learning and geospatial analysis enhanced gully erosion susceptibility modeling in the Erer watershed in Eastern Ethiopia](https://doi.org/10.3389/fenvs.2024.1410741)
+- **Journal:** Frontiers in Environmental Science
+- **Authors:** Tadele Bedo Gelete, Pernaidu Pasala, Nigus Gebremedhn Abay, G. W. Woldemariam, Kalid Hassen Yasin, Erana Kebede Neda, Ibsa Aliyi
+- **Pub Date:** 2024-08-06
+- **DOI:** 10.3389/fenvs.2024.1410741
+- **Abstract:** Land degradation from gully erosion poses a significant threat to the Erer watershed in Eastern Ethiopia, particularly due to agricultural activities and resource exploitation. Identifying erosion-prone areas and underlying factors using advanced machine learning algorithms (MLAs) and geospatial analysis is crucial for addressing this problem and prioritizing adaptive and mitigating strategies. However, previous studies have not leveraged machine learning (ML) and GIS-based approaches to generate susceptibility maps identifying these areas and conditioning factors, hindering sustainable watershed management solutions. This study aimed to predict gully erosion susceptibility (GES) and identify underlying areas and factors in the Erer watershed. Four ML models, namely, XGBoost, random forest (RF), support vector machine (SVM), and artificial neural network (ANN), were integrated with geospatial analysis using 22 geoenvironmental predictors and 1,200 inventory points (70% used for training and 30% for testing). Model performance and robustness were validated through the area under the curve (AUC), accuracy, precision, sensitivity, specificity, kappa coefficient, F1 score, and logarithmic loss. The relative slope position is most influential, with 100% importance in SVM and RF and 95% importance in XGBoost, while annual rainfall (AR) dominated ANN (100% importance). Notably, XGBoost demonstrated robustness and superior prediction/mapping, achieving an AUC of 0.97, 91% accuracy, 92% precision, and 81% kappa while maintaining a low logloss (0.0394). However, SVM excelled in classifying gully resistant/susceptible areas (97% sensitivity, 98% specificity, and 91% F1 score). The ANN model predicted the most areas with very high gully susceptibility (13.74%), followed by the SVM (11.69%), XGBoost (10.65%), and RF (7.85%) models, while XGBoost identified the most areas with very low susceptibility (70.19%). The ensemble technique was employed to further enhance GES modeling, and it outperformed the individual models, achieving an AUC of 0.99, 93.5% accuracy, 92.5% precision, 97.5% sensitivity, 95.4% specificity, 85.8% kappa, and 94.9% F1 score. This technique also classified the GES of the watershed as 36.48% very low, 26.51% low, 16.24% moderate, 11.55% high, and 9.22% very high. Furthermore, district-level analyses revealed the most susceptible areas, including the Babile, Fedis, Harar, and Meyumuluke districts, with high GES areas of 32.4%, 21.3%, 14.3%, and 13.6%, respectively. This study offers robust and flexible ML models with comprehensive validation metrics to enhance GES modeling and identify gully prone areas and factors, thereby supporting decision-making for sustainable watershed conservation and land degradation prevention.
+
+---
+
