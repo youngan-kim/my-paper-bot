@@ -3651,3 +3651,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-06
+
+### 1. [Evaluation of segment anything model (SAM) for automated labelling in machine learning classification of UAV geospatial data](https://doi.org/10.1007/s12145-024-01402-7)
+- **Journal:** Earth Science Informatics
+- **Authors:** Bhargav Parulekar, Nischal Singh, A. M. Ramiya
+- **Pub Date:** 2024-07-05
+- **DOI:** 10.1007/s12145-024-01402-7
+- **Abstract:** None
+
+### 2. [Integrating machine learning and geospatial data analysis for comprehensive flood hazard assessment](https://doi.org/10.1007/s11356-024-34286-7)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Chiranjit Singha, V. Rana, Quoc Bao Pham, D. C. Nguyen, Ewa Łupikasza
+- **Pub Date:** 2024-07-01
+- **DOI:** 10.1007/s11356-024-34286-7
+- **Abstract:** Flooding is a major natural hazard worldwide, causing catastrophic damage to communities and infrastructure. Due to climate change exacerbating extreme weather events robust flood hazard modeling is crucial to support disaster resilience and adaptation. This study uses multi-sourced geospatial datasets to develop an advanced machine learning framework for flood hazard assessment in the Arambag region of West Bengal, India. The flood inventory was constructed through Sentinel-1 SAR analysis and global flood databases. Fifteen flood conditioning factors related to topography, land cover, soil, rainfall, proximity, and demographics were incorporated. Rigorous training and testing of diverse machine learning models, including RF, AdaBoost, rFerns, XGB, DeepBoost, GBM, SDA, BAM, monmlp, and MARS algorithms, were undertaken for categorical flood hazard mapping. Model optimization was achieved through statistical feature selection techniques. Accuracy metrics and advanced model interpretability methods like SHAP and Boruta were implemented to evaluate predictive performance. According to the area under the receiver operating characteristic curve (AUC), the prediction accuracy of the models performed was around > 80%. RF achieves an AUC of 0.847 at resampling factor 5, indicating strong discriminative performance. AdaBoost also consistently exhibits good discriminative ability, with AUC values of 0.839 at resampling factor 10. Boruta and SHAP analysis indicated precipitation and elevation as factors most significantly contributing to flood hazard assessment in the study area. Most of the machine learning models pointed out southern portions of the study area as highly susceptible areas. On average, from 17.2 to 18.6% of the study area is highly susceptible to flood hazards. In the feature selection analysis, various nature-inspired algorithms identified the selected input parameters for flood hazard assessment, i.e., elevation, precipitation, distance to rivers, TWI, geomorphology, lithology, TRI, slope, soil type, curvature, NDVI, distance to roads, and gMIS. As per the Boruta and SHAP analyses, it was found that elevation, precipitation, and distance to rivers play the most crucial roles in the decision-making process for flood hazard assessment. The results indicated that the majority of the building footprints (15.27%) are at high and very high risk, followed by those at very low risk (43.80%), low risk (24.30%), and moderate risk (16.63%). Similarly, the cropland area affected by flooding in this region is categorized into five risk classes: very high (16.85%), high (17.28%), moderate (16.07%), low (16.51%), and very low (33.29%). However, this interdisciplinary study contributes significantly towards hydraulic and hydrological modeling for flood hazard management.
+
+### 3. [Evaluating Cooling Effect of Blue-green Infrastructure on Urban Thermal Environment in a Metropolitan City: Using Geospatial and Machine Learning Techniques](https://doi.org/10.1016/j.scs.2024.105666)
+- **Journal:** Sustainable cities and society
+- **Authors:** Md Rejaul Islam, Shahfahad, Swapan Talukdar, Mohd Rihan, Atiqur Rahman
+- **Pub Date:** 2024-07-01
+- **DOI:** 10.1016/j.scs.2024.105666
+- **Abstract:** None
+
+### 4. [Modeling groundwater redox conditions at national scale through integration of sediment color and water chemistry in a machine learning framework.](https://doi.org/10.1016/j.scitotenv.2024.174533)
+- **Journal:** Science of the Total Environment
+- **Authors:** Julian Koch, Hyojin Kim, Joel Tirado-Conde, Birgitte G Hansen, Ingelise Møller, L. Thorling, L. Troldborg, D. Voutchkova, A. Højberg
+- **Pub Date:** 2024-07-01
+- **DOI:** 10.1016/j.scitotenv.2024.174533
+- **Abstract:** Redox conditions play a crucial role in determining the fate of many contaminants in groundwater, impacting ecosystem services vital for both the aquatic environment and human water supply. Geospatial machine learning has previously successfully modelled large-scale redox conditions. This study is the first to consolidate the complementary information provided by sediment color and water chemistry to enhance our understanding of redox conditions in Denmark. In the first step, the depth to the first redox interface is modelled using sediment color from 27,042 boreholes. In the second step, the depth of the first redox interface is compared against water chemistry data at 22,198 wells to classify redox complexity. The absence of nitrate containing water below the first redox interface is referred to as continuous redox conditions. In contrast, discontinuous redox conditions are identified by the presence of nitrate below the first redox interface. Both models are built using 20 covariate maps, encompassing diverse hydrologically relevant information. The first redox interface is modelled with a mean error of 0.0 m and a root-mean-squared error of 8.0 m. The redox complexity model attains an accuracy of 69.8 %. Results indicate a mean depth to the first redox interface of 8.6 m and a standard deviation of 6.5 m. 60 % of Denmark is classified as discontinuous, indicating complex redox conditions, predominantly collocated in clay rich glacial landscapes. Both maps, i.e., first redox interface and redox complexity are largely driven by the water table and hydrogeology. The developed maps contribute to our understanding of subsurface redox processes, supporting national-scale land-use and water management.
+
+### 5. [Applications of Machine Learning to Optimize Tennis Performance: A Systematic Review](https://doi.org/10.3390/app14135517)
+- **Journal:** Applied Sciences
+- **Authors:** Tatiana Sampaio, João P. Oliveira, D. Marinho, H. Neiva, Jorge E. Morais
+- **Pub Date:** 2024-06-25
+- **DOI:** 10.3390/app14135517
+- **Abstract:** (1) Background: Tennis has changed toward power-driven gameplay, demanding a nuanced understanding of performance factors. This review explores the role of machine learning in enhancing tennis performance. (2) Methods: A systematic search identified articles utilizing machine learning in tennis performance analysis. (2) Results: Machine learning applications show promise in psychological state monitoring, talent identification, match outcome prediction, spatial and tactical analysis, and injury prevention. Coaches can leverage wearable technologies for personalized psychological state monitoring, data-driven talent identification, and tactical insights for informed decision-making. (4) Conclusions: Machine learning offers coaches insights to refine coaching methodologies and optimize player performance in tennis. By integrating these insights, coaches can adapt to the demands of the sport by improving the players’ outcomes. As technology progresses, continued exploration of machine learning’s potential in tennis is warranted for further advancements in performance optimization.
+
+---
+
