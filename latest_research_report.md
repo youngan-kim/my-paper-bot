@@ -3690,3 +3690,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-07
+
+### 1. [Investigating the effects of urban morphology on vitality of community life circles using machine learning and geospatial approaches](https://doi.org/10.1016/j.apgeog.2024.103287)
+- **Journal:** Applied Geography
+- **Authors:** Sanwei He, Z. Zhang, Shan Yu, Chang Xia, Chih-Lin Tung
+- **Pub Date:** 2024-06-01
+- **DOI:** 10.1016/j.apgeog.2024.103287
+- **Abstract:** None
+
+### 2. [Enhancing machine learning models for total organic carbon prediction by integrating geospatial parameters in river watersheds.](https://doi.org/10.1016/j.scitotenv.2024.173743)
+- **Journal:** Science of the Total Environment
+- **Authors:** Haeseong Oh, Ho-Yeon Park, Jae In Kim, Byung-Joon Lee, Jung Hyun Choi, Jin Hur
+- **Pub Date:** 2024-06-01
+- **DOI:** 10.1016/j.scitotenv.2024.173743
+- **Abstract:** This study utilizes machine learning (ML) algorithms to develop a robust total organic carbon (TOC) prediction model for river waters in the Geumho River sub-basins, South Korea, considering both non-rain and rain events. The model incorporates geospatial parameters such as land use, slope, flow rate, and basic water quality metrics including biochemical oxygen demand (BOD), chemical oxygen demand (COD), total nitrogen (TN), total phosphorus (TP), and suspended solids (SS). A key aspect of this research is examining how land use information enhances the model's predictive accuracy. We compared two ML algorithms-extreme gradient boosting (XGBoost) and deep neural networks (DNN)-with a traditional multiple linear regression (MLR) approach. XGBoost outperformed the others, achieving an R2 value between 0.61 and 0.68 in the test dataset and demonstrating significant improvement during rain events with an R2 of 0.77 when including land use data. In contrast, this enhancement was not observed with the MLR model. Feature importance analysis using Shapley values highlighted COD as the primary predictor for non-rain events, while during rain events, COD, TP, TN, SS and agricultural land collectively influenced TOC levels. This study significantly advances understanding of TOC variability across different land use scenarios in river systems and underscores the importance of integrating geospatial and water quality parameters to enhance TOC prediction, particularly during rain events. This methodology provides a valuable framework for developing river management strategies and monitoring long-term TOC trends, especially in scenarios with gaps in essential monitoring data.
+
+### 3. [Identifying interactive effects of spatial drivers in soil heavy metal pollutants using interpretable machine learning models.](https://doi.org/10.1016/j.scitotenv.2024.173284)
+- **Journal:** Science of the Total Environment
+- **Authors:** Deyu Duan, Peng Wang, Xin Rao, J. Zhong, Meihong Xiao, Fei Huang, Rongbo Xiao
+- **Pub Date:** 2024-05-01
+- **DOI:** 10.1016/j.scitotenv.2024.173284
+- **Abstract:** The accurate identification of spatial drivers is crucial for effectively managing soil heavy metals (SHM). However, understanding the complex and diverse spatial drivers of SHM and their interactive effects remains a significant challenge. In this study, we present a comprehensive analysis framework that integrates Geodetector, CatBoost, and SHapley Additive exPlanations (SHAP) techniques to identify and elucidate the interactive effects of spatial drivers in SHM within the Pearl River Delta (PRD) region of China. Our investigation incorporated fourteen environmental factors and focused on the pollution levels of three prominent heavy metals: Hg, Cd, and Zn. These findings provide several key insights: (1) The distribution of SHM is influenced by the combined effects of various individual factors and interactions within the source-flow-sink process. (2) Compared with the spatial interpretation of individual factors, the interaction between Hg and Cd exhibited enhanced spatial explanatory power. Similarly, interactions involving Zn mainly demonstrated increased spatial explanatory power, but there was one exception in which a weakening was observed. (3) Spatial heterogeneity plays a crucial role in determining the contributions of environmental factors to soil heavy metal concentrations. Although individual factors generally promote metal accumulation, their effects fluctuate when interactions are considered. (4) The SHAP interpretable method effectively addresses the limitations associated with machine-learning models by providing understandable insights into heavy metal pollution. This enables a comparison of the importance of environmental factors and elucidates their directional impacts, thereby aiding in the understanding of interaction mechanisms. The methods and findings presented in this study offer valuable insights into the spatial heterogeneity of heavy metal pollution in soil. By focusing on the effects of interactive factors, we aimed to develop more accurate strategies for managing SHM pollution.
+
+### 4. [Climate Change Economics Over Time and Space](https://doi.org/10.2139/ssrn.4742035)
+- **Journal:** Social Science Research Network
+- **Authors:** K. Desmet, E. Rossi-Hansberg
+- **Pub Date:** 2024-05-01
+- **DOI:** 10.2139/ssrn.4742035
+- **Abstract:** With average temperature ranging from −20°C at the North Pole to 30°C at the Equator and with global warming expected to reach 1.4°C to 4.5°C by the year 2100, it is clear that climate change will have vastly different effects across the globe. Given the abundance of land in northern latitudes, if population and economic activity could freely move across space, the economic cost of global warming would be greatly reduced. However, spatial frictions are real: migrants face barriers, trade and transportation are costly, physical infrastructure is not footloose, and knowledge embedded in clusters of economic activity diffuses only imperfectly. Thus, the economic cost of climate change is intimately connected to these spatial frictions. Building on earlier integrated assessment models (IAMs) that largely ignored space, in the past decade there has been significant progress in developing dynamic spatial integrated assessment models (S-IAMs) aimed at providing a more realistic evaluation of the economic cost of climate change, both locally and globally. This review discusses this progress and provides a guide for future work in this area.
+
+### 5. [Comparative performance of four machine learning models for land cover classification in a low-cost UAV ultra-high-resolution RGB-only orthomosaic](https://doi.org/10.1007/s12145-024-01318-2)
+- **Journal:** Earth Science Informatics
+- **Authors:** M. A. Sohl, Syed Amer Mahmood, M. Rasheed
+- **Pub Date:** 2024-04-30
+- **DOI:** 10.1007/s12145-024-01318-2
+- **Abstract:** None
+
+---
+
