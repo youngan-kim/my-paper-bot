@@ -3729,3 +3729,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-08
+
+### 1. [A comparative analysis of feature selection models for spatial analysis of floods using hybrid metaheuristic and machine learning models](https://doi.org/10.1007/s11356-024-33389-5)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Javeria Sarwar, S. A. Khan, Muhammad Azmat, Faridoon Khan
+- **Pub Date:** 2024-04-29
+- **DOI:** 10.1007/s11356-024-33389-5
+- **Abstract:** None
+
+### 2. [A novel approach to evaluating the accessibility of electric vehicle charging infrastructure via dynamic thresholding in machine learning](https://doi.org/10.1177/23998083241249322)
+- **Journal:** Environment and Planning B Urban Analytics and City Science
+- **Authors:** Bailing Zhang, Jing Kang, Tao Feng
+- **Pub Date:** 2024-04-26
+- **DOI:** 10.1177/23998083241249322
+- **Abstract:** The spatial deployment of urban public electric vehicle charging stations (PEVCSs) plays a pivotal role in the widespread adoption of electric vehicles (EVs). However, with the rapid advancements in EV technology and battery capabilities, substantial improvements in both range and charging efficiency have emerged and are expected to continue experiencing sustained growth. This situation underscores the urgent necessity of establishing dynamic metrics to reconsider the existing static charging infrastructure, aiming to ameliorate the current severe spatial imbalances and supply–demand disparities encountered in the deployment of PEVCSs. In this study, we harnessed and analyzed 84,152 sets of authentic data, fine-tuned through geospatial-aggregation technology, and ensured anonymity. Our findings bridged users’ residential and occupational patterns with their charging propensities. Comparing these with the spatial distribution of current charging stations revealed that Beijing and Shenzhen’s infrastructure aligned with the cities' economic, educational, and residential zones, epitomizing a synergy in provisioning. However, certain areas experienced either a demand–supply imbalance or an oversupply. To address these challenges, we introduced the Charging Access Reachability Index (CARI) using machine learning techniques. This dynamic metric serves as a tool for quantifying the effective coverage range of charging facilities. Its adaptive threshold holds potential as a crucial indicator enabling the dynamic transition towards more efficient and resilient charging infrastructure.
+
+### 3. [Quantifying the scale of erosion along major coastal aquifers of Pakistan using geospatial and machine learning approaches](https://doi.org/10.1007/s11356-024-33296-9)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** H. Aeman, Hong Shu, Hamera Aisha, I. Nadeem, Rana Waqar Aslam
+- **Pub Date:** 2024-04-25
+- **DOI:** 10.1007/s11356-024-33296-9
+- **Abstract:** None
+
+### 4. [On the use of adversarial validation for quantifying dissimilarity in geospatial machine learning prediction](https://doi.org/10.1080/15481603.2025.2460513)
+- **Journal:** GIScience &amp; Remote Sensing
+- **Authors:** Yanwen Wang, Mahdi Khodadadzadeh, Raúl Zurita-Milla
+- **Pub Date:** 2024-04-19
+- **DOI:** 10.1080/15481603.2025.2460513
+- **Abstract:** ABSTRACT Recent geospatial machine learning studies have shown that the results of model evaluation via cross-validation (CV) are strongly affected by the dissimilarity between the sample data and the prediction locations. In this paper, we propose a method to quantify such a dissimilarity in the interval 0 to 100% and from the perspective of the data feature space. The proposed method is based on adversarial validation, which is an approach that can check whether sample data and prediction locations can be separated with a binary classifier. The proposed method is called dissimilarity quantification by adversarial validation (DAV). To study the effectiveness and generality of DAV, we tested it on a series of experiments based on both synthetic and real datasets and with gradually increasing dissimilarities. Results show that DAV effectively quantified dissimilarity across the entire range of values. Next to this, we studied how dissimilarity affects CV methods’ evaluations by comparing the results of random CV method (RDM-CV) and of two geospatial CV methods, namely, block and spatial+ CV (BLK-CV and SP-CV). Our results showed the evaluations follow similar patterns in all datasets and predictions: when dissimilarity is low (usually lower than 30%), RDM-CV provides the most accurate evaluation results. As dissimilarity increases, geospatial CV methods, especially SP-CV, become more and more accurate and even outperform RDM-CV. When dissimilarity is high ($ \ge \!90\% $≥90%), no CV method provides accurate evaluations. These results show the importance of considering feature space dissimilarity when working with geospatial machine learning predictions and can help researchers and practitioners to select more suitable CV methods for evaluating their predictions.
+
+### 5. [Contribution to advancing aquifer geometric mapping using machine learning and deep learning techniques: a case study of the AL Haouz-Mejjate aquifer, Marrakech, Morocco](https://doi.org/10.1007/s13201-024-02162-x)
+- **Journal:** Applied Water Science
+- **Authors:** L. El mezouary, Abdessamad Hadri, M. H. Kharrou, Younes Fakır, Abderrahman Elfarchouni, L. Bouchaou, A. Chehbouni
+- **Pub Date:** 2024-04-13
+- **DOI:** 10.1007/s13201-024-02162-x
+- **Abstract:** Groundwater resources in Morocco often face sustainability challenges due to increased exploitation and climate change. Specifically, the Al-Haouz-Mejjate groundwater in the Marrakesh region is faced with overexploitation and insufficient recharge. However, the complex subsurface geometries hamper hydrogeological modeling, characterization, and effective management. Reliably estimating aquifer substrate topography is critical for groundwater models but is challenged by limited direct measurements. This study develops nonlinear machine learning models to infer substrate depths by fusing sparse borehole logs with regional geospatial data. A Gaussian process regression approach provided robust holistic mapping, leveraging flexibility, and uncertainty quantification. Supplementary neural network architectures focus on isolating specific variable relationships, like surface elevation–substrate. Model accuracy exceeded 0.8 R-squared against validation boreholes. Spatial visualizations confirmed consistency across landscape transects. Elevation and piezometric data proved most predictive, though multivariate inputs were required for the lowest errors. The results highlight the power of statistical learning to extract meaningful patterns from disparate hydrological data. However, model opacity and the need for broader training datasets remain barriers. Overall, the work demonstrates advanced machine learning as a promising avenue for illuminating complex aquifer geometries essential for sustainability. Hybrid approaches that use both data-driven and physics-based methods can help solve long-standing problems with hydrogeological characterization.
+
+---
+

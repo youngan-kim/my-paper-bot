@@ -39,3 +39,8 @@ Enhancing machine learning models for total organic carbon prediction by integra
 Identifying interactive effects of spatial drivers in soil heavy metal pollutants using interpretable machine learning models.
 Climate Change Economics Over Time and Space
 Comparative performance of four machine learning models for land cover classification in a low-cost UAV ultra-high-resolution RGB-only orthomosaic
+A comparative analysis of feature selection models for spatial analysis of floods using hybrid metaheuristic and machine learning models
+A novel approach to evaluating the accessibility of electric vehicle charging infrastructure via dynamic thresholding in machine learning
+Quantifying the scale of erosion along major coastal aquifers of Pakistan using geospatial and machine learning approaches
+On the use of adversarial validation for quantifying dissimilarity in geospatial machine learning prediction
+Contribution to advancing aquifer geometric mapping using machine learning and deep learning techniques: a case study of the AL Haouz-Mejjate aquifer, Marrakech, Morocco
