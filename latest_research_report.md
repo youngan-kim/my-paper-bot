@@ -3807,3 +3807,43 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-10
+
+### 1. [Machine learning predicts which rivers, streams, and wetlands the Clean Water Act regulates](https://doi.org/10.1126/science.adi3794)
+- **Journal:** Science
+- **Authors:** Simon Greenhill, Hannah Druckenmiller, Sherrie Wang, David A. Keiser, Manuela Girotto, Jason K. Moore, N. Yamaguchi, Alberto Todeschini, Joseph S. Shapiro
+- **Pub Date:** 2024-01-26
+- **DOI:** 10.1126/science.adi3794
+- **Abstract:** We assess which waters the Clean Water Act protects and how Supreme Court and White House rules change this regulation. We train a deep learning model using aerial imagery and geophysical data to predict 150,000 jurisdictional determinations from the Army Corps of Engineers, each deciding regulation for one water resource. Under a 2006 Supreme Court ruling, the Clean Water Act protects two-thirds of US streams and more than half of wetlands; under a 2020 White House rule, it protects less than half of streams and a fourth of wetlands, implying deregulation of 690,000 stream miles, 35 million wetland acres, and 30% of waters around drinking-water sources. Our framework can support permitting, policy design, and use of machine learning in regulatory implementation problems. Editor’s summary The Clean Water Act is a defining piece of environmental legislation in the US, but the waters that it protects from pollution have never been clearly defined. Greenhill et al. developed a machine learning model that uses geospatial data to predict which waters are covered by the Clean Water Act and trained and tested the model with jurisdictional determinations from the US Army Corps of Engineers. This work provides an estimate of the extent of protected waterways, as well as an understanding of the effects of Supreme Court and White House rules that have reinterpreted or changed the regulation. For a subset of sites with high predictive accuracy, their model can also act as decision support tool to expedite permitting. —Bianca Lopez A machine learning model improves estimates of the extent of protection by the US Clean Water Act and the effects of deregulation.
+
+### 2. [Exploring machine learning and statistical approach techniques for landslide susceptibility mapping in Siwalik Himalayan Region using geospatial technology](https://doi.org/10.1007/s11356-023-31670-7)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Abhik Saha, Lakshya Tripathi, V. G. K. Villuri, A. Bhardwaj
+- **Pub Date:** 2024-01-10
+- **DOI:** 10.1007/s11356-023-31670-7
+- **Abstract:** None
+
+### 3. [MAPS: pathologist-level cell type annotation from tissue images through machine learning](https://doi.org/10.1038/s41467-023-44188-w)
+- **Journal:** Nature Communications
+- **Authors:** M. Shaban, Yunhao Bai, Huaying Qiu, Shulin Mao, Jason Yeung, Y. Y. Yeo, Vignesh Shanmugam, Han Chen, Bokai Zhu, J. Weirather, Garry P. Nolan, M. Shipp, Scott J Rodig, Sizun Jiang, Faisal Mahmood
+- **Pub Date:** 2024-01-02
+- **DOI:** 10.1038/s41467-023-44188-w
+- **Abstract:** Highly multiplexed protein imaging is emerging as a potent technique for analyzing protein distribution within cells and tissues in their native context. However, existing cell annotation methods utilizing high-plex spatial proteomics data are resource intensive and necessitate iterative expert input, thereby constraining their scalability and practicality for extensive datasets. We introduce MAPS (Machine learning for Analysis of Proteomics in Spatial biology), a machine learning approach facilitating rapid and precise cell type identification with human-level accuracy from spatial proteomics data. Validated on multiple in-house and publicly available MIBI and CODEX datasets, MAPS outperforms current annotation techniques in terms of speed and accuracy, achieving pathologist-level precision even for typically challenging cell types, including tumor cells of immune origin. By democratizing rapidly deployable and scalable machine learning annotation, MAPS holds significant potential to expedite advances in tissue biology and disease comprehension. Current cell annotation methods using high-plex spatial proteomics data are resource intensive and demand iterative expert input. Here, the authors present MAPS (Machine learning for Analysis of Proteomics in Spatial biology), an approach that facilitates rapid and precise cell type identification with human-level accuracy from spatial proteomics data.
+
+### 4. [Explaining Differences in Voting Patterns across Voting Domains Using Hierarchical Bayesian Models](https://doi.org/10.1017/pan.2025.10014)
+- **Journal:** Political Analysis
+- **Authors:** E. Lipman, Scott Moser, Abel Rodriguez
+- **Pub Date:** 2023-12-22
+- **DOI:** 10.1017/pan.2025.10014
+- **Abstract:** 
+ Spatial voting models are widely used in political science to analyze legislators’ preferences and voting behavior. Traditional models assume that legislators’ ideal points are static across different types of votes. This article extends the Bayesian spatial voting model to incorporate hierarchical Bayesian methods, allowing for the identification of covariates that explain differences in legislators’ ideal points across voting domains. We apply this model to procedural and final passage votes in the U.S. House of Representatives from the 93rd through 113th Congresses. Our findings indicate that legislators in the minority party and those representing moderate constituencies are more likely to exhibit different ideal points between procedural and final passage votes. This research advances the methodology of ideal point estimation by simultaneously scaling ideal points and explaining variation in these points, providing a more nuanced understanding of legislative voting behavior.
+
+### 5. [High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis](https://doi.org/10.1038/s41467-023-43458-x)
+- **Journal:** Nature Communications
+- **Authors:** Amanda Janesick, Robert Shelansky, Andrew D. Gottscho, Florian Wagner, Stephen R. Williams, Morgane Rouault, Ghezal Beliakoff, Carolyn A. Morrison, Michelli F Oliveira, Jordan Sicherman, Andrew Kohlway, Jawad Abousoud, T. Drennon, Seayar Mohabbat, Sarah E. B. Taylor
+- **Pub Date:** 2023-12-19
+- **DOI:** 10.1038/s41467-023-43458-x
+- **Abstract:** Single-cell and spatial technologies that profile gene expression across a whole tissue are revolutionizing the resolution of molecular states in clinical samples. Current commercially available technologies provide whole transcriptome single-cell, whole transcriptome spatial, or targeted in situ gene expression analysis. Here, we combine these technologies to explore tissue heterogeneity in large, FFPE human breast cancer sections. This integrative approach allowed us to explore molecular differences that exist between distinct tumor regions and to identify biomarkers involved in the progression towards invasive carcinoma. Further, we study cell neighborhoods and identify rare boundary cells that sit at the critical myoepithelial border confining the spread of malignant cells. Here, we demonstrate that each technology alone provides information about molecular signatures relevant to understanding cancer heterogeneity; however, it is the integration of these technologies that leads to deeper insights, ushering in discoveries that will progress oncology research and the development of diagnostics and therapeutics.
+
+---
+
