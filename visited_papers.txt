@@ -59,3 +59,8 @@ The urbanisation of controlled environment agriculture: Why does it matter for u
 Do police stations deter crime?
 Geospatial mapping of distribution grid with machine learning and publicly-accessible multi-modal data
 The dawn of spatial omics
+Remotely too equal: Popular DMSP night‐time lights data understate spatial inequality
+The Economics of Tropical Deforestation
+Spatial analysis with SPIAT and spaSim to characterize and simulate tissue microenvironments
+Multi-resource potentiality and multi-hazard susceptibility assessments of the central west coast of India applying machine learning and geospatial techniques
+Integrating Data Across Misaligned Spatial Units

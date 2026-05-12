@@ -3886,3 +3886,43 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-12
+
+### 1. [Remotely too equal: Popular DMSP night‐time lights data understate spatial inequality](https://doi.org/10.1111/rsp3.12716)
+- **Journal:** Regional Science Policy &amp; Practice
+- **Authors:** Xiaoxuan Zhang, J. Gibson, Xiangzheng Deng
+- **Pub Date:** 2023-08-03
+- **DOI:** 10.1111/rsp3.12716
+- **Abstract:** Regional science and economics studies increasingly use Defense Meteorological Satellite Program (DMSP) night‐time lights data to measure spatial inequality. These DMSP data are a poor proxy in this context because of their spatially mean‐reverting errors, which yield significantly lower inequality estimates than what sub‐national GDP data show. Inequality estimates from DMSP are also lower than what newer, research‐focused and more accurate, satellites show. We demonstrate this bias using county‐level data from China and the United States. The errors in the DMSP data distort estimates of both the level of, and trend in, spatial inequality.
+
+### 2. [The Economics of Tropical Deforestation](https://doi.org/10.2139/ssrn.4497991)
+- **Journal:** Social Science Research Network
+- **Authors:** Clare Balboni, A. Berman, Robin Burgess, Benjamin A. Olken
+- **Pub Date:** 2023-06-01
+- **DOI:** 10.2139/ssrn.4497991
+- **Abstract:** Two factors have elevated recent academic and policy interest in tropical deforestation: first, the realization that it is a major contributor to climate change; and second, a revolution in satellite-based measurement that has revealed that it is proceeding at a rapid rate. We begin by reviewing the methodological advances that have enabled measurement of forest loss at a fine spatial resolution across the globe. We then develop a simple benchmark model of deforestation based on classic models of natural resource extraction. Extending this approach to incorporate features that characterize deforestation in developing countries—pressure for land use change, significant local and global externalities, weak property rights, and political economy constraints—provides us with a framework for reviewing the fast-growing empirical literature on the economics of deforestation in the tropics. This combination of theory and empirics provides insights not only into the economic drivers and impacts of tropical deforestation but also into policies that may affect its progression. We conclude by identifying areas where more work is needed in this important body of research.
+
+### 3. [Spatial analysis with SPIAT and spaSim to characterize and simulate tissue microenvironments](https://doi.org/10.1038/s41467-023-37822-0)
+- **Journal:** Nature Communications
+- **Authors:** Yuzhou Feng, Tianpei Yang, John Zhu, Mabel Li, M. Doyle, Volkan Ozcoban, Greg T. Bass, A. Pizzolla, Lachlan Cain, Sirui Weng, Anupama Pasam, Nikolce Kocovski, Yu-Kuan Huang, S. Keam, T. Speed, P. Neeson, R. Pearson, S. Sandhu, D. Goode, A. Trigos
+- **Pub Date:** 2023-05-15
+- **DOI:** 10.1038/s41467-023-37822-0
+- **Abstract:** Spatial proteomics technologies have revealed an underappreciated link between the location of cells in tissue microenvironments and the underlying biology and clinical features, but there is significant lag in the development of downstream analysis methods and benchmarking tools. Here we present SPIAT (spatial image analysis of tissues), a spatial-platform agnostic toolkit with a suite of spatial analysis algorithms, and spaSim (spatial simulator), a simulator of tissue spatial data. SPIAT includes multiple colocalization, neighborhood and spatial heterogeneity metrics to characterize the spatial patterns of cells. Ten spatial metrics of SPIAT are benchmarked using simulated data generated with spaSim. We show how SPIAT can uncover cancer immune subtypes correlated with prognosis in cancer and characterize cell dysfunction in diabetes. Our results suggest SPIAT and spaSim as useful tools for quantifying spatial patterns, identifying and validating correlates of clinical outcomes and supporting method development. Spatial proteomic data serve to provide cell-level location information for the extraction of biological features from tissues, but analyzing such data can be difficult. Here the authors report the development of SPIAT for data analyses and spaSim for simulation and validation of methods to help bridge the gap between the technology and its translation.
+
+### 4. [Multi-resource potentiality and multi-hazard susceptibility assessments of the central west coast of India applying machine learning and geospatial techniques](https://doi.org/10.1007/s12665-023-10901-7)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** Pankaj Prasad, Victor J. Loveson, Sourav Mandal, Priyankar Chandra, Luc Cimusa Kulimushi
+- **Pub Date:** 2023-04-25
+- **DOI:** 10.1007/s12665-023-10901-7
+- **Abstract:** None
+
+### 5. [Integrating Data Across Misaligned Spatial Units](https://doi.org/10.1017/pan.2023.5)
+- **Journal:** Political Analysis
+- **Authors:** Y. Zhukov, Jason S. Byers, M. Davidson, Ken Kollman
+- **Pub Date:** 2023-03-23
+- **DOI:** 10.1017/pan.2023.5
+- **Abstract:** 
+ Theoretical units of interest often do not align with the spatial units at which data are available. This problem is pervasive in political science, particularly in subnational empirical research that requires integrating data across incompatible geographic units (e.g., administrative areas, electoral constituencies, and grid cells). Overcoming this challenge requires researchers not only to align the scale of empirical and theoretical units, but also to understand the consequences of this change of support for measurement error and statistical inference. We show how the accuracy of transformed values and the estimation of regression coefficients depend on the degree of nesting (i.e., whether units fall completely and neatly inside each other) and on the relative scale of source and destination units (i.e., aggregation, disaggregation, and hybrid). We introduce simple, nonparametric measures of relative nesting and scale, as ex ante indicators of spatial transformation complexity and error susceptibility. Using election data and Monte Carlo simulations, we show that these measures are strongly predictive of transformation quality across multiple change-of-support methods. We propose several validation procedures and provide open-source software to make transformation options more accessible, customizable, and intuitive.
+
+---
+
