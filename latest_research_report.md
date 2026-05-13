@@ -3926,3 +3926,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-13
+
+### 1. [Spatial transcriptomics identifies molecular niche dysregulation associated with distal lung remodeling in pulmonary fibrosis](https://doi.org/10.1038/s41588-025-02080-x)
+- **Journal:** Nature Genetics
+- **Authors:** A. Vannan, R. Lyu, A. L. Williams, N. Negretti, E. D. Mee, J. Hirsh, S. Hirsh, Niran Hadad, David Nichols, C. Calvi, Chase J. Taylor, V. Polosukhin, A. Serezani, A. McCall, J. Gokey, Heejung Shim, Lorraine B. Ware, M. Bacchetta, C. Shaver, Timothy S. Blackwell, Rajat Walia, J. Sucre, JA Kropski, Davis J. McCarthy, N. Banovich
+- **Pub Date:** 2025-02-03
+- **DOI:** 10.1038/s41588-025-02080-x
+- **Abstract:** Large-scale changes in the structure and cellular makeup of the distal lung are a hallmark of pulmonary fibrosis (PF), but the spatial contexts that contribute to disease pathogenesis have remained uncertain. Using image-based spatial transcriptomics, we analyzed the gene expression of 1.6 million cells from 35 unique lungs. Through complementary cell-based and innovative cell-agnostic analyses, we characterized the localization of PF-emergent cell types, established the cellular and molecular basis of classical PF histopathologic features and identified a diversity of distinct molecularly defined spatial niches in control and PF lungs. Using machine learning and trajectory analysis to segment and rank airspaces on a gradient of remodeling severity, we identified compositional and molecular changes associated with progressive distal lung pathology, beginning with alveolar epithelial dysregulation and culminating with changes in macrophage polarization. Together, these results provide a unique, spatially resolved view of PF and establish methods that could be applied to other spatial transcriptomic studies. Xenium spatial transcriptomic profiling of pulmonary fibrosis characterizes cell composition dynamics and histopathological features associated with the disease.
+
+### 2. [The Matérn Model: A Journey Through Statistics, Numerical Analysis and Machine Learning](https://doi.org/10.1214/24-sts923)
+- **Journal:** Statistical Science
+- **Authors:** E. Porcu, M. Bevilacqua, R. Schaback, C. Oates
+- **Pub Date:** 2023-03-05
+- **DOI:** 10.1214/24-sts923
+- **Abstract:** The Mat\'ern model has been a cornerstone of spatial statistics for more than half a century. More recently, the Mat\'ern model has been central to disciplines as diverse as numerical analysis, approximation theory, computational statistics, machine learning, and probability theory. In this article we take a Mat\'ern-based journey across these disciplines. First, we reflect on the importance of the Mat\'ern model for estimation and prediction in spatial statistics, establishing also connections to other disciplines in which the Mat\'ern model has been influential. Then, we position the Mat\'ern model within the literature on big data and scalable computation: the SPDE approach, the Vecchia likelihood approximation, and recent applications in Bayesian computation are all discussed. Finally, we review recent devlopments, including flexible alternatives to the Mat\'ern model, whose performance we compare in terms of estimation, prediction, screening effect, computation, and Sobolev regularity properties.
+
+### 3. [Integrated machine learning–based model and WQI for groundwater quality assessment: ML, geospatial, and hydro-index approaches](https://doi.org/10.1007/s11356-023-25938-1)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** S. A. Abu El-Magd, I. S. Ismael, Mohamed A Sh El-Sabri, M. Abdo, Hassan I. Farhat
+- **Pub Date:** 2023-03-03
+- **DOI:** 10.1007/s11356-023-25938-1
+- **Abstract:** The demands upon the arid area for water supply pose threats to both the quantity and quality of social and economic activities. Thus, a widely used machine learning model, namely the support vector machines (SVM) integrated with water quality indices (WQI), was used to assess the groundwater quality. The predictive ability of the SVM model was assessed using a field dataset for groundwater from Abu-Sweir and Abu-Hammad, Ismalia, Egypt. Multiple water quality parameters were chosen as independent variables to build the model. The results revealed that the permissible and unsuitable class values range from 36 to 27%, 45 to 36%, and 68 to 15% for the WQI approach, SVM method and SVM-WQI model respectively. Besides, the SVM-WQI model shows a low percentage of the area for excellent class compared to the SVM model and WQI. The SVM model trained with all predictors with a mean square error (MSE) of 0.002 and 0.41; the models that had higher accuracy reached 0.88. Moreover, the study highlighted that SVM-WQI can be successfully implemented for the assessment of groundwater quality (0.90 accuracy). The resulting groundwater model in the study sites indicates that the groundwater is influenced by rock-water interaction and the effect of leaching and dissolution. Overall, the integrated ML model and WQI give an understanding of water quality assessment, which may be helpful in the future development of such areas.
+
+### 4. [Methods and applications for single-cell and spatial multi-omics](https://doi.org/10.1038/s41576-023-00580-2)
+- **Journal:** Nature reviews genetics
+- **Authors:** K. Vandereyken, A. Sifrim, B. Thienpont, T. Voet
+- **Pub Date:** 2023-03-02
+- **DOI:** 10.1038/s41576-023-00580-2
+- **Abstract:** The joint analysis of the genome, epigenome, transcriptome, proteome and/or metabolome from single cells is transforming our understanding of cell biology in health and disease. In less than a decade, the field has seen tremendous technological revolutions that enable crucial new insights into the interplay between intracellular and intercellular molecular mechanisms that govern development, physiology and pathogenesis. In this Review, we highlight advances in the fast-developing field of single-cell and spatial multi-omics technologies (also known as multimodal omics approaches), and the computational strategies needed to integrate information across these molecular layers. We demonstrate their impact on fundamental cell biology and translational research, discuss current challenges and provide an outlook to the future. In this Review, the authors discuss the latest advances in profiling multiple molecular modalities from single cells, including genomic, transcriptomic, epigenomic and proteomic information. They describe the diverse strategies for separately analysing different modalities, how the data can be computationally integrated, and approaches for obtaining spatially resolved data.
+
+### 5. [Modeling Spatial Heterogeneity and Historical Persistence: Nazi Concentration Camps and Contemporary Intolerance](https://doi.org/10.1017/S0003055423000072)
+- **Journal:** American Political Science Review
+- **Authors:** Thomas B. Pepinsky, S. Goodman, Conrad Ziller
+- **Pub Date:** 2023-03-02
+- **DOI:** 10.1017/S0003055423000072
+- **Abstract:** A wealth of recent research in comparative politics examines how spatial variation in historical conditions shapes modern political outcomes. In an article in the American Political Science Review, Homola, Pereira, and Tavits argue that Germans who live nearer to former Nazi concentration camps are more likely to display out-group intolerance. Clarifying the conceptual foundations of posttreatment bias and reviewing the historical record on postwar state creation in Germany, we argue that state-level differences confound the relationship between distance to camps and out-group intolerance. Using publicly available European Values Survey data and electoral results from 2017, we find no consistent evidence that distance to camps is related to contemporary values. Our findings have implications for literatures on historical persistence, causal inference with spatial data, Holocaust studies, and outgroup tolerance.
+
+---
+

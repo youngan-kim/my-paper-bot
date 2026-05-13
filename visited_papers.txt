@@ -64,3 +64,8 @@ The Economics of Tropical Deforestation
 Spatial analysis with SPIAT and spaSim to characterize and simulate tissue microenvironments
 Multi-resource potentiality and multi-hazard susceptibility assessments of the central west coast of India applying machine learning and geospatial techniques
 Integrating Data Across Misaligned Spatial Units
+Spatial transcriptomics identifies molecular niche dysregulation associated with distal lung remodeling in pulmonary fibrosis
+The Matérn Model: A Journey Through Statistics, Numerical Analysis and Machine Learning
+Integrated machine learning–based model and WQI for groundwater quality assessment: ML, geospatial, and hydro-index approaches
+Methods and applications for single-cell and spatial multi-omics
+Modeling Spatial Heterogeneity and Historical Persistence: Nazi Concentration Camps and Contemporary Intolerance
