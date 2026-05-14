@@ -3965,3 +3965,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-14
+
+### 1. [Accurate Prediction of Soil Heavy Metal Pollution Using an Improved Machine Learning Method: A Case Study in the Pearl River Delta, China.](https://doi.org/10.1021/acs.est.2c07561)
+- **Journal:** Environmental Science and Technology
+- **Authors:** Wenhao Zhao, Jin Ma, Qiyuan Liu, L. Dou, Y. Qu, Huading Shi, Yi Sun, Haiyan Chen, Yuxin Tian, Fengchang Wu
+- **Pub Date:** 2023-02-23
+- **DOI:** 10.1021/acs.est.2c07561
+- **Abstract:** In traditional soil heavy metal (HM) pollution assessment, spatial interpolation analysis is often carried out on the limited sampling points in the study area to get the overall status of heavy metal pollution. Unfortunately, in many machine learning spatial information enhancement algorithms, the additional spatial information introduced fails to reflect the hierarchical heterogeneity of the study area. Therefore, we designed hierarchical regionalization labels based on three interpolation techniques (inverse distance weight, ordinary kriging, and trend surface interpolation) as new spatial covariates for a machine learning (ML) model. It was demonstrated that regional spatial information improved the prediction performance of the model (R2 > 0.7). On the basis of the prediction results, the status of HM pollution in the Pearl River Delta (PRD) region was evaluated: cadmium (Cd) and copper (Cu) were the most serious pollutants in the PRD (the point overstandard rates are 18.77% and 12.95%, respectively). The analysis of index importance and bivariate local indicators of spatial association (LISA) shows that the key factors affecting the spatial distribution of heavy metals are geographical and climatic conditions [namely, altitude, humidity index, and normalized vegetation difference index (NDVI)] and some industrial activities (such as metal processing, printing and dyeing, and electronics industry). This study develops a novel approach to improve existing spatial interpolation techniques, which will enable more precise and scientific soil environmental management.
+
+### 2. [Vulnerability in the Neighborhood: A Study of Perceived Control Over Victimization](https://doi.org/10.1177/00224278221150280)
+- **Journal:** Journal of research in crime and delinquency
+- **Authors:** C. Keel, Rebecca Wickes, Murray Lee, Jonathan Jackson, K. Benier
+- **Pub Date:** 2023-02-20
+- **DOI:** 10.1177/00224278221150280
+- **Abstract:** Objectives: We test which neighborhood characteristics are associated with perceived control over victimization and how the neighborhood context explains differences between women's and men's perceived control. Methods: Drawing upon administrative data and a survey of 2,862 participants living in 80 neighborhoods in Victoria, Australia, we make a distinction between broader characteristics of the neighborhood, community processes, and gendered neighborhood dynamics. We run a series of multilevel mixed effects regression models to examine the relationship between individual-level perceptions of control over victimization and the neighborhood. Results: Results indicate that a concentration of low-income households in the neighborhood is associated with residents reporting less control over their victimization. Furthermore, the interaction revealed higher crime in the neighborhood lowered women's perceived control while heightening men's perceived control over victimization. Conclusions: Gender remained strongly associated with perceived control over victimization throughout the analysis despite extensive testing of general and gendered neighborhood conditions that may account for differences between women and men. The results found that overall crime rates were the only feature that assisted in explaining the differences between women and men. Future research must seek to better capture the environmental conditions that can account for the difference between women's and men's perceptions.
+
+### 3. [High-throughput microbial culturomics using automation and machine learning](https://doi.org/10.1038/s41587-023-01674-2)
+- **Journal:** Nature Biotechnology
+- **Authors:** Yiming Huang, Ravi U. Sheth, Shijie Zhao, Lucas Cohen, Kendall Dabaghi, Thomas U. Moody, Yiwei Sun, Deirdre Ricaurte, Miles Richardson, Florencia Velez-Cortes, Tomasz Blazejewski, A. Kaufman, Carlotta Ronda, Harris H. Wang
+- **Pub Date:** 2023-02-20
+- **DOI:** 10.1038/s41587-023-01674-2
+- **Abstract:** Pure bacterial cultures remain essential for detailed experimental and mechanistic studies in microbiome research, and traditional methods to isolate individual bacteria from complex microbial ecosystems are labor-intensive, difficult-to-scale and lack phenotype–genotype integration. Here we describe an open-source high-throughput robotic strain isolation platform for the rapid generation of isolates on demand. We develop a machine learning approach that leverages colony morphology and genomic data to maximize the diversity of microbes isolated and enable targeted picking of specific genera. Application of this platform on fecal samples from 20 humans yields personalized gut microbiome biobanks totaling 26,997 isolates that represented >80% of all abundant taxa. Spatial analysis on >100,000 visually captured colonies reveals cogrowth patterns between Ruminococcaceae , Bacteroidaceae , Coriobacteriaceae and Bifidobacteriaceae families that suggest important microbial interactions. Comparative analysis of 1,197 high-quality genomes from these biobanks shows interesting intra- and interpersonal strain evolution, selection and horizontal gene transfer. This culturomics framework should empower new research efforts to systematize the collection and quantitative analysis of imaging-based phenotypes with high-resolution genomics data for many emerging microbiome studies. A machine learning isolation and genotyping platform enable high-throughput bacterial culture generation.
+
+### 4. [Spatial prediction of soil contamination based on machine learning: a review](https://doi.org/10.1007/s11783-023-1693-1)
+- **Journal:** Frontiers of Environmental Science and Engineering
+- **Authors:** Yang Zhang, Mei Lei, Kai Li, Tienan Ju
+- **Pub Date:** 2023-02-17
+- **DOI:** 10.1007/s11783-023-1693-1
+- **Abstract:** None
+
+### 5. [Theorising and illustrating plural policing models in countering armed banditry as hybrid terrorism in northwest Nigeria](https://doi.org/10.1080/23311886.2023.2174486)
+- **Journal:** Cogent Social Sciences
+- **Authors:** O. Ojewale
+- **Pub Date:** 2023-02-08
+- **DOI:** 10.1080/23311886.2023.2174486
+- **Abstract:** Abstract Banditry constitutes about 40% of national insecurity in Nigeria. It is a composite crime manifesting in wanton killing, cattle rustling, kidnapping for ransom, levying of illegal tax on farming communities, sexual violence and trafficking of arms and drugs. Through qualitative and quantitative research methodology, this article attempts to theorise and illustrate policing models aimed at countering armed banditry in northwest Nigeria. Coordinates of attacks by bandits are georeferenced to show their spatial distribution and pattern. As Nigeria continues to experience the shocks of banditry, the national and subnational governments are providing counter measures to lessen the striking capability of the bandits through four distinct but complementary models of policing. The article offers direction on the policing imperatives for combatting armed banditry in Nigeria. It proposes a multilevel policing framework which encompasses the mainstream policing, hybrid policing and the joint task force models with the state police as the new layer on the existing security architecture. This is well suited to respond to the conceptual, practical and strategic dimensions of policing in Nigeria to combat armed banditry and other criminalities that envelop the country.
+
+---
+
