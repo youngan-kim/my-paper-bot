@@ -4004,3 +4004,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-15
+
+### 1. [Integrative analysis of multimodal mass spectrometry data in MZmine 3](https://doi.org/10.1038/s41587-023-01690-2)
+- **Journal:** Nature Biotechnology
+- **Authors:** Robin Schmid, S. Heuckeroth, A. Korf, Aleksandr Smirnov, Owen D. Myers, Thomas S. Dyrlund, Roman Bushuiev, Kevin J Murray, Nils Hoffmann, Miaoshan Lu, Abinesh Sarvepalli, Zheng Zhang, Markus Fleischauer, Kai Dührkop, Mark Wesner, Shawn J. Hoogstra, E. Rudt, Olena Mokshyna, Corinna Brungs, Kirill Ponomarov, Lana Mutabdžija, T. Damiani, C. Pudney, M. Earll, Patrick O. Helmer, Timothy R. Fallon, Tobias Schulze, Albert Rivas‐Ubach, Aivett Bilbao, H. Richter, Louis-Félix Nothias, Mingxun Wang, M. Orešič, J. Weng, Sebastian Böcker, A. Jeibmann, H. Hayen, U. Karst, P. Dorrestein, D. Petráš, Xiuxia Du, T. Pluskal
+- **Pub Date:** 2023-03-01
+- **DOI:** 10.1038/s41587-023-01690-2
+- **Abstract:** None
+
+### 2. [Screening cell–cell communication in spatial transcriptomics via collective optimal transport](https://doi.org/10.1038/s41592-022-01728-4)
+- **Journal:** Nature Methods
+- **Authors:** Z. Cang, Yanxiang Zhao, Axel A. Almet, Adam R. Stabell, Raul Ramos, M. Plikus, Scott X. Atwood, Qing Nie
+- **Pub Date:** 2023-01-23
+- **DOI:** 10.1038/s41592-022-01728-4
+- **Abstract:** This work presents a computational framework, COMMOT, to spatially infer cell–cell communication from transcriptomics data based on a variant of optimal transport (OT). Spatial transcriptomic technologies and spatially annotated single-cell RNA sequencing datasets provide unprecedented opportunities to dissect cell–cell communication (CCC). However, incorporation of the spatial information and complex biochemical processes required in the reconstruction of CCC remains a major challenge. Here, we present COMMOT (COMMunication analysis by Optimal Transport) to infer CCC in spatial transcriptomics, which accounts for the competition between different ligand and receptor species as well as spatial distances between cells. A collective optimal transport method is developed to handle complex molecular interactions and spatial constraints. Furthermore, we introduce downstream analysis tools to infer spatial signaling directionality and genes regulated by signaling using machine learning models. We apply COMMOT to simulation data and eight spatial datasets acquired with five different technologies to show its effectiveness and robustness in identifying spatial CCC in data with varying spatial resolutions and gene coverages. Finally, COMMOT identifies new CCCs during skin morphogenesis in a case study of human epidermal development.
+
+### 3. [Centring the periphery in urban studies: Notes towards a research agenda on peripheral centralities](https://doi.org/10.1177/00420980221135418)
+- **Journal:** Urban studies
+- **Authors:** N. Phelps, P. Maginn, R. Keil
+- **Pub Date:** 2022-12-14
+- **DOI:** 10.1177/00420980221135418
+- **Abstract:** Based on presentations across two days as part of an Urban Studies Foundation-funded seminar series, we elaborate a thematic agenda for considering the centrality of urban peripheries. We move beyond a typology of suburban centres to depict senses of peripheral centrality in terms of: their pervasiveness; their visibility across multiple scales; their underlying social relations; the agency exerted in their imagining and production, and the associated policy mobility.
+
+### 4. [The spatial (in)stability of mental health calls for police service](https://doi.org/10.1111/1745-9133.12612)
+- **Journal:** Criminology &amp; Public Policy
+- **Authors:** Jacek Koziarski
+- **Pub Date:** 2022-12-09
+- **DOI:** 10.1111/1745-9133.12612
+- **Abstract:** Research summary Policy implications Inspired by studies on crime concentration, scholars have begun examining the spatial patterns of other issues under the police mandate, such as calls for service involving persons with perceived mental illness (PwPMI). While findings show that PwPMI calls for service concentrate in a few number of places, we do not know whether the concentration of these calls fall within a narrow bandwidth of spatial units nor whether these calls are spatially stable. Drawing on 7 years of calls for service data from the Barrie Police Service, this study tests for the temporal stability of PwPMI call for service concentrations at two units of spatial analysis and applies a longitudinal variation of the Spatial Point Pattern Test to assess the spatial stability of these calls at both the global and local levels. The results reveal that concentrations of PwPMI calls for service not only fall within a narrow proportional bandwidth of spatial units, but are spatially stable, even during the COVID‐19 pandemic.Existing police‐ and community‐based efforts that respond to PwPMI in the community are tasked with responding to crises that could have been prevented with timelier intervention. Drawing from crime‐focused, place‐based policing strategies whose deployment is informed by the spatial concentration of crime, scholars have similarly argued that knowledge on where PwPMI calls for service concentrate can be leveraged to inform and deploy place‐based efforts whose focus is to assist PwPMI in a proactive capacity. The findings of the present study further substantiates the deployment of PwPMI‐focused police‐ and community‐based resources as proactive, place‐based efforts. In doing so, these efforts could not only prevent mental health crises from occurring but could prevent future police‐involved calls for service and thus reduce the footprint of the police in the lives of PwPMI in a reactive capacity. [ FROM AUTHOR]
+
+### 5. [Geospatial modeling using hybrid machine learning approach for flood susceptibility](https://doi.org/10.1007/s12145-022-00872-x)
+- **Journal:** Earth Science Informatics
+- **Authors:** B. P. Mishra, D. K. Ghose, D. Satapathy
+- **Pub Date:** 2022-10-06
+- **DOI:** 10.1007/s12145-022-00872-x
+- **Abstract:** None
+
+---
+

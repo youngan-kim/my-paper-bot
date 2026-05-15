@@ -74,3 +74,8 @@ Vulnerability in the Neighborhood: A Study of Perceived Control Over Victimizati
 High-throughput microbial culturomics using automation and machine learning
 Spatial prediction of soil contamination based on machine learning: a review
 Theorising and illustrating plural policing models in countering armed banditry as hybrid terrorism in northwest Nigeria
+Integrative analysis of multimodal mass spectrometry data in MZmine 3
+Screening cell–cell communication in spatial transcriptomics via collective optimal transport
+Centring the periphery in urban studies: Notes towards a research agenda on peripheral centralities
+The spatial (in)stability of mental health calls for police service
+Geospatial modeling using hybrid machine learning approach for flood susceptibility
