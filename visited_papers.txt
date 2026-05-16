@@ -79,3 +79,8 @@ Screening cell–cell communication in spatial transcriptomics via collective op
 Centring the periphery in urban studies: Notes towards a research agenda on peripheral centralities
 The spatial (in)stability of mental health calls for police service
 Geospatial modeling using hybrid machine learning approach for flood susceptibility
+A novel machine learning approach to analyzing geospatial vessel patterns using AIS data
+The biofilm matrix: multitasking in a shared space
+Digital mapping of soil pH and carbonates at the European scale using environmental variables and machine learning.
+The spatial dynamics of commercial burglary during the COVID-19 lockdown in San Francisco
+Machine learning for spatial analyses in urban areas: a scoping review

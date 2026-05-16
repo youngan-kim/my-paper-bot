@@ -4043,3 +4043,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-16
+
+### 1. [A novel machine learning approach to analyzing geospatial vessel patterns using AIS data](https://doi.org/10.1080/15481603.2022.2118437)
+- **Journal:** GIScience &amp; Remote Sensing
+- **Authors:** M. D. Ferreira, Jessica N. A. Campbell, S. Matwin
+- **Pub Date:** 2022-09-20
+- **DOI:** 10.1080/15481603.2022.2118437
+- **Abstract:** ABSTRACT In the maritime environment, the Automatic Identification System (AIS) contains information related to vessel trajectories that can be used to detect unusual maritime occurrences and maritime traffic patterns. To detect such occurrences with supervised learning methods the AIS messages must be manually annotated, which can be a demanding process. Therefore, unsupervised methods are used to identify anomalous traffic patterns based on vessel trajectories. Typically, dense regions of maritime activity are studied to capture common traffic patterns which help identify trajectories that do not follow the norm. However, these approaches cannot detect anomalous behaviors along common pathways or incorporate time-related events into the analysis. Such challenges motivate the approach taken in this work by using auto-regressive techniques to model vessel trajectories and clustering analyses to explore behavior patterns of vessels. Results confirm that the Auto-regressive Integrated Moving Average (ARIMA) and Ornstein-Uhlenbeck (OU) processes are able to model the trajectories and can be used with density-based spatial clustering of applications with noise (DBSCAN), hierarchical clustering (HC), and spectral clustering (SC) to identify different behavioral patterns.
+
+### 2. [The biofilm matrix: multitasking in a shared space](https://doi.org/10.1038/s41579-022-00791-0)
+- **Journal:** Nature Reviews Microbiology
+- **Authors:** H. Flemming, E. V. van Hullebusch, T. Neu, P. Nielsen, T. Seviour, P. Stoodley, J. Wingender, S. Wuertz
+- **Pub Date:** 2022-09-20
+- **DOI:** 10.1038/s41579-022-00791-0
+- **Abstract:** None
+
+### 3. [Digital mapping of soil pH and carbonates at the European scale using environmental variables and machine learning.](https://doi.org/10.1016/j.scitotenv.2022.159171)
+- **Journal:** Science of the Total Environment
+- **Authors:** Qikai Lu, Shuang Tian, Lifei Wei
+- **Pub Date:** 2022-09-01
+- **DOI:** 10.1016/j.scitotenv.2022.159171
+- **Abstract:** Soil pH and carbonates (CaCO3) are important indicators of soil chemistry and fertility, and the prediction of their spatial distribution is critical for the agronomic and environmental management. Digital soil mapping (DSM) techniques are widely accepted for the geospatial analysis of the soil properties. They are rapid and cost-efficient approaches that can provide quantitative prediction. However, the digital mapping of soil pH and CaCO3 are not well studied, especially at a continental scale. In this research, we mapped the soil pH and CaCO3 at the European scale using multisource environmental variables and machine learning approaches. Moderate Resolution Imaging Spectroradiometer (MODIS) products, terrain attributes, and climatic variables were considered. Meanwhile, nine machine learning algorithms, namely, three linear and six nonlinear models, were used for the spatial prediction of soil pH and CaCO3. The land use and cover area frame statistical survey (LUCAS) 2015 topsoil dataset provided by the European Soil Data Centre was utilised. The performances of different models were compared and analysed in terms of coefficient of determination (R2), root mean square error (RMSE), and ratio of performance to deviation (RPD). Specifically, nonlinear machine learning models outperformed the linear ones, and extremely randomized trees (ERT) gave the most satisfactory result for soil pH (R2 = 0.70, RMSE = 0.75, and RPD = 1.84) and CaCO3 (R2 = 0.53, RMSE = 93.49 g/kg, and RPD = 1.46). The results revealed that MODIS products and climatic variables were important in predicting soil pH and CaCO3. Moreover, spatial distribution of soil pH and CaCO3 in Europe were mapped at 250 m resolution, and the areas with high CaCO3 content always showed high soil pH value.
+
+### 4. [The spatial dynamics of commercial burglary during the COVID-19 lockdown in San Francisco](https://doi.org/10.1007/s11292-022-09530-0)
+- **Journal:** Journal of Experimental Criminology
+- **Authors:** Ha-neul Yim, Jordan R. Riddell
+- **Pub Date:** 2022-08-18
+- **DOI:** 10.1007/s11292-022-09530-0
+- **Abstract:** Purpose This paper investigated the impact of COVID-19 stay-at-home regulations on the spatial distribution of commercial burglary in San Francisco. Method Geocoded commercial burglary data for 2003–2021 from San Francisco were analyzed using the Andresen Spatial Point Pattern Test to examine potential spatial movement in commercial burglary. Results Concentrations of commercial burglary spatially shifted following the emergence of COVID-19 and the subsequent stay-at-home orders. Original hot spots experienced a relative decrease in commercial burglary, and crime spread out throughout the city. These spatial changes in commercial burglary appear to be related to variations in guardianship and criminal opportunity. Conclusion These findings suggest that the dramatic shifts in routine activities resulting from the COVID-19 policies could disrupt spatial burglary patterns, especially burglary clustering. Law enforcement should consider the spatial dynamics of commercial burglary, as well as land use heterogeneity, to effectively respond to crime during periods of social distancing and business shutdowns.
+
+### 5. [Machine learning for spatial analyses in urban areas: a scoping review](https://doi.org/10.1016/j.scs.2022.104050)
+- **Journal:** Sustainable cities and society
+- **Authors:** Y. Casali, Nazli Aydin Yonca, T. Comes, Y. Casali
+- **Pub Date:** 2022-07-01
+- **DOI:** 10.1016/j.scs.2022.104050
+- **Abstract:** The challenges for sustainable cities to protect the environment, ensure economic growth, and maintain social justice have been widely recognized. Along with the digitization, availability of large datasets, Machine Learning (ML) and Artificial Intelligence (AI) are promising to revolutionize the way we analyze and plan urban areas, opening new opportunities for the sustainable city agenda. Especially urban spatial planning problems can benefit from ML approaches, leading to an increasing number of ML publications across different domains. What is missing is an overview of the most prominent domains in spatial urban ML along with a mapping of specific applied approaches. This paper aims to address this gap and guide researchers in the field of urban science and spatial data analysis to the most used methods and unexplored research gaps. We present a scoping review of ML studies that used geospatial data to analyze urban areas. Our review focuses on revealing the most prominent topics, data sources, ML methods and approaches to parameter selection. Furthermore, we determine the most prominent patterns and challenges in the use of ML. Through our analysis, we identify knowledge gaps in ML methods for spatial data science and data specifications to guide future research.
+
+---
+
