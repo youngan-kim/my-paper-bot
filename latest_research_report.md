@@ -4082,3 +4082,44 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-17
+
+### 1. [Paws on the Street: Neighborhood-Level Concentration of Households with Dogs and Urban Crime](https://doi.org/10.1093/sf/soac059)
+- **Journal:** Social forces; a scientific medium of social study and interpretation
+- **Authors:** Nicolo P. Pinchak, Christopher R. Browning, Bethany Boettner, Catherine A. Calder, Jake Tarrence
+- **Pub Date:** 2022-06-25
+- **DOI:** 10.1093/sf/soac059
+- **Abstract:** Abstract:The formative work of Jane Jacobs underscores the combination of "eyes on the street" and trust between residents in deterring crime. Nevertheless, little research has assessed the effects of residential street monitoring on crime due partly to a lack of data measuring this process. We argue that neighborhood-level rates of households with dogs captures part of the residential street monitoring process core to Jacobs' hypotheses and test whether this measure is inversely associated with property and violent crime rates. Data from a large-scale marketing survey of Columbus, OH, USA residents (2013; n = 43,078) are used to measure census block group-level (n = 595) rates of households with dogs. Data from the Adolescent Health and Development in Context study are used to measure neighborhood-level rates of trust. Consistent with Jacobs' hypotheses, results indicate that neighborhood concentration of households with dogs is inversely associated with robbery, homicide, and, to a less consistent degree, aggravated assault rates within neighborhoods high in trust. In contrast, results for property crime suggest that the inverse association of dog concentration is independent of levels of neighborhood trust. These associations are observed net of controls for neighborhood sociodemographic characteristics, temporally lagged crime, and spatial lags of trust and dog concentration. This study offers suggestive evidence of crime deterrent benefits of local street monitoring and dog presence and calls attention to the contribution of pets to other facets of neighborhood social organization.
+
+### 2. [Modeling forest-shrubland fire susceptibility based on machine learning and geospatial approaches in mountains of Kurdistan Region, Iraq](https://doi.org/10.1007/s12517-022-10442-6)
+- **Journal:** Arabian Journal of Geosciences
+- **Authors:** Nabaz R. Khwarahm
+- **Pub Date:** 2022-06-20
+- **DOI:** 10.1007/s12517-022-10442-6
+- **Abstract:** None
+
+### 3. [From Residential Neighborhood to Activity Space: The Effects of Educational Segregation on Crime and Their Moderation by Social Context](https://doi.org/10.1080/24694452.2022.2060793)
+- **Journal:** Annals of the American Association of Geographers
+- **Authors:** Yanji Zhang, Liang Cai, Guangwen Song, Lin Liu, Chunwu Zhu
+- **Pub Date:** 2022-06-16
+- **DOI:** 10.1080/24694452.2022.2060793
+- **Abstract:** The segregation–crime relationship is a classic topic in sociology and crime geography, yet existing literature mainly focuses on the impact of racial segregation at the global scale. Little is known about the impact of local segregation of other socioeconomic characteristics such as education level, an important segregation factor for racially homogenous countries like China. Also unknown is their impact beyond the residential domain. Using the Baidu Map Location-Based Service population data set and court records in 863 local geographic units of the central urban area of Beijing during 2018 and 2019, this study uncovers the spatial pattern of segregation between people with and without a bachelor’s degree measured in the residential space and activity space and further investigates the influence of these two types of educational segregation and their interaction effects with social context on theft and violent crime. Results show less segregation in the activity space than in the residential space. Both types of segregation, however, significantly increase the risk of theft and violence, with activity space–based segregation more consequential. Moreover, the positive segregation–crime link is moderated by the local social context measured by the educational composition among residents and the ambient population. Compared with residential segregation, activity space–based segregation is more detrimental for places dominated by the less educated. Our results highlight the elevated influence of segregation on safety beyond the residential space, especially for areas clustered with the less educated ambient population.
+
+### 4. [A CONCEPTUAL MODEL FOR CONVERTING OPENSTREETMAP CONTRIBUTION TO GEOSPATIAL MACHINE LEARNING TRAINING DATA](https://doi.org/10.5194/isprs-archives-xliii-b4-2022-253-2022)
+- **Journal:** The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** H. Li, A. Zipf
+- **Pub Date:** 2022-06-01
+- **DOI:** 10.5194/isprs-archives-xliii-b4-2022-253-2022
+- **Abstract:** Abstract. In the recent decade, Volunteered Geographical Information (VGI), in particular the OpenStreetMap (OSM), has helped to fill substantial data gaps in base maps, especially in Global South, thus has become a promising source of massive, free training data together with rich and detailed semantic information for geospatial artificial intelligence (GeoAI) applications. Although intensive works have explored the potential of generating training data from OSM, a systematic approach of harvesting OSM contribution as quality-aware training data for different GeoAI tasks is still missing. To fill this research gap, we proposed a conceptual model consisting of three major components: historical OSM and external datasets, quality indicators, and GeoAI models. As a proof of concept, we validated our conceptual model with an example task of detecting OSM missing buildings in Mozambique, where the impact of different error sources (e.g., completeness, alignment, rotation) in training data were compared and investigated in a quantitative manner. The lessons learned in this paper shed important lights on cooperating OSM data quality aspects with the development of more explainable GeoAI models.
+
+
+### 5. [MACHINE LEARNING-BASED ECONOMIC DEVELOPMENT MAPPING FROM MULTI-SOURCE OPEN GEOSPATIAL DATA](https://doi.org/10.5194/isprs-annals-v-4-2022-259-2022)
+- **Journal:** ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** R. Cao, W. Tu, J. Cai, T. Zhao, J. Xiao, J. Cao, Q. Gao, H. Su
+- **Pub Date:** 2022-05-18
+- **DOI:** 10.5194/isprs-annals-v-4-2022-259-2022
+- **Abstract:** Abstract. Timely and accurate socioeconomic indicators are the prerequisite for smart social governance. For example, the level of economic development and the structure of population are important statistics for regional or national policy-making. However, the collection of these characteristics usually depends on demographic and social surveys, which are time- and labor-intensive. To address these issues, we propose a machine learning-based approach to estimate and map the economic development from multi-source open available geospatial data, including remote sensing imagery and OpenStreetMap road networks. Specifically, we first extract knowledge-based features from different data sources; then the multi-view graphs are constructed through different perspectives of spatial adjacency and feature similarity; and a multi-view graph neural network (MVGNN) model is built on them and trained in a self-supervised learning manner. Then, the handcrafted features and the learned graph representations are combined to estimate the regional economic development indicators via random forest models. Taking China’s county-level gross domestic product (GDP) as an example, extensive experiments have been conducted and the results demonstrate the effectiveness of the proposed method, and the combination of the knowledge-based and learning-based features can significantly outperform baseline methods. Our proposed approach can advance the goal of acquiring timely and accurate socioeconomic variables through widely accessible geospatial data, which has the potential to extend to more social indicators and other geographic regions to support smart governance and policy-making in the future.
+
+
+---
+
