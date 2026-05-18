@@ -89,3 +89,8 @@ Modeling forest-shrubland fire susceptibility based on machine learning and geos
 From Residential Neighborhood to Activity Space: The Effects of Educational Segregation on Crime and Their Moderation by Social Context
 A CONCEPTUAL MODEL FOR CONVERTING OPENSTREETMAP CONTRIBUTION TO GEOSPATIAL MACHINE LEARNING TRAINING DATA
 MACHINE LEARNING-BASED ECONOMIC DEVELOPMENT MAPPING FROM MULTI-SOURCE OPEN GEOSPATIAL DATA
+Water and sanitation for all: Citizen science, health equity, and urban climate justice
+Introduction: Generating concepts of ‘the urban’ through comparative practice
+Customer Segmentation with Machine Learning for Online Retail Industry
+The effects of energy price, spatial spillover of CO2 emissions, and economic freedom on CO2 emissions in Europe: a spatial econometrics approach
+STADL Up! The Spatiotemporal Autoregressive Distributed Lag Model for TSCS Data Analysis

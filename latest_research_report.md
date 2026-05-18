@@ -4123,3 +4123,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-18
+
+### 1. [Water and sanitation for all: Citizen science, health equity, and urban climate justice](https://doi.org/10.1177/23998083221094836)
+- **Journal:** Environment and Planning B Urban Analytics and City Science
+- **Authors:** Jason Corburn
+- **Pub Date:** 2022-05-12
+- **DOI:** 10.1177/23998083221094836
+- **Abstract:** Access to clean and affordable drinking water, a safe toilet, and the materials and facilities to practice hygiene is a fundamental human right. Yet, millions of people on the planet and thousands of communities, even in some of the wealthiest cities, are denied these rights. The challenge for ensuring access to affordable, high-quality and safe water, sanitation and hygiene (WASH) is frequently a political, not technologic or economic issue. Complicating matters is that urban climate change, accompanied by rising economic, social, and health inequities, has increased the urgency to deliver WASH especially to the urban poor and those already experiencing spatial, social and related vulnerabilities. The 2022 Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment, noted that urban residents, particularly those living in informal settlements, face increased health, economic, and social risks from climate change induced floods and weather events, largely due to the lack of WASH infrastructure (IPCC, 2022). Access to WASH in cities, particularly for the urban poor, is a climate justice issue, and should be a concern for everyone since the potential disease and displacement impacts will not be spatially limited (Dodman et al., 2019; World Bank, 2021). Cities are characterized by physical and social change, including migration, but urban planning has not kept-up with these changes by providing for permanent supplies of safe water and hygienic sanitation for all residents (Calderón-Villarreal et al., 2022). The social reach of inadequate WASH is more than an urban concern, since the issue touches almost all aspects of life, from livelihoods and food security to school attendance to infectious and chronic illness to human security and dignity (WHO, 2019a). The corona virus pandemic has again highlighted that the urban poor and those facing chronic discrimination are most vulnerable to severe consequences when they lack WASH. The COVID-19 crisis highlighted how basic infrastructure is a key component of health equity (World Health Organization WHO, 2021). Health equity, as defined by the World Health Organization, is “the absence of avoidable, unfair or remediable differences among groups of people due to their social, economic, demographic or geographic circumstances” and includes coordinated government, community, and private sector efforts to ensure that all groups and places have the resources and capabilities to make healthy decisions, avoid dangerous environmental and social conditions and live a safe and fulfilling life (WHO, 2022). Ensuring universal access to affordable, consistent and
+
+### 2. [Introduction: Generating concepts of ‘the urban’ through comparative practice](https://doi.org/10.1177/00420980221092561)
+- **Journal:** Urban studies
+- **Authors:** J. Robinson
+- **Pub Date:** 2022-05-01
+- **DOI:** 10.1177/00420980221092561
+- **Abstract:** This Introduction to the special issue, ‘Comparative Methods for Global Urban Studies’, outlines the basis for a reformatted comparative method inspired by the complex spatialities of the urban world. The articles in the volume each bring forward innovative approaches to comparative methods which support wider conceptualisations of urban processes and urban experiences. The articles in this volume consider a wide range of urban contexts and collectively move beyond geopolitically imprecise propositions of ‘southern’ urbanism to embrace the wider comparative agenda of thinking with both the diversity and the profound interconnectedness of the urban globally. The articles contribute to decentring urban studies, opening conceptualisation to a range of different contexts and differently positioned writers. They also speak to the analytical and methodological challenges posed by current trends in global urbanisation, as dispersed, fragmented and extending over vast territories. Thinking with the multiple elsewheres of any urban context invites a comparative imagination – this introduction draws together the creative ways in which authors in this volume have responded to this potential. Processes of conceptualisation both emerge from and more acutely reveal the spatiality and nature of the global urban: comparative method, then, also proposes a certain mode of theorisation of the urban.
+
+### 3. [Customer Segmentation with Machine Learning for Online Retail Industry](https://doi.org/10.15405/ejsbs.316)
+- **Journal:** The European Journal of Social &amp; Behavioural Sciences
+- **Authors:** B. Turkmen
+- **Pub Date:** 2022-04-30
+- **DOI:** 10.15405/ejsbs.316
+- **Abstract:** In this study, a comparative analysis of various techniques is presented on customer segmentation methods based on online retail data. A few unsupervised machine learning (ML) clustering models such as K-means clustering model, hierarchical clustering model, Density-based Spatial Clustering of Applications with Noise (DBSCAN) model and a traditional model based on recency, frequency and monetary (RFM) clustering are evaluated in terms of the insight each model offers. The traditional model is included in the analysis since clustering models are not optimization models and the goodness of unsupervised models could only be evaluated with a practical business approach. The results are shared, and each model is assessed in terms of usability for marketing and communication strategies. At the end, the strengths and weaknesses of each model are discussed, and a methodology is proposed for selecting the best clustering method when facing the customer segmentation problem. A detailed literature review is also presented covering the developments in the field of artificial intelligence, clustering models in ML and examples of customer segmentation implementations in various industries.
+
+### 4. [The effects of energy price, spatial spillover of CO2 emissions, and economic freedom on CO2 emissions in Europe: a spatial econometrics approach](https://doi.org/10.1007/s11356-022-20179-0)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Jiying Wu, O. Abban, A. Boadi, Ofori Charles
+- **Pub Date:** 2022-04-25
+- **DOI:** 10.1007/s11356-022-20179-0
+- **Abstract:** None
+
+### 5. [STADL Up! The Spatiotemporal Autoregressive Distributed Lag Model for TSCS Data Analysis](https://doi.org/10.1017/S0003055422000272)
+- **Journal:** American Political Science Review
+- **Authors:** S. Cook, Jude C. Hays, R. Franzese
+- **Pub Date:** 2022-04-21
+- **DOI:** 10.1017/S0003055422000272
+- **Abstract:** Time-series cross-section (TSCS) data are prevalent in political science, yet many distinct challenges presented by TSCS data remain underaddressed. We focus on how dependence in both space and time complicates estimating either spatial or temporal dependence, dynamics, and effects. Little is known about how modeling one of temporal or cross-sectional dependence well while neglecting the other affects results in TSCS analysis. We demonstrate analytically and through simulations how misspecification of either temporal or spatial dependence inflates estimates of the other dimension’s dependence and thereby induces biased estimates and tests of other covariate effects. Therefore, we recommend the spatiotemporal autoregressive distributed lag (STADL) model with distributed lags in both space and time as an effective general starting point for TSCS model specification. We illustrate with two example reanalyses and provide R code to facilitate researchers’ implementation—from automation of common spatial-weights matrices (W) through estimated spatiotemporal effects/response calculations—for their own TSCS analyses.
+
+---
+
