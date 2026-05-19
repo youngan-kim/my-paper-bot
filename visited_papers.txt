@@ -94,3 +94,8 @@ Introduction: Generating concepts of ‘the urban’ through comparative practic
 Customer Segmentation with Machine Learning for Online Retail Industry
 The effects of energy price, spatial spillover of CO2 emissions, and economic freedom on CO2 emissions in Europe: a spatial econometrics approach
 STADL Up! The Spatiotemporal Autoregressive Distributed Lag Model for TSCS Data Analysis
+Geospatial modeling of landslide susceptibility in lateritic terrain: insights from machine learning techniques—random forest and DBSCAN
+Cyclone surge inundation susceptibility assessment in Bangladesh coast through geospatial techniques and machine learning algorithms: a comparative study between an island and a mangrove protected area
+Integrating Geospatial Techniques and Machine Learning for Assessing Soil Erosion and Associated Geomorphic Risks
+Mapping Seafloor Sediment Distributions Using Public Geospatial Data and Machine Learning to Support Regional Offshore Renewable Energy Development
+The geospatial modelling of vegetation carbon storage analysis in Google earth engine using machine learning techniques

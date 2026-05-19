@@ -4162,3 +4162,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-19
+
+### 1. [Geospatial modeling of landslide susceptibility in lateritic terrain: insights from machine learning techniques—random forest and DBSCAN](https://doi.org/10.1007/s42452-025-07245-1)
+- **Journal:** Discover Applied Sciences
+- **Authors:** Ajayakumar Appukuttan, Gauri Deshpande, A. Jadhav, R. Reghunath
+- **Pub Date:** 2025-10-01
+- **DOI:** 10.1007/s42452-025-07245-1
+- **Abstract:** None
+
+### 2. [Cyclone surge inundation susceptibility assessment in Bangladesh coast through geospatial techniques and machine learning algorithms: a comparative study between an island and a mangrove protected area](https://doi.org/10.3389/feart.2025.1554864)
+- **Journal:** Frontiers in Earth Science
+- **Authors:** M. A. A. Mamun, Li Zhang, Yan Xuzhe, Bowei Chen, Jiangyong Zuo, Shyamal Karmakar
+- **Pub Date:** 2025-03-18
+- **DOI:** 10.3389/feart.2025.1554864
+- **Abstract:** Tropical cyclones, including surge inundation, are a joint event in the coastal regions of Bangladesh. The surge washes out the life and property within a very short period. Besides, in most cases, the area remains flooded for several days. Prediction of inundation susceptibility due to cyclone surge is one of the key issues in reducing cyclone vulnerability. Surge susceptibility can be analyzed effectively through geospatial techniques and various algorithms. Two geospatial techniques, such as GIS-based Analytical Hierarchy Process (AHP) multi-criteria analysis and bivariate Frequency Ratio (FR) techniques, and three algorithms, i.e., Artificial Neural Network (ANN), k-nearest neighbor (KNN) and Random Forest (RF), were applied to understand the comparative surge inundation susceptibility level between an island, i.e., Sandwip and an area protected by mangrove, i.e., Dacope on the Bangladesh coast. A total of ten criteria were considered influential to surge flooding, i.e., Elevation, Slope, Topographic Wetness Index, Drainage density, Distance from river and sea, Wind flow distance, LULC, NDVI, Precipitation, and Soil types. Among them, distance from river and sea (16.34%) and elevation (15.01%) were found to be crucial to surge inundation susceptibility analysis, according to the AHP expert’s opinions. Similarly, precipitation (9.88) and elevation (6.92) in Sandwip and LULC (4.16) and NDVI (4.33) in Dacope were found to be the highest PR values in the FR analysis. The factor maps and final surge susceptibility maps were analyzed through ArcGIS 10.8. The final surge susceptibility maps were categorized into five classes, i.e., very low, low, moderate, high, and very high. Very high and high susceptibility was found around the boundary of Sandwip island and the upper portion of the Dacope upazila. A very high susceptibility area in Sandwip (45.07%) and Dacope (49.41%) was observed by KNN and ANN, respectively. The receiver operating characteristic (ROC) found all techniques acceptable in susceptibility prediction; however, geospatial techniques possessed a better consistent area under the curve (AUC) value than the algorithms for both study sites. Policymakers and professionals can plan to manage disaster reduction activities based on the susceptibility outcomes.
+
+### 3. [Integrating Geospatial Techniques and Machine Learning for Assessing Soil Erosion and Associated Geomorphic Risks](https://doi.org/10.1016/j.jsames.2025.105463)
+- **Journal:** Journal of South American Earth Sciences
+- **Authors:** Priyadharshini V.M, G. Aldehim, Noha Negm, S. Subathradevi
+- **Pub Date:** 2025-02-01
+- **DOI:** 10.1016/j.jsames.2025.105463
+- **Abstract:** None
+
+### 4. [Mapping Seafloor Sediment Distributions Using Public Geospatial Data and Machine Learning to Support Regional Offshore Renewable Energy Development](https://doi.org/10.3390/geosciences14070186)
+- **Journal:** Géosciences
+- **Authors:** Connor W. Capizzano, Alexandria C. Rhoads, Jennifer A. Croteau, Benjamin G. Taylor, M. Guarinello, E. Shumchenia
+- **Pub Date:** 2024-07-11
+- **DOI:** 10.3390/geosciences14070186
+- **Abstract:** Given the rapid expansion of offshore wind development in the United States (US), the accurate mapping of benthic habitats, specifically surficial sediments, is essential for mitigating potential impacts on these valuable ecosystems. However, offshore wind development has outpaced results from environmental monitoring efforts, compelling stakeholders to rely on a limited set of public geospatial data for conducting impact assessments. The present study therefore sought to develop and evaluate a systematic workflow for generating regional-scale sediment maps using public geospatial data that may pose integration and modeling challenges. To demonstrate this approach, sediment distributions were characterized on the northeastern US continental shelf where offshore wind development has occurred since 2016. Publicly available sediment and bathymetric data in the region were processed using national classification standards and spatial tools, respectively, and integrated using a machine learning algorithm to predict sediment occurrence. Overall, this approach and the generated sediment composite effectively predicted sediment distributions in coastal areas but underperformed in offshore areas where data were either scarce or of poor quality. Despite these shortcomings, this study builds on benthic habitat mapping efforts and highlights the need for regional collaboration to standardize seafloor data collection and sharing activities for supporting offshore wind energy decisions.
+
+### 5. [The geospatial modelling of vegetation carbon storage analysis in Google earth engine using machine learning techniques](https://doi.org/10.1007/s12145-024-01372-w)
+- **Journal:** Earth Science Informatics
+- **Authors:** A. M, S. A. Ahmed, Harishnaika N
+- **Pub Date:** 2024-06-27
+- **DOI:** 10.1007/s12145-024-01372-w
+- **Abstract:** None
+
+---
+
