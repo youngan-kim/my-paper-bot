@@ -99,3 +99,8 @@ Cyclone surge inundation susceptibility assessment in Bangladesh coast through g
 Integrating Geospatial Techniques and Machine Learning for Assessing Soil Erosion and Associated Geomorphic Risks
 Mapping Seafloor Sediment Distributions Using Public Geospatial Data and Machine Learning to Support Regional Offshore Renewable Energy Development
 The geospatial modelling of vegetation carbon storage analysis in Google earth engine using machine learning techniques
+Improving landslide susceptibility mapping in semi-arid regions using machine learning and geospatial techniques
+Wildlife trade at the interface between deeply-rooted animal-based traditional medicine and unregulated harvesting of wild animals in West Africa
+Exploring machine learning: a scientometrics approach using bibliometrix and VOSviewer
+A more global urban studies, besides empirical variation
+Spatial modeling of dyadic geopolitical interactions between moving actors
