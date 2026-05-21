@@ -4241,3 +4241,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-21
+
+### 1. [Machine Learning Predicts Which Rivers, Streams, and Wetlands the Clean Water Act Regulates](https://doi.org/10.1126/science.adi3794)
+- **Journal:** Science
+- **Authors:** Simon Greenhill, Hannah Druckenmiller, Sherrie Wang, David A. Keiser, Manuela Girotto, Jason K. Moore, N. Yamaguchi, Alberto Todeschini, Joseph S. Shapiro
+- **Pub Date:** 2024-01-25
+- **DOI:** 10.1126/science.adi3794
+- **Abstract:** We assess which waters the Clean Water Act protects and how Supreme Court and White House rules change this regulation. We train a deep learning model using aerial imagery and geophysical data to predict 150,000 jurisdictional determinations from the Army Corps of Engineers, each deciding regulation for one water resource. Under a 2006 Supreme Court ruling, the Clean Water Act protects two-thirds of US streams and more than half of wetlands; under a 2020 White House rule, it protects less than half of streams and a fourth of wetlands, implying deregulation of 690,000 stream miles, 35 million wetland acres, and 30% of waters around drinking-water sources. Our framework can support permitting, policy design, and use of machine learning in regulatory implementation problems. Editor’s summary The Clean Water Act is a defining piece of environmental legislation in the US, but the waters that it protects from pollution have never been clearly defined. Greenhill et al. developed a machine learning model that uses geospatial data to predict which waters are covered by the Clean Water Act and trained and tested the model with jurisdictional determinations from the US Army Corps of Engineers. This work provides an estimate of the extent of protected waterways, as well as an understanding of the effects of Supreme Court and White House rules that have reinterpreted or changed the regulation. For a subset of sites with high predictive accuracy, their model can also act as decision support tool to expedite permitting. —Bianca Lopez A machine learning model improves estimates of the extent of protection by the US Clean Water Act and the effects of deregulation.
+
+### 2. [Single-cell and spatial analysis reveal interaction of FAP+ fibroblasts and SPP1+ macrophages in colorectal cancer](https://doi.org/10.1038/s41467-022-29366-6)
+- **Journal:** Nature Communications
+- **Authors:** Jingjing Qi, Hongxiang Sun, Yao Zhang, Zhengting Wang, Z. Xun, Ziyi Li, X. Ding, R. Bao, Liwen Hong, Wenqing Jia, Fei Fang, Hongzhi Liu, Lei Chen, J. Zhong, Duowu Zou, Lianxin Liu, Leng Han, F. Ginhoux, Yingbin Liu, Youqiong Ye, Bing Su
+- **Pub Date:** 2022-04-01
+- **DOI:** 10.1038/s41467-022-29366-6
+- **Abstract:** Colorectal cancer (CRC) is among the most common malignancies with limited treatments other than surgery. The tumor microenvironment (TME) profiling enables the discovery of potential therapeutic targets. Here, we profile 54,103 cells from tumor and adjacent tissues to characterize cellular composition and elucidate the potential origin and regulation of tumor-enriched cell types in CRC. We demonstrate that the tumor-specific FAP+ fibroblasts and SPP1+ macrophages were positively correlated in 14 independent CRC cohorts containing 2550 samples and validate their close localization by immuno-fluorescent staining and spatial transcriptomics. This interaction might be regulated by chemerin, TGF-β, and interleukin-1, which would stimulate the formation of immune-excluded desmoplasic structure and limit the T cell infiltration. Furthermore, we find patients with high FAP or SPP1 expression achieved less therapeutic benefit from an anti-PD-L1 therapy cohort. Our results provide a potential therapeutic strategy by disrupting FAP+ fibroblasts and SPP1+ macrophages interaction to improve immunotherapy. Tumour microenvironment profiling during colorectal cancer progression may enable the discovery of therapeutic targets. Here, single cell and spatial RNA sequencing of tumour and adjacent normal tissues reveals an interaction between FAP+ fibroblasts and SPP1+ macrophages that could be disrupted as an immunotherapy strategy.
+
+### 3. [Who Leaves and Who Enters? Flow Measures of Neighborhood Change and Consequences for Neighborhood Crime](https://doi.org/10.1177/00224278221088534)
+- **Journal:** Journal of research in crime and delinquency
+- **Authors:** John R. Hipp, Alyssa W. Chamberlain
+- **Pub Date:** 2022-03-24
+- **DOI:** 10.1177/00224278221088534
+- **Abstract:** Objectives Longitudinal studies of the relationship between neighborhood change and changes in crime typically focus exclusively on the net level of change in key socio-demographic characteristics. Methods We instead propose a demographic accounting strategy that captures the composition of neighborhood change: our measures capture which types of people are more likely to leave, stay, or enter the neighborhood. We use data for 3,325 tracts in the Southern California region over nearly two decades of 2000–2010 and 2010–2017 and construct flow measures based on race/ethnicity; the length of residence of owners and renters; the age structure. Results These flow measures improve the predictive power of the models—implying important theoretical insights. Neighborhoods with higher percentages of middle-aged residents who recently entered the neighborhood exhibit larger increases in violent and property crime. The relative stability of those in the highest crime-prone ages (aged 15–29) is associated with the largest increases in violent and property crime. The greater loss of Black and Asian residents decreased crime while moderate outflows of Latinos increased crime. The mobility of long- and short-term renters was related to crime changes. Conclusions This new technique will likely encourage further theoretical innovation for the neighborhoods and crime literature.
+
+### 4. [Is urbanisation in the Global South fundamentally different? Comparative global urban analysis for the 21st century](https://doi.org/10.1177/00420980211067926)
+- **Journal:** Urban studies
+- **Authors:** Gregory F. Randolph, M. Storper
+- **Pub Date:** 2022-02-08
+- **DOI:** 10.1177/00420980211067926
+- **Abstract:** A vigorous debate has emerged in recent years over how to understand cities of the Global South. A pivotal issue in this debate is whether urbanisation processes in the South are so fundamentally different from historical and current urbanisation in the Global North that many of the theories developed from studying the latter have limited utility in application to the former. In this article, we review evidence from a range of disciplines on recent and ongoing urban transitions and urbanisation dynamics in the Global South, attending to features that distinguish the urban South from the urban North. Our reading of the evidence indicates that parts of the Global South may be urbanising along historically and geographically specific trajectories; however, we argue that these differences are best understood through a unified set of global urban theories. Rather than flattening or silencing difference, theories that seek generalisation across time and space sharpen the identification and appreciation of key differences in urbanisation processes. Analysing how the fundamental dynamics of urbanisation recombine and interact with one another in different contexts offers insight into policy challenges that cut across cities, both within and between the Global South and North, as well as context-specific policy issues that arise through the interaction of global urbanisation forces and local specificities.
+
+### 5. [Spatial components of molecular tissue biology](https://doi.org/10.1038/s41587-021-01182-1)
+- **Journal:** Nature Biotechnology
+- **Authors:** G. Palla, David S. Fischer, A. Regev, Fabian J Theis
+- **Pub Date:** 2022-02-07
+- **DOI:** 10.1038/s41587-021-01182-1
+- **Abstract:** None
+
+---
+

@@ -104,3 +104,8 @@ Wildlife trade at the interface between deeply-rooted animal-based traditional m
 Exploring machine learning: a scientometrics approach using bibliometrix and VOSviewer
 A more global urban studies, besides empirical variation
 Spatial modeling of dyadic geopolitical interactions between moving actors
+Machine Learning Predicts Which Rivers, Streams, and Wetlands the Clean Water Act Regulates
+Single-cell and spatial analysis reveal interaction of FAP+ fibroblasts and SPP1+ macrophages in colorectal cancer
+Who Leaves and Who Enters? Flow Measures of Neighborhood Change and Consequences for Neighborhood Crime
+Is urbanisation in the Global South fundamentally different? Comparative global urban analysis for the 21st century
+Spatial components of molecular tissue biology
