@@ -4280,3 +4280,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-22
+
+### 1. [Machine Learning-Based Traffic Flow Prediction and Intelligent Traffic Management](https://doi.org/10.62051/ijcsit.v2n1.03)
+- **Journal:** International Journal of Computer Science & Information Technology (IJCSIT)
+- **Authors:** Zheng Xu, Jiaqiang Yuan, Liqiang Yu, Guanghui Wang, Mingwei Zhu
+- **Pub Date:** 2024-03-04
+- **DOI:** 10.62051/ijcsit.v2n1.03
+- **Abstract:** With the rapid development of information technology, multiple time series forecasting, which is typical of traffic flow forecasting, has become increasingly important in big data analysis. As the cornerstone of intelligent transportation system, traffic flow forecasting has important scientific research value and practical application value for urban traffic operation scheduling, quality and efficiency improvement of logistics transportation industry and public travel planning. Traffic flow prediction is always an important task of intelligent transportation system. Due to the complex temporal and spatial dependence of traffic flow sequence, it is very challenging to construct accurate traffic flow prediction in its ring neural network, graph network and Transformer model. Much of the existing work is based on very good models. Considering the advantages of convolutional networks, such as high computational efficiency and strong feature extraction ability, a traffic flow prediction model based on multi-view spatiotemporal convolution is proposed.
+
+### 2. [Political orientations, economic policies, and environmental quality: Multi-valued treatment effects analysis with spatial spillovers in country districts of Poland](https://doi.org/10.1016/j.envsci.2021.11.001)
+- **Journal:** Environmental Science and Policy
+- **Authors:** B. Czyżewski, J. Polcyn, A. Brelik
+- **Pub Date:** 2022-02-01
+- **DOI:** 10.1016/j.envsci.2021.11.001
+- **Abstract:** Many studies have found a positive association between liberal political views and support for environmental protection activities even though they require greater involvement of the state in market economies. However, such a conclusion is contradicted by empirical studies on pro-environmental activities with regard to the theory of planned behavior. On the one hand, subjective norms (including the expectations of public authorities) are usually found to be insignificant or very weak drivers of ecological behavior. On the other hand, self-efficacy (individual attitudes and beliefs in one ’ s capabilities) is perceived as a leading factor. This inspired us to explore the long-term effects of localism on environmental quality in Poland. Because liberalism and conser- vatism exist in their ‘pure ’ forms, Poland is very well suited to such a study. The aim of the article is to assess the long-term impact of local and liberal orientations (with conservatism as the reference), as reflected by electoral decisions on the quality of the environment. First, the current state of the environment is measured over four dimensions (air, water, soil, and biodiversity), and the effects of environmental policies (including spatial dependence) are estimated. Subsequently, the treatment effects on the environment when a particular political orientation is adopted are estimated using multi-valued treatment effect analyses. The study confirms that local orientation is conducive to long-term environmental care. Moreover, greater coordination of environmental policies at different levels is recommended, focusing on the negative spatial dependence of local environmental expenditure.
+
+### 3. [Squidpy: a scalable framework for spatial omics analysis](https://doi.org/10.1038/s41592-021-01358-2)
+- **Journal:** Nature Methods
+- **Authors:** G. Palla, Hannah Spitzer, Michal Klein, David S. Fischer, A. Schaar, L. B. Kuemmerle, Sergei Rybakov, I. Ibarra, Olle Holmberg, I. Virshup, M. Lotfollahi, S. Richter, Fabian J Theis
+- **Pub Date:** 2022-01-31
+- **DOI:** 10.1038/s41592-021-01358-2
+- **Abstract:** Spatial omics data are advancing the study of tissue organization and cellular communication at an unprecedented scale. Flexible tools are required to store, integrate and visualize the large diversity of spatial omics data. Here, we present Squidpy, a Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins. Squidpy provides efficient infrastructure and numerous analysis methods that allow to efficiently store, manipulate and interactively visualize spatial omics data. Squidpy is extensible and can be interfaced with a variety of already existing libraries for the scalable analysis of spatial omics data. Squidpy enables comprehensive analysis and visualization of spatial omics data and image with high efficiency.
+
+### 4. [Situating Politics: Spatial Heterogeneity and the Study of Political History](https://doi.org/10.1017/ssh.2022.10)
+- **Journal:** Social science history
+- **Authors:** Adam Slez
+- **Pub Date:** 2022-01-13
+- **DOI:** 10.1017/ssh.2022.10
+- **Abstract:** Abstract While quantitative methods are routinely used to examine historical materials, critics take issue with the use of global regression models that attach a single parameter to each predictor, thereby ignoring the effects of time and space, which together define the context in which historical events unfold. This problem can be addressed by allowing for parameter heterogeneity, as highlighted by the proliferation of work on the use of time-varying parameter models. In this article, I show how this approach can be extended to the case of spatial data using spatially varying coefficient models, with an eye toward the study of electoral politics, where the use of spatial data is especially common in historical settings. Toward this end, I revisit a critical case in the field of quantitative history: the rise of electoral Populism in the American West in the period between 1890 and 1896. Upending popular narratives about the correlates of third-party support in the late nineteenth century, I show that the association between third-party vote share and traditional predictors such as economic hardship and ethnic composition varied considerably from one place to the next, giving rise to distinct varieties of electoral Populism—a finding that is missed by global models, which mistake the mathematically particular for the historically general. These findings have important theoretical and empirical implications for the study of political action in a world where parameter heterogeneity is increasingly recognized as a standard feature of modern social science.
+
+### 5. [Crime down in the Paris of the prairies: Spatial effects of COVID-19 and crime during lockdown in Saskatoon, Canada](https://doi.org/10.1016/j.jcrimjus.2022.101881)
+- **Journal:** Journal of criminal justice
+- **Authors:** Tarah Hodgkinson, Martin A. Andresen, R. Frank, Darren Pringle
+- **Pub Date:** 2022-01-01
+- **DOI:** 10.1016/j.jcrimjus.2022.101881
+- **Abstract:** Objectives: To test for statistically significant changes in crime rates across neighbourhoods in Saskatoon, Canada resulting from social restrictions within the natural experiment of the COVID-19 pandemic. Methods: A spatial point pattern test is used to identify statistically significant change in crime patterns across Saskatoon's neighbourhoods because of COVID-19. These changes are analyzed with variables from social disorganization theory constructs using multinomial logistic regression. Results: The results indicate a city-wide decline in crime during the COVID-19 lockdown. However, at the local level, socially disorganized dissemination areas experience increases in certain crime types. Variables representing the constructs of social disorganization theory are generally able to predict these changes, suggesting the need to examine changes in crime at different geographic levels. Conclusions: COVID-19 has changed the patterns of crime in Saskatoon, but most often in theoretically expected ways. Local changes are critical to understand crime during a pandemic and are instructive for policing agencies as well as social service providers during such an exceptional event. © 2022 Elsevier Ltd
+
+---
+

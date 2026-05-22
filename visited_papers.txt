@@ -109,3 +109,8 @@ Single-cell and spatial analysis reveal interaction of FAP+ fibroblasts and SPP1
 Who Leaves and Who Enters? Flow Measures of Neighborhood Change and Consequences for Neighborhood Crime
 Is urbanisation in the Global South fundamentally different? Comparative global urban analysis for the 21st century
 Spatial components of molecular tissue biology
+Machine Learning-Based Traffic Flow Prediction and Intelligent Traffic Management
+Political orientations, economic policies, and environmental quality: Multi-valued treatment effects analysis with spatial spillovers in country districts of Poland
+Squidpy: a scalable framework for spatial omics analysis
+Situating Politics: Spatial Heterogeneity and the Study of Political History
+Crime down in the Paris of the prairies: Spatial effects of COVID-19 and crime during lockdown in Saskatoon, Canada
