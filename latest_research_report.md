@@ -4319,3 +4319,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-23
+
+### 1. [Knowledge-driven and machine learning decision tree-based approach for assessment of geospatial variation of groundwater quality around coal mining regions, Korba district, Central India](https://doi.org/10.1007/s12665-021-10147-1)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** S. Singha, S. Singha, S. Pasupuleti, A. S. Venkatesh
+- **Pub Date:** 2022-01-01
+- **DOI:** 10.1007/s12665-021-10147-1
+- **Abstract:** None
+
+### 2. [Comparative analysis of crime predictions using machine learning algorithms with geospatial features](https://doi.org/10.1063/5.0074141)
+- **Journal:** RECENT TRENDS IN SCIENCE AND ENGINEERING
+- **Authors:** M. M. Suguna, R. Jeyavathana, K. Kanimozhi
+- **Pub Date:** 2022
+- **DOI:** 10.1063/5.0074141
+- **Abstract:** None
+
+### 3. [Spatial machine learning: new opportunities for regional science](https://doi.org/10.1007/s00168-021-01101-x)
+- **Journal:** The annals of regional science
+- **Authors:** K. Kopczewska
+- **Pub Date:** 2021-12-24
+- **DOI:** 10.1007/s00168-021-01101-x
+- **Abstract:** This paper is a methodological guide to using machine learning in the spatial context. It provides an overview of the existing spatial toolbox proposed in the literature: unsupervised learning, which deals with clustering of spatial data, and supervised learning, which displaces classical spatial econometrics. It shows the potential of using this developing methodology, as well as its pitfalls. It catalogues and comments on the usage of spatial clustering methods (for locations and values, both separately and jointly) for mapping, bootstrapping, cross-validation, GWR modelling and density indicators. It provides details of spatial machine learning models, which are combined with spatial data integration, modelling, model fine-tuning and predictions to deal with spatial autocorrelation and big data. The paper delineates “already available” and “forthcoming” methods and gives inspiration for transplanting modern quantitative methods from other thematic areas to research in regional science.
+
+### 4. [How Does Crime-Specific Victimization Impact Fear of Crime in Urban China? The Role of Neighborhood Characteristics](https://doi.org/10.1177/0306624X211066829)
+- **Journal:** International journal of offender therapy and comparative criminology
+- **Authors:** Fengrui Jing, Lin Liu, Suhong Zhou, Jiaxin Feng
+- **Pub Date:** 2021-12-21
+- **DOI:** 10.1177/0306624X211066829
+- **Abstract:** Past research has failed to find consistent relationships between criminal victimization and fear of crime. Except for neighborhood disorder and crime rate, few studies have examined whether other neighborhood conditions matter the victimization—fear relationship. Using survey data in Guangzhou neighborhoods, the present analysis employs multinomial logistic regression models to examine whether neighborhood characteristics moderate the relationship between violent victimization and fear of violence, and between burglary victimization and fear of burglary, separately. Some aspects of the neighborhood environment do differentially influence victims’ and non-victims’ fear levels. Besides verifying the interaction effect of neighborhood disorder and victimization, the present study finds that neighborhood policing alleviates the harmful effect of violent victimization on fear, while collective efficacy fosters the harmful effect of burglary victimization on fear. This paper underscores the significance of the social context of urban China in explaining the interplay of neighborhood characteristics and victimization on fear of crime.
+
+### 5. [Urban studies in India across the millennial turn: Histories and futures](https://doi.org/10.1177/00420980211056773)
+- **Journal:** Urban studies
+- **Authors:** K. Coelho, A. Sood
+- **Pub Date:** 2021-12-17
+- **DOI:** 10.1177/00420980211056773
+- **Abstract:** The millennial turn saw a distinct efflorescence in scholarship on urban India. This essay introduces a Virtual Special Issue on urban studies in India that showcases a selection of articles from the journal’s archives. It traces the disciplinary, thematic and methodological shifts that have marked this millennial turn. On the one hand, the social science of the urban has had a statist bent, reacting to the policy focus on cities as growth engines in the post-liberalisation era. On the other hand, critical urban studies has brought attention to the unregulated, deregulated, unplanned and unintended city produced by dynamic processes of informality acting overtly or covertly against the state’s neoliberal agendas. This introductory essay aims to examine the ways this interplay has unfolded both in the pages of this journal and elsewhere. It locates the Virtual Special Issue selection within a broader review of the state of scholarship in Indian urban studies and marks out areas for productive interventions in the future study of Indian cities.
+
+---
+
