@@ -119,3 +119,8 @@ Comparative analysis of crime predictions using machine learning algorithms with
 Spatial machine learning: new opportunities for regional science
 How Does Crime-Specific Victimization Impact Fear of Crime in Urban China? The Role of Neighborhood Characteristics
 Urban studies in India across the millennial turn: Histories and futures
+Historical Persistence
+A comparison of the integrated fuzzy object-based deep learning approach and three machine learning techniques for land use/cover change monitoring and environmental impacts assessment
+Feature selection using Fisher score and multilabel neighborhood rough sets for multilabel classification
+SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network
+Identifying seasonal spatial patterns of crime in a small northern city

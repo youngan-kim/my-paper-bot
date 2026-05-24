@@ -4358,3 +4358,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-24
+
+### 1. [Historical Persistence](https://doi.org/10.2139/ssrn.3873011)
+- **Journal:** Social Science Research Network
+- **Authors:** A. Cirone, Thomas B. Pepinsky
+- **Pub Date:** 2021-11-30
+- **DOI:** 10.2139/ssrn.3873011
+- **Abstract:** This article reviews the literature on historical persistence in political science and the related social sciences. Historical persistence refers to causal effects that ( a) operate over time scales of a decade or more and ( b) explain spatial variation in political, economic, or social outcomes. Although political scientists have always drawn from history, the historical persistence literature represents a new approach to historical research in the social sciences that places a premium on credible research designs for causal inference. We discuss regional and national coverage, state-of-the-art research designs, analytical and inferential challenges, and mechanisms and theories of persistence, drawing broadly from the contemporary literature in political science and economics. Expected final online publication date for the Annual Review of Political Science, Volume 25 is May 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+### 2. [A comparison of the integrated fuzzy object-based deep learning approach and three machine learning techniques for land use/cover change monitoring and environmental impacts assessment](https://doi.org/10.1080/15481603.2021.2000350)
+- **Journal:** GIScience & Remote Sensing
+- **Authors:** B. Feizizadeh, Keyvan Mohammadzade Alajujeh, T. Lakes, T. Blaschke, Davoud Omarzadeh
+- **Pub Date:** 2021-11-17
+- **DOI:** 10.1080/15481603.2021.2000350
+- **Abstract:** ABSTRACT Recent improvements in the spatial, temporal, and spectral resolution of satellite images necessitate (semi-)automated classification and information extraction approaches. Therefore, we developed an integrated fuzzy object-based image analysis and deep learning (FOBIA-DL) approach for monitoring the land use/cover (LULC) and respective changes and compared it to three machine learning (ML) algorithms, namely the support vector machine (SVM), random forest (RF), and classification and regression tree (CART). We investigated LULC impacts on drought by analyzing Landsat satellite images from 1990 to 2020 for the Urmia Lake area in northern Iran. In the FOBIA-DL approach, following the initial segmentation steps, object features were identified for each LULC class. We then derived their respective attributes using fuzzy membership functions and deep convolutional neural networks (DCNNs), a deep learning method. The Fuzzy Synthetic Evaluation and Dempster-Shafer Theory (FSE-DST) also applied to validate and carryout the spatial uncertainties. Our results indicate that the FOBIA-DL, with an accuracy of 90.1% to 96.4% and a spatial certainty of 0.93 to 0.97, outperformed the other approaches, closely followed by the SVM. Our results also showed that the integration of Fuzzy-OBIA and DCNNs could improve the strength and robustness of the OBIA’s decision rules, while the FSE-DST approach notably improved the spatial accuracy of the object-based classification maps. While object-based image analysis (OBIA) is already considered a paradigm shift in GIScience, the integration of OBIA with fuzzy and deep learning creates more flexibility and robust OBIA decision rules for image analysis and classification. This research integrated popular data-driven approaches and developed a novel methodology for image classification and spatial accuracy assessment. From the environmental perspective, the results of this research support lake restoration initiatives by decision-makers and authorities in applications such as drought mitigation, land use management and precision agriculture programs.
+
+### 3. [Feature selection using Fisher score and multilabel neighborhood rough sets for multilabel classification](https://doi.org/10.1016/J.INS.2021.08.032)
+- **Journal:** Information Sciences
+- **Authors:** Lin Sun, Tianxiang Wang, Weiping Ding, Jiucheng Xu, Yaojin Lin
+- **Pub Date:** 2021-11-01
+- **DOI:** 10.1016/J.INS.2021.08.032
+- **Abstract:** None
+
+### 4. [SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network](https://doi.org/10.1038/s41592-021-01255-8)
+- **Journal:** Nature Methods
+- **Authors:** Jian Hu, Xiangjie Li, Kyle Coleman, Amelia Schroeder, Nan Ma, D. Irwin, Eddie B. Lee, R. Shinohara, Mingyao Li
+- **Pub Date:** 2021-10-28
+- **DOI:** 10.1038/s41592-021-01255-8
+- **Abstract:** Recent advances in spatially resolved transcriptomics (SRT) technologies have enabled comprehensive characterization of gene expression patterns in the context of tissue microenvironment. To elucidate spatial gene expression variation, we present SpaGCN, a graph convolutional network approach that integrates gene expression, spatial location and histology in SRT data analysis. Through graph convolution, SpaGCN aggregates gene expression of each spot from its neighboring spots, which enables the identification of spatial domains with coherent expression and histology. The subsequent domain guided differential expression (DE) analysis then detects genes with enriched expression patterns in the identified domains. Analyzing seven SRT datasets using SpaGCN, we show it can detect genes with much more enriched spatial expression patterns than competing methods. Furthermore, genes detected by SpaGCN are transferrable and can be utilized to study spatial variation of gene expression in other datasets. SpaGCN is computationally fast, platform independent, making it a desirable tool for diverse SRT studies. SpaGCN is a spatially resolved transcriptomics data analysis tool for identifying spatial domains and spatially variable genes using graph convolutional networks.
+
+### 5. [Identifying seasonal spatial patterns of crime in a small northern city](https://doi.org/10.1186/s40163-021-00161-w)
+- **Journal:** Crime Science
+- **Authors:** Ysabel A. Castle, J. Kovacs
+- **Pub Date:** 2021-10-26
+- **DOI:** 10.1186/s40163-021-00161-w
+- **Abstract:** Objectives To explore spatial patterns of crime in a small northern city, and assess the degree of similarity in these patterns across seasons. Methods Calls for police service frequently associated with crime (theft, break and enter, domestic dispute, assault, and neighbor disputes) were acquired for a five year time span (2015–2019) for the city of North Bay, Ontario, Canada (population 50,396). Exploratory data analysis was conducted using descriptive statistics and a kernel density mapping technique. Andresen’s spatial point pattern test (SPPT) was then used to assess the degree of similarity between the seasonal patterns (spring, summer, autumn, winter) for each call type at two different spatial scales (dissemination area and census tract). Results Exploratory data analysis of crime concentration at street segments showed that calls are generally more dispersed through the city in the warmer seasons of spring and summer. Kernel density mapping also shows increases in the intensity of hotspots at these times, but little overall change in pattern. The SPPT does find some evidence for seasonal differences in crime pattern across the city as a whole, specifically for thefts and break and enters. These differences are focused on the downtown core, as well as the outlying rural areas of the city. Conclusions For the various crime types examined, preliminary analysis, kernel density mapping, and the SPPT found differences in crime pattern consistent with the routine activities theory.
+
+---
+
