@@ -124,3 +124,8 @@ A comparison of the integrated fuzzy object-based deep learning approach and thr
 Feature selection using Fisher score and multilabel neighborhood rough sets for multilabel classification
 SpaGCN: Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network
 Identifying seasonal spatial patterns of crime in a small northern city
+How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning
+Economic Inequality Decomposition and Spatial Pattern of Crime in Indonesia
+MesoNet allows automated scaling and segmentation of mouse mesoscale cortical maps using machine learning
+Comparison of Twelve Machine Learning Regression Methods for Spatial Decomposition of Demographic Data Using Multisource Geospatial Data: An Experiment in Guangzhou City, China
+The roles of built environment and social disadvantage on the geography of property crime

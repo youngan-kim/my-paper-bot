@@ -4397,3 +4397,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-25
+
+### 1. [How Populist are Parties? Measuring Degrees of Populism in Party Manifestos Using Supervised Machine Learning](https://doi.org/10.1017/pan.2021.29)
+- **Journal:** Political Analysis
+- **Authors:** Jessica Di Cocco, B. Monechi
+- **Pub Date:** 2021-10-15
+- **DOI:** 10.1017/pan.2021.29
+- **Abstract:** Abstract One of the main challenges in comparative studies on populism concerns its temporal and spatial measurements within and between a large number of parties and countries. Textual analysis has proved useful for these purposes, and automated methods can further improve research in this direction. Here, we propose a method to derive a score of parties’ levels of populism using supervised machine learning to perform textual analysis on national manifestos. We illustrate the advantages of our approach, which allows for measuring populism for a vast number of parties and countries without resource-intensive human-coding processes and provides accurate, updated information for temporal and spatial comparisons of populism. Furthermore, our method allows for obtaining a continuous score of populism, which ensures more fine-grained analyses of the party landscape while reducing the risk of arbitrary classifications. To illustrate the potential contribution of this score, we use it as a proxy for parties’ levels of populism, analyzing average trends in six European countries from the early 2000s for nearly two decades.
+
+### 2. [Economic Inequality Decomposition and Spatial Pattern of Crime in Indonesia](https://doi.org/10.1080/23754931.2021.1991842)
+- **Journal:** Papers in applied geography
+- **Authors:** Putu Angga Widyastaman, D. Hartono
+- **Pub Date:** 2021-10-14
+- **DOI:** 10.1080/23754931.2021.1991842
+- **Abstract:** Abstract Rising crime victimization rate in Indonesia shows that crime is still a serious problem in the country. This study aims to identify the relationship between economic inequality and crime rate in Indonesia. It used the decomposed Theil indices, as the measure of inequality based on national household survey panel data, to disentangle the effect of economic inequality into within-district/city and between-district/city economic inequality components. This choice of inequality measure is due to the fact that most of the previous studies regarding economic inequality and crime overlooked the disentanglement between economic inequality effects. Another problem addressed by this study is that the effect of crime is not bounded by administrative boundaries. A high prevalence of crime in a region may cause a criminal spillover to the surrounding regions. To control for this effect, this study also evaluates the spatial effect of interregional crime rates using the panel spatial autoregressive model as the estimation method. The estimation results revealed that both within-region and across-region economic inequalities have substantial increasing impacts on the crime rate.
+
+### 3. [MesoNet allows automated scaling and segmentation of mouse mesoscale cortical maps using machine learning](https://doi.org/10.1038/s41467-021-26255-2)
+- **Journal:** Nature Communications
+- **Authors:** Dongsheng Xiao, Brandon Jonathan Forys, M. Vanni, T. Murphy
+- **Pub Date:** 2021-10-13
+- **DOI:** 10.1038/s41467-021-26255-2
+- **Abstract:** Understanding the basis of brain function requires knowledge of cortical operations over wide spatial scales and the quantitative analysis of brain activity in well-defined brain regions. Matching an anatomical atlas to brain functional data requires substantial labor and expertise. Here, we developed an automated machine learning-based registration and segmentation approach for quantitative analysis of mouse mesoscale cortical images. A deep learning model identifies nine cortical landmarks using only a single raw fluorescent image. Another fully convolutional network was adapted to delimit brain boundaries. This anatomical alignment approach was extended by adding three functional alignment approaches that use sensory maps or spatial-temporal activity motifs. We present this methodology as MesoNet, a robust and user-friendly analysis pipeline using pre-trained models to segment brain regions as defined in the Allen Mouse Brain Atlas. This Python-based toolbox can also be combined with existing methods to facilitate high-throughput data analysis. High content imaging of the brain holds the promise of improving our understanding of the brain’s circuitry. Here, the authors present a tool that automates the scaling and segmentation of cortical maps to accelerate neurobiological discovery using mesoscale images.
+
+### 4. [Comparison of Twelve Machine Learning Regression Methods for Spatial Decomposition of Demographic Data Using Multisource Geospatial Data: An Experiment in Guangzhou City, China](https://doi.org/10.3390/app11209424)
+- **Journal:** Applied Sciences
+- **Authors:** Guanwei Zhao, Zhitao Li, Muzhuang Yang
+- **Pub Date:** 2021-10-11
+- **DOI:** 10.3390/app11209424
+- **Abstract:** The spatial decomposition of demographic data at a fine resolution is a classic and crucial problem in the field of geographical information science. The main objective of this study was to compare twelve well-known machine learning regression algorithms for the spatial decomposition of demographic data with multisource geospatial data. Grid search and cross-validation methods were used to ensure that the optimal model parameters were obtained. The results showed that all the global regression algorithms used in the study exhibited acceptable results, besides the ordinary least squares (OLS) algorithm. In addition, the regularization method and the subsetting method were both useful for alleviating overfitting in the OLS model, and the former was better than the latter. The more competitive performance of the nonlinear regression algorithms than the linear regression algorithms implies that the relationship between population density and influence factors is likely to be non-linear. Among the global regression algorithms used in the study, the best results were achieved by the k-nearest neighbors (KNN) regression algorithm. In addition, it was found that multi-sources geospatial data can improve the accuracy of spatial decomposition results significantly, and thus the proposed method in our study can be applied to the study of spatial decomposition in other areas.
+
+### 5. [The roles of built environment and social disadvantage on the geography of property crime](https://doi.org/10.1016/j.cities.2021.103471)
+- **Journal:** Cities
+- **Authors:** Qian He, Jianling Li
+- **Pub Date:** 2021-10-01
+- **DOI:** 10.1016/j.cities.2021.103471
+- **Abstract:** Abstract The neighborhood environment plays an essential role in shaping the geography of property crime. However, criminologists and planners hold different views on the role of built environmental characteristics such as neighborhood permeability. Meanwhile, the consequence of social disadvantage has not been adequately considered along with built environmental measurements. We revisit the debate using the 2017 data from Dallas and Fort Worth, TX. Following a context-based theoretical framework, we use enhanced measurements of neighborhood characteristics to examine the relationship between neighborhood characteristics and property crime. The results of the geographically weighted negative binomial regression show that commercial and mixed land-use development, number of transit facilities, and alcohol-related establishments are positively associated with property crime rate, all else being equal. Neighborhoods with a higher per capita income exhibit a higher property crime rate. Neighborhoods with a higher percentage of Blacks/African Americans and a lower level of educational attainment tend to register a higher property crime rate. This research points to several areas for future studies.
+
+---
+
