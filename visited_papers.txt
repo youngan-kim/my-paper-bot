@@ -139,3 +139,8 @@ Positive impact of short-term gait rehabilitation in Parkinson patients: a combi
 Urban statecraft: The governance of transport infrastructures in African cities
 Understanding the Multi-level Interactions Between Physical Environment and Neighborhood Characteristics in Assessing Vulnerability to Crime in Micro-places
 Waste to energy spatial suitability analysis using hybrid multi-criteria machine learning approach
+Eviction and Crime: A Neighborhood Analysis in Philadelphia
+Exploring tissue architecture using spatial transcriptomics
+An integration of geospatial and machine learning techniques for mapping groundwater potential: a case study of the Shipra river basin, India
+Gendered fear of crime in the urban context: A comparative multilevel study of women’s and men’s fear of crime
+Colonial history and global economics distort our understanding of deep-time biodiversity
