@@ -4553,3 +4553,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-29
+
+### 1. [Geographic disparities in violent crime during the COVID-19 lockdown in Miami-Dade County, Florida, 2018–2020](https://doi.org/10.1007/s11292-021-09474-x)
+- **Journal:** Journal of Experimental Criminology
+- **Authors:** Imelda K. Moise, A. Piquero
+- **Pub Date:** 2021-06-17
+- **DOI:** 10.1007/s11292-021-09474-x
+- **Abstract:** Abstract Objectives This study uses two cluster detection techniques to identify clusters of violent crime during the 3 months of the 2020 COVID-19 lockdown in Miami-Dade County compared to that during an equivalent period in 2018 and 2019. Methods Violent crime data from the Miami-Dade Central Records Bureau were analyzed. The Local Indicators of Spatial Association statistics and a space‐time permutation statistic were used to identify clusters of violent crimes and outliers, and Global Moran’s I tool was used to assess spatial patterning in violent crime. Neighborhood disadvantage data were obtained from the American Community Survey 5-year estimates linked with arrest locations. Results Violent crime arrests fell by 7.1% in 2020. Arrests were concentrated in predominantly Black disadvantaged neighborhoods in the northern part, and similar results were produced for core clusters by the two cluster techniques with positive global Moran’s I for all study years. Although accounting for only 17% of the county population, nearly half of violent crime arrests were for Black or African American. Males comprised most violent crime arrests. Conclusions Crime prevention and intervention efforts should be focused on both high-risk places and offenders.
+
+### 2. [Critical Commentary: Repopulating density: COVID-19 and the politics of urban value](https://doi.org/10.1177/00420980211014810)
+- **Journal:** Urban studies
+- **Authors:** Colin Mcfarlane
+- **Pub Date:** 2021-06-09
+- **DOI:** 10.1177/00420980211014810
+- **Abstract:** How might concepts of ‘value’ and ‘population’ illuminate the present and future of urban density? The COVID-19 pandemic prompted a public debate on density in the city. While some initially blamed density for the spread of the virus, others rightly cautioned against those claims. As the pandemic progressed, an imaginary of density-as-pathology gave way to a more nuanced geographical understanding of the urban dimensions of the crisis, focused on connections, spatial conditions, domestic ‘overcrowding’ and poverty. Throughout, an interrogation and reflection on urban density and its future unfolded, throwing into question the historical relationship between ‘value’ and ‘population’ in understandings of density. I argue for a new politics of value based on shifts in three interconnected domains – governance, form and knowledge – and identify implications for research on density in urban studies.
+
+### 3. [Spatial transcriptomics at subspot resolution with BayesSpace](https://doi.org/10.1038/s41587-021-00935-2)
+- **Journal:** Nature Biotechnology
+- **Authors:** Edward Zhao, M. Stone, Xing Ren, Jamie Guenthoer, K. Smythe, T. Pulliam, Stephen R. Williams, C. Uytingco, S. Taylor, P. Nghiem, J. Bielas, R. Gottardo
+- **Pub Date:** 2021-06-03
+- **DOI:** 10.1038/s41587-021-00935-2
+- **Abstract:** Recent spatial gene expression technologies enable comprehensive measurement of transcriptomic profiles while retaining spatial context. However, existing analysis methods do not address the limited resolution of the technology or use the spatial information efficiently. Here, we introduce BayesSpace, a fully Bayesian statistical method that uses the information from spatial neighborhoods for resolution enhancement of spatial transcriptomic data and for clustering analysis. We benchmark BayesSpace against current methods for spatial and non-spatial clustering and show that it improves identification of distinct intra-tissue transcriptional profiles from samples of the brain, melanoma, invasive ductal carcinoma and ovarian adenocarcinoma. Using immunohistochemistry and an in silico dataset constructed from scRNA-seq data, we show that BayesSpace resolves tissue structure that is not detectable at the original resolution and identifies transcriptional heterogeneity inaccessible to histological analysis. Our results illustrate BayesSpace’s utility in facilitating the discovery of biological insights from spatial transcriptomic datasets. BayesSpace increases the resolution of spatial transcriptomics by using neighborhood information.
+
+### 4. [Disproportionate exposure to urban heat island intensity across major US cities](https://doi.org/10.1038/s41467-021-22799-5)
+- **Journal:** Nature Communications
+- **Authors:** A. Hsu, G. Sheriff, T. Chakraborty, D. Manya
+- **Pub Date:** 2021-05-25
+- **DOI:** 10.1038/s41467-021-22799-5
+- **Abstract:** Urban heat stress poses a major risk to public health. Case studies of individual cities suggest that heat exposure, like other environmental stressors, may be unequally distributed across income groups. There is little evidence, however, as to whether such disparities are pervasive. We combine surface urban heat island (SUHI) data, a proxy for isolating the urban contribution to additional heat exposure in built environments, with census tract-level demographic data to answer these questions for summer days, when heat exposure is likely to be at a maximum. We find that the average person of color lives in a census tract with higher SUHI intensity than non-Hispanic whites in all but 6 of the 175 largest urbanized areas in the continental United States. A similar pattern emerges for people living in households below the poverty line relative to those at more than two times the poverty line. Individual exposure to heat is associated with adverse health and economic outcomes. Here, the authors show that people of color and people living in poverty bear a disproportionate burden of urban heat exposure in almost all major cities in the continental United States.
+
+### 5. [Spatial analysis for political scientists](https://doi.org/10.1017/ipo.2021.7)
+- **Journal:** Italian Political Science Review/Rivista Italiana di Scienza Politica
+- **Authors:** Jessica Di Salvatore, A. Ruggeri
+- **Pub Date:** 2021-05-11
+- **DOI:** 10.1017/ipo.2021.7
+- **Abstract:** Abstract How does space matter in our analyses? How can we evaluate diffusion of phenomena or interdependence among units? How biased can our analysis be if we do not consider spatial relationships? All the above questions are critical theoretical and empirical issues for political scientists belonging to several subfields from Electoral Studies to Comparative Politics, and also for International Relations. In this special issue on methods, our paper introduces political scientists to conceptualizing interdependence between units and how to empirically model these interdependencies using spatial regression. First, the paper presents the building blocks of any feature of spatial data (points, polygons, and raster) and the task of georeferencing. Second, the paper discusses what a spatial matrix (W) is, its varieties and the assumptions we make when choosing one. Third, the paper introduces how to investigate spatial clustering through visualizations (e.g. maps) as well as statistical tests (e.g. Moran's index). Fourth and finally, the paper explains how to model spatial relationships that are of substantive interest to some of our research questions. We conclude by inviting researchers to carefully consider space in their analysis and to reflect on the need, or the lack thereof, to use spatial models.
+
+---
+
