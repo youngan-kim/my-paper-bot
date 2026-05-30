@@ -149,3 +149,8 @@ Critical Commentary: Repopulating density: COVID-19 and the politics of urban va
 Spatial transcriptomics at subspot resolution with BayesSpace
 Disproportionate exposure to urban heat island intensity across major US cities
 Spatial analysis for political scientists
+Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework
+When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery Incidents Displaced by a Place-based Policing Intervention
+Leak-Off Pressure Using Weakly Correlated Geospatial Information and Machine Learning Algorithms
+Untangling Eviction, Disadvantage, Race, and Social Processes: Neighborhood Factors Influencing Crime
+On quantitative spatial economic models

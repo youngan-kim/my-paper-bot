@@ -4592,3 +4592,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-30
+
+### 1. [Attribution analysis of urban social resilience differences under rainstorm disaster impact: Insights from interpretable spatial machine learning framework](https://doi.org/10.1016/j.scs.2024.106029)
+- **Journal:** Sustainable cities and society
+- **Authors:** Tianshu Gu, Hongbo Zhao, Li Yue, Jiaojiao Guo, Qinyu Cui, Junqing Tang, Zhaoya Gong, Pengjun Zhao
+- **Pub Date:** 2025-01-01
+- **DOI:** 10.1016/j.scs.2024.106029
+- **Abstract:** None
+
+### 2. [When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery Incidents Displaced by a Place-based Policing Intervention](https://doi.org/10.1177/00224278211016030)
+- **Journal:** Journal of research in crime and delinquency
+- **Authors:** D. Hatten, Eric L. Piza
+- **Pub Date:** 2021-05-07
+- **DOI:** 10.1177/00224278211016030
+- **Abstract:** Examine the place-based correlates of robbery activity displaced by a foot-patrol intervention in Newark, NJ. We use constructs from Crime Pattern and Social Disorganization theories to test hypotheses concerned with associations between the structure of the environment and the displacement of crime. Robbery incidents were spatially joined to street segments to study micro-level displacement processes. Predictor variables were operationalized using data from the Newark Police Department and Infogroup USA. Generalized Linear models tested associations between the characteristics of street segments and displaced robbery in the target area as compared to a control. Environmental structure is important to understanding the settings of displacement, though this varied between spatial and temporal displacement. Relationships between displaced crime activity and model covariates did not always appear in expected directions. For example, bus stops predicted increased spatial displacement while corner stores predicted decreased levels of temporal displacement. While testing for displacement has become commonplace in place-based policing interventions, less attention has been paid to the micro-level factors that may facilitate the displacement of crime events. Both bus stops and corner stores show consistent associations with displaced crime activity, but the directions of these relationships suggest more complex processes requiring further examination.
+
+### 3. [Leak-Off Pressure Using Weakly Correlated Geospatial Information and Machine Learning Algorithms](https://doi.org/10.3390/GEOSCIENCES11040181)
+- **Journal:** Géosciences
+- **Authors:** J. Choi, Zhong-qiang Liu, S. Lacasse, E. Skurtveit
+- **Pub Date:** 2021-04-19
+- **DOI:** 10.3390/GEOSCIENCES11040181
+- **Abstract:** Leak-off pressure (LOP) is a key parameter to determine the allowable weight of drilling mud in a well and the in situ horizontal stress. The LOP test is run in situ and is frequently used by the petroleum industry. If the well pressure exceeds the LOP, wellbore instability may occur, with hydraulic fracturing and large mud losses in the formation. A reliable prediction of LOP is required to ensure safe and economical drilling operations. The prediction of LOP is challenging because it is affected by the usually complex earlier geological loading history, and the values of LOP and their measurements can vary significantly geospatially. This paper investigates the ability of machine learning algorithms to predict leak-off pressure on the basis of geospatial information of LOP measurements. About 3000 LOP test data were collected from 1800 exploration wells offshore Norway. Three machine learning algorithms (the deep neural network (DNN), random forest (RF), and support vector machine (SVM) algorithms) optimized by three hyperparameter search methods (the grid search, randomized search and Bayesian search) were compared with multivariate regression analysis. The Bayesian search algorithm needed fewer iterations than the grid search algorithms to find an optimal combination of hyperparameters. The three machine learning algorithms showed better performance than the multivariate linear regression when the features of the geospatial inputs were properly scaled. The RF algorithm gave the most promising results regardless of data scaling. If the data were not scaled, the DNN and SVM algorithms, even with optimized parameters, did not provide significantly improved test scores compared to the multivariate regression analysis. The analyses also showed that when the number of data points in a geographical setting is much smaller than that of other geographical areas, the prediction accuracy reduces significantly.
+
+### 4. [Untangling Eviction, Disadvantage, Race, and Social Processes: Neighborhood Factors Influencing Crime](https://doi.org/10.1177/00111287211010492)
+- **Journal:** Crime and delinquency
+- **Authors:** Eileen M. Kirk
+- **Pub Date:** 2021-04-15
+- **DOI:** 10.1177/00111287211010492
+- **Abstract:** Eviction is concentrated in poor communities of color, and studies indicate eviction may affect social processes. Community and crime literature demonstrates that structural factors, such as socio-economic status and racial composition, are linked with crime and that social processes protect neighborhoods from crime. Therefore, eviction is likely concentrated in neighborhoods vulnerable to crime, but the connection between eviction and neighborhood violent crime has not yet been examined. Using data from Princeton University’s Eviction Lab National Database, the National Neighborhood Crime Study 2, and the Boston Neighborhood Survey, this Boston-based study is a first step in filling this knowledge gap. Findings indicate that eviction is positively associated with crime and partially explains why crime is concentrated in disadvantaged communities of color.
+
+### 5. [On quantitative spatial economic models](https://doi.org/10.2139/ssrn.3144376)
+- **Journal:** Journal of Urban Economics
+- **Authors:** K. Behrens, Yasusada Murata
+- **Pub Date:** 2021-03-24
+- **DOI:** 10.2139/ssrn.3144376
+- **Abstract:** Quantitative spatial economics (QSE) specifies various components such as preferences, production technology, and frictions for the movement of goods, people, and ideas. Despite the long literature on endogenous location decisions, the question of how these specifications affect resulting spatial equilibria has not been systematically explored. In this paper we start with workhorse models of QSE based on different specifications of preferences and show that spatial equilibria in those models can be generated using the conditional logit model by McFadden (1974). Our result suggests that existing models of QSE have a common origin in one of the oldest location choice models.
+
+---
+
