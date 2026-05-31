@@ -4631,3 +4631,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-05-31
+
+### 1. [On urban studies in Brazil: The favela, uneven urbanisation and beyond](https://doi.org/10.1177/0042098021993360)
+- **Journal:** Urban studies
+- **Authors:** Mariana Fix, P. Arantes
+- **Pub Date:** 2021-03-23
+- **DOI:** 10.1177/0042098021993360
+- **Abstract:** This essay discusses some key ideas and debates about urban studies in Brazil, considered historiographically, from the mid-1900s to the present. It presents the main components and particularities of what emerges as the Brazilian matrix of urban studies, interrogating the most influential work in the field with the country’s own experiences of industrialisation and urbanisation. It discusses some key urban debates of the 21st century, namely new planning models associated with globalisation, global mega-events, public–private partnerships, inner-city gentrification, housing and city financialisation, rising forms of urban warfare and social control in slums (favelas), and new activisms and urban insurgencies. Through this analysis, we point to contradictions and tensions in relation to European and North American urban theory, calling for the need to formulate new categories and hypotheses to better understand the unequal and extreme processes resulting from violent expansion of capitalist relations over the entire planet, and comment on the new practices and forms of social mobilisation emerging from turbulent contexts.
+
+### 2. [Landslide susceptibility mapping using machine learning algorithms and comparison of their performance at Abha Basin, Asir Region, Saudi Arabia](https://doi.org/10.1016/j.gsf.2020.05.010)
+- **Journal:** Geoscience Frontiers
+- **Authors:** A. Youssef, H. Pourghasemi
+- **Pub Date:** 2021-03-01
+- **DOI:** 10.1016/j.gsf.2020.05.010
+- **Abstract:** Abstract The current study aimed at evaluating the capabilities of seven advanced machine learning techniques (MLTs), including, Support Vector Machine (SVM), Random Forest (RF), Multivariate Adaptive Regression Spline (MARS), Artificial Neural Network (ANN), Quadratic Discriminant Analysis (QDA), Linear Discriminant Analysis (LDA), and Naive Bayes (NB), for landslide susceptibility modeling and comparison of their performances. Coupling machine learning algorithms with spatial data types for landslide susceptibility mapping is a vitally important issue. This study was carried out using GIS and R open source software at Abha Basin, Asir Region, Saudi Arabia. First, a total of 243 landslide locations were identified at Abha Basin to prepare the landslide inventory map using different data sources. All the landslide areas were randomly separated into two groups with a ratio of 70% for training and 30% for validating purposes. Twelve landslide-variables were generated for landslide susceptibility modeling, which include altitude, lithology, distance to faults, normalized difference vegetation index (NDVI), landuse/landcover (LULC), distance to roads, slope angle, distance to streams, profile curvature, plan curvature, slope length (LS), and slope-aspect. The area under curve (AUC-ROC) approach has been applied to evaluate, validate, and compare the MLTs performance. The results indicated that AUC values for seven MLTs range from 89.0% for QDA to 95.1% for RF. Our findings showed that the RF (AUC ​= ​95.1%) and LDA (AUC ​= ​941.7%) have produced the best performances in comparison to other MLTs. The outcome of this study and the landslide susceptibility maps would be useful for environmental protection.
+
+### 3. [Community consequences of mass incarceration: sparking neighborhood social problems and violent crime](https://doi.org/10.1080/0735648X.2021.1887751)
+- **Journal:** Journal of Crime and Justice
+- **Authors:** Eileen M. Kirk
+- **Pub Date:** 2021-02-24
+- **DOI:** 10.1080/0735648X.2021.1887751
+- **Abstract:** ABSTRACT Punitive criminal justice policies caused incarceration and reentry rates to sharply increase in the era of mass incarceration. Disadvantaged communities of color have been disproportionately affected by those policies through heightened levels of prison cycling, which is the flow of individuals into and out of prison. Community-level prison cycling has harmful neighborhood consequences, including increased violent crime. This Boston-based study investigates how prison cycling influences crime by exploring three potential pathways. First, prison cycling may undermine beneficial social behavior, reduce collective efficacy, and create an environment susceptible to crime; second, prison cycling may stimulate neighborhood social problems that encourage crime; and third, prison cycling may simply have a direct, toxic relationship with neighborhood violent crime. The analysis employs Boston crime and prison cycling data,and neighborhood social environment data from the 2008 Boston Neighborhood Survey. Contrary to existing theoretical and empirical research, results suggest that prison cycling is not associated with collective efficacy. However, results indicate that prison cycling predicts neighborhood social problems and community violent crime, offering support for alternative theories on the prison cycling and crime relationship. The study concludes with recommendations for future research and policy implications.
+
+### 4. [The hack: What it is and why it matters to urban studies](https://doi.org/10.1177/0042098020986300)
+- **Journal:** Urban studies
+- **Authors:** Sophia Maalsen
+- **Pub Date:** 2021-02-23
+- **DOI:** 10.1177/0042098020986300
+- **Abstract:** This commentary advances the ‘hack’ as an urban concept. While the hack transcends existing literatures on the digital and informality, it is a distinctive concept and is being used systematically in new domains. I situate the hack conceptually, outline its empirical and methodological value and propose a framework to research the urban hack. Importantly, it is not just the technologies of hacking but the translation of computational logics to the urban that underpins the importance of the hack, as well as the critical need to set out a research agenda surrounding the hack within urban studies.
+
+### 5. [Machine learning techniques for analysis of hyperspectral images to determine quality of food products: A review](https://doi.org/10.1016/j.crfs.2021.01.002)
+- **Journal:** Current Research in Food Science
+- **Authors:** D. Saha, A. Manickavasagan
+- **Pub Date:** 2021-02-03
+- **DOI:** 10.1016/j.crfs.2021.01.002
+- **Abstract:** Non-destructive testing techniques have gained importance in monitoring food quality over the years. Hyperspectral imaging is one of the important non-destructive quality testing techniques which provides both spatial and spectral information. Advancement in machine learning techniques for rapid analysis with higher classification accuracy have improved the potential of using this technique for food applications. This paper provides an overview of the application of different machine learning techniques in analysis of hyperspectral images for determination of food quality. It covers the principle underlying hyperspectral imaging, the advantages, and the limitations of each machine learning technique. The machine learning techniques exhibited rapid analysis of hyperspectral images of food products with high accuracy thereby enabling robust classification or regression models. The selection of effective wavelengths from the hyperspectral data is of paramount importance since it greatly reduces the computational load and time which enhances the scope for real time applications. Due to the feature learning nature of deep learning, it is one of the most promising and powerful techniques for real time applications. However, the field of deep learning is relatively new and need further research for its full utilization. Similarly, lifelong machine learning paves the way for real time HSI applications but needs further research to incorporate the seasonal variations in food quality. Further, the research gaps in machine learning techniques for hyperspectral image analysis, and the prospects are discussed.
+
+---
+

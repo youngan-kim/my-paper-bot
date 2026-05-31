@@ -154,3 +154,8 @@ When Crime Moves Where Does It Go? Analyzing the Spatial Correlates of Robbery I
 Leak-Off Pressure Using Weakly Correlated Geospatial Information and Machine Learning Algorithms
 Untangling Eviction, Disadvantage, Race, and Social Processes: Neighborhood Factors Influencing Crime
 On quantitative spatial economic models
+On urban studies in Brazil: The favela, uneven urbanisation and beyond
+Landslide susceptibility mapping using machine learning algorithms and comparison of their performance at Abha Basin, Asir Region, Saudi Arabia
+Community consequences of mass incarceration: sparking neighborhood social problems and violent crime
+The hack: What it is and why it matters to urban studies
+Machine learning techniques for analysis of hyperspectral images to determine quality of food products: A review
