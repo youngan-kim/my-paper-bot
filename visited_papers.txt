@@ -159,3 +159,8 @@ Landslide susceptibility mapping using machine learning algorithms and compariso
 Community consequences of mass incarceration: sparking neighborhood social problems and violent crime
 The hack: What it is and why it matters to urban studies
 Machine learning techniques for analysis of hyperspectral images to determine quality of food products: A review
+Thinking through people: The potential of volunteered geographic information for mobility and urban studies
+Uniting remote sensing, crop modelling and economics for agricultural risk management
+Complexity and Spatial Networks
+Spatial Economics and Nonmanufacturing Sectors
+Assessing the Intraday Variation of the Spillover Effect of Tweets-Derived Ambient Population on Crime

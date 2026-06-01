@@ -4670,3 +4670,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-01
+
+### 1. [Thinking through people: The potential of volunteered geographic information for mobility and urban studies](https://doi.org/10.1177/0042098020982251)
+- **Journal:** Urban studies
+- **Authors:** L. Howe
+- **Pub Date:** 2021-01-25
+- **DOI:** 10.1177/0042098020982251
+- **Abstract:** Despite the ‘mobility turn’ in urban studies, there is surprisingly little research into the role people’s everyday movements play in driving urbanisation processes. As this paper discusses, one reason this has not occurred is because understanding this relationship requires both quantitative and qualitative knowledge, including geospatial locations and patterns as well as why people choose to move the way they do. Few studies employ mixed methods to this end; instead, many quantitative approaches focus on the use of big data and many qualitative approaches remain focused on sites themselves rather than the movements between them. This methodological gap can preclude operationalising findings and proves particularly detrimental when research is conducted into areas with high levels of poverty and inequality. In response, this paper presents a mixed-methods approach to studying urbanisation, using volunteered geographic information (VGI) to map regional-scale movements in the Gauteng City-Region (GCR). Exploiting the potential of smartphone technology, this methodology operates at the interstice of quantitative and qualitative research, describing both macro-scale mobility patterns and the micro-scale decisions behind them. Using the case study of the GCR, it highlights movement as a strategy for those living in poverty, who can utilise the entire region as a resource to subvert entrenched inequality. ‘Thinking through people’ suggests that a new ontology of categories describing urbanisation processes in terms of movement could connect empirical research into poverty and inequality to theory, and be used to create an epistemology of the urban from below. Thus, this paper contributes to advances in urban studies methods as well as to debates on urbanisation, relational poverty and socio-spatial inequality.
+
+### 2. [Uniting remote sensing, crop modelling and economics for agricultural risk management](https://doi.org/10.1038/s43017-020-00122-y)
+- **Journal:** Nature Reviews Earth & Environment
+- **Authors:** E. Benami, Zhenong Jin, M. Carter, Aniruddha Ghosh, R. Hijmans, Andrew Hobbs, B. Kenduiywo, D. Lobell
+- **Pub Date:** 2021-01-19
+- **DOI:** 10.1038/s43017-020-00122-y
+- **Abstract:** None
+
+### 3. [Complexity and Spatial Networks](https://doi.org/10.1007/978-3-642-23430-9_48)
+- **Journal:** Handbook of Regional Science
+- **Authors:** A. Reggiani
+- **Pub Date:** 2021
+- **DOI:** 10.1007/978-3-642-23430-9_48
+- **Abstract:** None
+
+### 4. [Spatial Economics and Nonmanufacturing Sectors](https://doi.org/10.4036/IIS.2021.R.02)
+- **Journal:** Interdisciplinary Information Sciences
+- **Authors:** Dao‐Zhi Zeng
+- **Pub Date:** 2021
+- **DOI:** 10.4036/IIS.2021.R.02
+- **Abstract:** One of the unsatisfactory aspects of spatial economics is the role ascribed to the agricultural sector. To study how economic activities are impacted by the falling trade costs of manufactured goods, it is convenient to assume that the agricultural sector has only one homogeneous product and that it is traded costlessly. This paper reports how these oversimpliﬁed assumptions can be improved and what new results are derived regarding the nonmanufacturing sectors. In particular, we survey how to apply this general-equilibrium approach to clarify the role of trade costs in disclosing some well-known puzzles, including the resource curse, Dutch disease, and transfer paradox.
+
+### 5. [Assessing the Intraday Variation of the Spillover Effect of Tweets-Derived Ambient Population on Crime](https://doi.org/10.1177/0894439320983825)
+- **Journal:** Social science computer review
+- **Authors:** Lin Liu, Minxuan Lan, J. Eck, Bo-xiong Yang, Hanlin Zhou
+- **Pub Date:** 2020-12-30
+- **DOI:** 10.1177/0894439320983825
+- **Abstract:** The spatial pattern of geotagged tweets reflects the dynamic distribution of the ambient population during day and night as a result of people’s routine activities. A few studies have assessed the impact of tweets-derived ambient population on crime and the spillover effect of such impact at different spatial and temporal scales. However, none has revealed the intraday variation of such spillover effect. This study analyzes both the direct and spillover effects of tweets-derived ambient population on crime and its intraday difference in day and night during weekdays and weekends. Four crime types, including assault, burglary, robbery, and theft, are examined at the neighborhood level. The analysis is based on negative binomial regression models, with the control of necessary socioeconomic and land-use variables driven by criminology theories. Results show (1) tweets-derived ambient population affects the magnitude of crime, but this effect varies by types of crime at different time periods of the day and week, and (2) the spillover effect of the tweets-derived ambient population exists for all four types of crime during most of the time periods at the neighborhood level and is particularly pronounced for thefts at all time periods. Similar results are seen in the block-level analysis. This study further confirms the utility of the count of geotagged tweets as a measure of the ambient population and its spatial lag for intraday analyses of crime, particularly theft.
+
+---
+
