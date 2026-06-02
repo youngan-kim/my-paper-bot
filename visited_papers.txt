@@ -164,3 +164,8 @@ Uniting remote sensing, crop modelling and economics for agricultural risk manag
 Complexity and Spatial Networks
 Spatial Economics and Nonmanufacturing Sectors
 Assessing the Intraday Variation of the Spillover Effect of Tweets-Derived Ambient Population on Crime
+Interferometric Synthetic Aperture Radar Multitemporal Deformation Monitoring: A review of machine learning techniques
+A Viable World in the Anthropocene: Living Together in the Common Home of Planet Earth
+Application of Participatory GIS in Crime Mapping of Ibadan North, Nigeria
+Analysis of Criminal Spatial Events in GIS for predicting hotspots
+A spatial machine learning model for analysing customers’ lapse behaviour in life insurance
