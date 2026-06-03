@@ -4748,3 +4748,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-03
+
+### 1. [Susceptibility mapping of groundwater salinity using machine learning models](https://doi.org/10.1007/s11356-020-11319-5)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** A. Mosavi, Farzaneh Sajedi Hosseini, Bahram Choubin, Fereshteh Taromideh, M. Ghodsi, B. Nazari, A. Dineva
+- **Pub Date:** 2020-10-25
+- **DOI:** 10.1007/s11356-020-11319-5
+- **Abstract:** None
+
+### 2. [Environmental Design and Neighborhood Context: A Multi-level Analysis of Crime at Apartments in Cincinnati Neighborhoods](https://doi.org/10.1177/0011128720962448)
+- **Journal:** Crime and delinquency
+- **Authors:** Rustu Deryol, T. Payne
+- **Pub Date:** 2020-10-10
+- **DOI:** 10.1177/0011128720962448
+- **Abstract:** The present study examines the role of opportunity on crime counts within the multicontextual opportunity theoretical framework. We used weighted multilevel regression modeling of site observation data from a Cincinnati-based sample of 1003 apartments nested within 228 census block groups. Results indicate that only a couple of environmental design features are associated with crime in the expected direction, and some of these associations are neighborhood-context-dependent. We conclude that the results support the propositions of multicontextual opportunity theory suggesting that neighborhood level factors condition the relationship between micro level opportunity factors and crime. Since there is a scant literature on this topic, more research is needed to see if the findings hold true in other places.
+
+### 3. [Spatial Patterns of Immigration and Property Crime in Vancouver: A Spatial Point Pattern Test](https://doi.org/10.3138/cjccj.2020-0041)
+- **Journal:** Canadian Journal of Criminology and Criminal Justice
+- **Authors:** Olivia K. Ha, Martin A. Andresen
+- **Pub Date:** 2020-10-01
+- **DOI:** 10.3138/cjccj.2020-0041
+- **Abstract:** Abstract:We empirically evaluate the distribution of spatial patterns at the census tract (CT) level for various immigration and property crime measures in Vancouver, British Columbia, 2003 and 2016, using a spatial point pattern test that identifies significant similarities, or otherwise, in the spatial patterns of (a) multiple measures of immigration, (b) various property crime classifications, and (c) immigration and crime patterns together. Results show local-level variations in the spatial concentration of immigration in Vancouver CTs. The use of multiple measures of immigration showed substantive variations of immigrant settlement at the local level. Moreover, results reveal that while immigrant concentration patterns are stable over time and, thus, demonstrate ecological stability, property crime patterns shift from year to year. The spatial analytic approach utilized in this study provides support for the use of local-level spatial models and the multidimensional operationalization of the immigration variable even when their correlations are high. There is heterogeneity among immigrant groups, an important yet often overlooked aspect in assessments of immigration effects on crime.Résumé:Nous évaluons de manière empirique la distribution de motifs spatiaux dans les secteur de recensement (SR) pour diverses mesures d'immigration et de crimes contre les biens à Vancouver, en Colombie-Britannique, en 2003 et 2016. Nous utilisons une analyse de second ordre de la structure spatiale de points, laquelle identifie les similitudes importantes, ou non, dans les structures spatiales de (a) de multiples mesures d'immigration, (b) diverses classifications des crimes contre les biens et (c) les motifs d'immigration et de crime mis ensemble. Les résultats montrent des variations au niveau local dans la concentration spatiale de l'immigration dans les SR de Vancouver. L'utilisation de multiples mesures d'immigration a montré d'importantes variations d'établissement des immigrants au niveau local. De plus, les résultats dévoilent que, bien que les motifs de concentration de l'immigration soient stables à travers le temps, montrant ainsi une stabilité écologique, les motifs de crimes contre les biens changent d'année en année. L'approche analytique spatiale utilisée dans cette étude soutient l'utilisation de modèles spatiaux au niveau local et l'opérationnalisation multidimensionnelle de la variable d'immigration même lorsque leurs corrélations sont élevées. Il y a une hétérogénéité parmi les groupes d'immigrants, un aspect important, même s'il est souvent ignoré, de l'évaluation des effets de l'immigration sur le crime.
+
+### 4. [Spatial interdependence and instrumental variable models](https://doi.org/10.1017/psrm.2018.61)
+- **Journal:** Political Science Research and Methods
+- **Authors:** Timm Betz, S. Cook, Florian M. Hollenbach
+- **Pub Date:** 2020-10-01
+- **DOI:** 10.1017/psrm.2018.61
+- **Abstract:** Abstract Instrumental variable (IV) methods are widely used to address endogeneity concerns. Yet, a specific kind of endogeneity – spatial interdependence – is regularly ignored. We show that ignoring spatial interdependence in the outcome results in asymptotically biased estimates even when instruments are randomly assigned. The extent of this bias increases when the instrument is also spatially clustered, as is the case for many widely used instruments: rainfall, natural disasters, economic shocks, and regionally- or globally-weighted averages. Because the biases due to spatial interdependence and predictor endogeneity can offset, addressing only one can increase the bias relative to ordinary least squares. We demonstrate the extent of these biases both analytically and via Monte Carlo simulation. Finally, we discuss a general estimation strategy – S-2SLS – that accounts for both outcome interdependence and predictor endogeneity, thereby recovering consistent estimates of predictor effects.
+
+### 5. [Kyle A. Jaros, China’s Urban Champions: the Politics of Spatial Development](https://doi.org/10.1007/s11366-020-09700-9)
+- **Journal:** Journal of Chinese Political Science
+- **Authors:** William Hurst
+- **Pub Date:** 2020-09-29
+- **DOI:** 10.1007/s11366-020-09700-9
+- **Abstract:** None
+
+---
+
