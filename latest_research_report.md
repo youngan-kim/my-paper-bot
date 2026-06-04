@@ -4787,3 +4787,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-04
+
+### 1. [Highly sensitive spatial transcriptomics at near-cellular resolution with Slide-seqV2](https://doi.org/10.1038/s41587-020-0739-1)
+- **Journal:** Nature Biotechnology
+- **Authors:** Robert R. Stickels, Evan Murray, Pawan Kumar, Jilong Li, Jamie L. Marshall, Daniela J. Di Bella, P. Arlotta, Evan Z. Macosko, Fei Chen
+- **Pub Date:** 2020-12-07
+- **DOI:** 10.1038/s41587-020-0739-1
+- **Abstract:** Measurement of the location of molecules in tissues is essential for understanding tissue formation and function. Previously, we developed Slide-seq, a technology that enables transcriptome-wide detection of RNAs with a spatial resolution of 10 μm. Here we report Slide-seqV2, which combines improvements in library generation, bead synthesis and array indexing to reach an RNA capture efficiency ~50% that of single-cell RNA-seq data (~10-fold greater than Slide-seq), approaching the detection efficiency of droplet-based single-cell RNA-seq techniques. First, we leverage the detection efficiency of Slide-seqV2 to identify dendritically localized mRNAs in neurons of the mouse hippocampus. Second, we integrate the spatial information of Slide-seqV2 data with single-cell trajectory analysis tools to characterize the spatiotemporal development of the mouse neocortex, identifying underlying genetic programs that were poorly sampled with Slide-seq. The combination of near-cellular resolution and high transcript detection efficiency makes Slide-seqV2 useful across many experimental contexts. An improved method for spatial transcriptomics with detection efficiency approaching that of droplet-based single-cell RNA-seq techniques.
+
+### 2. [Human Mobility and Crime: Theoretical Approaches and Novel Data Collection Strategies](https://doi.org/10.1146/ANNUREV-CRIMINOL-061020-021551)
+- **Journal:** annual review of criminology
+- **Authors:** Christopher R. Browning, Nicolo P. Pinchak, Catherine A. Calder
+- **Pub Date:** 2020-09-22
+- **DOI:** 10.1146/ANNUREV-CRIMINOL-061020-021551
+- **Abstract:** This review outlines approaches to explanations of crime that incorporate the concept of human mobility—or the patterns of movement throughout space of individuals or populations in the context of everyday routines—with a focus on novel strategies for the collection of geographically referenced data on mobility patterns. We identify three approaches to understanding mobility–crime linkages: (a) Place and neighborhood approaches characterize local spatial units of analysis of varying size with respect to the intersection in space and time of potential offenders, victims, and guardians; (b) person-centered approaches emphasize the spatial trajectories of individuals and person–place interactions that influence crime risk; and (c) ecological network approaches consider links between persons or collectivities based on shared activity locations, capturing influences of broader systems of interconnection on spatial- and individual-level variation in crime. We review data collection strategies for the measurement of mobility across these approaches, considering both the challenges and promise of mobility-based research for criminology.
+
+### 3. [History and Urban Economics](https://doi.org/10.3386/W27850)
+- **Journal:** Social Science Research Network
+- **Authors:** W. W. Hanlon, Stephan Heblich
+- **Pub Date:** 2020-09-01
+- **DOI:** 10.3386/W27850
+- **Abstract:** This article reviews recent literature using insights from history to answer central questions in urban economics. This area of research has seen rapid growth in the past decade, thanks to new technologies that have made available increasingly rich data stretching far back in time. The focus is to review innovative methods to exploit historical information and discuss applications of these data that provide new insights into (i) the long run growth of cities or regional economies and (ii) the spatial organization of economic activities within cities. The review also surveys the growing literature outside urban economics that uses the historical urbanization as a proxy for economic growth, discusses differences between how economic historians and urban economists think about the relationship between urbanization and growth, and considers how these views might be reconciled.
+
+### 4. [The spatial econometrics of the coronavirus pandemic](https://doi.org/10.1007/s12076-020-00254-1)
+- **Journal:** Letters in spatial and resource sciences
+- **Authors:** Tamás Krisztin, Philipp Piribauer, Michael Wögerer
+- **Pub Date:** 2020-08-01
+- **DOI:** 10.1007/s12076-020-00254-1
+- **Abstract:** In this paper we use spatial econometric specifications to model daily infection rates of COVID-19 across countries. Using recent advances in Bayesian spatial econometric techniques, we particularly focus on the time-dependent importance of alternative spatial linkage structures such as the number of flight connections, relationships in international trade, and common borders. The flexible model setup allows to study the intensity and type of spatial spillover structures over time. Our results show notable spatial spillover mechanisms in the early stages of the virus with international flight linkages as the main transmission channel. In later stages, our model shows a sharp drop in the intensity spatial spillovers due to national travel bans, indicating that travel restrictions led to a reduction of cross-country spillovers.
+
+### 5. [Museum of spatial transcriptomics](https://doi.org/10.1038/s41592-022-01409-2)
+- **Journal:** Nature Methods
+- **Authors:** Lambda Moses, L. Pachter
+- **Pub Date:** 2020-07-29
+- **DOI:** 10.1038/s41592-022-01409-2
+- **Abstract:** None
+
+---
+
