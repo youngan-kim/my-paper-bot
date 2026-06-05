@@ -4826,3 +4826,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-05
+
+### 1. [Spatial Analysis](https://doi.org/10.1007/978-3-030-26050-7_300-1)
+- **Journal:** Encyclopedia of Mathematical Geosciences
+- **Authors:** Qiyu Chen, Gang Liu, Xiaogang Ma, Xiang Que
+- **Pub Date:** 2021
+- **DOI:** 10.1007/978-3-030-26050-7_300-1
+- **Abstract:** None
+
+### 2. [Machine Learning to Reveal Nanoparticle Dynamics from Liquid-Phase TEM Videos](https://doi.org/10.1021/acscentsci.0c00430)
+- **Journal:** ACS Central Science
+- **Authors:** Lehan Yao, Zihao Ou, Binbin Luo, Cong Xu, Qian Chen
+- **Pub Date:** 2020-07-06
+- **DOI:** 10.1021/acscentsci.0c00430
+- **Abstract:** Liquid-phase transmission electron microscopy (TEM) has been recently applied to materials chemistry to gain fundamental understanding of various reaction and phase transition dynamics at nanometer resolution. However, quantitative extraction of physical and chemical parameters from the liquid-phase TEM videos remains bottlenecked by the lack of automated analysis methods compatible with the videos’ high noisiness and spatial heterogeneity. Here, we integrate, for the first time, liquid-phase TEM imaging with our customized analysis framework based on a machine learning model called U-Net neural network. This combination is made possible by our workflow to generate simulated TEM images as the training data with well-defined ground truth. We apply this framework to three typical systems of colloidal nanoparticles, concerning their diffusion and interaction, reaction kinetics, and assembly dynamics, all resolved in real-time and real-space by liquid-phase TEM. A diversity of properties for differently shaped anisotropic nanoparticles are mapped, including the anisotropic interaction landscape of nanoprisms, curvature-dependent and staged etching profiles of nanorods, and an unexpected kinetic law of first-order chaining assembly of concave nanocubes. These systems representing properties at the nanoscale are otherwise experimentally inaccessible. Compared to the prevalent image segmentation methods, U-Net shows a superior capability to predict the position and shape boundary of nanoparticles from highly noisy and fluctuating background—a challenge common and sometimes inevitable in liquid-phase TEM videos. We expect our framework to push the potency of liquid-phase TEM to its full quantitative level and to shed insights, in high-throughput and statistically significant fashion, on the nanoscale dynamics of synthetic and biological nanomaterials.
+
+### 3. [Geographically Weighted Regression Analysis for Spatial Economics Data: A Bayesian Recourse](https://doi.org/10.1177/0160017620959823)
+- **Journal:** International regional science review
+- **Authors:** Zhihua Ma, Yishu Xue, Guanyu Hu
+- **Pub Date:** 2020-07-05
+- **DOI:** 10.1177/0160017620959823
+- **Abstract:** The geographically weighted regression (GWR) is a well-known statistical approach to explore spatial non-stationarity of the regression relationship in spatial data analysis. In this paper, we discuss a Bayesian recourse of GWR. Bayesian variable selection based on spike-and-slab prior, bandwidth selection based on range prior, and model assessment using a modified deviance information criterion and a modified logarithm of pseudo-marginal likelihood are fully discussed in this paper. Usage of the graph distance in modeling areal data is also introduced. Extensive simulation studies are carried out to examine the empirical performance of the proposed methods with both small and large number of location scenarios, and comparison with the classical frequentist GWR is made. The performance of variable selection and estimation of the proposed methodology under different circumstances are satisfactory. We further apply the proposed methodology in analysis of a province-level macroeconomic data of thirty selected provinces in China. The estimation and variable selection results reveal insights about China’s economy that are convincing and agree with previous studies and facts.
+
+### 4. [A comprehensive review of thermal comfort studies in urban open spaces.](https://doi.org/10.1016/j.scitotenv.2020.140092)
+- **Journal:** Science of the Total Environment
+- **Authors:** D. Lai, Z. Lian, Weiwei Liu, Chaoran Guo, W. Liu, Kuixing Liu, Qingyan Chen
+- **Pub Date:** 2020-06-15
+- **DOI:** 10.1016/j.scitotenv.2020.140092
+- **Abstract:** Urban open spaces provide various benefits to large populations in cities. Since thermally comfortable urban open spaces improve the quality of urban living, an increasing number of studies have been conducted to extend the existing knowledge of outdoor thermal comfort. This paper comprehensively reviews current outdoor thermal comfort studies, including benchmarks, data collection methods, and models of outdoor thermal comfort. Because outdoor thermal comfort is a complex issue influenced by various factors, a conceptual framework is proposed which includes physical, physiological and psychological factors as direct influences; and behavioral, personal, social, cultural factors, as well as thermal history, site, and alliesthesia, as indirect influences. These direct and indirect factors are further decomposed and reviewed, and the interactions among various factors are discussed. This review provides researchers with a systematic and comprehensive understanding of outdoor thermal comfort, and can also guide designers and planners in creating thermally comfortable urban open spaces.
+
+### 5. [Landslide Susceptibility Mapping Using the Stacking Ensemble Machine Learning Method in Lushui, Southwest China](https://doi.org/10.3390/app10114016)
+- **Journal:** Applied Sciences
+- **Authors:** Xudong Hu, Han Zhang, Hongbo Mei, D. Xiao, Yuanyuan Li, Mengdi Li
+- **Pub Date:** 2020-06-10
+- **DOI:** 10.3390/app10114016
+- **Abstract:** Landslide susceptibility mapping is considered to be a prerequisite for landslide prevention and mitigation. However, delineating the spatial occurrence pattern of the landslide remains a challenge. This study investigates the potential application of the stacking ensemble learning technique for landslide susceptibility assessment. In particular, support vector machine (SVM), artificial neural network (ANN), logical regression (LR), and naive Bayes (NB) were selected as base learners for the stacking ensemble method. The resampling scheme and Pearson’s correlation analysis were jointly used to evaluate the importance level of these base learners. A total of 388 landslides and 12 conditioning factors in the Lushui area (Southwest China) were used as the dataset to develop landslide modeling. The landslides were randomly separated into two parts, with 70% used for model training and 30% used for model validation. The models’ performance was evaluated using the area under the receiver operating characteristic (ROC) curve (AUC) and statistical measures. The results showed that the stacking-based ensemble model achieved an improved predictive accuracy as compared to the single algorithms, while the SVM-ANN-NB-LR (SANL) model, the SVM-ANN-NB (SAN) model, and the ANN-NB-LR (ANL) models performed equally well, with AUC values of 0.931, 0.940, and 0.932, respectively, for validation stage. The correlation coefficient between the LR and SVM was the highest for all resampling rounds, with a value of 0.72 on average. This connotes that LR and SVM played an almost equal role when the ensemble of SANL was applied for landslide susceptibility analysis. Therefore, it is feasible to use the SAN model or the ANL model for the study area. The finding from this study suggests that the stacking ensemble machine learning method is promising for landslide susceptibility mapping in the Lushui area and is capable of targeting areas prone to landslides.
+
+---
+

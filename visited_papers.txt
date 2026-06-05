@@ -179,3 +179,8 @@ Human Mobility and Crime: Theoretical Approaches and Novel Data Collection Strat
 History and Urban Economics
 The spatial econometrics of the coronavirus pandemic
 Museum of spatial transcriptomics
+Spatial Analysis
+Machine Learning to Reveal Nanoparticle Dynamics from Liquid-Phase TEM Videos
+Geographically Weighted Regression Analysis for Spatial Economics Data: A Bayesian Recourse
+A comprehensive review of thermal comfort studies in urban open spaces.
+Landslide Susceptibility Mapping Using the Stacking Ensemble Machine Learning Method in Lushui, Southwest China
