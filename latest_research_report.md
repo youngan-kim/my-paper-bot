@@ -4865,3 +4865,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-06
+
+### 1. [Spatial analysis and GIS in the study of COVID-19. A review](https://doi.org/10.1016/j.scitotenv.2020.140033)
+- **Journal:** Science of the Total Environment
+- **Authors:** Iván Franch-Pardo, Brian M. Napoletano, Fernando A. Rosete-Vergés, L. Billa
+- **Pub Date:** 2020-06-08
+- **DOI:** 10.1016/j.scitotenv.2020.140033
+- **Abstract:** This study entailed a review of 63 scientific articles on geospatial and spatial-statistical analysis of the geographical dimension of the 2019 coronavirus disease (COVID-19) pandemic. The diversity of themes identified in this paper can be grouped into the following categories of disease mapping: spatiotemporal analysis, health and social geography, environmental variables, data mining, and web-based mapping. Understanding the spatiotemporal dynamics of COVID-19 is essential for its mitigation, as it helps to clarify the extent and impact of the pandemic and can aid decision making, planning and community action. Health geography highlights the interaction of public health officials, affected actors and first responders to improve estimations of disease propagation and likelihoods of new outbreaks. Attempts at interdisciplinary correlation examine health policy interventions for the siting of health/sanitary services and controls, mapping/tracking of human movement, formulation of appropriate scientific and political responses and projection of spatial diffusion and temporal trends. This review concludes that, to fight COVID-19, it is important to face the challenges from an interdisciplinary perspective, with proactive planning, international solidarity and a global perspective. This review provides useful information and insight that can support future bibliographic queries, and also serves as a resource for understanding the evolution of tools used in the management of this major global pandemic of the 21 Century. It is hoped that its findings will inspire new reflections on the COVID-19 pandemic by readers.
+
+### 2. [An optimal parameters-based geographical detector model enhances geographic characteristics of explanatory variables for spatial heterogeneity analysis: cases with different types of spatial data](https://doi.org/10.1080/15481603.2020.1760434)
+- **Journal:** GIScience & Remote Sensing
+- **Authors:** Yongze Song, Jinfeng Wang, Y. Ge, Chengdong Xu
+- **Pub Date:** 2020-05-12
+- **DOI:** 10.1080/15481603.2020.1760434
+- **Abstract:** ABSTRACT Spatial heterogeneity represents a general characteristic of the inequitable distributions of spatial issues. The spatial stratified heterogeneity analysis investigates the heterogeneity among various strata of explanatory variables by comparing the spatial variance within strata and that between strata. The geographical detector model is a widely used technique for spatial stratified heterogeneity analysis. In the model, the spatial data discretization and spatial scale effects are fundamental issues, but they are generally determined by experience and lack accurate quantitative assessment in previous studies. To address this issue, an optimal parameters-based geographical detector (OPGD) model is developed for more accurate spatial analysis. The optimal parameters are explored as the best combination of spatial data discretization method, break number of spatial strata, and spatial scale parameter. In the study, the OPGD model is applied in three example cases with different types of spatial data, including spatial raster data, spatial point or areal statistical data, and spatial line segment data, and an R “GD” package is developed for computation. Results show that the parameter optimization process can further extract geographical characteristics and information contained in spatial explanatory variables in the geographical detector model. The improved model can be flexibly applied in both global and regional spatial analysis for various types of spatial data. Thus, the OPGD model can improve the overall capacity of spatial stratified heterogeneity analysis. The OPGD model and its diverse solutions can contribute to more accurate, flexible, and efficient spatial heterogeneity analysis, such as spatial patterns investigation and spatial factor explorations.
+
+### 3. [A comparison of machine learning models for the mapping of groundwater spring potential](https://doi.org/10.1007/s12665-020-08944-1)
+- **Journal:** Environmental Earth Sciences
+- **Authors:** A. Al-Fugara, H. Pourghasemi, Abdel Rahman Al-Shabeeb, M. Habib, R. Al-Adamat, Hani Al-Amoush, A. Collins
+- **Pub Date:** 2020-05-01
+- **DOI:** 10.1007/s12665-020-08944-1
+- **Abstract:** None
+
+### 4. [Spatial Economics for Granular Settings](https://doi.org/10.2139/ssrn.3610868)
+- **Journal:** Social Science Research Network
+- **Authors:** Jonathan I. Dingel, F. Tintelnot
+- **Pub Date:** 2020-05-01
+- **DOI:** 10.2139/ssrn.3610868
+- **Abstract:** We examine the application of quantitative spatial models to the growing body of fine spatial data used to study local economic outcomes. In granular settings in which people choose from a large set of potential residence‐workplace pairs, observed outcomes in part reflect idiosyncratic choices. Using analytical examples, Monte Carlo simulations, and event studies of neighborhood employment booms, we demonstrate that calibration procedures that equate observed shares and modeled probabilities perform very poorly in these high‐dimensional settings. Parsimonious specifications of spatial linkages deliver better counterfactual predictions. To quantify the uncertainty about counterfactual outcomes induced by the idiosyncratic component of individuals' decisions, we introduce a quantitative spatial model with a finite number of individuals. Applying this model to Amazon's proposed second headquarters in New York City reveals that its predicted consequences for most neighborhoods vary substantially across realizations of the individual idiosyncrasies.
+
+### 5. [Marijuana Dispensaries and Neighborhood Crime and Disorder in Denver, Colorado](https://doi.org/10.1080/07418825.2019.1567807)
+- **Journal:** Justice quarterly
+- **Authors:** L. Hughes, Lonnie Schaible, K. Jimmerson
+- **Pub Date:** 2020-04-15
+- **DOI:** 10.1080/07418825.2019.1567807
+- **Abstract:** Abstract Beginning with Colorado and Washington State in 2012, longstanding bans on the sale, possession, and use of marijuana for recreational purposes have been overturned in nine states and the nation’s capital. Consistent with the logic of routine activity theory and broken windows theory, critics of legalized marijuana argue that dispensaries are magnets for crime, attracting criminal offenders to the area with large sums of cash and valuable goods. The current study addresses this possibility by examining the effects of both medical and recreational marijuana dispensaries on yearly crime rates in N = 3981 neighborhood grid cells in Denver, Colorado, 2012–2015. Estimates from Bayesian spatiotemporal Poisson regression models indicate that, except for murder and auto theft, both types of dispensaries are associated with statistically significant increases in rates of neighborhood crime and disorder. The theoretical and policy implications of these findings are discussed.
+
+---
+
