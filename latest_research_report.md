@@ -4904,3 +4904,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-07
+
+### 1. [Geographical Gaussian Process Regression: A Spatial Machine‐Learning Model Based on Spatial Similarity](https://doi.org/10.1111/gean.12423)
+- **Journal:** Geographical Analysis
+- **Authors:** Zhenzhi Jiao, Ran Tao
+- **Pub Date:** 2025-03-10
+- **DOI:** 10.1111/gean.12423
+- **Abstract:** This study proposes a new spatial machine‐learning model called geographical Gaussian process regression (GGPR). GGPR is extended from Gaussian process regression (GPR) by adopting the principle of spatial similarity for calibration, and it is designed to conduct spatial prediction and exploratory spatial data analysis (ESDA). GGPR addresses several key challenges in spatial machine learning. First, as a probabilistic model, GGPR avoids the conflict between spatial autocorrelation and the assumption of independent and identically distributed (i.i.d.), thus enhancing the model's objectivity and reliability in spatial prediction. Second, GGPR is suitable for small‐sample prediction, a task that most existing models struggle with. Finally, when integrated with GeoShapley, GGPR is an explainable model that can measure spatial effects and explain the outcomes. Evaluated on two distinct datasets, GGPR demonstrates superior predictive performance compared to other popular machine‐learning models across various sampling ratios, with its advantage becoming especially evident with smaller sample sizes. As an ESDA model, GGPR demonstrates enhanced accuracy, better computational efficiency, and a comparable ability to measure spatial effects against both multiscale geographically weighted regression and geographical random forests. In short, GGPR offers spatial data scientists a new method for predicting and exploring complex geographical processes.
+
+### 2. [African Urban Studies: Contributions and Challenges](https://doi.org/10.1177/00420980241239184)
+- **Journal:** Urban studies
+- **Authors:** Sylvia Croese, Astrid Wood
+- **Pub Date:** 2024-05-08
+- **DOI:** 10.1177/00420980241239184
+- **Abstract:** Scholarship on African cities represents a growing yet still scarce subfield in urban studies, especially considering the scale and variety of African urbanisation patterns. The purpose of this Virtual Special Issue is to review the scholarship published on urban Africa in Urban Studies over the past five decades. In this Editorial, we reflect on the contributions of African urban scholarship and present a selection of articles to highlight the ways in which it has shaped key fields of urban studies. We also note the challenges that underpin ongoing lacunae in urban knowledge production and suggest directions for future work. This discussion provides a lens on our understandings of the urban condition in Africa and the general trajectory of urban scholarship.
+
+### 3. [“The Frontier Political Science”: A Model of The Border City Policing Research](https://doi.org/10.1109/ICUEMS50872.2020.00153)
+- **Journal:** 2020 International Conference on Urban Engineering and Management Science (ICUEMS)
+- **Authors:** Tang Liang
+- **Pub Date:** 2020-04-01
+- **DOI:** 10.1109/ICUEMS50872.2020.00153
+- **Abstract:** Because of its resources, the city has become a “Blessed Place” that the modern people yearn for. The pursuit of the welfare of resources leads to the siphon effect of population, resulting in a series of urban “Chronic Diseases” that become the breeding ground for crime. Border city belongs to the concept of city inferior, which logically connotation the advantages and disadvantages of city. The outer limit of “Border” determines the personality of “The Border City”. The extended interpretation of “Frontiers” in “The Frontier Political Science” and “The Border City” have reached the consistency of spatial identification. The theoretical framework of political science and the inherent political nature of police promote the coupling between theory and practice. Based on the above understanding, it is believed that the sublated intervention of the theoretical paradigm of “The Frontier Political Science” can provide a unique epistemological perspective and methodology for the research of the border city policing.
+
+### 4. [Research trends and hotspots related to global carbon footprint based on bibliometric analysis: 2007–2018](https://doi.org/10.1007/s11356-020-08158-9)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** T. Yue, Haiwen Liu, R. Long, Hong Chen, Xin Gan, Junli Liu
+- **Pub Date:** 2020-03-25
+- **DOI:** 10.1007/s11356-020-08158-9
+- **Abstract:** None
+
+### 5. [Machine learning for cluster analysis of localization microscopy data](https://doi.org/10.1038/s41467-020-15293-x)
+- **Journal:** Nature Communications
+- **Authors:** David J. Williamson, G. Burn, S. Simoncelli, J. Griffié, Ruby Peters, D. Davis, D. Owen
+- **Pub Date:** 2020-03-20
+- **DOI:** 10.1038/s41467-020-15293-x
+- **Abstract:** Quantifying the extent to which points are clustered in single-molecule localization microscopy data is vital to understanding the spatial relationships between molecules in the underlying sample. Many existing computational approaches are limited in their ability to process large-scale data sets, to deal effectively with sample heterogeneity, or require subjective user-defined analysis parameters. Here, we develop a supervised machine-learning approach to cluster analysis which is fast and accurate. Trained on a variety of simulated clustered data, the neural network can classify millions of points from a typical single-molecule localization microscopy data set, with the potential to include additional classifiers to describe different subtypes of clusters. The output can be further refined for the measurement of cluster area, shape, and point-density. We demonstrate this approach on simulated data and experimental data of the kinase Csk and the adaptor PAG in primary human T cell immunological synapses. The characterization of clusters in single-molecule microscopy data is vital to reconstruct emerging spatial patterns. Here, the authors present a fast and accurate machine-learning approach to clustering, to address the issues related to the size of the data and to sample heterogeneity.
+
+---
+
