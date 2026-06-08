@@ -4943,3 +4943,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-08
+
+### 1. [Ecological Rationality in Spatial Planning: Concepts and Tools for Sustainable Land-Use Decisions](https://doi.org/10.1007/978-3-030-33027-9)
+- **Journal:** Cities and Nature
+- **Authors:** Lisa Benton-Short, John Rennie Short
+- **Pub Date:** 2020-03-03
+- **DOI:** 10.1007/978-3-030-33027-9
+- **Abstract:** None
+
+### 2. [Geospatial Artificial Intelligence: Potentials of Machine Learning for 3D Point Clouds and Geospatial Digital Twins](https://doi.org/10.1007/s41064-020-00102-3)
+- **Journal:** PFG – Journal of Photogrammetry Remote Sensing and Geoinformation Science
+- **Authors:** J. Döllner
+- **Pub Date:** 2020-02-01
+- **DOI:** 10.1007/s41064-020-00102-3
+- **Abstract:** Artificial intelligence (AI) is changing fundamentally the way how IT solutions are implemented and operated across all application domains, including the geospatial domain. This contribution outlines AI-based techniques for 3D point clouds and geospatial digital twins as generic components of geospatial AI. First, we briefly reflect on the term “AI” and outline technology developments needed to apply AI to IT solutions, seen from a software engineering perspective. Next, we characterize 3D point clouds as key category of geodata and their role for creating the basis for geospatial digital twins; we explain the feasibility of machine learning (ML) and deep learning (DL) approaches for 3D point clouds. In particular, we argue that 3D point clouds can be seen as a corpus with similar properties as natural language corpora and formulate a “Naturalness Hypothesis” for 3D point clouds. In the main part, we introduce a workflow for interpreting 3D point clouds based on ML/DL approaches that derive domain-specific and application-specific semantics for 3D point clouds without having to create explicit spatial 3D models or explicit rule sets. Finally, examples are shown how ML/DL enables us to efficiently build and maintain base data for geospatial digital twins such as virtual 3D city models, indoor models, or building information models. Georäumliche Künstliche Intelligenz: Potentiale des Maschinellen Lernens für 3D-Punktwolken und georäumliche digitale Zwillinge . Künstliche Intelligenz (KI) verändert grundlegend die Art und Weise, wie IT-Lösungen in allen Anwendungsbereichen, einschließlich dem Geoinformationsbereich, implementiert und betrieben werden. In diesem Beitrag stellen wir KI-basierte Techniken für 3D-Punktwolken als einen Baustein der georäumlichen KI vor. Zunächst werden kurz der Begriff ,,KI” und die technologischen Entwicklungen skizziert, die für die Anwendung von KI auf IT-Lösungen aus der Sicht der Softwaretechnik erforderlich sind. Als nächstes charakterisieren wir 3D-Punktwolken als Schlüsselkategorie von Geodaten und ihre Rolle für den Aufbau von räumlichen digitalen Zwillingen; wir erläutern die Machbarkeit der Ansätze für Maschinelles Lernen (ML) und Deep Learning (DL) in Bezug auf 3D-Punktwolken. Insbesondere argumentieren wir, dass 3D-Punktwolken als Korpus mit ähnlichen Eigenschaften wie natürlichsprachliche Korpusse gesehen werden können und formulieren eine ,,Natürlichkeitshypothese” für 3D-Punktwolken. Im Hauptteil stellen wir einen Workflow zur Interpretation von 3D-Punktwolken auf der Grundlage von ML/DL-Ansätzen vor, die eine domänenspezifische und anwendungsspezifische Semantik für 3D-Punktwolken ableiten, ohne explizite räumliche 3D-Modelle oder explizite Regelsätze erstellen zu müssen. Abschließend wird an Beispielen gezeigt, wie ML/DL es ermöglichen, Basisdaten für räumliche digitale Zwillinge, wie z.B. für virtuelle 3D-Stadtmodelle, Innenraummodelle oder Gebäudeinformationsmodelle, effizient aufzubauen und zu pflegen.
+
+### 3. [Gentrification, Land Use, and Crime](https://doi.org/10.1146/annurev-criminol-011419-041505)
+- **Journal:** annual review of criminology
+- **Authors:** J. Macdonald, R. Stokes
+- **Pub Date:** 2020-01-13
+- **DOI:** 10.1146/annurev-criminol-011419-041505
+- **Abstract:** Over the past twenty years, many US cities have seen urban revitalization and population changes associated with an increased desire for urban living among the affluent. As inner-city neighborhoods become gentrified, they are more likely to witness the construction of new buildings and homes, the conversion of industrial spaces to mixed-used developments, expanded access to mass transit, and the arrival of coffee shops and other urban amenities. In this review, we take stock of what is known about the impact of gentrification and land-use changes on neighborhood crime. We summarize research conducted since the period of urban revitalization that started in the 1990s as well as studies that have a quasi-experimental design. We find that gentrification and associated changes to land use tend to reduce crime in neighborhoods. Our findings are tempered by the need for greater conceptual clarity on how to measure when a neighborhood has gentrified and a clearer examination of the spatial displacement of crime. We conclude with a discussion on the need for criminologists to partner with urban planners to study how changes in the land use of cities can be made to generate crime reductions that benefit all places and, finally, detail some promising directions for future research.
+
+### 4. [Integrating microarray-based spatial transcriptomics and single-cell RNA-seq reveals tissue architecture in pancreatic ductal adenocarcinomas](https://doi.org/10.1038/s41587-019-0392-8)
+- **Journal:** Nature Biotechnology
+- **Authors:** Reuben Moncada, Dalia Barkley, F. Wagner, Marta Chiodin, J. Devlin, Maayan Baron, C. Hajdu, D. Simeone, I. Yanai
+- **Pub Date:** 2020-01-13
+- **DOI:** 10.1038/s41587-019-0392-8
+- **Abstract:** None
+
+### 5. [BIOPHYSICAL PREDICTION OF PROTEIN-PEPTIDE INTERACTIONS AND SIGNALING NETWORKS USING MACHINE LEARNING](https://doi.org/10.1038/s41592-019-0687-1)
+- **Journal:** Nature Methods
+- **Authors:** J. Cunningham, Grigoriy Koytiger, P. Sorger, Mohammed Alquraishi
+- **Pub Date:** 2020-01-06
+- **DOI:** 10.1038/s41592-019-0687-1
+- **Abstract:** In mammalian cells, much of signal transduction is mediated by weak protein–protein interactions between globular peptide-binding domains (PBDs) and unstructured peptidic motifs in partner proteins. The number and diversity of these PBDs (over 1,800 are known), their low binding affinities and the sensitivity of binding properties to minor sequence variation represent a substantial challenge to experimental and computational analysis of PBD specificity and the networks PBDs create. Here, we introduce a bespoke machine-learning approach, hierarchical statistical mechanical modeling (HSM), capable of accurately predicting the affinities of PBD–peptide interactions across multiple protein families. By synthesizing biophysical priors within a modern machine-learning framework, HSM outperforms existing computational methods and high-throughput experimental assays. HSM models are interpretable in familiar biophysical terms at three spatial scales: the energetics of protein–peptide binding, the multidentate organization of protein–protein interactions and the global architecture of signaling networks. Protein–peptide interactions that underpin cell signaling are accurately predicted by wedding the strengths of machine learning with the interpretability of biophysical theory, facilitating detailed mechanistic analyses at the proteome scale.
+
+---
+
