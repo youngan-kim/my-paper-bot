@@ -199,3 +199,8 @@ Geospatial Artificial Intelligence: Potentials of Machine Learning for 3D Point 
 Gentrification, Land Use, and Crime
 Integrating microarray-based spatial transcriptomics and single-cell RNA-seq reveals tissue architecture in pancreatic ductal adenocarcinomas
 BIOPHYSICAL PREDICTION OF PROTEIN-PEPTIDE INTERACTIONS AND SIGNALING NETWORKS USING MACHINE LEARNING
+Machine learning approach to force reconstruction in photoelastic materials
+Transiting Exoplanet Discovery Using Machine Learning Techniques: A Survey
+Disambiguating the southern urban critique: Propositions, pathways and possibilities for a more global urban studies
+Machine learning approaches for spatial modeling of agricultural droughts in the south-east region of Queensland Australia.
+A Spatial Perspective on the Econometrics of Program Evaluation

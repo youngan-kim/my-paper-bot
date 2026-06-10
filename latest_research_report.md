@@ -4982,3 +4982,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-10
+
+### 1. [Machine learning approach to force reconstruction in photoelastic materials](https://doi.org/10.1088/2632-2153/ac29d5)
+- **Journal:** Machine Learning: Science and Technology
+- **Authors:** Renat Sergazinov, M. Kramár
+- **Pub Date:** 2020-10-02
+- **DOI:** 10.1088/2632-2153/ac29d5
+- **Abstract:** Photoelastic techniques have a long tradition in both qualitative and quantitative analysis of the stresses in granular materials. Over the last two decades, computational methods for reconstructing forces between particles from their photoelastic response have been developed by many different experimental teams. Unfortunately, all of these methods are computationally expensive. This limits their use for processing extensive data sets that capture the time evolution of granular ensembles consisting of a large number of particles. In this paper, we present a novel approach to this problem that leverages the power of convolutional neural networks to recognize complex spatial patterns. The main drawback of using neural networks is that training them usually requires a large labeled data set which is hard to obtain experimentally. We show that this problem can be successfully circumvented by pretraining the networks on a large synthetic data set and then fine-tuning them on much smaller experimental data sets. Due to our current lack of experimental data, we demonstrate the potential of our method by changing the size of the considered particles which alters the exhibited photoelastic patterns more than typical experimental errors.
+
+### 2. [Transiting Exoplanet Discovery Using Machine Learning Techniques: A Survey](https://doi.org/10.1007/s12145-020-00464-7)
+- **Journal:** Earth Science Informatics
+- **Authors:** Miguel Angel Jara Maldonado, V. Aquino, R. Rosas-Romero, O. Starostenko, J. Ramírez-Cortés
+- **Pub Date:** 2020-06-05
+- **DOI:** 10.1007/s12145-020-00464-7
+- **Abstract:** None
+
+### 3. [Disambiguating the southern urban critique: Propositions, pathways and possibilities for a more global urban studies](https://doi.org/10.1177/0042098019829412)
+- **Journal:** Urban studies
+- **Authors:** M. Lawhon, Yaffa Truelove
+- **Pub Date:** 2020-01-01
+- **DOI:** 10.1177/0042098019829412
+- **Abstract:** Scholarship engaging with (northern) urban theory from the south has troubled the core of urban studies. At this critical juncture, we argue that it is important to clarify core propositions and call attention to points of convergence and dissonance amongst advocates of ‘the southern urban critique’. We briefly review foundational arguments for this scholarly community, then outline three distinct iterations of the source of this critique: the south is empirically different; EuroAmerican hegemony works to displace a diversity of intellectual traditions; and the postcolonial encounter requires the critical interrogation of research practices. We then consider whether the southern urban critique is an argument for the study of a distinct southern urbanism, an ontological position about the socio-spatial contingency of all theorisation or a tactical strategy for calling attention to marginalised places and ideas to be superseded by an urban studies of a world of cities. We hope our efforts contribute to further conversation and greater analytical clarity, enabling more rigorous and robust articulations of the precise objects and objectives of the southern urban critique in particular, and urban studies more generally.
+
+### 4. [Machine learning approaches for spatial modeling of agricultural droughts in the south-east region of Queensland Australia.](https://doi.org/10.1016/j.scitotenv.2019.134230)
+- **Journal:** Science of the Total Environment
+- **Authors:** Omid Rahmati, F. Falah, Kavina S. Dayal, R. Deo, Farnoush Mohammadi, T. Biggs, D. D. Moghaddam, Seyed Amir Naghibi, D. Bui
+- **Pub Date:** 2020-01-01
+- **DOI:** 10.1016/j.scitotenv.2019.134230
+- **Abstract:** A quantitative understanding of the hydro-environmental factors that influence the occurrence of agricultural drought events would enable more strategic climate change adaptation and drought management plans. Practical drought hazard mapping remains challenging due to possible exclusion of the most pertinent drought drivers, and to the use of inadequate predictive models that cannot describe drought adequately. This research aims to develop new approaches to map agricultural drought hazard with state-of-the-art machine learning models, including classification and regression trees (CART), boosted regression trees (BRT), random forests (RF), multivariate adaptive regression splines (MARS), flexible discriminant analysis (FDA) and support vector machines (SVM). Hydro-environmental datasets were used to calculate the relative departure of soil moisture (RDSM) for eight severe droughts for drought-prone southeast Queensland, Australia, over the period 1994-2013. RDSM was then used to generate an agricultural drought inventory map. Eight hydro-environmental factors were used as potential predictors of drought. The goodness-of-fit and predictive performance of all models were evaluated using different threshold-dependent and threshold-independent methods, including the true skill statistic (TSS), Efficiency (E), F-score, and the area under the receiver operating characteristic curve (AUC-ROC). The RF model (AUC-ROC = 97.7%, TSS = 0.873, E = 0.929, F-score = 0.898) yielded the highest accuracy, while the FDA model (with AUC-ROC = 73.9%, TSS = 0.424, E = 0.719, F-score = 0.512) showed the worst performance. The plant available water holding capacity (PAWC), mean annual precipitation, and clay content were the most important variables to be used for predicting the agricultural drought. About 21.2% of the area is in high or very high drought risk classes, and therefore, warrant drought and environmental protection policies. Importantly, the models do not require data on the precipitation anomaly for any given drought year; the spatial patterns in AGH were consistent for all drought events, despite very different spatial patterns in precipitation anomaly among events. Such machine-learning approaches are able to construct an overall risk map, thus assisting in the adoption of a robust drought contingency planning measure not only for this area, but also, in other regions where drought presents a pressing challenge, including its influence on key practical dimensions of social, environmental and economic sustainability.
+
+### 5. [A Spatial Perspective on the Econometrics of Program Evaluation](https://doi.org/10.1177/0160017619869781)
+- **Journal:** International regional science review
+- **Authors:** Marynia A. Kolak, L. Anselin
+- **Pub Date:** 2020-01-01
+- **DOI:** 10.1177/0160017619869781
+- **Abstract:** Empirical work in regional science has seen a growing interest in causal inference, leveraging insights from econometrics, statistics, and related fields. This has resulted in several conceptual as well as empirical papers. However, the role of spatial effects, such as spatial dependence (SD) and spatial heterogeneity (SH), is less well understood in this context. Such spatial effects violate the so-called stable unit treatment value assumption advanced by Rubin as part of the foundational framework for empirical treatment effect analysis. In this article, we consider the role of spatial effects more closely. We provide a brief overview of a number of attempts to extend existing econometric treatment effect evaluation methods with an accounting for spatial aspects and outline and illustrate an alternative approach. Specifically, we propose a spatially explicit counterfactual framework that leverages spatial panel econometrics to account for both SD and SH in treatment choice, treatment variation, and treatment effects. We illustrate this framework with a replication of a well-known treatment effect analysis, that is, the evaluation effect of minimum legal drinking age laws on mortality for US states during the period 1970–1984, a classic textbook example of applied causal inference. We replicate the results available in the literature and compare these to a range of alternative specifications that incorporate spatial effects.
+
+---
+
