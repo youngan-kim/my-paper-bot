@@ -5021,3 +5021,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-11
+
+### 1. [Situating Data Science: Exploring How Relationships to Data Shape Learning](https://doi.org/10.1080/10508406.2019.1705664)
+- **Journal:** The Journal of the Learning Sciences
+- **Authors:** Michelle H Wilkerson, J. Polman
+- **Pub Date:** 2019-12-20
+- **DOI:** 10.1080/10508406.2019.1705664
+- **Abstract:** The emerging field of Data Science has had a large impact on science and society. This has led to over a decade of calls to establish a corresponding field of Data Science Education. There is still a need, however, to more deeply conceptualize what a field of Data Science Education might entail in terms of scope, responsibility, and execution. This special issue explores how one distinguishing feature of Data Science—its focus on data collected from social and environmental contexts within which learners often find themselves deeply embedded—suggests serious implications for learning and education. The learning sciences is uniquely positioned to investigate how such contextual embeddings impact learners’ engagement with data including conceptual, experiential, communal, racialized, spatial, and political dimensions. This special issue demonstrates the richly layered relationships learners build with data and reveals them to be not merely utilitarian mechanisms for learning about data, but a critical part of navigating data as social text and understanding Data Science as a discipline. Together, the contributions offer a vision of how the learning sciences can contribute to a more expansive, agentive and socially aware Data Science Education.
+
+### 2. [Research gaps in knowledge of the impact of urban growth on biodiversity](https://doi.org/10.1038/s41893-019-0436-6)
+- **Journal:** Nature Sustainability
+- **Authors:** R. McDonald, A. V. Mansur, F. Ascensão, M’lisa Colbert, Katie Crossman, T. Elmqvist, Andrew Gonzalez, Burak Güneralp, D. Haase, Maike Hamann, Oliver Hillel, Kangning Huang, B. Kahnt, David Maddox, Andrea Pacheco, H. Pereira, K. Seto, R. Simkin, Brenna Walsh, A. Werner, Carly D. Ziter
+- **Pub Date:** 2019-12-09
+- **DOI:** 10.1038/s41893-019-0436-6
+- **Abstract:** None
+
+### 3. [Human Health-Environment Interaction Science: An emerging research paradigm.](https://doi.org/10.1016/j.scitotenv.2019.135358)
+- **Journal:** Science of the Total Environment
+- **Authors:** G. Spano, Vincenzo Giannico, Mario Elia, A. Bosco, R. Lafortezza, G. Sanesi
+- **Pub Date:** 2019-11-21
+- **DOI:** 10.1016/j.scitotenv.2019.135358
+- **Abstract:** During recent decades, the growing interactions between human well-being and the environment have led to the development of new research paradigms. A number of disciplines have recognized the importance of the human-environment relationship in all aspects of human life from an economic, ecological, social and political perspective. In conformity with this trend, we conducted a bibliometric review of scientific publications on the interactions between two main research domains: human-centered and environmental-centered sciences. The aim is to provide a temporal and spatial perspective on how these research domains have paired up and co-evolved along a common pathway towards a new research paradigm, named Human Health-Environment Interaction Science (HHEIS). Our results revealed a constant growth over time in the scientific production concerning HHEIS. The network and cluster analyses showed a progressive overlapping of keywords among studies published in environmental and human health journals to a match of principal keywords. As a statistical indicator of this trend, the similarity index showed an increase in the number of keywords for both research domains. In terms of country productivity, the US, UK and China are in the lead, while EU countries are the most interconnected. Our review demonstrates the existence of HEIS as a comprehensive paradigm encompassing research findings with implications for human and environmental interaction. An overview of the history of HHEIS and the implications of current EU research-funding initiatives have been provided.
+
+### 4. [Distance-based measures of spatial concentration: introducing a relative density function](https://doi.org/10.1007/s00168-019-00946-7)
+- **Journal:** The annals of regional science
+- **Authors:** G. Lang, Eric Marcon, Florence Puech
+- **Pub Date:** 2019-10-24
+- **DOI:** 10.1007/s00168-019-00946-7
+- **Abstract:** None
+
+### 5. [Statistical analysis of spatial expression patterns for spatially resolved transcriptomic studies](https://doi.org/10.1038/s41592-019-0701-7)
+- **Journal:** Nature Methods
+- **Authors:** Shiquan Sun, Jiaqiang Zhu, Xiang Zhou
+- **Pub Date:** 2019-10-21
+- **DOI:** 10.1038/s41592-019-0701-7
+- **Abstract:** Identifying genes that display spatial expression patterns in spatially resolved transcriptomic studies is an important first step toward characterizing the spatial transcriptomic landscape of complex tissues. Here we present a statistical method, SPARK, for identifying spatial expression patterns of genes in data generated from various spatially resolved transcriptomic techniques. SPARK directly models spatial count data through generalized linear spatial models. It relies on recently developed statistical formulas for hypothesis testing, providing effective control of type I errors and yielding high statistical power. With a computationally efficient algorithm, which is based on penalized quasi-likelihood, SPARK is also scalable to datasets with tens of thousands of genes measured on tens of thousands of samples. Analyzing four published spatially resolved transcriptomic datasets using SPARK, we show it can be up to ten times more powerful than existing methods and disclose biological discoveries that otherwise cannot be revealed by existing approaches. A statistical method called SPARK for analyzing spatially resolved transcriptomic data can efficiently identify spatially expressed genes with effective control of type I errors and high statistical power.
+
+---
+
