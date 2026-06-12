@@ -5060,3 +5060,43 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-12
+
+### 1. [Spatial Autocorrelation Incorporated Machine Learning Model for Geotechnical Subsurface Modeling](https://doi.org/10.3390/app13074497)
+- **Journal:** Applied Sciences
+- **Authors:** H. Kim, Kevin Bagas A. Mawuntu, T. Park, Hyeong-soo Kim, Jun-Young Park, Yeong-Seon Jeong
+- **Pub Date:** 2023-04-01
+- **DOI:** 10.3390/app13074497
+- **Abstract:** Machine learning models for spatial prediction have been applied in various types of research. However, spatial relation has not been fully considered in modeling, since the Cartesian coordinates of the observed points are directly employed as the location information for machine learning features. This study presents a machine learning modeling process which incorporates spatial autocorrelation for geotechnical subsurface modeling. A new set of features called the Euclidean distance field (EDF) was generated based on the distance between the query points and the observed boreholes in order to incorporate spatial autocorrelation into the machine learning model. Principal component analysis (PCA) was performed to reduce the increasing dimensionality of the dataset caused by the EDF features. Optimized machine learning models based on several popular algorithms (Support Vector Machine, Gaussian Process Regression, Artificial Neural Network, and k-Nearest Neighbor) were employed for predicting several geotechnical information as the targets. The results showed that the optimized machine learning models constructed with the EDF modeling approach generate a slightly lower Root Mean Square Error (RMSE) score compared to the model with the direct XY coordinate approach by 0.041, 0.046, 1.302, and 1.561 for ground surface elevation, groundwater level, SPT-N value, and percent finer than 0.075 mm sieve, respectively. Both modeling approaches performed well for USCS-based soil classification with the EDF model having slightly improved classification accuracy by 0.72%. Furthermore, the model can perform balance multiclass classification as indicated by the >95% precision, recall, f1-score, and balanced accuracy score. These results indicate that spatial autocorrelation has a noticeable effect. Hence, it needs to be considered to improve the overall performance of spatial machine learning modeling. Comparison of geotechnical subsurface predictions generated based on different machine learning algorithms showed that the selection of the best-performing model based only on the lowest prediction error is not appropriate for spatial prediction modeling. Therefore, thorough analysis of the predicted data by visualization is necessary in the selection process for spatial prediction modeling.
+
+### 2. [From race-to-the-bottom to strategic imitation: how does political competition impact the environmental enforcement of local governments in China?](https://doi.org/10.1007/s11356-020-09003-9)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Zhenbo Zhang, Taijun Jin, Xiaohua Meng
+- **Pub Date:** 2020-04-30
+- **DOI:** 10.1007/s11356-020-09003-9
+- **Abstract:** None
+
+### 3. [Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies](https://doi.org/10.1146/annurev-criminol-011419-041541)
+- **Journal:** annual review of criminology
+- **Authors:** Charles C. Lanfear, R. Matsueda, L. Beach
+- **Pub Date:** 2019-10-07
+- **DOI:** 10.1146/annurev-criminol-011419-041541
+- **Abstract:** An important criminological controversy concerns the proper causal relationships between disorder, informal social control, and crime. The broken windows thesis posits that neighborhood disorder increases crime directly and indirectly by undermining neighborhood informal social control. Theories of collective efficacy argue that the association between neighborhood disorder and crime is spurious because of the confounding variable informal social control. We review the recent empirical research on this question, which uses disparate methods, including field experiments and different models for observational data. To evaluate the causal claims made in these studies, we use a potential outcomes framework of causality. We conclude that, although there is some evidence for both broken windows and informal control theories, there is little consensus in the present research literature. Furthermore, at present, most studies do not establish causality in a strong way.
+
+### 4. [Spatial hazard assessment of the PM10 using machine learning models in Barcelona, Spain.](https://doi.org/10.1016/j.scitotenv.2019.134474)
+- **Journal:** Science of the Total Environment
+- **Authors:** Bahram Choubin, Mahsa Abdolshahnejad, E. Moradi, X. Querol, A. Mosavi, S. Shamshirband, Pedram Ghamisi
+- **Pub Date:** 2019-10-04
+- **DOI:** 10.1016/j.scitotenv.2019.134474
+- **Abstract:** Air pollution, and especially atmospheric particulate matter (PM), has a profound impact on human mortality and morbidity, environment, and ecological system. Accordingly, it is very relevant predicting air quality. Although the application of the machine learning (ML) models for predicting air quality parameters, such as PM concentrations, has been evaluated in previous studies, those on the spatial hazard modeling of them are very limited. Due to the high potential of the ML models, the spatial modeling of PM can help managers to identify the pollution hotspots. Accordingly, this study aims at developing new ML models, such as Random Forest (RF), Bagged Classification and Regression Trees (Bagged CART), and Mixture Discriminate Analysis (MDA) for the hazard prediction of PM10 (particles with a diameter less than 10 µm) in the Barcelona Province, Spain. According to the annual PM10 concentration in 75 stations, the healthy and unhealthy locations are determined, and a ratio 70/30 (53/22 stations) is applied for calibrating and validating the ML models to predict the most hazardous areas for PM10. In order to identify the influential variables of PM modeling, the simulated annealing (SA) feature selection method is used. Seven features, among the thirteen features, are selected as critical features. According to the results, all the three-machine learning (ML) models achieve an excellent performance (Accuracy > 87% and precision > 86%). However, the Bagged CART and RF models have the same performance and higher than the MDA model. Spatial hazard maps predicted by the three models indicate that the high hazardous areas are located in the middle of the Barcelona Province more than in the Barcelona's Metropolitan Area.
+
+### 5. [MODELING URBAN CRIME PATTERNS USING SPATIAL SPACE TIME AND REGRESSION ANALYSIS](https://doi.org/10.5194/isprs-archives-xlii-4-w16-247-2019)
+- **Journal:** The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** H. Hashim, W. Mohd, E. Sadek, K. M. Dimyati
+- **Pub Date:** 2019-10-01
+- **DOI:** 10.5194/isprs-archives-xlii-4-w16-247-2019
+- **Abstract:** Abstract. The population size, population density and rate of urbanization are often crediting to contributing increasing a crime pattern specially in city. Urbanism model stating that the rise in urban crime and social problems is based on three population indicators namely; size, density and heterogeneity. The objective of this paper is to identify crime patterns of the hot spot urban crime location and the factors influencing the crime pattern relationship with population size, population density and rate of urbanization population. This study employed the ArcGIS Pro 2.4 tool such as Emerging Hot Spot Analysis (Space Time) to determine a crime pattern and Ordinary Least Squares (OLS) Regression to determine the factors influencing the crime patterns. By using these analyses tools, this study found that 54 (53%) out of 102 total neighbourhood locations (2011–2017 years) had a 99 percent significance confidence level where z-score exceeded +2.58 with a small p-value (p < 0.01) as the hot spot crime location. The result of data analysis using OLS regression explains that combination of exploratory variable model rate of urbanization and population size contributes 56 percent (R2 = 0.559) variance in crime index rate incident [F (3,39) = 18.779, p < 0.01). While the population density (β = 0.045, t = 0.700, p > 0.10) is not a significance contributes to the change in crime index rate in Petaling and Klang district. The importance of the study is useful information for encouraging government and law enforcement agencies to promote safety and reduce risk of urban population crime areas.
+
+
+---
+

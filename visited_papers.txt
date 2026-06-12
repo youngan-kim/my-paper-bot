@@ -209,3 +209,8 @@ Research gaps in knowledge of the impact of urban growth on biodiversity
 Human Health-Environment Interaction Science: An emerging research paradigm.
 Distance-based measures of spatial concentration: introducing a relative density function
 Statistical analysis of spatial expression patterns for spatially resolved transcriptomic studies
+Spatial Autocorrelation Incorporated Machine Learning Model for Geotechnical Subsurface Modeling
+From race-to-the-bottom to strategic imitation: how does political competition impact the environmental enforcement of local governments in China?
+Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies
+Spatial hazard assessment of the PM10 using machine learning models in Barcelona, Spain.
+MODELING URBAN CRIME PATTERNS USING SPATIAL SPACE TIME AND REGRESSION ANALYSIS
