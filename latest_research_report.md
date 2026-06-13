@@ -5100,3 +5100,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-13
+
+### 1. [Smart cities, big data and urban policy: Towards urban analytics for the long run](https://doi.org/10.1016/j.cities.2020.102992)
+- **Journal:** Cities
+- **Authors:** Jens Kandt, M. Batty
+- **Pub Date:** 2020-11-20
+- **DOI:** 10.1016/j.cities.2020.102992
+- **Abstract:** Abstract The analysis of big data is deemed to define a new era in urban research, planning and policy. Real-time data mining and pattern detection in high-frequency data can now be carried out at a large scale. Novel analytical practices promise smoother decision-making as part of a more evidence-based and smarter urbanism, while critical voices highlight the dangers and pitfalls of instrumental, data-driven city making to urban governance. Less attention has been devoted to identifying the practical conditions under which big data can realistically contribute to addressing urban policy problems. In this paper, we discuss the value and limitations of big data for long-term urban policy and planning. We first develop a theoretical perspective on urban analytics as a practice that is part of a new smart urbanism. We identify the particular tension of opposed temporalities of high-frequency data and the long duree of structural challenges facing cities. Drawing on empirical studies using big urban data, we highlight epistemological and practical challenges that arise from the analysis of high-frequency data for strategic purposesand formulate propositions on the ways in which urban analytics can inform long-term urban policy.
+
+### 2. [Feature selection using neighborhood entropy-based uncertainty measures for gene expression data classification](https://doi.org/10.1016/J.INS.2019.05.072)
+- **Journal:** Information Sciences
+- **Authors:** Lin Sun, Xiaoyu Zhang, Y. Qian, Jiucheng Xu, Shiguang Zhang
+- **Pub Date:** 2019-10-01
+- **DOI:** 10.1016/J.INS.2019.05.072
+- **Abstract:** Abstract Gene expression data classification is an important technology for cancer diagnosis in bioinformatics and has been widely researched. Due to the large number of genes and the small sample size in gene expression data, feature selection based on neighborhood rough sets is a key step for improving the performance of gene expression data classification. However, some quantitative measures of feature sets may be nonmonotonic in neighborhood rough sets, and many feature selection methods based on evaluation functions yield high cardinality and low predictive accuracy. Therefore, investigating effective and efficient heuristic reduction algorithms is necessary. In this paper, a novel feature selection method based on neighborhood rough sets using neighborhood entropy-based uncertainty measures for cancer classification from gene expression data is proposed. First, some neighborhood entropy-based uncertainty measures are investigated for handling the uncertainty and noise of neighborhood decision systems. Then, to fully reflect the decision-making ability of attributes, the neighborhood credibility and neighborhood coverage degrees are defined and introduced into decision neighborhood entropy and mutual information, which are proven to be nonmonotonic. Moreover, some of the properties and relationships among these measures are derived, which is helpful for understanding the essence of the knowledge content and the uncertainty of neighborhood decision systems. Finally, the Fisher score method is employed to preliminarily eliminate irrelevant genes to significantly reduce complexity, and a heuristic feature selection algorithm with low computational complexity is presented to improve the performance of cancer classification using gene expression data. Experiments on ten gene expression datasets show that our proposed algorithm is indeed efficient and outperforms other related methods in terms of the number of selected genes and the classification accuracy, especially as the size of the genes increases.
+
+### 3. [Housing, urban growth and inequalities: The limits to deregulation and upzoning in reducing economic and spatial inequality](https://doi.org/10.1177/0042098019859458)
+- **Journal:** Urban studies
+- **Authors:** A. Rodríguez‐Pose, M. Storper
+- **Pub Date:** 2019-09-17
+- **DOI:** 10.1177/0042098019859458
+- **Abstract:** Urban economics and branches of mainstream economics – what we call the ‘housing as opportunity’ school of thought – have been arguing that shortages of affordable housing in dense agglomerations represent a fundamental barrier to economic development. Housing shortages are considered to limit migration into thriving cities, curtailing their expansion potential, generating rising social and spatial inequalities and inhibiting national growth. According to this dominant view, relaxing zoning and other planning regulations in the most prosperous cities is crucial to unleash the economic potential of cities and nations and to facilitate within-country migration. In this article, we contend that the bulk of the claims of the housing as opportunity approach are fundamentally flawed and lead to simplistic and misguided policy recommendations. We posit that there is no clear and uncontroversial evidence that housing regulation is a principal source of differences in home availability or prices across cities. Blanket changes in zoning are unlikely to increase domestic migration or to improve affordability for lower-income households in prosperous areas. They would, however, increase gentrification within metropolitan areas and would not appreciably decrease income inequality. In contrast to the housing models, we argue that the basic motors of all these features of the economy are the current geography of employment, wages and skills.
+
+### 4. [Noxious Housing: The Influence of Single Room Occupancy (SRO) Facilities on Neighborhood Crime](https://doi.org/10.1177/0011128719875701)
+- **Journal:** Crime and delinquency
+- **Authors:** J. Krupa, Lyndsay N. Boggess, Alyssa W. Chamberlain, T. Grubesic
+- **Pub Date:** 2019-09-16
+- **DOI:** 10.1177/0011128719875701
+- **Abstract:** Certain establishments (e.g., alcohol outlets or pawnshops) attract or generate crime because they operate with little oversight and are often located in poor or disordered neighborhoods. Single room occupancy (SRO) facilities share some of these characteristics. SROs tend to be rundown motels or apartment buildings that offer affordable housing for low-income clientele. It is likely that SROs also generate and attract criminal activity that affects the neighborhood. Using police incident report data for St. Petersburg, FL, this study examines the impact of SROs on violent, property, and nuisance crimes at the neighborhood level. Negative binomial regression models suggest that the presence of an SRO in the focal or nearby neighborhood increases local crime, with the impact varying by crime type.
+
+### 5. [High-definition spatial transcriptomics for in situ tissue profiling](https://doi.org/10.1038/s41592-019-0548-y)
+- **Journal:** Nature Methods
+- **Authors:** S. Vickovic, Gökçen Eraslan, Fredrik Salmén, J. Klughammer, L. Stenbeck, D. Schapiro, Tarmo Äijö, Richard Bonneau, L. Bergenstråhle, J. F. Navarro, Joshua Gould, G. Griffin, Å. Borg, M. Ronaghi, J. Frisén, J. Lundeberg, A. Regev, Patrik L. Ståhl
+- **Pub Date:** 2019-09-09
+- **DOI:** 10.1038/s41592-019-0548-y
+- **Abstract:** Spatial and molecular characteristics determine tissue function, yet high-resolution methods to capture both concurrently are lacking. Here, we developed high-definition spatial transcriptomics, which captures RNA from histological tissue sections on a dense, spatially barcoded bead array. Each experiment recovers several hundred thousand transcript-coupled spatial barcodes at 2-μm resolution, as demonstrated in mouse brain and primary breast cancer. This opens the way to high-resolution spatial analysis of cells and tissues. A dense, spatially barcoded bead array captures RNA from histological tissue sections for spatially resolved gene expression analysis.
+
+---
+

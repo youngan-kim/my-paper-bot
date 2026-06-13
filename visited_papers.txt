@@ -214,3 +214,8 @@ From race-to-the-bottom to strategic imitation: how does political competition i
 Broken Windows, Informal Social Control, and Crime: Assessing Causality in Empirical Studies
 Spatial hazard assessment of the PM10 using machine learning models in Barcelona, Spain.
 MODELING URBAN CRIME PATTERNS USING SPATIAL SPACE TIME AND REGRESSION ANALYSIS
+Smart cities, big data and urban policy: Towards urban analytics for the long run
+Feature selection using neighborhood entropy-based uncertainty measures for gene expression data classification
+Housing, urban growth and inequalities: The limits to deregulation and upzoning in reducing economic and spatial inequality
+Noxious Housing: The Influence of Single Room Occupancy (SRO) Facilities on Neighborhood Crime
+High-definition spatial transcriptomics for in situ tissue profiling
