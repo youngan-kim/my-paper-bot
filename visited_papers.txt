@@ -219,3 +219,8 @@ Feature selection using neighborhood entropy-based uncertainty measures for gene
 Housing, urban growth and inequalities: The limits to deregulation and upzoning in reducing economic and spatial inequality
 Noxious Housing: The Influence of Single Room Occupancy (SRO) Facilities on Neighborhood Crime
 High-definition spatial transcriptomics for in situ tissue profiling
+Spatial transcriptome profiling by MERFISH reveals subcellular RNA compartmentalization and cell cycle-dependent gene expression
+Not in my backyard? Not so fast. The effect of marijuana legalization on neighborhood crime
+DISEASES SPREAD PREDICTION IN TROPICAL AREAS BY MACHINE LEARNING METHODS ENSEMBLING AND SPATIAL ANALYSIS TECHNIQUES
+Concentrated Burdens: How Self-Interest and Partisanship Shape Opinion on Opioid Treatment Policy
+Hate in the Machine: Anti-Black and Anti-Muslim Social Media Posts as Predictors of Offline Racially and Religiously Aggravated Crime
