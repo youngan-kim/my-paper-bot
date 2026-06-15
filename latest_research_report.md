@@ -5180,3 +5180,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-15
+
+### 1. [Urban park crime: Neighborhood context and park features](https://doi.org/10.1016/J.JCRIMJUS.2019.101622)
+- **Journal:** Journal of criminal justice
+- **Authors:** R. Taylor, Cory P. Haberman, Elizabeth R. Groff
+- **Pub Date:** 2019-07-13
+- **DOI:** 10.1016/J.JCRIMJUS.2019.101622
+- **Abstract:** This work examined the determinants of park crime, drawing together into one conceptual frame three threads from community criminology - community demographic structural crime determinants; community cultural crime determinants, focusing specifically on social cohesion; and park features that are potentially crime and/or disorder relevant. Generalized structural equation models using data for 249 urban parks and their surrounds show: in the preferred model of disorder crime two aspects of nearby crime, and community social cohesion, both drive park crime; in the preferred model of violent crime, one aspect of nearby crime, community socioeconomic status, and one park feature, security fencing, all shape park crime. Implications for several domains within community criminology merit mention.
+
+### 2. [Neighborhood features in geospatial machine learning: the case of population disaggregation](https://doi.org/10.1080/15230406.2019.1618201)
+- **Journal:** Cartography and Geographic Information Science
+- **Authors:** J. Šimbera
+- **Pub Date:** 2019-07-01
+- **DOI:** 10.1080/15230406.2019.1618201
+- **Abstract:** ABSTRACT High-resolution population density data are crucial for advanced geographical analysis but are difficult to obtain owing to personal data protection. This paper presents a method to obtain these data through spatial disaggregation of aggregate data using random forests. Ancillary topographic data are used from open data sources, namely OpenStreetMap, Urban Atlas, and the NASA Shuttle Radar Topography Mission (SRTM). An attempt to increase disaggregation accuracy is made through a systematic conceptualization of proximity, neighborhood features. The method is implemented as a toolbox for Python and PostGIS and is tested on three cities in Central and Eastern Europe: Prague, Maribor, and Tallinn. It is shown that this approach produces more accurate predictions than other comparable approaches.
+
+### 3. [Impacts of urban configuration on urban heat island: An empirical study in China mega-cities](https://doi.org/10.1016/J.SCITOTENV.2019.03.421)
+- **Journal:** Science of the Total Environment
+- **Authors:** Wenze Yue, Xue Liu, Yuyu Zhou, Yong Liu
+- **Pub Date:** 2019-06-25
+- **DOI:** 10.1016/J.SCITOTENV.2019.03.421
+- **Abstract:** Abstract Urban configuration can influence the local thermal environment by altering energy balances. However, previous studies have found that either sprawling urban or compact urban development could intensify urban heat island (UHI) intensity. How urban configurations can mitigate the UHI intensity has drawn full attention. In this study, we quantified the diurnal and seasonal UHI intensities in 36 cities in China and investigated their response to urban configurations. In each city, urban land cover maps were classified from Landsat 8 and UHIs were quantified using Moderate Resolution Imaging Spectroradiometer (MODIS) land surface temperature (LST). Results show that the average UHI intensities of 36 cities vary temporally with a sequence of summer day > summer night > winter night > winter day. Moreover, whether the daytime UHI is higher or lower than the nighttime UHI significantly depends on climatic zones and seasons. Besides, we found that UHIs significantly correlate with urban configurations in two ways. First, for the spatial structure among built-up patches, a lower UHI located in the smaller built-up area with dispersed distribution when compared to the larger built-up patches, if the total built-up area holds constant. Second, for the spatial structure of a single patch, the single patch with more complex shape would mitigate the UHI intensities. Overall, urban configuration and other control variables (e.g., urban characteristics and climatic condition) can explain 41% and 51% of the variance in UHI in summer day and night, respectively. Therefore, the design of urban configuration can serve as an essential practice to mitigate UHI intensity. Considering the difficulties of altering the urban configuration in the urbanized area, planting vegetation might be a great choice to change the urban contiguity and shape complexity with providing an extra cooling effect.
+
+### 4. [Interpretation: the final spatial frontier](https://doi.org/10.1017/psrm.2019.9)
+- **Journal:** Political Science Research and Methods
+- **Authors:** G. Whitten, Laron K. Williams, Cameron Wimpy
+- **Pub Date:** 2019-06-18
+- **DOI:** 10.1017/psrm.2019.9
+- **Abstract:** Abstract The use of spatial econometric models in political science has steadily risen in recent years. However, the interpretation of these models has generally ignored the important substantive, and even spatial, nature of the estimated effects. This leaves many papers with a (non-spatial) interpretation of coefficients on the covariates and a brief discussion of the sign and strength of the spatial parameter. We introduce a general approach to interpreting spatial models and provide several avenues for an exposition of substantive spatial effects. Our approach can be generalized to most models in the spatial econometric taxonomy. Building on the example of the diffusion of democracy, we elucidate how our approach can be applied to modern political science problems.
+
+### 5. [An analyses of the role of socio-economic classes in the spatial organization (a case study of Yazd, Iran)](https://doi.org/10.1016/J.JASREP.2019.04.021)
+- **Journal:** Journal of Archaeological Science: Reports
+- **Authors:** Hamid Azizi Bondarabady, Amir Reza Khavarian-Garmsir
+- **Pub Date:** 2019-06-01
+- **DOI:** 10.1016/J.JASREP.2019.04.021
+- **Abstract:** Abstract Since the study of remaining spaces from the past could lead to a vivid understanding of the political, administrative, social, economic, and cultural structures of the societies which have created them, the issue of space has turned into a priority in archaeological studies. Therefore, spatial archaeology as an interdisciplinary science can play an important role in reconstructing of the spatial system of historical cities and understanding the behavior of the people who lived in the past. This study is an attempt to open a new investigation into the role of various social classes in the formation of spatial organization of historical cities of Iran during late Islamic period (Qajar era from 1785 to 1925). The study targeted Golchinan district of the city of Yazd, Iran, in Qajar period. The results showed that economic factors have played a leading role in the spatial organization of the district. In fact, due to a higher power, the wealthy class has benefited from a series of economic, social, and spatial advantages that the ordinary people were deprived of. This issue has affected the spatial organization of the district. Also the financial prosperity of the residents had significantly affected the spatial distribution of residential units. In other words, economic differences had led to social classification resulting in better access for the rich to the public facilities. These would make the aristocratic class keep on the side of the power centers.
+
+---
+
