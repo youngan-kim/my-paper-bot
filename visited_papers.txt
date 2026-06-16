@@ -229,3 +229,8 @@ Neighborhood features in geospatial machine learning: the case of population dis
 Impacts of urban configuration on urban heat island: An empirical study in China mega-cities
 Interpretation: the final spatial frontier
 An analyses of the role of socio-economic classes in the spatial organization (a case study of Yazd, Iran)
+Airbnb in Latin America: A literature review from an urban studies perspective
+Making a place for space: Using spatial econometrics to model neighborhood effects
+Cities and quality of life. Quantitative modeling of the emergence of the happiness field in urban studies
+Enhancing urban ventilation performance through the development of precinct ventilation zones: A case study based on the Greater Sydney, Australia
+Theoretical foundations for spatial econometric research

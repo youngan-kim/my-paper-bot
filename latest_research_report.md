@@ -5219,3 +5219,42 @@ The use of tree-based methods significantly improved spatiotemporal predictions 
 
 ---
 
+## 📅 Added on: 2026-06-16
+
+### 1. [Airbnb in Latin America: A literature review from an urban studies perspective](https://doi.org/10.1080/07352166.2023.2168552)
+- **Journal:** Journal of Urban Affairs
+- **Authors:** Natalia Lerena Rongvaux, Luciana Rodriguez
+- **Pub Date:** 2023-02-23
+- **DOI:** 10.1080/07352166.2023.2168552
+- **Abstract:** ABSTRACT Since its appearance 12 years ago, the digital platform Airbnb has revolutionized the temporary accommodation system worldwide, leading to diverse territorial impacts beyond the tourism and hospitality industries. Despite its distinct presence in Latin America, there is no review of the existing academic literature in the region to date. Against this backdrop, the purpose of the article is to develop a literature review of Airbnb in Latin America from the critical perspective of urban studies. To do so, exploratory-descriptive research was carried out based on the review of scientific publications that addressed the topic of Airbnb, up to and including 2020, in four international academic journal databases: Scopus, Dialnet, Scielo and Redalyc. The main results show that the existing literature on Airbnb in urban studies in Latin America is still at an early stage, with little development compared to that of other world regions, where the tourism and business model approaches seem to occlude other facets of the phenomenon. These results made it possible to outline a future research agenda on temporary accommodation in the region.
+
+### 2. [Making a place for space: Using spatial econometrics to model neighborhood effects](https://doi.org/10.1080/07352166.2019.1584530)
+- **Journal:** Journal of Urban Affairs
+- **Authors:** Christoph Zangger
+- **Pub Date:** 2019-05-17
+- **DOI:** 10.1080/07352166.2019.1584530
+- **Abstract:** ABSTRACT Researchers interested in neighborhood effects face many methodological challenges, including, among others, the unobserved selection into neighborhoods that might be associated with the outcome under study, the identification of endogenous effects, or the dependence of results on a neighborhood’s spatial scale. However, another issue has received little attention. Though theoretical explanations commonly stress the interdependence of individual actions in neighborhoods and the spatial diffusion processes between neighbors, the quantitative methods used to evaluate these approaches usually do not directly model such spillover and multiplier effects from one observation to another. Instead, they control for the resulting spatial correlation; for example, by means of multilevel models. Using spatial weights matrices that reflect the extent to which individual neighbors mutually influence each other, this article demonstrates how spatial econometrics are a means for the simultaneous modeling of different mechanisms of neighborhood effects. It further demonstrates how spatial Durbin models reproduce results from multilevel and instrumental variable models without the need to rely on aggregated characteristics of predefined neighborhoods.
+
+### 3. [Cities and quality of life. Quantitative modeling of the emergence of the happiness field in urban studies](https://doi.org/10.1016/J.CITIES.2018.10.012)
+- **Journal:** Cities
+- **Authors:** I. Papachristou, M. Rosas-Casals
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.CITIES.2018.10.012
+- **Abstract:** Abstract Where we live affects all aspects of our life and thus our happiness. In recent years, and now for more than half of the population of the Earth, our place of residence or activity has been increasingly transformed into an urban one. However, while the impact of happiness studies has grown in importance during the last twenty years, we note that happiness-related concepts find it difficult to penetrate the planning and design of cities, and affect the field of urban studies. In this paper, we map the temporal evolution of the fields of happiness and urban studies into dynamic networks obtained by paper keywords co-occurrence analysis. We identify the main concepts of the “urban happiness” field and their capacity to agglomerate into coherent thematic clusters. We find that while quality of life and well-being are highly interconnected with some well-defined urban categories, other happiness-related concepts, as subjective well-being or happiness itself, are located in peripheral positions where their influence is minimised. We present a one-parameter spatial network model in order to reproduce the changes in the topology of these networks. Results explain the evolution and the level of interpenetration of these two fields as a function of “conceptual” distances, mapped into Euclidean ones. In addition to other approaches (i.e., co-frequency matrix of bibliometric analysis), complex networks science appears as a valid alternative and opens the way for the systematic study of other academic fields in terms of complex evolving networks.
+
+### 4. [Enhancing urban ventilation performance through the development of precinct ventilation zones: A case study based on the Greater Sydney, Australia](https://doi.org/10.1016/J.SCS.2019.101472)
+- **Journal:** Sustainable cities and society
+- **Authors:** Bao-jie He, L. Ding, D. Prasad
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.SCS.2019.101472
+- **Abstract:** Abstract Along with ongoing urban development, cities are experiencing significantly different climates compared with surrounding rural or suburban areas. Among various causes, the traditional modification towards urban surface structures has been evidenced as an explanation for the variations of urban climate. This affirms the significances of urban morphology in urban climate study and management. However, urban morphology that focuses on the homogeneity of urban form is always very intricated, so that it is essential to clearly describe and differentiate the interactions between urban morphology and climatic conditions. Focusing on guiding ventilation performance-based planning, therefore, this paper aims at characterizing urban surface structures for the systematic studies of local ventilation performance. In specific, based on the pluridisciplinary method, this paper developed the protocol for the precinct ventilation characterization. The precinct ventilation zone system was derived according to ‘compactness + building height + street structure’, based on which 20 distinctive types of precinct ventilation zones in the Greater Sydney, Australia were presented. The classification system in this paper can provide wind-related researchers, engineers, designers and planners with intuitive understandings of the ventilation performance, thereby further assisting decision makers to formulate sound planning regulations with the inclusion of urban ventilation.
+
+### 5. [Theoretical foundations for spatial econometric research](https://doi.org/10.1016/J.REGSCIURBECO.2018.04.002)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** Xingbai Xu, Lung-fei Lee
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2018.04.002
+- **Abstract:** Abstract This paper reviews the development of large sample theories for spatial econometric models. These theories form important parts on statistical foundations for spatial econometrics. Another important component is the theoretical economics foundation for spatial econometric model specifications. We discuss how spatial econometric models can be regarded as the Nash equilibrium of some complete information games. Moran's I test for spatial dependence is based on a statistic with a linear-quadratic form. Scores of the ML and moments for 2SLS and GMM are also in linear-quadratic form. A statistic with a linear-quadratic form can be characterized as a sum of martingale differences, so the central limit theorem for martingale difference arrays is crucial for asymptotic distributions of such statistics. For linear spatial models, statistics on linear-quadratic forms are the basis of spatial econometrics. For nonlinear spatial models, near-epoch dependent random fields play a crucial role. We summarize some important properties of near-epoch dependent random fields and illustrate how they are used in studying nonlinear spatial models such as spatial Tobit and spatial binary choice models.
+
+---
+
