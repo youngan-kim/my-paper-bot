@@ -239,3 +239,8 @@ Geospatial Big Data Approaches to Estimate Granular Level Poverty Distribution i
 A time-space dynamic panel data model with spatial moving average errors
 Neighborhood, social cohesion, and the Elderly's depression in Shanghai.
 Network spillovers and neighborhood crime: A computational statistics analysis of employment-based networks of neighborhoods
+A Survey of Space Robotic Technologies for On-Orbit Assembly
+The Econometric Analysis of Non-Stationary Spatial Panel Data
+The Sensitivity of Spatial Regression Models to Network Misspecification
+Machine learning for data-driven discovery in solid Earth geoscience
+Role of economics in analyzing the environment and sustainable development
