@@ -5342,3 +5342,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-06-19
+
+### 1. [Estimation of spatial econometric linear models with large datasets: How big can spatial Big Data be?](https://doi.org/10.1016/J.REGSCIURBECO.2019.01.006)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** G. Arbia, C. Ghiringhelli, A. Mira
+- **Pub Date:** 2019-05-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2019.01.006
+- **Abstract:** Abstract Spatial econometrics is currently experiencing the Big Data revolution both in terms of the volume of data and the velocity with which they are accumulated. Regional data, employed traditionally in spatial econometric modeling, can be very large, with information that are increasingly available at a very fine resolution level such as census tracts, local markets, town blocks, regular grids or other small partitions of the territory. When dealing with spatial microeconometric models referred to the granular observations of the single economic agent, the number of observations available can be a lot higher. This paper reports the results of a systematic simulation study on the limits of the current methodologies when estimating spatial models with large datasets. In our study we simulate a Spatial Lag Model (SLM), we estimate it using Maximum Likelihood (ML), Two Stages Least Squares (2SLS) and Bayesian estimator (B), and we test their performances for different sample sizes and different levels of sparsity of the weight matrices. We considered three performance indicators, namely: computing time, storage required and accuracy of the estimators. The results show that using standard computer capabilities the analysis becomes prohibitive and unreliable when the sample size is greater than 70,000 even for low levels of sparsity. This result suggests that new approaches should be introduced to analyze the big datasets that are quickly becoming the new standard in spatial econometrics.
+
+### 2. [Changing spatial patterns of residential burglary and the crime drop: The need for spatial data signatures](https://doi.org/10.1016/J.JCRIMJUS.2019.04.003)
+- **Journal:** Journal of criminal justice
+- **Authors:** Tarah Hodgkinson, Martin A. Andresen
+- **Pub Date:** 2019-03-01
+- **DOI:** 10.1016/J.JCRIMJUS.2019.04.003
+- **Abstract:** To investigate spatial pattern data signatures in residential burglary resulting from the crime drop.
+
+### 3. [Simulating the impact of transport infrastructure investment on wages: A dynamic spatial panel model approach](https://doi.org/10.1016/J.REGSCIURBECO.2018.12.004)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** B. Fingleton, Nikodem Szumilo
+- **Pub Date:** 2019-03-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2018.12.004
+- **Abstract:** This paper estimates the impact of a multi-billion pound investment in Britain's rail transport infrastructure, in the form of high-speed rail links, on wage levels across each of 347 districts of England and Wales. The impacts are based on a dynamic spatial panel model adaptation of standard urban economics based on employment density and commuting patterns. This allows estimation of these global impacts operating via improved commuting times. We demonstrate that while estimates of a traditional market potential approach with fixed effects are to some extent qualitatively and quantitatively similar to our predictions, our predictions allow more heterogeneous effects and give more accurate forecasts. The study finds that on average wages increase by around 2% as employment centres gain improved access to more skilled workers and as spillover effects become spatially more extensive. While most areas see modest positive effects, some locations are negatively affected, in the extreme case by as much as 7%.
+
+### 4. [The ASIM Mission on the International Space Station](https://doi.org/10.1007/s11214-019-0592-z)
+- **Journal:** Space Science Reviews
+- **Authors:** T. Neubert, N. Østgaard, V. Reglero, E. Blanc, O. Chanrion, C. A. Oxborrow, A. Orr, Matteo Tacconi, Ole Hartnack, Dan D. V. Bhanderi
+- **Pub Date:** 2019-03-01
+- **DOI:** 10.1007/s11214-019-0592-z
+- **Abstract:** The Atmosphere-Space Interactions Monitor (ASIM) is an instrument suite on the International Space Station (ISS) for measurements of lightning, Transient Luminous Events (TLEs) and Terrestrial Gamma-ray Flashes (TGFs). Developed in the framework of the European Space Agency (ESA), it was launched April 2, 2018 on the SpaceX CRS-14 flight to the ISS. ASIM was mounted on an external platform of ESA’s Columbus module eleven days later and is planned to take measurements during minimum 3 years. The instruments are an x- and gamma-ray monitor measuring photons from 15 keV to 20 MeV, and an array of three photometers and two cameras measuring in bands at: 180–250 nm, 337 nm and 777.4 nm. Additional objectives that can be addressed with the instruments relate to space physics like aurorae and meteors, and to Earth observation such as dust- and aerosol effects on cloud electrification. The paper describes the scientific objectives of the ASIM mission, the instruments, the mission architecture and the international collaboration supported by the ASIM Science Data Centre. ASIM is the first space mission with a comprehensive suite of instruments designed to measure TLEs and TGFs. Two companion papers describe the instruments in more detail (Østgaard et al. in Space Sci. Rev., 2019; Chanrion et al. in Space Sci. Rev., 2019).
+
+### 5. [Modeling Crime in an Uptown Neighborhood: The Case of Santa Fe in Mexico City](https://doi.org/10.1080/23754931.2018.1554502)
+- **Journal:** Papers in applied geography
+- **Authors:** Carlos Vilalta, Gustavo Fondevila
+- **Pub Date:** 2019-02-23
+- **DOI:** 10.1080/23754931.2018.1554502
+- **Abstract:** Abstract What are the correlates of crime incidence in an uptown and wealthy neighborhood? This article focuses on the Santa Fe neighborhood in Mexico City as a case study to answer to this question. Theoretically, it makes use of crime pattern and social disorganization theories. It is argued that crime incidence in an uptown neighborhood can also be modeled based on variables that represent crime generators and crime attractors. It is also argued that the existence of structurally disadvantaged census blocks within this neighborhood will increase the odds of crime incidence. Empirically it uses crime incidence data from the local police in Mexico City and census data from the National Institute of Statistics. The study shows that crime opportunity theory gives a better fit to the data, and that a mixed geographically weighted Poisson regression gives more reliable estimates of crime incidence.
+
+---
+

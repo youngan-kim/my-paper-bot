@@ -244,3 +244,8 @@ The Econometric Analysis of Non-Stationary Spatial Panel Data
 The Sensitivity of Spatial Regression Models to Network Misspecification
 Machine learning for data-driven discovery in solid Earth geoscience
 Role of economics in analyzing the environment and sustainable development
+Estimation of spatial econometric linear models with large datasets: How big can spatial Big Data be?
+Changing spatial patterns of residential burglary and the crime drop: The need for spatial data signatures
+Simulating the impact of transport infrastructure investment on wages: A dynamic spatial panel model approach
+The ASIM Mission on the International Space Station
+Modeling Crime in an Uptown Neighborhood: The Case of Santa Fe in Mexico City
