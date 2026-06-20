@@ -249,3 +249,8 @@ Changing spatial patterns of residential burglary and the crime drop: The need f
 Simulating the impact of transport infrastructure investment on wages: A dynamic spatial panel model approach
 The ASIM Mission on the International Space Station
 Modeling Crime in an Uptown Neighborhood: The Case of Santa Fe in Mexico City
+The Concentration of Crime at Place in Montreal and Toronto
+The Spatial Effect of Police Foot Patrol on Crime Patterns: A Local Analysis
+Mixed land use and neighborhood crime.
+Reconfiguring urban governance in an age of rising city networks: A research agenda
+Integrative single-cell analysis
