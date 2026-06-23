@@ -264,3 +264,8 @@ Minimum geocoding match rates: an international study of the impact of data and 
 Interpreting Spatial Econometric Models
 Racial or Spatial Voting? The Effects of Candidate Ethnicity and Ethnic Group Endorsements in Local Elections
 Examining the relationship between neighborhood environment and residential locations of juvenile and adult migrant burglars in China
+Geospatial Time Machine: A Generative Model to Enhance Spectral–Temporal Data Resolution
+Better, Not Just More: Data-centric machine learning for Earth observation
+Identifying the essential influencing factors of landslide susceptibility models based on hybrid-optimized machine learning with different grid resolutions: a case of Sino-Pakistani Karakorum Highway
+Exploring large-scale spatial distribution of fear of crime by integrating small sample surveys and massive street view images
+Traveling Alone or Together? Neighborhood Context on Individual and Group Juvenile and Adult Burglary Decisions

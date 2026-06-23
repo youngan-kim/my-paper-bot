@@ -5498,3 +5498,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-06-23
+
+### 1. [Geospatial Time Machine: A Generative Model to Enhance Spectral–Temporal Data Resolution](https://doi.org/10.1109/TGRS.2025.3552629)
+- **Journal:** IEEE Transactions on Geoscience and Remote Sensing
+- **Authors:** Felipe A. Lopes, V. Sagan, Supria Sarkar, Abby Stylianou, Flavio Esposito
+- **Pub Date:** 2025
+- **DOI:** 10.1109/TGRS.2025.3552629
+- **Abstract:** Geospatial artificial intelligence (GeoAI) and data processing techniques have significantly advanced object detection, prediction, and classification tasks. However, the availability of machine learning-ready, labeled data for specific applications such as plant disease detection remains the major challenge for the broader adoption of GeoAI. For instance, collecting temporal unmanned aerial vehicle (UAV) imagery of agricultural crops to track disease emergence and progress requires substantial human labor and resources, which is often limited to a small spatial scale. Recognizing the pivotal role of temporal data in pattern recognition, object detection, and scene reconstruction, we introduce an innovative approach to augment multispectral temporal datasets: the geospatial time machine (GTM). Our proposed methodology combines graph neural network (GNN) and generative adversarial network (GAN) architectures to generate comprehensive synthetic temporal data encompassing multivariate time series. The results demonstrate that imagery generated through backcasting can enhance the accuracy of downstream classification tasks by up to 53% in plant disease detection, particularly in the initial stages of analyzing a crop growth using multispectral and multitemporal datasets.
+
+### 2. [Better, Not Just More: Data-centric machine learning for Earth observation](https://doi.org/10.1109/MGRS.2024.3470986)
+- **Journal:** IEEE Geoscience and Remote Sensing Magazine
+- **Authors:** R. Roscher, Marc Rußwurm, Caroline M. Gevaert, Michael C. Kampffmeyer, J. A. Dos santos, Maria Vakalopoulou, R. Hänsch, Stine Hansen, Keiller Nogueira, Jonathan Prexl, D. Tuia
+- **Pub Date:** 2023-12-08
+- **DOI:** 10.1109/MGRS.2024.3470986
+- **Abstract:** Recent developments and research in modern machine learning have led to substantial improvements in the geospatial field. Although numerous deep learning architectures and models have been proposed, the majority of them have been solely developed on benchmark datasets that lack strong real-world relevance. Furthermore, the performance of many methods has already saturated on these datasets. We argue that a shift from a model-centric view to a complementary data-centric perspective is necessary for further improvements in accuracy, generalization ability, and real impact on enduser applications. Furthermore, considering the entire machine learning cycle — from problem definition to model deployment with feedback — is crucial for enhancing machine learning models that can be reliable in unforeseen situations. This work presents a definition as well as a precise categorization and overview of automated data-centric learning approaches for geospatial data. It highlights the complementary role of data-centric learning with respect to model-centric in the larger machine learning deployment cycle. We review papers across the entire geospatial field and categorize them into different groups. A set of representative experiments shows concrete implementation examples. These examples provide concrete steps to act on geospatial data with data-centric machine learning approaches.
+
+### 3. [Identifying the essential influencing factors of landslide susceptibility models based on hybrid-optimized machine learning with different grid resolutions: a case of Sino-Pakistani Karakorum Highway](https://doi.org/10.1007/s11356-023-29234-w)
+- **Journal:** Environmental science and pollution research international
+- **Authors:** Jiao Wu, Ya Zhang, Liu Yang, Yongxiang Zhang, Jun Lei, Meixia Zhi, G. Ma
+- **Pub Date:** 2023-08-28
+- **DOI:** 10.1007/s11356-023-29234-w
+- **Abstract:** None
+
+### 4. [Exploring large-scale spatial distribution of fear of crime by integrating small sample surveys and massive street view images](https://doi.org/10.1177/23998083221135608)
+- **Journal:** Environment and Planning B Urban Analytics and City Science
+- **Authors:** Fengrui Jing, Lin Liu, Suhong Zhou, Zhenlong Li, Jiangyu Song, Linsen Wang, Ruofei Ma, Xiaoming Li
+- **Pub Date:** 2022-10-25
+- **DOI:** 10.1177/23998083221135608
+- **Abstract:** A tremendous amount of research use questionnaires to obtain individuals’ fear of crime and aggregate it to the neighborhood level to measure the spatial distribution of fear of crime. However, the cost of using questionnaires to measure the large-scale spatial distribution of fear of crime is high. The built environment is known to influence people’s perceptions, including fear of crime. This study develops a machine learning model to link built environment extracted from street view images to fear of crime obtained from questionnaires, and then applies this model to extrapolate fear of crime for neighborhoods without the questionnaires. Using massive street view images and a survey among 1,741 residents in 80 neighborhoods in Guangzhou, China, this study developed a novel systematic approach to measuring large-scale spatial fear of crime at the neighborhood level for 1,753 neighborhoods. This is the first study to measure fear of crime at the neighborhood level for a metropolitan area of nearly 20 million people. The integration of survey data and street view images provides an opportunity to develop a more effective way to measure the spatial distribution of fear of crime. This approach could be applied to map other types of perceptions at a spatial resolution of the neighborhood level.
+
+### 5. [Traveling Alone or Together? Neighborhood Context on Individual and Group Juvenile and Adult Burglary Decisions](https://doi.org/10.1177/00111287211067177)
+- **Journal:** Crime and delinquency
+- **Authors:** Alyssa W. Chamberlain, Lyndsay N. Boggess, Taylor Fisher
+- **Pub Date:** 2022-01-06
+- **DOI:** 10.1177/00111287211067177
+- **Abstract:** Neighborhood characteristics are important considerations when offenders make targeting decisions. Movement patterns among adults and juveniles vary widely, which impacts both the number of crime opportunities and the range of neighborhoods to which an offender is exposed. We test whether offending patterns among adult and juvenile burglars vary based on distances traveled, the types of neighborhoods targeted, and whether suspects acted alone or in a group. Using discrete choice modeling, we draw upon a unique sample of cleared burglaries in a representative city in the south over a 13-year period. Results show that adult burglars consistently travel further and are more sensitive to neighborhood conditions than their juvenile counterparts, but that group participation makes little difference in target decisions.
+
+---
+
