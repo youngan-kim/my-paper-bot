@@ -269,3 +269,8 @@ Better, Not Just More: Data-centric machine learning for Earth observation
 Identifying the essential influencing factors of landslide susceptibility models based on hybrid-optimized machine learning with different grid resolutions: a case of Sino-Pakistani Karakorum Highway
 Exploring large-scale spatial distribution of fear of crime by integrating small sample surveys and massive street view images
 Traveling Alone or Together? Neighborhood Context on Individual and Group Juvenile and Adult Burglary Decisions
+Exploring the impact of 9398 demolitions on neighborhood-level crime in Detroit, Michigan
+Explaining the temporal and spatial dimensions of robbery: Differences across measures of the physical and social environment
+Chronic urban trauma: The slow violence of housing dispossession
+Analyzing the ENVI-met microclimate model’s performance and assessing cool materials and urban vegetation applications–A review
+Spatiotemporal Modeling of Correlated Small‐Area Outcomes: Analyzing the Shared and Type‐Specific Patterns of Crime and Disorder
