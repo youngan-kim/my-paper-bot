@@ -5576,3 +5576,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-06-25
+
+### 1. [Space-time-coding digital metasurfaces](https://doi.org/10.1038/s41467-018-06802-0)
+- **Journal:** Nature Communications
+- **Authors:** Lei Zhang, X. Q. Chen, Shuo Liu, Qian Zhang, Jie Zhao, J. Dai, G. Bai, X. Wan, Q. Cheng, G. Castaldi, V. Galdi, T. Cui
+- **Pub Date:** 2018-10-18
+- **DOI:** 10.1038/s41467-018-06802-0
+- **Abstract:** The recently proposed digital coding metasurfaces make it possible to control electromagnetic (EM) waves in real time, and allow the implementation of many different functionalities in a programmable way. However, current configurations are only space-encoded, and do not exploit the temporal dimension. Here, we propose a general theory of space-time modulated digital coding metasurfaces to obtain simultaneous manipulations of EM waves in both space and frequency domains, i.e., to control the propagation direction and harmonic power distribution simultaneously. As proof-of-principle application examples, we consider harmonic beam steering, beam shaping, and scattering-signature control. For validation, we realize a prototype controlled by a field-programmable gate array, which implements the harmonic beam steering via an optimized space-time coding sequence. Numerical and experimental results, in good agreement, demonstrate good performance of the proposed approach, with potential applications to diverse fields such as wireless communications, cognitive radars, adaptive beamforming, holographic imaging. Current digital coding metasurfaces are only space-encoded. Here, the authors propose space-time modulated digital coding metasurfaces to obtain simultaneous manipulations of electromagnetic waves and present harmonic beam steering, beam shaping, and scattering-signature control as application examples.
+
+### 2. [Dynamic DNA methylation: In the right place at the right time](https://doi.org/10.1126/science.aat6806)
+- **Journal:** Science
+- **Authors:** C. Luo, P. Hájková, J. Ecker
+- **Pub Date:** 2018-09-28
+- **DOI:** 10.1126/science.aat6806
+- **Abstract:** The classical model of cytosine DNA methylation (the presence of 5-methylcytosine, 5mC) regulation depicts this covalent modification as a stable repressive regulator of promoter activity. However, whole-genome analysis of 5mC reveals widespread tissue- and cell type–specific patterns and pervasive dynamics during mammalian development. Here we review recent findings that delineate 5mC functions in developmental stages and diverse genomic compartments as well as discuss the molecular mechanisms that connect transcriptional regulation and 5mC. Beyond the newly appreciated dynamics, regulatory roles for 5mC have been suggested in new biological contexts, such as learning and memory or aging. The use of new single-cell measurement techniques and precise editing tools will enable functional analyses of 5mC in gene expression, clarifying its role in various biological processes.
+
+### 3. [Institutional Completeness and Crime Rates in Immigrant Neighborhoods](https://doi.org/10.1177/0022427818799125)
+- **Journal:** Journal of research in crime and delinquency
+- **Authors:** C. Kubrin, Young-An Kim, John R. Hipp
+- **Pub Date:** 2018-09-19
+- **DOI:** 10.1177/0022427818799125
+- **Abstract:** Objectives: A growing body of research finds that immigration has a null or negative association with neighborhood crime rates. We build on this important literature by investigating the extent to which one theory, institutional completeness theory, may help explain lower crime rates in immigrant communities across the Southern California region. Specifically, we test whether two key measures of institutional completeness—the presence of immigrant/ethnic voluntary organizations in the community and the presence and diversity of immigrant/ethnic businesses in the community—account for lower crime rates in some immigrant communities. Method: Compiling a tract-level data set utilizing various data sources, we estimate negative binomial regression models predicting violent and property crime levels that include measures of institutional completeness while controlling for a range of neighborhood correlates of crime. We also account for possible endogeneity by estimating instrumental variable models. Results: The results reveal very limited support for institutional completeness theory. Conclusions: Several possible explanations for these findings are discussed.
+
+### 4. [Connected in Crime: The Enduring Effect of Neighborhood Networks on the Spatial Patterning of Violence1](https://doi.org/10.1086/699217)
+- **Journal:** American Journal of Sociology
+- **Authors:** A. Papachristos, S. Bastomski
+- **Pub Date:** 2018-09-01
+- **DOI:** 10.1086/699217
+- **Abstract:** The unequal spatial distribution of crime is an enduring feature of cities. While research suggests that spatial diffusion processes heighten this concentration, the actual mechanisms of diffusion are not well understood as research rarely measures the ways in which people, groups, and behaviors connect neighborhoods. This study considers how a particular behavior, criminal co-offending, creates direct and indirect pathways between neighborhoods. Analyzing administrative records and survey data, the authors find that individual acts of co-offending link together to create a “network of neighborhoods,” facilitating the diffusion of crime over time and across space and, in so doing, create pathways between all Chicago neighborhoods. Statistical analyses demonstrate that these neighborhood networks are (1) stable over time; (2) generated by important structural characteristics, social processes, and endogenous network properties; and (3) a better predictor of the geographic distribution of crime than traditional spatial models.
+
+### 5. [Crime-general and crime-specific spatial patterns: A multivariate spatial analysis of four crime types at the small-area scale](https://doi.org/10.1016/J.JCRIMJUS.2018.06.003)
+- **Journal:** Journal of criminal justice
+- **Authors:** Matthew Quick, Guangquan Li, I. brunton-smith
+- **Pub Date:** 2018-09-01
+- **DOI:** 10.1016/J.JCRIMJUS.2018.06.003
+- **Abstract:** Abstract Purpose To examine if, and how, spatial crime patterns are explained by one or more underlying crime-general patterns. Methods A set of Bayesian multivariate spatial models are applied to analyze burglary, robbery, vehicle crime, and violent crime at the small-area scale. The residual variability of each crime type is partitioned into shared and type-specific components after controlling for the effects of population density, deprivation, residential instability, and ethnic heterogeneity. Shared components account for the correlations between crime types and identify the crime-general patterns shared amongst multiple crimes. Results Two shared components are estimated to capture the crime-general pattern for all four crime types and the crime-general pattern for theft-related crimes (burglary, robbery, and vehicle crime). Robbery and violent crime exhibit the strongest positive associations with deprivation, instability, and ethnic heterogeneity. Shared components explain the largest proportions of variability for all crime types. Burglary, robbery, and vehicle crime each exhibit type-specific patterns that diverge from the crime-general patterns. Conclusions Crime-general patterns are important for understanding the spatial patterning of many crime types at the small-area scale. Multivariate spatial models provide a framework to directly quantify the correlation structures between crimes and reveal the underlying crime-general patterns shared amongst multiple crime types.
+
+---
+

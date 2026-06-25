@@ -274,3 +274,8 @@ Explaining the temporal and spatial dimensions of robbery: Differences across me
 Chronic urban trauma: The slow violence of housing dispossession
 Analyzing the ENVI-met microclimate model’s performance and assessing cool materials and urban vegetation applications–A review
 Spatiotemporal Modeling of Correlated Small‐Area Outcomes: Analyzing the Shared and Type‐Specific Patterns of Crime and Disorder
+Space-time-coding digital metasurfaces
+Dynamic DNA methylation: In the right place at the right time
+Institutional Completeness and Crime Rates in Immigrant Neighborhoods
+Connected in Crime: The Enduring Effect of Neighborhood Networks on the Spatial Patterning of Violence1
+Crime-general and crime-specific spatial patterns: A multivariate spatial analysis of four crime types at the small-area scale
