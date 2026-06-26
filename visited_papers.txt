@@ -279,3 +279,8 @@ Dynamic DNA methylation: In the right place at the right time
 Institutional Completeness and Crime Rates in Immigrant Neighborhoods
 Connected in Crime: The Enduring Effect of Neighborhood Networks on the Spatial Patterning of Violence1
 Crime-general and crime-specific spatial patterns: A multivariate spatial analysis of four crime types at the small-area scale
+Research on black spot identification of safety in urban traffic accidents based on machine learning method
+An improved model for gas-liquid flow pattern prediction based on machine learning
+The framework of urban exposome: Application of the exposome concept in urban health studies.
+Effects of urban form on the urban heat island effect based on spatial regression model.
+Low-Income Housing and Crime: The Influence of Housing Development and Neighborhood Characteristics
