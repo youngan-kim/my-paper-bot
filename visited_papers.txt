@@ -289,3 +289,8 @@ Revisiting the Crime Control Benefits of Voluntary Organizations: Organizational
 Examining the Association Between Massage Parlors and Neighborhood Crime
 Urban mobility and neighborhood isolation in America’s 50 largest cities
 A spatial overview of the global importance of Indigenous lands for conservation
+Urban growth simulation by incorporating planning policies into a CA-based future land-use simulation model
+Towards a Crime Hotspot Detection Framework for Patrol Planning
+Do spatial patterns of urbanization and land consumption reflect different socioeconomic contexts in Europe?
+On the Use and Abuse of Spatial Instruments
+Optimal Spatial Policies, Geography, and Sorting*
