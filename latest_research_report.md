@@ -5736,3 +5736,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-06-29
+
+### 1. [Experimental effects of climate messages vary geographically](https://doi.org/10.1038/s41558-018-0122-0)
+- **Journal:** Nature Climate Change
+- **Authors:** Baobao Zhang, S. van der Linden, M. Mildenberger, J. Marlon, P. Howe, A. Leiserowitz
+- **Pub Date:** 2018-04-16
+- **DOI:** 10.1038/s41558-018-0122-0
+- **Abstract:** None
+
+### 2. [Using Social Media to Measure Temporal Ambient Population: Does it Help Explain Local Crime Rates?](https://doi.org/10.1080/07418825.2018.1445276)
+- **Journal:** Justice quarterly
+- **Authors:** John R. Hipp, Christopher J. Bates, Moshe Lichman, Padhraic Smyth
+- **Pub Date:** 2018-03-20
+- **DOI:** 10.1080/07418825.2018.1445276
+- **Abstract:** A challenge for studies assessing routine activities theory is accounting for the spatial and temporal confluence of offenders and targets given that people move about during the daytime and nighttime. We propose exploiting social media (Twitter) data to construct estimates of the population at various locations at different times of day, and assess whether these estimates help predict the amount of crime during two-hour time periods over the course of the day. We address these questions using crime data for 97,428 blocks in the Southern California region, along with geocoded information on tweets in the region over an eight month period. The results show that this measure of the temporal ambient population helps explain the level of crime in blocks during particular time periods. The use of social media data appear promising for testing various implications of routine activities and crime pattern theories, given their explicit spatial and temporal nature.
+
+### 3. [Spillovers in Space and Time: Where Spatial Econometrics and Global VAR Models Meet](https://doi.org/10.2866/084378)
+- **Journal:** Social Science Research Network
+- **Authors:** J. Elhorst, M. Gross, Eugen Tereanu
+- **Pub Date:** 2018-02-01
+- **DOI:** 10.2866/084378
+- **Abstract:** We bring together the spatial and global vector autoregressive (GVAR) classes of econometric models by providing a detailed methodological review of where they meet in terms of structure, interpretation, and estimation methods. We discuss the structure of cross-section connectivity (weight) matrices used by these models and its implications for estimation. Primarily motivated by the continuously expanding literature on spillovers, we define a broad and measurable concept of spillovers. We formalize it analytically through the indirect effects used in the spatial literature and impulse responses used in the GVAR literature. Finally, we propose a practical step-by-step approach for applied researchers who need to account for the existence and strength of cross-sectional dependence in the data. This approach aims to support the selection of the appropriate modeling and estimation method and of choices that represent empirical spillovers in a clear and interpretable form. JEL Classification: C33, C38, C51
+
+### 4. [Postsecondary Education, Neighborhood Disadvantage, and Crime: An Examination of Life Course Relative Deprivation](https://doi.org/10.1177/0011128717753115)
+- **Journal:** Crime and delinquency
+- **Authors:** Christopher R. Dennison, Raymond R. Swisher
+- **Pub Date:** 2018-01-13
+- **DOI:** 10.1177/0011128717753115
+- **Abstract:** The growing importance of a college degree for economic stability, coupled with increasing educational inequality in the United States, suggest potential criminogenic implications for downward educational mobility. Using data from the National Longitudinal Study of Adolescent to Adult Health (Add Health), this article examines the associations between intergenerational educational mobility, neighborhood disadvantage in adulthood, and crime. Drawing on the few extant studies of educational mobility and crime, as well as social comparison theory, it tests whether the consequences of downward educational mobility are moderated by neighborhood contexts. Results suggest that downward mobility is associated with increases in crime, and most strongly in more advantaged neighborhoods. The implications of these findings for future research on social mobility, education, and crime are discussed.
+
+### 5. [Social place-cells in the bat hippocampus](https://doi.org/10.1126/science.aao3474)
+- **Journal:** Science
+- **Authors:** David B. Omer, S. Maimon, Liora Las, N. Ulanovsky
+- **Pub Date:** 2018-01-12
+- **DOI:** 10.1126/science.aao3474
+- **Abstract:** None
+
+---
+

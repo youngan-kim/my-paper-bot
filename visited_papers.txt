@@ -294,3 +294,8 @@ Towards a Crime Hotspot Detection Framework for Patrol Planning
 Do spatial patterns of urbanization and land consumption reflect different socioeconomic contexts in Europe?
 On the Use and Abuse of Spatial Instruments
 Optimal Spatial Policies, Geography, and Sorting*
+Experimental effects of climate messages vary geographically
+Using Social Media to Measure Temporal Ambient Population: Does it Help Explain Local Crime Rates?
+Spillovers in Space and Time: Where Spatial Econometrics and Global VAR Models Meet
+Postsecondary Education, Neighborhood Disadvantage, and Crime: An Examination of Life Course Relative Deprivation
+Social place-cells in the bat hippocampus
