@@ -5775,3 +5775,43 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-06-30
+
+### 1. [Integrated flood susceptibility mapping using machine learning and geospatial techniques: a case study of Imo State, Southeastern Nigeria](https://doi.org/10.1016/j.jafrearsci.2025.105872)
+- **Journal:** Journal of African Earth Sciences
+- **Authors:** E. Okoli, Kawa Maximus Josephine, C. Agoha, D. O. Ikoro, D. Oyinebielador, E. Aniyom, Jeremiah Toluwani Oladipupo, Uzochukwu David Emenyonu
+- **Pub Date:** 2026-01-01
+- **DOI:** 10.1016/j.jafrearsci.2025.105872
+- **Abstract:** None
+
+### 2. [Landslide Susceptibility Mapping Optimization for Improved Risk Assessment Using Multicollinearity Analysis and Machine Learning Technique](https://doi.org/10.3390/app152212152)
+- **Journal:** Applied Sciences
+- **Authors:** B. R. Joshi, N. Bhandary, I. P. Acharya, Niraj Kc, Chakra Bhandari
+- **Pub Date:** 2025-11-16
+- **DOI:** 10.3390/app152212152
+- **Abstract:** This study integrates geospatial modeling with multi-criteria decision analysis for an improved approach to landslide susceptibility mapping (LSM). This approach addresses key challenges in LSM through sophisticated multicollinearity analysis and machine learning strategies. We compared three machine learning models for weighting, and of them the Permutation-Weighted model yielded the best prediction results, with an Area Under Curve (AUC) of 95%, an accuracy of 69%, and a recall of 66%. To resolve perfect multicollinearity (r = 1) between land use land cover (LULC) and geological factors, we implemented Principal Component Analysis (PCA). The selected factors demonstrated strong predictive power, with the PCA-derived features exhibiting the best performance, having a Variation Inflation Factor (VIF) of 1.004. Slope appeared as the most influential factor (51.7% contribution), while the Topographic Wetness Index (TWI) was less dominant with only 6.6%. Multiple landslide susceptibility mapping methods yielded consistent results, with 29.8–30.1% of the study area showing moderate susceptibility and 35.2–36.9% in the high to very high susceptibility class. The model also incorporated vulnerability parameters weighted by the United Nations Office for Disaster Risk Reduction (UNDRR) indicators, including farmland, buildings, bare land, water bodies, roads, and amenities to generate hazard, vulnerability, and risk maps. The results were verified through visual comparison with high-resolution Google Earth imagery. The Permutation-Weighted model performed better than others, categorizing 12.4% at high-risk, while Random Forest (RF) categorized 7.2% at high risk. This study makes three key contributions: (1) It establishes the effectiveness of PCA/VIF for variable selection, (2) it provides a comparison of machine learning weighting techniques, and (3) it validates a workflow applicable to data-scarce regions.
+
+### 3. [Assessing the Number of Criteria in GIS‐Based Multicriteria Evaluation: A Machine Learning Approach](https://doi.org/10.1111/gean.70004)
+- **Journal:** Geographical Analysis
+- **Authors:** Lan Qing Zhao, S. Dragićević, Shivanand Balram, Liliana Perez
+- **Pub Date:** 2025-03-27
+- **DOI:** 10.1111/gean.70004
+- **Abstract:** The analytical hierarchy process (AHP) is a widely used approach and a decision rule to derive criteria weights in geographic information system‐based multi‐criteria evaluation (GIS‐MCE). However, one limitation of the AHP method is that it constrains the number of criteria that can be meaningfully weighted to typically seven to nine criteria. Recently, machine learning (ML) techniques have emerged as a compelling alternative for deriving criteria weights. This research aims to assess the capabilities of ML‐MCE in handling a larger number of criteria and is specifically applied to a case study of urban suitability analysis. The random forest (RF) ML technique is used to evaluate the ability of the MCE method to handle up to 27 criteria. Geospatial data from the Metro Vancouver Region, Canada, are used, with the criteria subdivided into 11 groups starting with the most basic seven criteria and incrementally adding two new criteria per group. The results indicate the RF‐ML approach can manage a larger number of criteria compared to the traditional AHP approach, with 15 criteria providing a meaningful upper threshold, demonstrating its potential to accommodate a wider range of stakeholder preferences for complex urban suitability analysis contexts.
+
+### 4. [Poverty Mapping in India using Machine Learning and Deep Learning Techniques](https://doi.org/10.5194/isprs-annals-x-4-2024-319-2024)
+- **Journal:** ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+- **Authors:** R. Srishti Gulecha, K. Muthu Reshmi, N. Rishitha, K. Vani
+- **Pub Date:** 2024-10-18
+- **DOI:** 10.5194/isprs-annals-x-4-2024-319-2024
+- **Abstract:** Abstract. Poverty remains a persistent global challenge, that affects millions worldwide and hinders sustainable development goals. Poverty related data is traditionally collected by an on-the-ground household survey which is conducted once in a few years. Unfortunately, in India, the reach of this conventional data collection method has many limitations, and it is costly, time-consuming, and laborious. The study will assist in identifying areas of poverty and also the levels of poverty which will help policymakers in creating policies that will improve such areas. The research leverages a rich variety of data sources which includes satellite imagery, geospatial data, socio-economic surveys and Point of Interest (POI) data. To extract meaningful patterns and correlations within this diverse dataset, various machine learning and deep learning algorithms such as Decision Tree Regressor, Random Forest Regressor, Convolutional Neural Networks (CNNs) and Multi Layer Perceptron (MLP) are employed. With the help of Random Forest Regressor, the study was able to estimate the poverty at village/town level with a R2-score of 0.778.
+
+
+### 5. [Detection and Characterization of Urban Heat Islands with Machine Learning](https://doi.org/10.1109/IGARSS53475.2024.10641750)
+- **Journal:** IEEE International Geoscience and Remote Sensing Symposium
+- **Authors:** M. Bhamjee, Hiyam Debary, Zaheed Gaffoor, Tamara Govindasamy, Craig Mahlasi, M. Fiaz, Etienne Vos, Levente J. Klein, S. Makhanya, Campbell D. Watson, Julian Kuehnert
+- **Pub Date:** 2024-07-07
+- **DOI:** 10.1109/IGARSS53475.2024.10641750
+- **Abstract:** Assessing and understanding the urban scale impacts of extreme climate events is a global necessity. Risks associated with heat, where intra-urban dynamics and rural/urban boundary conditions greatly impact its distribution, are of particular interest as the evolution of climate change and ur-banization persists. Characterizing Urban Heat Island (UHI) effects is dependent on the availability of high-resolution near-surface air temperature maps and a description of the Local Climate Zones (LCZs). This study assesses the applicability of state-of-the-art (SOTA) Artificial Intelligence (AI) techniques for UHI detection and characterization. A Geospatial Foundation Model (GFM) is fine-tuned to predict 2 m air temperature at a 1 km resolution for the urban areas of Johannesburg, South Africa, with mean absolute error measures less than 1.5 °C. UHI characterization is further enabled through a Fully Connected Network (FCN) model for LCZs classification for the same region of interest.
+
+---
+

@@ -299,3 +299,8 @@ Using Social Media to Measure Temporal Ambient Population: Does it Help Explain 
 Spillovers in Space and Time: Where Spatial Econometrics and Global VAR Models Meet
 Postsecondary Education, Neighborhood Disadvantage, and Crime: An Examination of Life Course Relative Deprivation
 Social place-cells in the bat hippocampus
+Integrated flood susceptibility mapping using machine learning and geospatial techniques: a case study of Imo State, Southeastern Nigeria
+Landslide Susceptibility Mapping Optimization for Improved Risk Assessment Using Multicollinearity Analysis and Machine Learning Technique
+Assessing the Number of Criteria in GIS‐Based Multicriteria Evaluation: A Machine Learning Approach
+Poverty Mapping in India using Machine Learning and Deep Learning Techniques
+Detection and Characterization of Urban Heat Islands with Machine Learning
