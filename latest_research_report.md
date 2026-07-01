@@ -5815,3 +5815,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-07-01
+
+### 1. [The surface urban heat island response to urban expansion: A panel analysis for the conterminous United States.](https://doi.org/10.1016/j.scitotenv.2017.06.229)
+- **Journal:** Science of the Total Environment
+- **Authors:** Xiaoma Li, Yuyu Zhou, G. Asrar, M. Imhoff, Xuecao Li
+- **Pub Date:** 2017-12-15
+- **DOI:** 10.1016/j.scitotenv.2017.06.229
+- **Abstract:** None
+
+### 2. [Ecological Networks and Urban Crime: The Structure of Shared Routine Activity Locations and Neighborhood-Level Informal Control Capacity.](https://doi.org/10.1111/1745-9125.12152)
+- **Journal:** Criminology (Beverly Hills)
+- **Authors:** Christopher R. Browning, Catherine A. Calder, Bethany Boettner, Anna L. Smith
+- **Pub Date:** 2017-11-01
+- **DOI:** 10.1111/1745-9125.12152
+- **Abstract:** Drawing on Jacobs (1961), we hypothesize that public contact among neighborhood residents while engaged in day-to-day routines, captured by the aggregate network structure of shared local exposure, is consequential for crime. Neighborhoods in which residents come into contact more extensively in the course of conventional routines will exhibit higher levels of public familiarity, trust, and collective efficacy with implications for the informal social control of crime. We employ the concept of ecological (“eco-”) networks – networks linking households within neighborhoods through shared activity locations – to formalize the notion of overlapping routines. Using micro-simulations of household travel patterns to construct census tract-level eco-networks for Columbus, OH, we examine the hypothesis that eco-network intensity (the probability that households tied through one location in a neighborhood eco-network will also be tied through another visited location) is negatively associated with tract-level crime rates (N=192). Fitted spatial autoregressive models offer evidence that neighborhoods with higher intensity eco-networks exhibit lower levels of violent and property crime. In contrast, a higher prevalence of non-resident visitors to a given tract is positively associated with property crime. These analyses hold the potential to enrich insight into the ecological processes that shape variation in neighborhood crime.
+
+### 3. [Reframing place promotion, place marketing, and place branding - moving beyond conceptual confusion](https://doi.org/10.1016/J.CITIES.2017.08.021)
+- **Journal:** Cities
+- **Authors:** Martin Boisen, K. Terlouw, P. Groote, O. Couwenberg
+- **Pub Date:** 2017-11-01
+- **DOI:** 10.1016/J.CITIES.2017.08.021
+- **Abstract:** Abstract The literature and practice of place promotion, place marketing and place branding lack a common understanding of what these three concepts mean and through what kind of policies they can be implemented. Although scholars have provided several theoretical frameworks and definitions, both scholars and practitioners (advisors, civil servants, public and private stakeholders, and politicians) often use them synonymously. This paper argues that recent developments in both theory and practice – with respect to place promotion, place marketing and place branding – provide an opportunity to address this conceptual confusion. In the academic debate, a common understanding is slowly emerging and in practice, a more integral approach is gaining ground. To contribute to these advances, we present the outline of a framework to help distinguish between place promotion, place marketing and place branding, along with a discussion on why we believe these differences (should) matter to practitioners.
+
+### 4. [The spatial politics of place and health policy: Exploring Sustainability and Transformation Plans in the English NHS.](https://doi.org/10.1016/j.socscimed.2017.08.007)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** J. Hammond, Colin Lorne, A. Coleman, P. Allen, N. Mays, Rinita Dam, T. Mason, K. Checkland
+- **Pub Date:** 2017-10-01
+- **DOI:** 10.1016/j.socscimed.2017.08.007
+- **Abstract:** None
+
+### 5. [Behavioral time scale synaptic plasticity underlies CA1 place fields](https://doi.org/10.1126/science.aan3846)
+- **Journal:** Science
+- **Authors:** Katie C. Bittner, Aaron D. Milstein, Christine Grienberger, S. Romani, J. Magee
+- **Pub Date:** 2017-09-08
+- **DOI:** 10.1126/science.aan3846
+- **Abstract:** A different form of synaptic plasticity How do synaptic or other neuronal changes support learning? This subject has been dominated by Hebb's postulate of synaptic change. Although there is strong experimental support for Hebbian plasticity in a number of preparations, alternative ideas have also been developed over the years. Bittner et al. provide in vivo, in vitro, and modeling data to support the view that non-Hebbian plasticity may underlie the formation of hippocampal place fields (see the Perspective by Krupic). Instead of multiple pairings, a single strong Ca2+ plateau potential in neuronal dendrites paired with spatial inputs may be sufficient to produce place cells. Science, this issue p. 1033; see also p. 974 A particular type of long–time scale plasticity shapes the formation of stable place fields in the hippocampus. Learning is primarily mediated by activity-dependent modifications of synaptic strength within neuronal circuits. We discovered that place fields in hippocampal area CA1 are produced by a synaptic potentiation notably different from Hebbian plasticity. Place fields could be produced in vivo in a single trial by potentiation of input that arrived seconds before and after complex spiking. The potentiated synaptic input was not initially coincident with action potentials or depolarization. This rule, named behavioral time scale synaptic plasticity, abruptly modifies inputs that were neither causal nor close in time to postsynaptic activation. In slices, five pairings of subthreshold presynaptic activity and calcium (Ca2+) plateau potentials produced a large potentiation with an asymmetric seconds-long time course. This plasticity efficiently stores entire behavioral sequences within synaptic weights to produce predictive place cell activity.
+
+---
+

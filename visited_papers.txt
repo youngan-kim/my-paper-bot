@@ -304,3 +304,8 @@ Landslide Susceptibility Mapping Optimization for Improved Risk Assessment Using
 Assessing the Number of Criteria in GIS‐Based Multicriteria Evaluation: A Machine Learning Approach
 Poverty Mapping in India using Machine Learning and Deep Learning Techniques
 Detection and Characterization of Urban Heat Islands with Machine Learning
+The surface urban heat island response to urban expansion: A panel analysis for the conterminous United States.
+Ecological Networks and Urban Crime: The Structure of Shared Routine Activity Locations and Neighborhood-Level Informal Control Capacity.
+Reframing place promotion, place marketing, and place branding - moving beyond conceptual confusion
+The spatial politics of place and health policy: Exploring Sustainability and Transformation Plans in the English NHS.
+Behavioral time scale synaptic plasticity underlies CA1 place fields
