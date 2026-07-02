@@ -5854,3 +5854,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-07-02
+
+### 1. [Place branding as urban policy: the (im)political place branding](https://doi.org/10.1016/J.CITIES.2017.08.004)
+- **Journal:** Cities
+- **Authors:** Andrea Lucarelli
+- **Pub Date:** 2017-08-31
+- **DOI:** 10.1016/J.CITIES.2017.08.004
+- **Abstract:** Abstract The present paper argues for more conceptually-laden research on the constitution of place branding as a hybrid form of urban policy. By both drawing from empirical examples and problematizing the extensive research on place branding, this paper offers the view of place branding as an impolitical form of urban policy that emerges as a biopolitical apparatus in an ecology of complex political practices which can materialize both negatively and positively. Ultimately, this paper outlines a novel alternative approach for conducting research and analyse the politics of place branding. Such an approach has the potential to more clearly analyse and theorize the political dimensions of place branding.
+
+### 2. [Classifying urban land use by integrating remote sensing and social media data](https://doi.org/10.1080/13658816.2017.1324976)
+- **Journal:** International Journal of Geographical Information Science
+- **Authors:** Xiaoping Liu, Jialv He, Yao Yao, Jinbao Zhang, Haolin Liang, Huan Wang, Ye Hong
+- **Pub Date:** 2017-05-10
+- **DOI:** 10.1080/13658816.2017.1324976
+- **Abstract:** ABSTRACT Urban land use information plays an important role in urban management, government policy-making, and population activity monitoring. However, the accurate classification of urban functional zones is challenging due to the complexity of urban systems. Many studies have focused on urban land use classification by considering features that are extracted from either high spatial resolution (HSR) remote sensing images or social media data, but few studies consider both features due to the lack of available models. In our study, we propose a novel scene classification framework to identify dominant urban land use type at the level of traffic analysis zone by integrating probabilistic topic models and support vector machine. A land use word dictionary inside the framework was built by fusing natural–physical features from HSR images and socioeconomic semantic features from multisource social media data. In addition to comparing with manual interpretation data, we designed several experiments to test the land use classification accuracy of our proposed model with different combinations of previously acquired semantic features. The classification results (overall accuracy = 0.865, Kappa = 0.828) demonstrate the effectiveness of our strategy that blends features extracted from multisource geospatial data as semantic features to train the classification model. This method can be applied to help urban planners analyze fine urban structures and monitor urban land use changes, and additional data from multiple sources will be blended into this proposed framework in the future.
+
+### 3. [Guerrilla warfare, flagship project: the spatial politics of Chinese rock in Shenzhen’s post-political making of a musical city](https://doi.org/10.1016/J.GEOFORUM.2017.04.014)
+- **Journal:** Social Science Research Network
+- **Authors:** June Wang, Li Chen
+- **Pub Date:** 2017-04-26
+- **DOI:** 10.1016/J.GEOFORUM.2017.04.014
+- **Abstract:** Abstract Chinese rock, premised on an identity of dissenters, has always been underground symbolically and literally, in a pattern of spatial fluidity in the city. The introduction of live house might offer a solid material base for political subjectivation of the community. This spatial action of subjectivation in forms of “guerrilla warfare”, encounters the growing passion for cultural city making by Municipal Governments. Through the study on transformation of rock space in Shenzhen, we aim to reflect on scholarship on post-political forms of urban governance in China. By probing into the antagonistic actions of the police and the political, we call for attention to territorial strategies used by both sides to consolidate the existing order and to assert a new order respectively. The double side of partition revealed by Rancirian conception of politics of aesthetics allows the governing side to pick and co-opt particular producers and live houses while collapse and/or policing others to re-consolidate spatial orders. Guided by expert-formed consensus, citizen entitlement and citizen participation programmes convert cities to be propaganda sites where state-sanctioned aesthetics is delivered to and experienced by subject-citizens.
+
+### 4. [A new method for dealing simultaneously with spatial autocorrelation and spatial heterogeneity in regression models](https://doi.org/10.1016/J.REGSCIURBECO.2017.04.001)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** G. Geniaux, Davide Martinetti
+- **Pub Date:** 2017-04-12
+- **DOI:** 10.1016/J.REGSCIURBECO.2017.04.001
+- **Abstract:** Although spatial heterogeneity and spatial dependence are two cornerstones of spatial econometrics, models and methods for dealing at the same time with both issues are still rare in the literature, with few notable exceptions. The same can be said for studies on the performance of spatial econometric models under misspecification of explanatory variables and unknown structure of the spatial weight matrix. In this article, we introduce a new class of data generating processes (DGP), called MGWR-SAR, in which the regression parameters and the spatial autocorrelation coefficient can vary over the space. For the estimation of these new models, we resort to the Spatial Two-Stage Least Squares (S2SLS) technique. We rely on a Monte Carlo experiment for testing the performance of classical models, such as OLS, GWR (Geographically Weighted Regression), mixed GWR and SAR (Spatial AutoRegressive model), as well as our proposals, paying special attention to simulated data under the realistic assumption that they suffer from multicollinearity/concurvity problems and/or misspecification of the covariates. The results suggest that certain model specifications amongst the newly proposed family MGWR-SAR are the more robust. Furthermore, to complete our proposal, we also suggest a specification procedure to identify the correct spatial weight matrix for DGPs with spatial heterogeneity and spatial autocorrelation of the endogenous. We conclude the article with an empirical study on the Lucas County house price dataset, confirming the good performance of the proposed estimators.
+
+### 5. [Firefly algorithm with neighborhood attraction](https://doi.org/10.1016/J.INS.2016.12.024)
+- **Journal:** Information Sciences
+- **Authors:** Hui Wang, Wenjun Wang, Xinyu Zhou, Hui Sun, Jia Zhao, Xiang Yu, Zhihua Cui
+- **Pub Date:** 2017-03-01
+- **DOI:** 10.1016/J.INS.2016.12.024
+- **Abstract:** None
+
+---
+
