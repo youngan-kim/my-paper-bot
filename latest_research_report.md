@@ -5893,3 +5893,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-07-03
+
+### 1. [AI-DRIVEN GEOSPATIAL ANALYSIS IN ECOSYSTEM MANAGEMENT: INTEGRATION OF MACHINE LEARNING METHODS](https://doi.org/10.32328/turkjforsci.1704059)
+- **Journal:** TURKISH JOURNAL OF FOREST SCIENCE
+- **Authors:** C. Saygıner, E. Nurlu
+- **Pub Date:** 2025-10-27
+- **DOI:** 10.32328/turkjforsci.1704059
+- **Abstract:** The escalating complexity of environmental pressures, including climate change, loss of biodiversity, and land degradation, demands new and integrated, science-based solutions for managing ecosystems. In this study, it is explored how the integration of machine learning (ML) and geospatial analysis is a truly transformative approach to understand, monitor, and manage ecosystems. Through reviewing a wide spectrum of recent research and cases, the paper evaluates the integration of ML processes—e.g., Random Forest, Support Vector Machines, Artificial Neural Networks, and deep learning models—alongside geospatial technologies like GIS, remote sensing, and satellite image technology. Importantly, the research focuses on Python and R as strong programming platforms for developing ecological AI solutions and underscores their importance for data preprocessing, predictive models, visualization, and decision support. A select group of fifteen case studies illustrates successful applications across various ecological scenarios, including assessments of deforestation, biodiversity conservation, land use and land cover classification, and evaluation of ecosystem services. These articles were selected to illustrate methodological variety, geographic coverage, and applied relevance of advances in ecosystem management. Furthermore, the review covers significant methodological progress, toolkits, and platform integration (such as Google Earth Engine and TensorFlow), which are used across geospatial AI workflows. It also highlights ongoing issues—e.g., data quality, computational demand, model interpretability, and ethical considerations—and possible avenues for future research and interdisciplinary collaboration and outlines future directions to foster cross-disciplinary research and sustainable AI application. This synthesis illustrates the promise of the consolidation of AI and geospatial analysis to support adaptive, transparent, and efficient ecosystem management amid the rapid global change.
+
+### 2. [Learning from man or machine: Spatial fixed effects in urban econometrics](https://doi.org/10.1016/J.REGSCIURBECO.2019.04.005)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** Å. Sommervoll, D. E. Sommervoll
+- **Pub Date:** 2019-07-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2019.04.005
+- **Abstract:** Econometric models with spatial fixed effects (FE) require some kind of spatial aggregation. This aggregation may be based on postcode, school district, county or some other spatial subdivision. Common sense would suggest that the less aggregated, the better inasmuch as aggregation over larger areas tends to gloss over systematic spatial variation. On the other hand, low spatial aggregation results in thin data sets and potentially noisy spatial fixed effects. We show, however, how this trade-off can be substantially lessened if we allow for more flexible aggregations. The key insight is that if we aggregate over areas with similar location premiums, we obtain robust location premiums without glossing over too much of the spatial variation. We use machine learning in the form of a genetic algorithm to identify areas with similar location premiums. The best aggregations found by the genetic algorithm outperform a conventional FE by postcode, even with an order of magnitude fewer spatial controls. This opens the door for spatially sparse FEs, if economy in the number of variables is important. The major takeaway, however, is that the genetic algorithm can find spatial aggregations that are both refined and robust, and thus significantly, lessen the trade-off between robust and refined location premium estimates.
+
+### 3. [A systems approach reveals urban pollinator hotspots and conservation opportunities](https://doi.org/10.1038/s41559-018-0769-y)
+- **Journal:** Nature Ecology & Evolution
+- **Authors:** K. Baldock, Mark A. Goddard, D. Hicks, W. Kunin, N. Mitschunas, Helen Morse, Lynne M. Osgathorpe, S. Potts, Kirsty M. Robertson, A. V. Scott, Phillip P. A. Staniczenko, G. Stone, I. Vaughan, J. Memmott
+- **Pub Date:** 2019-01-14
+- **DOI:** 10.1038/s41559-018-0769-y
+- **Abstract:** Urban areas are often perceived to have lower biodiversity than the wider countryside, but a few small-scale studies suggest that some urban land uses can support substantial pollinator populations. We present a large-scale, well-replicated study of floral resources and pollinators in 360 sites incorporating all major land uses in four British cities. Using a systems approach, we developed Bayesian network models integrating pollinator dispersal and resource switching to estimate city-scale effects of management interventions on plant–pollinator community robustness to species loss. We show that residential gardens and allotments (community gardens) are pollinator ‘hotspots’: gardens due to their extensive area, and allotments due to their high pollinator diversity and leverage on city-scale plant–pollinator community robustness. Household income was positively associated with pollinator abundance in gardens, highlighting the influence of socioeconomic factors. Our results underpin urban planning recommendations to enhance pollinator conservation, using increasing city-scale community robustness as our measure of success. Analysing plant–pollinator interactions across all major land use classes in four cities, the authors show that residential gardens and community gardens are urban pollinator hotspots, with pollinator abundance positively associated with household income.
+
+### 4. [SKYNET: An R package for generating air passenger networks for urban studies](https://doi.org/10.1177/0042098018803258)
+- **Journal:** Urban studies
+- **Authors:** Filipe Teixeira, B. Derudder
+- **Pub Date:** 2018-12-11
+- **DOI:** 10.1177/0042098018803258
+- **Abstract:** There is a long tradition of urban studies invoking air transport data either for tackling the city/air transport-nexus head on (e.g. in research on the causality between urban-economic development and air transport connectivity) or as a secondary data source (e.g. in research mapping city networks). However, air transport statistics rarely come in a format that allows for their immediate scrutiny in light of the research questions at hand, so that handling and transforming these data often involves both practical challenges and considerable effort. Against this backdrop, this article introduces ‘SKYNET’, a flexible R package that allows generating bespoke air transport statistics for urban studies based on publicly available data from the Bureau of Transport Statistics (BTS) in the United States. The basic elements of the package are explained, after which we demonstrate its usefulness by showing its potential for addressing research questions emerging in the literatures on 1) evolving urban landscapes of air travel accessibility, and 2) differences in intercity air transport networks by scale, types and season. We argue that this R package has the potential to become the backbone of a range of easily navigable tools overcoming some of the main methodological challenges researchers face when handling complex airline data in an urban context.
+
+### 5. [Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq](https://doi.org/10.1038/nprot.2017.003)
+- **Journal:** Nature Protocols
+- **Authors:** Jun Chen, Shengbao Suo, P. Tam, J. Han, Guangdun Peng, N. Jing
+- **Pub Date:** 2017-02-16
+- **DOI:** 10.1038/nprot.2017.003
+- **Abstract:** None
+
+---
+

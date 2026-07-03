@@ -314,3 +314,8 @@ Classifying urban land use by integrating remote sensing and social media data
 Guerrilla warfare, flagship project: the spatial politics of Chinese rock in Shenzhen’s post-political making of a musical city
 A new method for dealing simultaneously with spatial autocorrelation and spatial heterogeneity in regression models
 Firefly algorithm with neighborhood attraction
+AI-DRIVEN GEOSPATIAL ANALYSIS IN ECOSYSTEM MANAGEMENT: INTEGRATION OF MACHINE LEARNING METHODS
+Learning from man or machine: Spatial fixed effects in urban econometrics
+A systems approach reveals urban pollinator hotspots and conservation opportunities
+SKYNET: An R package for generating air passenger networks for urban studies
+Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
