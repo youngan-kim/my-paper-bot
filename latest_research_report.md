@@ -5932,3 +5932,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-07-04
+
+### 1. [Who gets evicted? Assessing individual, neighborhood, and network factors.](https://doi.org/10.1016/j.ssresearch.2016.08.017)
+- **Journal:** Social Science Research
+- **Authors:** Matthew Desmond, C. Gershenson
+- **Pub Date:** 2017-02-01
+- **DOI:** 10.1016/j.ssresearch.2016.08.017
+- **Abstract:** None
+
+### 2. [Global urban signatures of phenotypic change in animal and plant populations](https://doi.org/10.1073/pnas.1606034114)
+- **Journal:** Proceedings of the National Academy of Sciences of the United States of America
+- **Authors:** M. Alberti, C. Correa, J. Marzluff, A. Hendry, E. Palkovacs, K. Gotanda, V. Hunt, T. M. Apgar, Yuyu Zhou
+- **Pub Date:** 2017-01-03
+- **DOI:** 10.1073/pnas.1606034114
+- **Abstract:** None
+
+### 3. [Collective efficacy: How is it conceptualized, how is it measured, and does it really matter for understanding perceived neighborhood crime and disorder?](https://doi.org/10.1016/J.JCRIMJUS.2016.02.016)
+- **Journal:** Journal of criminal justice
+- **Authors:** John R. Hipp
+- **Pub Date:** 2016-09-01
+- **DOI:** 10.1016/J.JCRIMJUS.2016.02.016
+- **Abstract:** Building on the insights of the self-efficacy literature, this study highlights that collective efficacy is a collective perception that comes from a process. This study emphasizes that 1) there is updating, as there are feedback effects from success or failure by the group to the perception of collective efficacy, and 2) this updating raises the importance of accounting for members' degree of uncertainty regarding neighborhood collective efficacy. Using a sample of 113 block groups in three rural North Carolina counties, this study finds evidence of updating as neighborhoods perceiving more crime or disorder reported less collective efficacy at the next time point. Furthermore, collective efficacy was only associated with lower perceived disorder at the next time point when it occurred in highly cohesive neighborhoods. Finally, neighborhoods with more perceived disorder and uncertainty regarding collective efficacy at one time point had lower levels of collective efficacy at the next time point, illustrating the importance of uncertainty along with updating.
+
+### 4. [Measuring the Spatial and Temporal Patterns of Police Proactivity](https://doi.org/10.1007/s10940-016-9318-5)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** Xiaoyun Wu, C. Lum
+- **Pub Date:** 2016-09-01
+- **DOI:** 10.1007/s10940-016-9318-5
+- **Abstract:** None
+
+### 5. [Research on Neighborhood Effects on Health in the United States: A Systematic Review of Study Characteristics](https://doi.org/10.1016/j.socscimed.2016.08.047)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Mariana C. Arcaya, R. Tucker-Seeley, Rockli Kim, Alina S Schnake-Mahl, Marvin So, S. Subramanian
+- **Pub Date:** 2016-08-28
+- **DOI:** 10.1016/j.socscimed.2016.08.047
+- **Abstract:** Neighborhood effects on health research has grown over the past 20 years. While the substantive findings of this literature have been published in systematic reviews, meta-analyses, and commentaries, operational details of the research have been understudied. We identified 7,140 multi-level neighborhoods and health papers published on US populations between 1995–2014, and present data on the study characteristics of the 259 papers that met our inclusion criteria. Our results reveal rapid growth in neighborhoods and health research in the mid-2000s, illustrate the dominance of observational cross-sectional study designs, and show a heavy reliance on single-level, census-based neighborhood definitions. Socioeconomic indicators were the most commonly analyzed neighborhood variables and body mass was the most commonly studied health outcome. Well-known challenges associated with neighborhood effects research were infrequently acknowledged. We discuss how these results move the agenda forward for neighborhoods and health research.
+
+---
+

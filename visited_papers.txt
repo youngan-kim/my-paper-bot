@@ -319,3 +319,8 @@ Learning from man or machine: Spatial fixed effects in urban econometrics
 A systems approach reveals urban pollinator hotspots and conservation opportunities
 SKYNET: An R package for generating air passenger networks for urban studies
 Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
+Who gets evicted? Assessing individual, neighborhood, and network factors.
+Global urban signatures of phenotypic change in animal and plant populations
+Collective efficacy: How is it conceptualized, how is it measured, and does it really matter for understanding perceived neighborhood crime and disorder?
+Measuring the Spatial and Temporal Patterns of Police Proactivity
+Research on Neighborhood Effects on Health in the United States: A Systematic Review of Study Characteristics
