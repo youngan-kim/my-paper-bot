@@ -324,3 +324,8 @@ Global urban signatures of phenotypic change in animal and plant populations
 Collective efficacy: How is it conceptualized, how is it measured, and does it really matter for understanding perceived neighborhood crime and disorder?
 Measuring the Spatial and Temporal Patterns of Police Proactivity
 Research on Neighborhood Effects on Health in the United States: A Systematic Review of Study Characteristics
+Earthquake hazard and risk assessment using machine learning approaches at Palu, Indonesia.
+Neighborhood Violent Crime and Academic Growth in Chicago: Lasting Effects of Early Exposure*
+Visualization and analysis of gene expression in tissue sections by spatial transcriptomics
+All Economics is Local: Spatial Aggregations of Economic Information*
+Does the Configuration of the Street Network Influence Where Outdoor Serious Violence Takes Place? Using Space Syntax to Test Crime Pattern Theory

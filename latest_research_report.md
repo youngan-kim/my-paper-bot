@@ -5971,3 +5971,42 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-07-05
+
+### 1. [Earthquake hazard and risk assessment using machine learning approaches at Palu, Indonesia.](https://doi.org/10.1016/j.scitotenv.2020.141582)
+- **Journal:** Science of the Total Environment
+- **Authors:** R. Jena, B. Pradhan, G. Beydoun, A. Alamri, Ardiansyah, Nizam-uddin, Hizir Sofyan
+- **Pub Date:** 2020-12-20
+- **DOI:** 10.1016/j.scitotenv.2020.141582
+- **Abstract:** On 28th September 2018, a very high magnitude of earthquake Mw 7.5 struck the Palu city in the Island of Sulawesi, Indonesia. The main objective of this research is to estimate the earthquake risk based on probability and hazard in Palu region using cross-correlation among the derived parameters, Silhouette clustering (SC), pure locational clustering (PLC) based on hierarchical clustering analysis (HCA), convolutional neural network (CNN) and analytical hierarchy process (AHP) techniques. There is no specific or simple way of identifying risks as the definition of risk varies with time and space. The main aim of this study is: i) to conduct the clustering analysis to identify the earthquake-prone areas, ii) to develop a CNN model for probability estimation, and iii) to estimate and compare the risk using two calculation equations (Risk A and B). Owing to its high prediction ability, the CNN model assessed the probability while SC and PLC were implemented to understand the spatial clustering, Euclidean distance among clusters, spatial relationship and cross-correlation among the estimated Mw, PGA and intensity including events depth. Finally, AHP was implemented for the vulnerability assessment. To this end, earthquake probability assessment (EPA), susceptibility to seismic amplification (SSA) and earthquake vulnerability assessment (EVA) results were employed to generate risk A, while earthquake hazard assessment (EHA), SSA and EVA were used to generate risk B. The risk maps were compared and the differences in results were obtained. This research concludes that in the case of earthquake risk assessment (ERA), results obtained in Risk B are better than the risk A. This study achieved 89.47% accuracy for EPA while for EVA a consistency ratio of 0.07. These results have important implications for future large-scale risk assessment, land use planning and hazard mitigation.
+
+### 2. [Neighborhood Violent Crime and Academic Growth in Chicago: Lasting Effects of Early Exposure*](https://doi.org/10.1093/sf/sow041)
+- **Journal:** Social forces; a scientific medium of social study and interpretation
+- **Authors:** Julia Burdick-Will
+- **Pub Date:** 2016-08-11
+- **DOI:** 10.1093/sf/sow041
+- **Abstract:** Abstract:A large body of research documents the importance of early experiences for later academic, social, and economic success. Exposure to an unsafe neighborhood is no exception. Living in a violent neighborhood can influence the stress levels, protective behaviors, and community interactions of both parents and children in ways that generate cumulative educational disadvantage. Using nine years (2002–2011) of detailed crime data from the Chicago Police Department and longitudinal administrative data from the Chicago Public Schools, I estimate the influence of early exposure to neighborhood violence on growth in standardized test scores over time. Student fixed effects are included to remove any bias due to constant differences between students. The results show that children from more violent neighborhoods fall farther behind their peers from safer neighborhoods as they progress through school. These effects are comparable in size to the independent association with socioeconomic disadvantage and an annual measure of more recent neighborhood violence exposure.
+
+### 3. [Visualization and analysis of gene expression in tissue sections by spatial transcriptomics](https://doi.org/10.1126/science.aaf2403)
+- **Journal:** Science
+- **Authors:** Patrik L. Ståhl, Fredrik Salmén, S. Vickovic, Anna Lundmark, J. F. Navarro, J. Magnusson, Stefania Giacomello, Michaela Asp, J. Westholm, Mikael Huss, A. Mollbrink, S. Linnarsson, S. Codeluppi, Å. Borg, F. Pontén, P. Costea, P. Sahlén, J. Mulder, O. Bergmann, J. Lundeberg, J. Frisén
+- **Pub Date:** 2016-07-01
+- **DOI:** 10.1126/science.aaf2403
+- **Abstract:** None
+
+### 4. [All Economics is Local: Spatial Aggregations of Economic Information*](https://doi.org/10.1017/psrm.2016.26)
+- **Journal:** Political Science Research and Methods
+- **Authors:** D. Fortunato, Clint S. Swift, Laron K. Williams
+- **Pub Date:** 2016-06-20
+- **DOI:** 10.1017/psrm.2016.26
+- **Abstract:** None
+
+### 5. [Does the Configuration of the Street Network Influence Where Outdoor Serious Violence Takes Place? Using Space Syntax to Test Crime Pattern Theory](https://doi.org/10.1007/s10940-016-9306-9)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** L. Summers, Shane D. Johnson
+- **Pub Date:** 2016-06-17
+- **DOI:** 10.1007/s10940-016-9306-9
+- **Abstract:** To examine the effect of the physical layout of the street network on the spatial distribution of outdoor serious violence. Crime pattern theory predicts crime would be more prevalent on more connected, accessible or traveled street segments, as these will be more likely to fall within an offender’s awareness space. The distribution of incidents of outdoor murder, attempted murder and other near-lethal violent crimes that occurred in one London (UK) borough (N = 447 offenses) was analyzed. The space syntax methodology was used to estimate the to- and through-movement potential of individual street segments. Regression analyses showed higher levels of integration (a measure of to-movement potential) and choice (through-movement potential) were associated with greater odds of a street segment containing at least one crime. Risk was also higher for segments located near to segments with the highest global choice values. In contrast, connectivity (the number of other segments a street segment is adjacent to) was negatively associated with crime occurrence. As predicted, the configuration of the street network was associated with the spatial distribution of outdoor serious violence. Crime reduction measures should be targeted at high-choice street segments (typically main arteries) and segments nearby.
+
+---
+
