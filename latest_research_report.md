@@ -6010,3 +6010,44 @@ At the same time, many people are consuming too little. In 2015, ∼10% of the w
 
 ---
 
+## 📅 Added on: 2026-07-06
+
+### 1. [Spatial Analysis of Residents’ Response to Fear of Crime in Osogbo, Osun State, Nigeria](https://doi.org/10.36941/MJSS-2021-0007)
+- **Journal:** Mediterranean Journal of Social Sciences
+- **Authors:** Seyi Oloyede Farodoye, P. Olawuni, G. Oladehinde, O. Atoyebi, Lukuman Opeyemi Ayoola
+- **Pub Date:** 2021-03-07
+- **DOI:** 10.36941/MJSS-2021-0007
+- **Abstract:** The study investigated spatial pattern of residents' response to the fear of crime in Osogbo Local Government Area, Osun State, Nigeria. Primary data was collected by stratifying the Osogbo into three residential neighborhoods, namely; core, transition, and suburban areas. Systematic sampling was used in selecting 112 respondents across residential neighborhoods. The level of Crime Occurrence Index (LCOI) in the core area was 5.03 while 5.90 and 5.31 were indices for transition and suburban areas. The study recorded that religion, police patrol, lightning, membership/ support of vigilante and use of joint community responses were the commonly used strategy in responding to fear of crime while insurance scheme, burglary alarm system, closed-circuit television (CCTV), and surveillance camera were the least strategies used in responding to fear of crime in the study area. The study concludes that there is a significant difference in the responses of residents to fear of crime in the various residential neighborhoods. 
+  
+Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 2021
+
+### 2. [Ground-based image analysis: A tutorial on machine-learning techniques and applications](https://doi.org/10.1109/MGRS.2015.2510448)
+- **Journal:** IEEE Geoscience and Remote Sensing Magazine
+- **Authors:** Soumyabrata Dev, B. Wen, Y. Lee, Stefan Winkler
+- **Pub Date:** 2016-06-07
+- **DOI:** 10.1109/MGRS.2015.2510448
+- **Abstract:** Ground-based whole-sky cameras have opened up new opportunities for monitoring the earth's atmosphere. These cameras are an important complement to satellite images by providing geoscientists with cheaper, faster, and more localized data. The images captured by whole-sky imagers (WSI) can have high spatial and temporal resolution, which is an important prerequisite for applications such as solar energy modeling, cloud attenuation analysis, local weather prediction, and more. Extracting the valuable information from the huge amount of image data by detecting and analyzing the various entities in these images is challenging. However, powerful machine-learning techniques have become available to aid with the image analysis. This article provides a detailed explanation of recent developments in these techniques and their applications in ground-based imaging, aiming to bridge the gap between computer vision and remote sensing with the help of illustrative examples. We demonstrate the advantages of using machine-learning techniques in ground-based image analysis via three primary applications: segmentation, classification, and denoising.
+
+### 3. [The New Economics of Religion](https://doi.org/10.1257/JEL.54.2.395)
+- **Journal:** Social Science Research Network
+- **Authors:** Sriya Iyer
+- **Pub Date:** 2016-06-01
+- **DOI:** 10.1257/JEL.54.2.395
+- **Abstract:** The economics of religion is a relatively new field of research in economics. This survey serves two purposes--it is backward-looking in that it traces the historical and sociological origins of this field, and it is forward-looking in that it examines the insights and research themes that are offered by economists to investigate religion globally in the modern world. Several factors have influenced the economics of religion: (1) new developments in theoretical models including spatial models of religious markets and evolutionary models of religious traits; (2) empirical work that addresses innovatively econometric identification in examining causal influences on religious behavior; (3) new research in the economic history of religion that considers religion as an independent, rather than a dependent, variable; and (4) more studies of religion outside the Western world. Based on these developments, this paper discusses four themes--first, secularization, pluralism, regulation, and economic growth; second, religious markets, club goods, differentiated products, and networks; third, identification including secular competition and charitable giving; and fourth, conflict and cooperation in developing societies. In reviewing this paradoxically ancient yet burgeoning field, this paper puts forward unanswered questions for scholars of the economics of religion to reflect upon in years to come.
+
+### 4. [Party Policy Diffusion](https://doi.org/10.1017/S0003055416000162)
+- **Journal:** American Political Science Review
+- **Authors:** Tobias Böhmelt, L. Ezrow, R. Lehrer, Hugh Ward
+- **Pub Date:** 2016-05-01
+- **DOI:** 10.1017/S0003055416000162
+- **Abstract:** None
+
+### 5. [Crime at Places and Spatial Concentrations: Exploring the Spatial Stability of Property Crime in Vancouver BC, 2003–2013](https://doi.org/10.1007/s10940-016-9295-8)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** Martin A. Andresen, Shannon J. Linning, N. Malleson
+- **Pub Date:** 2016-03-24
+- **DOI:** 10.1007/s10940-016-9295-8
+- **Abstract:** None
+
+---
+
