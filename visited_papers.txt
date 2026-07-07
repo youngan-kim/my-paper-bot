@@ -334,3 +334,8 @@ Ground-based image analysis: A tutorial on machine-learning techniques and appli
 The New Economics of Religion
 Party Policy Diffusion
 Crime at Places and Spatial Concentrations: Exploring the Spatial Stability of Property Crime in Vancouver BC, 2003–2013
+Profiling cell identity and tissue architecture with single-cell and spatial transcriptomics
+BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis
+Public life in flux: A journey from the 1940s to the present
+Regional migration and the dimension of distance in empirical analysis
+Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer

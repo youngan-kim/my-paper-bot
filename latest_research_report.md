@@ -6051,3 +6051,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-07
+
+### 1. [Profiling cell identity and tissue architecture with single-cell and spatial transcriptomics](https://doi.org/10.1038/s41580-024-00768-2)
+- **Journal:** Nature reviews. Molecular cell biology
+- **Authors:** G. Gulati, J. P. D'Silva, Yunhe Liu, Linghua Wang, Aaron M. Newman
+- **Pub Date:** 2024-08-21
+- **DOI:** 10.1038/s41580-024-00768-2
+- **Abstract:** None
+
+### 2. [BANKSY unifies cell typing and tissue domain segmentation for scalable spatial omics data analysis](https://doi.org/10.1038/s41588-024-01664-3)
+- **Journal:** Nature Genetics
+- **Authors:** Vipul Singhal, Nigel Chou, Joseph Lee, Yifei Yue, Jinyue Liu, Wan Kee Chock, Li Lin, Yun-Ching Chang, E. Teo, Jonathan Aow, Hwee Kuan Lee, Kok Hao Chen, Shyam Prabhakar
+- **Pub Date:** 2024-02-27
+- **DOI:** 10.1038/s41588-024-01664-3
+- **Abstract:** Spatial omics data are clustered to define both cell types and tissue domains. We present Building Aggregates with a Neighborhood Kernel and Spatial Yardstick (BANKSY), an algorithm that unifies these two spatial clustering problems by embedding cells in a product space of their own and the local neighborhood transcriptome, representing cell state and microenvironment, respectively. BANKSY’s spatial feature augmentation strategy improved performance on both tasks when tested on diverse RNA (imaging, sequencing) and protein (imaging) datasets. BANKSY revealed unexpected niche-dependent cell states in the mouse brain and outperformed competing methods on domain segmentation and cell typing benchmarks. BANKSY can also be used for quality control of spatial transcriptomics data and for spatially aware batch effect correction. Importantly, it is substantially faster and more scalable than existing methods, enabling the processing of millions of cell datasets. In summary, BANKSY provides an accurate, biologically motivated, scalable and versatile framework for analyzing spatially resolved omics data. BANKSY is an algorithm with R and Python implementations that identifies both cell types and tissue domains from spatially resolved omics data by incorporating spatial kernels capturing microenvironmental information. It is applicable to a range of technologies and is scalable to millions of cells.
+
+### 3. [Public life in flux: A journey from the 1940s to the present](https://doi.org/10.1080/23311886.2023.2281063)
+- **Journal:** Cogent Social Sciences
+- **Authors:** İbrahim Eren, Esin Özlem Aktuğlu Aktan
+- **Pub Date:** 2023-11-27
+- **DOI:** 10.1080/23311886.2023.2281063
+- **Abstract:** Abstract This study investigates the evolution of public space and its impact on everyday life using a community-based and interpretive approach, as well as qualitative and quantitative methods and socio-spatial comparative analysis. The study focuses on three urban spaces from New York, Moscow, and Berlin, representing the sociopolitical dynamics of capitalism and socialism during the Cold War. The findings highlight the dynamic and ever-changing nature of public spaces, which constantly reproduce themselves even in unexpected circumstances. The study identifies effective socio-spatial breaking points that shape public life and emphasizes public spaces’ novelty, dynamism, and political nature. Furthermore, the study reveals the intricate interplay between global events and their human-scale impact on urban spaces. This study is significant because it takes an interdisciplinary approach that combines sociology and spatial science, employing socio-spatial methods to assess the impact of public life. The study acknowledges its limitations, such as the possibility of unanticipated future effects and the need for additional research that includes a broader range of public spaces. Overall, this article contributes to the growing body of research on the relationship between global events and the novelty of urban life by providing an insightful perspective on the transformation of public life.
+
+### 4. [Regional migration and the dimension of distance in empirical analysis](https://doi.org/10.52950/es.2022.11.2.006)
+- **Journal:** International Journal of Economic Sciences
+- **Authors:** Lucie Kureková
+- **Pub Date:** 2022-11-24
+- **DOI:** 10.52950/es.2022.11.2.006
+- **Abstract:** The phenomenon of migration is addressed by several disciplines, such as demography, sociology, economics, political science and history. Therefore, a wide range of analytical tools can be used to analyse this phenomenon. This study focuses primarily on regional migration and capturing the dimension of distance in empirical analysis. Cartograms can be used to analyse regional migration, and Webb diagrams that capture the evolution of net international and internal migration over time. It is also appropriate to use the efficiency matrix of migration indices and nodal graphs to analyse migration flows between different regions. Spatial econometrics is then important for migration analysis to test the validity of theoretical concepts of migration. However, it is often not possible to track the exact distance of migration flows in the data. Therefore, it is necessary to resort to proxy methods to determine the distance. Tracking internal migration plays a crucial role in regional development and is vital in assessing political, economic and social change. Therefore, appropriate analytical tools must be used to analyse it at the regional level.
+
+### 5. [Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer](https://doi.org/10.1038/s41586-022-05435-0)
+- **Journal:** Nature
+- **Authors:** J. L. Galeano Niño, Hanrui Wu, Kaitlyn D. Lacourse, Andrew G. Kempchinsky, Alexander A. Baryiames, Brittany Barber, N. Futran, J. Houlton, Cassandra L. Sather, E. Sicinska, A. Taylor, S. Minot, C. D. Johnston, S. Bullman
+- **Pub Date:** 2022-11-16
+- **DOI:** 10.1038/s41586-022-05435-0
+- **Abstract:** The tumour-associated microbiota is an intrinsic component of the tumour microenvironment across human cancer types 1 , 2 . Intratumoral host–microbiota studies have so far largely relied on bulk tissue analysis 1 – 3 , which obscures the spatial distribution and localized effect of the microbiota within tumours. Here, by applying in situ spatial-profiling technologies 4 and single-cell RNA sequencing 5 to oral squamous cell carcinoma and colorectal cancer, we reveal spatial, cellular and molecular host–microbe interactions. We adapted 10x Visium spatial transcriptomics to determine the identity and in situ location of intratumoral microbial communities within patient tissues. Using GeoMx digital spatial profiling 6 , we show that bacterial communities populate microniches that are less vascularized, highly immuno‑suppressive and associated with malignant cells with lower levels of Ki-67 as compared to bacteria-negative tumour regions. We developed a single-cell RNA-sequencing method that we name INVADEseq (invasion–adhesion-directed expression sequencing) and, by applying this to patient tumours, identify cell-associated bacteria and the host cells with which they interact, as well as uncovering alterations in transcriptional pathways that are involved in inflammation, metastasis, cell dormancy and DNA repair. Through functional studies, we show that cancer cells that are infected with bacteria invade their surrounding environment as single cells and recruit myeloid cells to bacterial regions. Collectively, our data reveal that the distribution of the microbiota within a tumour is not random; instead, it is highly organized in microniches with immune and epithelial cell functions that promote cancer progression. Spatial profiling and single-cell RNA sequencing are used to map the spatial distribution of the microbiota within human tumours, revealing how intratumoral microbial communities contribute to tumour heterogeneity and cancer progression.
+
+---
+
