@@ -6090,3 +6090,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-08
+
+### 1. [How working from home reshapes cities](https://doi.org/10.1073/pnas.2408930121)
+- **Journal:** Proceedings of the National Academy of Sciences of the United States of America
+- **Authors:** Arjun Ramani, Joel Alecdo, Nicholas Bloom
+- **Pub Date:** 2024-10-29
+- **DOI:** 10.1073/pnas.2408930121
+- **Abstract:** Significance The future of cities is a topic of broad interest to businesspeople making decisions around office space, policymakers planning zoning codes and public transportation networks, and academics interested in questions of spatial organization across a wide range of fields including economics, urban planning, environmental studies, and sociology. Our data provide evidence as to how a huge structural shift to work—remote working—may have permanently changed the shape of many major global cities and is therefore of value to these groups.
+
+### 2. [Association of Neighborhood Context with Offspring Risk of Preterm Birth and Low Birthweight: A Systematic Review and Meta-Analysis of Population-based Studies](https://doi.org/10.1016/j.socscimed.2016.02.014)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Collette N. Ncube, D. Enquobahrie, S. Albert, A. Herrick, J. Burke
+- **Pub Date:** 2016-02-11
+- **DOI:** 10.1016/j.socscimed.2016.02.014
+- **Abstract:** Findings from studies investigating associations of residential environment with poor birth outcomes have been inconsistent. In a systematic review and meta-analysis, we examined associations of neighborhood disadvantage with preterm birth (PTB) and low birthweight (LBW), and explored differences in relationships among racial groups. Two reviewers searched English language articles in electronic databases of published literature. We used random effects logistic regression to calculate odds ratios (and 95% confidence intervals) relating neighborhood disadvantage with PTB and LBW. Neighborhood disadvantage, most disadvantaged versus least disadvantaged neighborhoods, was defined by researchers of included studies, and comprised of poverty, deprivation, racial residential segregation or racial composition, and crime. We identified 1,314 citations in the systematic review. The meta-analyses included 7 PTB and 14 LBW cross-sectional studies conducted in the United States (U.S.). Overall, we found 27% [95%CI: 1.16, 1.39] and 11% [95%CI: 1.07, 1.14] higher risk for PTB and LBW among the most disadvantaged compared with least disadvantaged neighborhoods. No statistically significant association was found in meta-analyses of studies that adjusted for race. In race-stratified meta-analyses models, we found 48% [95%CI: 1.25, 1.75] and 61% [95%CI: 1.30, 2.00] higher odds of PTB and LBW among non-Hispanic white mothers living in most disadvantaged neighborhoods compared with those living in least disadvantaged neighborhoods. Similar, but less strong, associations were observed for PTB (15% [95%CI: 1.09, 1.21]) and LBW (17% [95%CI: 1.10, 1.25]) among non-Hispanic black mothers. Neighborhood disadvantage is associated with PTB and LBW, however, associations may differ by race. Future studies evaluating causal mechanisms underlying the associations, and racial/ethnic differences in associations, are warranted.
+
+### 3. [A Categorization Theory of Spatial Voting: How the Center Divides the Political Space](https://doi.org/10.1017/S0007123415000393)
+- **Journal:** British Journal of Political Science
+- **Authors:** J. Bølstad, Elias Dinas
+- **Pub Date:** 2016-01-19
+- **DOI:** 10.1017/S0007123415000393
+- **Abstract:** None
+
+### 4. [Patterns of local segregation: Do they matter for neighborhood crime?](https://doi.org/10.1016/j.ssresearch.2015.08.005)
+- **Journal:** Social Science Research
+- **Authors:** Lauren J. Krivo, R. Byron, Catherine A. Calder, R. D. Peterson, Christopher R. Browning, M. Kwan, Jae Yong Lee
+- **Pub Date:** 2015-11-01
+- **DOI:** 10.1016/j.ssresearch.2015.08.005
+- **Abstract:** None
+
+### 5. [Novel evidence for within-species leaf economics spectrum at multiple spatial scales](https://doi.org/10.3389/fpls.2015.00901)
+- **Journal:** Frontiers in Plant Science
+- **Authors:** Yu‐Kun Hu, Xu Pan, Guofang Liu, Wenbing Li, Wen-Hong Dai, Shuang-Li Tang, Yalin Zhang, Tao Xiao, Lingzhi Chen, Wei Xiong, Meng-Yao Zhou, Yao-Bin Song, M. Dong
+- **Pub Date:** 2015-10-26
+- **DOI:** 10.3389/fpls.2015.00901
+- **Abstract:** Leaf economics spectrum (LES), characterizing covariation among a suite of leaf traits relevant to carbon and nutrient economics, has been examined largely among species but hardly within species. In addition, very little attempt has been made to examine whether the existence of LES depends on spatial scales. To address these questions, we quantified the variation and covariation of four leaf economic traits (specific leaf area, leaf dry matter content, leaf nitrogen and phosphorus contents) in a cosmopolitan wetland species (Phragmites australis) at three spatial (inter-regional, regional, and site) scales across most of the species range in China. The species expressed large intraspecific variation in the leaf economic traits at all of the three spatial scales. It also showed strong covariation among the four leaf economic traits across the species range. The coordination among leaf economic traits resulted in LES at all three scales and the environmental variables determining variation in leaf economic traits were different among the spatial scales. Our results provide novel evidence for within-species LES at multiple spatial scales, indicating that resource trade-off could also constrain intraspecific trait variation mainly driven by climatic and/or edaphic differences.
+
+---
+
