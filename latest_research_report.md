@@ -6168,3 +6168,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-10
+
+### 1. [Spatial-Temporal Mixture-of-Graph-Experts for Multi-Type Crime Prediction](https://doi.org/10.1007/s11390-025-5404-1)
+- **Journal:** Journal of Computational Science and Technology
+- **Authors:** Ziyang Wu, Fan Liu, Jindong Han, Yuxuan Liang, Hao Liu
+- **Pub Date:** 2024-09-24
+- **DOI:** 10.1007/s11390-025-5404-1
+- **Abstract:** As various types of crimes continue to threaten public safety and economic development, predicting the occurrence of multiple types of crimes becomes increasingly vital for effective prevention measures. Although extensive efforts have been made, most of them overlook the heterogeneity of different crime categories and fail to address the issue of imbalanced spatial distribution. In this work, we propose Spatial-Temporal Mixture-of-Graph-Experts (ST-MoGE), a framework for collective multiple-type crime prediction. To enhance the model’s ability to identify diverse spatial-temporal dependencies and mitigate potential conflicts caused by spatial-temporal heterogeneity of different crime categories, we introduce a module, Mixture-of-Graph-Experts (MGE), to capture the distinctive and shared crime patterns of each crime category. Then, we propose Cross-Expert Contrastive Learning (CECL) to refine MGE and force each expert to specialize in modeling specific patterns, thereby reducing blending and redundancy. Furthermore, to address the issue of imbalanced spatial distribution, we propose a module, Hierarchical Adaptive Loss Re-Weighting (HALR), to eliminate biases and under-fitting in datascarce regions. To evaluate the effectiveness of our methods, we conduct comprehensive experiments on two real-world crime datasets and compare our results with 12 advanced baselines. The experimental results demonstrate the superiority of our methods.
+
+### 2. [Down with the sickness? Los Angeles burglary and COVID-19 restrictions](https://doi.org/10.1007/s11292-022-09522-0)
+- **Journal:** Journal of Experimental Criminology
+- **Authors:** Joshua Hill, George T. Raber, Laura M. Gulledge
+- **Pub Date:** 2022-07-11
+- **DOI:** 10.1007/s11292-022-09522-0
+- **Abstract:** Objectives To provide a partial test of routine activities theory through a spatio-temporal analysis of the impacts of COVID-19 restrictions on burglary in Los Angeles. Methods Spatial point pattern tests, clustering, and non-parametric permutations tests were used to identify changes in burglary in the highest restriction period of 2020 as well as comparison periods for the past 10 years while controlling for the zoning within Los Angeles. Results COVID-19 restrictions significantly increased crime in commercial/industrial areas while it reduced crime in residential areas. Conclusions The predictions of routine activities theory were supported in regard to the importance of capable guardianship. Findings indicate that not only were the areas expected to see an increase in capable guardianship shown to have reduced crime, but that crime more generally across the city became more commercially oriented in terms of zoning as more individuals were confined to residential areas.
+
+### 3. [Race, Place, and Effective Policing](https://doi.org/10.1146/ANNUREV-SOC-073018-022541)
+- **Journal:** The Annual review of sociology
+- **Authors:** Anthony A. Braga, Rod K. Brunson, Kevin Drakulich
+- **Pub Date:** 2019-07-30
+- **DOI:** 10.1146/ANNUREV-SOC-073018-022541
+- **Abstract:** The police need public support and cooperation to be effective in controlling crime and holding offenders accountable. In many disadvantaged communities of color, poor relationships between the police and residents undermine effective policing. Weak police–minority community relationships are rooted in a long history of discriminatory practices and contemporary proactive policing strategies that are overly aggressive and associated with racial disparities. There are no simple solutions to address the complex rift between the police and the minority communities that they serve. The available evidence suggests that there are policies and practices that could improve police–minority community relations and enhance police effectiveness. Police departments should conduct more sophisticated analysis of crime problems to ensure that crime-control programs are not indiscriminate and unfocused, engage residents in their crime reduction efforts by revitalizing community policing, ensure procedurally just police contacts with citizens, and implement problem-solving strategies to prevent crimes beyond surveillance and enforcement actions.
+
+### 4. [Target Selection Models with Preference Variation Between Offenders](https://doi.org/10.1007/s10940-015-9264-7)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** M. Townsley, Daniel Birks, S. Ruiter, W. Bernasco, Gentry White
+- **Pub Date:** 2015-07-31
+- **DOI:** 10.1007/s10940-015-9264-7
+- **Abstract:** None
+
+### 5. [You’ve Got Some Explaining To Do The Influence of Economic Conditions and Spatial Competition on Party Strategy*](https://doi.org/10.1017/psrm.2015.13)
+- **Journal:** Political Science Research and Methods
+- **Authors:** Laron K. Williams, Katsunori Seki, G. Whitten
+- **Pub Date:** 2015-05-14
+- **DOI:** 10.1017/psrm.2015.13
+- **Abstract:** None
+
+---
+
