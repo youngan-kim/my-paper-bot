@@ -359,3 +359,8 @@ Testing Ecological Theories of Offender Spatial Decision Making Using a Discrete
 Neighborhood crime as a predictor of individual differences in emotional processing and regulation
 Metadata and provenance for spatial analysis: the case of spatial weights
 Detecting the dynamics of urban structure through spatial network analysis
+Does a hospital's quality depend on the quality of other hospitals? A spatial econometrics approach
+Examining the Relationship Between Road Structure and Burglary Risk Via Quantitative Network Analysis
+People, Places and Public Policy: Some Simple Welfare Economics of Local Economic Development Programs
+Quantifying the Influence of Climate on Human Conflict
+Effects of neighborhood violence and perceptions of neighborhood safety on depressive symptoms of older adults.
