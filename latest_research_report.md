@@ -6285,3 +6285,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-13
+
+### 1. [Hippocampal place cell sequences depict future paths to remembered goals](https://doi.org/10.1038/nature12112)
+- **Journal:** Nature
+- **Authors:** Brad E. Pfeiffer, David J. Foster
+- **Pub Date:** 2013-04-17
+- **DOI:** 10.1038/nature12112
+- **Abstract:** Effective navigation requires planning extended routes to remembered goal locations. Hippocampal place cells have been proposed to have a role in navigational planning, but direct evidence has been lacking. Here we show that before goal-directed navigation in an open arena, the rat hippocampus generates brief sequences encoding spatial trajectories strongly biased to progress from the subject’s current location to a known goal location. These sequences predict immediate future behaviour, even in cases in which the specific combination of start and goal locations is novel. These results indicate that hippocampal sequence events characterized previously in linearly constrained environments as ‘replay’ are also capable of supporting a goal-directed, trajectory-finding mechanism, which identifies important places and relevant behavioural paths, at specific times when memory retrieval is required, and in a manner that could be used to control subsequent navigational behaviour.
+
+### 2. [Disentangling neighborhood contextual associations with child body mass index, diet, and physical activity: The role of built, socioeconomic, and social environments](https://doi.org/10.1016/j.socscimed.2013.04.003)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** A. Carroll-Scott, Kathryn Gilstad-Hayden, L. Rosenthal, S. M. Peters, Catherine McCaslin, R. Joyce, J. Ickovics
+- **Pub Date:** 2013-04-10
+- **DOI:** 10.1016/j.socscimed.2013.04.003
+- **Abstract:** Obesity prevalence among US children and adolescents has tripled in the past three decades. Consequently, dramatic increases in chronic disease incidence are expected, particularly among populations already experiencing health disparities. Recent evidence identifies characteristics of “obesogenic” neighborhood environments that affect weight and weight-related behaviors. This study aimed to examine associations between built, socioeconomic, and social characteristics of a child’s residential environment on body mass index (BMI), diet, and physical activity. We focused on pre-adolescent children living in New Haven, Connecticut to better understand neighborhood environments’ contribution to persistent health disparities. Participants were 1048 fifth and sixth grade students who completed school-based health surveys and physical measures in fall 2009. Student data were linked to US Census, parks, retailer, and crime data. Analyses were conducted using multilevel modeling. Property crimes and living further from a grocery store were associated with higher BMI. Students living within a 5-min walk of a fast food outlet had higher BMI, and those living in a tract with higher density of fast food outlets reported less frequent healthy eating and more frequent unhealthy eating. Students’ reported perceptions of access to parks, playgrounds, and gyms were associated with more frequent healthy eating and exercise. Students living in more affluent neighborhoods reported more frequent healthy eating, less unhealthy eating, and less screen time. Neighborhood social ties were positively associated with frequency of exercise. In conclusion, distinct domains of neighborhood environment characteristics were independently related to children’s BMI and health behaviors. Findings link healthy behaviors with built, social, and socioeconomic environment assets (access to parks, social ties, affluence), and unhealthy behaviors with built environment inhibitors (access to fast food outlets), suggesting neighborhood environments are an important level at which to intervene to prevent childhood obesity and its adverse consequences.
+
+### 3. [Geographic Information Science](https://doi.org/10.1007/978-3-319-11593-1)
+- **Journal:** Lecture Notes in Computer Science
+- **Authors:** Unknown Authors
+- **Pub Date:** 2013-03-19
+- **DOI:** 10.1007/978-3-319-11593-1
+- **Abstract:** None
+
+### 4. [Space-division multiplexing in optical fibres](https://doi.org/10.1038/nphoton.2013.94)
+- **Journal:** Nature Photonics
+- **Authors:** D. Richardson, J. Fini, L. Nelson
+- **Pub Date:** 2013-03-15
+- **DOI:** 10.1038/nphoton.2013.94
+- **Abstract:** This Review summarizes the simultaneous transmission of several independent spatial channels of light along optical fibres to expand the data-carrying capacity of optical communications. Recent results achieved in both multicore and multimode optical fibres are documented. Optical communication technology has been advancing rapidly for several decades, supporting our increasingly information-driven society and economy. Much of this progress has been in finding innovative ways to increase the data-carrying capacity of a single optical fibre. To achieve this, researchers have explored and attempted to optimize multiplexing in time, wavelength, polarization and phase. Commercial systems now utilize all four dimensions to send more information through a single fibre than ever before. The spatial dimension has, however, remained untapped in single fibres, despite it being possible to manufacture fibres supporting hundreds of spatial modes or containing multiple cores, which could be exploited as parallel channels for independent signals.
+
+### 5. [Neighborhood characteristics and depressive symptoms of older people: local spatial analyses.](https://doi.org/10.1016/j.socscimed.2012.08.033)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** E. Cromley, M. Wilson‐Genderson, R. Pruchno
+- **Pub Date:** 2012-12-01
+- **DOI:** 10.1016/j.socscimed.2012.08.033
+- **Abstract:** None
+
+---
+
