@@ -6324,3 +6324,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-14
+
+### 1. [Positioning under Alternative Electoral Systems: Evidence from Japanese Candidate Election Manifestos](https://doi.org/10.1017/S0003055417000399)
+- **Journal:** American Political Science Review
+- **Authors:** A. Catalinac
+- **Pub Date:** 2017-09-19
+- **DOI:** 10.1017/S0003055417000399
+- **Abstract:** None
+
+### 2. [Spatial econometrics in an age of CyberGIScience](https://doi.org/10.1080/13658816.2012.664276)
+- **Journal:** International Journal of Geographical Information Science
+- **Authors:** L. Anselin, S. Rey
+- **Pub Date:** 2012-12-01
+- **DOI:** 10.1080/13658816.2012.664276
+- **Abstract:** None
+
+### 3. [Unemployment and crime: A neighborhood level panel data approach.](https://doi.org/10.1016/j.ssresearch.2012.07.003)
+- **Journal:** Social Science Research
+- **Authors:** Martin A. Andresen
+- **Pub Date:** 2012-11-01
+- **DOI:** 10.1016/j.ssresearch.2012.07.003
+- **Abstract:** None
+
+### 4. [Neighborhood social capital and crime victimization: comparison of spatial regression analysis and hierarchical regression analysis.](https://doi.org/10.1016/j.socscimed.2012.07.039)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** D. Takagi, Ken’ichi Ikeda, I. Kawachi
+- **Pub Date:** 2012-11-01
+- **DOI:** 10.1016/j.socscimed.2012.07.039
+- **Abstract:** None
+
+### 5. [The contemporary foreclosure crisis and US crime rates.](https://doi.org/10.1016/j.ssresearch.2012.05.013)
+- **Journal:** Social Science Research
+- **Authors:** Ashley N. Arnio, E. Baumer, Kevin T. Wolff
+- **Pub Date:** 2012-11-01
+- **DOI:** 10.1016/j.ssresearch.2012.05.013
+- **Abstract:** None
+
+---
+

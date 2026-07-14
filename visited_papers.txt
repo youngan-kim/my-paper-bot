@@ -369,3 +369,8 @@ Disentangling neighborhood contextual associations with child body mass index, d
 Geographic Information Science
 Space-division multiplexing in optical fibres
 Neighborhood characteristics and depressive symptoms of older people: local spatial analyses.
+Positioning under Alternative Electoral Systems: Evidence from Japanese Candidate Election Manifestos
+Spatial econometrics in an age of CyberGIScience
+Unemployment and crime: A neighborhood level panel data approach.
+Neighborhood social capital and crime victimization: comparison of spatial regression analysis and hierarchical regression analysis.
+The contemporary foreclosure crisis and US crime rates.
