@@ -6363,3 +6363,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-15
+
+### 1. [The global diversity of birds in space and time](https://doi.org/10.1038/nature11631)
+- **Journal:** Nature
+- **Authors:** W. Jetz, G. Thomas, J. Joy, K. Hartmann, A. Mooers
+- **Pub Date:** 2012-10-31
+- **DOI:** 10.1038/nature11631
+- **Abstract:** Current global patterns of biodiversity result from processes that operate over both space and time and thus require an integrated macroecological and macroevolutionary perspective. Molecular time trees have advanced our understanding of the tempo and mode of diversification and have identified remarkable adaptive radiations across the tree of life. However, incomplete joint phylogenetic and geographic sampling has limited broad-scale inference. Thus, the relative prevalence of rapid radiations and the importance of their geographic settings in shaping global biodiversity patterns remain unclear. Here we present, analyse and map the first complete dated phylogeny of all 9,993 extant species of birds, a widely studied group showing many unique adaptations. We find that birds have undergone a strong increase in diversification rate from about 50 million years ago to the near present. This acceleration is due to a number of significant rate increases, both within songbirds and within other young and mostly temperate radiations including the waterfowl, gulls and woodpeckers. Importantly, species characterized with very high past diversification rates are interspersed throughout the avian tree and across geographic space. Geographically, the major differences in diversification rates are hemispheric rather than latitudinal, with bird assemblages in Asia, North America and southern South America containing a disproportionate number of species from recent rapid radiations. The contribution of rapidly radiating lineages to both temporal diversification dynamics and spatial distributions of species diversity illustrates the benefits of an inclusive geographical and taxonomical perspective. Overall, whereas constituent clades may exhibit slowdowns, the adaptive zone into which modern birds have diversified since the Cretaceous may still offer opportunities for diversification.
+
+### 2. [Neighborhood stressors and cardiovascular health: crime and C-reactive protein in Dallas, USA.](https://doi.org/10.1016/j.socscimed.2012.03.027)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** C. Browning, K. Cagney, James Iveniuk
+- **Pub Date:** 2012-10-01
+- **DOI:** 10.1016/j.socscimed.2012.03.027
+- **Abstract:** None
+
+### 3. [Neighborhood Effects on the Long-Term Well-Being of Low-Income Adults](https://doi.org/10.1126/science.1224648)
+- **Journal:** Science
+- **Authors:** J. Ludwig, G. Duncan, L. Gennetian, Lawrence F. Katz, R. Kessler, Jeffrey R. Kling, L. Sanbonmatsu
+- **Pub Date:** 2012-09-21
+- **DOI:** 10.1126/science.1224648
+- **Abstract:** None
+
+### 4. [Terabit free-space data transmission employing orbital angular momentum multiplexing](https://doi.org/10.1038/nphoton.2012.138)
+- **Journal:** Nature Photonics
+- **Authors:** Jian Wang, Jeng-Yuan Yang, I. Fazal, N. Ahmed, Yan Yan, Hao Huang, Yongxiong Ren, Y. Yue, S. Dolinar, M. Tur, A. Willner
+- **Pub Date:** 2012-06-24
+- **DOI:** 10.1038/nphoton.2012.138
+- **Abstract:** None
+
+### 5. [Neighborhood Effects in Temporal Perspective](https://doi.org/10.1177/0003122411420816)
+- **Journal:** American Sociological Review
+- **Authors:** G. Wodtke, David J. Harding, Felix Elwert
+- **Pub Date:** 2011-09-20
+- **DOI:** 10.1177/0003122411420816
+- **Abstract:** Theory suggests that neighborhood effects depend not only on where individuals live today, but also on where they lived in the past. Previous research, however, usually measures neighborhood context only once and does not account for length of residence, thereby understating the detrimental effects of long-term neighborhood disadvantage. This study investigates effects of duration of exposure to disadvantaged neighborhoods on high school graduation. It follows 4,154 children in the Panel Study of Income Dynamics, measuring neighborhood context once per year from age 1 to 17. The analysis overcomes the problem of dynamic neighborhood selection by adapting novel methods of causal inference for time-varying treatments. In contrast to previous analyses, these methods do not “control away” the effect of neighborhood context operating indirectly through time-varying characteristics of the family; thus, they capture the full impact of a lifetime of neighborhood disadvantage. We find that sustained exposure to disadvantaged neighborhoods has a severe impact on high school graduation that is considerably larger than effects reported in prior research. We estimate that growing up in the most (compared to the least) disadvantaged quintile of neighborhoods reduces the probability of graduation from 96 to 76 percent for black children, and from 95 to 87 percent for nonblack children.
+
+---
+

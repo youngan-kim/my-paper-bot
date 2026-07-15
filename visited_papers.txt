@@ -374,3 +374,8 @@ Spatial econometrics in an age of CyberGIScience
 Unemployment and crime: A neighborhood level panel data approach.
 Neighborhood social capital and crime victimization: comparison of spatial regression analysis and hierarchical regression analysis.
 The contemporary foreclosure crisis and US crime rates.
+The global diversity of birds in space and time
+Neighborhood stressors and cardiovascular health: crime and C-reactive protein in Dallas, USA.
+Neighborhood Effects on the Long-Term Well-Being of Low-Income Adults
+Terabit free-space data transmission employing orbital angular momentum multiplexing
+Neighborhood Effects in Temporal Perspective
