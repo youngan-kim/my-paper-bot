@@ -6402,3 +6402,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-16
+
+### 1. [Horizontal Inequalities and Ethnonationalist Civil War: A Global Comparison](https://doi.org/10.1017/S0003055411000207)
+- **Journal:** American Political Science Review
+- **Authors:** L. Cederman, Nils B. Weidmann, K. Gleditsch
+- **Pub Date:** 2011-07-11
+- **DOI:** 10.1017/S0003055411000207
+- **Abstract:** None
+
+### 2. [THE LEGACY OF DISADVANTAGE: MULTIGENERATIONAL NEIGHBORHOOD EFFECTS ON COGNITIVE ABILITY](https://doi.org/10.1086/660009)
+- **Journal:** American Journal of Sociology
+- **Authors:** P. Sharkey, Felix Elwert
+- **Pub Date:** 2011-05-01
+- **DOI:** 10.1086/660009
+- **Abstract:** This study examines how the neighborhood environments experienced over multiple generations of a family influence children's cognitive ability. Building on recent research showing strong continuity in neighborhood environments across generations of family members, the authors argue for a revised perspective on “neighborhood effects” that considers the ways in which the neighborhood environment in one generation may have a lingering impact on the next generation. To analyze multigenerational effects, the authors use newly developed methods designed to estimate unbiased treatment effects when treatments and confounders vary over time. The results confirm a powerful link between neighborhoods and cognitive ability that extends across generations. A family's exposure to neighborhood poverty across two consecutive generations reduces child cognitive ability by more than half a standard deviation. A formal sensitivity analysis suggests that results are robust to unobserved selection bias.
+
+### 3. [Cultural Mechanisms and the Persistence of Neighborhood Violence1](https://doi.org/10.1086/655754)
+- **Journal:** American Journal of Sociology
+- **Authors:** D. Kirk, A. Papachristos
+- **Pub Date:** 2011-01-01
+- **DOI:** 10.1086/655754
+- **Abstract:** None
+
+### 4. [Functional imaging of hippocampal place cells at cellular resolution during virtual navigation](https://doi.org/10.1038/nn.2648)
+- **Journal:** Nature Neuroscience
+- **Authors:** D. Dombeck, C. Harvey, L. Tian, L. Looger, D. Tank
+- **Pub Date:** 2010-10-03
+- **DOI:** 10.1038/nn.2648
+- **Abstract:** Spatial navigation is often used as a behavioral task in studies of the neuronal circuits that underlie cognition, learning and memory in rodents. The combination of in vivo microscopy with genetically encoded indicators has provided an important new tool for studying neuronal circuits, but has been technically difficult to apply during navigation. Here we describe methods for imaging the activity of neurons in the CA1 region of the hippocampus with subcellular resolution in behaving mice. Neurons that expressed the genetically encoded calcium indicator GCaMP3 were imaged through a chronic hippocampal window. Head-restrained mice performed spatial behaviors in a setup combining a virtual reality system and a custom-built two-photon microscope. We optically identified populations of place cells and determined the correlation between the location of their place fields in the virtual environment and their anatomical location in the local circuit. The combination of virtual reality and high-resolution functional imaging should allow a new generation of studies to investigate neuronal circuit dynamics during behavior.
+
+### 5. [The Ideological Mapping of American Legislatures](https://doi.org/10.1017/S0003055411000153)
+- **Journal:** American Political Science Review
+- **Authors:** Boris Shor, N. McCarty
+- **Pub Date:** 2010-07-01
+- **DOI:** 10.1017/S0003055411000153
+- **Abstract:** None
+
+---
+
