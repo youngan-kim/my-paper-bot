@@ -6480,3 +6480,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-18
+
+### 1. [Dirty spatial econometrics](https://doi.org/10.1007/s00168-015-0726-5)
+- **Journal:** The annals of regional science
+- **Authors:** G. Arbia, G. Espa, D. Giuliani
+- **Pub Date:** 2015-11-28
+- **DOI:** 10.1007/s00168-015-0726-5
+- **Abstract:** None
+
+### 2. [Intracellular dynamics of hippocampal place cells during virtual navigation](https://doi.org/10.1038/nature08499)
+- **Journal:** Nature
+- **Authors:** C. Harvey, Forrest Collman, D. Dombeck, D. Tank
+- **Pub Date:** 2009-10-15
+- **DOI:** 10.1038/nature08499
+- **Abstract:** Hippocampal place cells encode spatial information in rate and temporal codes. To examine the mechanisms underlying hippocampal coding, here we measured the intracellular dynamics of place cells by combining in vivo whole-cell recordings with a virtual-reality system. Head-restrained mice, running on a spherical treadmill, interacted with a computer-generated visual environment to perform spatial behaviours. Robust place-cell activity was present during movement along a virtual linear track. From whole-cell recordings, we identified three subthreshold signatures of place fields: an asymmetric ramp-like depolarization of the baseline membrane potential, an increase in the amplitude of intracellular theta oscillations, and a phase precession of the intracellular theta oscillation relative to the extracellularly recorded theta rhythm. These intracellular dynamics underlie the primary features of place-cell rate and temporal codes. The virtual-reality system developed here will enable new experimental approaches to study the neural circuits underlying navigation.
+
+### 3. [A safe operating space for humanity](https://doi.org/10.1038/461472a)
+- **Journal:** Nature
+- **Authors:** Johan Rockström, Johan Rockström, Will Steffen, Will Steffen, K. Noone, Å. Persson, Å. Persson, F. Chapin, E. Lambin, T. Lenton, M. Scheffer, Carl Folke, Carl Folke, H. Schellnhuber, Björn Nykvist, Björn Nykvist, C. A. Wit, T. Hughes, S. Leeuw, H. Rodhe, S. Sörlin, S. Sörlin, P. Snyder, Robert Costanza, Robert Costanza, U. Svedin, M. Falkenmark, M. Falkenmark, Louise Karlberg, Louise Karlberg, R. Corell, V. Fabry, J. Hansen, Brian Walker, Brian Walker, Diana Liverman, Diana Liverman, K. Richardson, P. Crutzen, J. Foley
+- **Pub Date:** 2009-09-23
+- **DOI:** 10.1038/461472a
+- **Abstract:** None
+
+### 4. [Neighborhood Built Environment and Income: Examining Multiple Health Outcomes](https://doi.org/10.1016/j.socscimed.2009.01.017)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** J. Sallis, B. Saelens, L. Frank, T. Conway, D. Slymen, K. Cain, James E. Chapman, J. Kerr
+- **Pub Date:** 2009-02-18
+- **DOI:** 10.1016/j.socscimed.2009.01.017
+- **Abstract:** There is growing interest in the relation of built environments to physical activity, obesity, and other health outcomes. The purpose of the present study was to test associations of neighborhood built environment and median income to multiple health outcomes and examine whether associations are similar for low- and high-income groups. This was a cross-sectional study of 32 neighborhoods in Seattle, WA and Baltimore, MD regions, stratified by income and walkability, and conducted between 2001–2005. Participants were adults aged 20–65 years (n=2199; 26% ethnic minority). The main outcomes were daily minutes of moderate-to-vigorous physical activity (MVPA) from accelerometer monitoring, body mass index (BMI) based on self-report, and mental and physical quality of life (QoL) assessed with the SF-12. We found that MVPA was higher in high- versus low-walkability neighborhoods but did not differ by neighborhood income. Overweight/obesity (BMI≥25) was lower in high-walkability neighborhoods. Physical QoL was higher in high-income neighborhoods but unrelated to walkability. Adjustment for neighborhood self-selection produced minor changes. We concluded that living in walkable neighborhoods was associated with more physical activity and lower overweight/obesity but not with other benefits. Lower- and higher-income groups benefited similarly from living in high-walkability neighborhoods. Adults in higher-income neighborhoods had lower BMI and higher physical QoL.
+
+### 5. [Spatial Voting in the 2004 Presidential Election](https://doi.org/10.1017/S000305540909008X)
+- **Journal:** American Political Science Review
+- **Authors:** S. Jessee
+- **Pub Date:** 2009-02-01
+- **DOI:** 10.1017/S000305540909008X
+- **Abstract:** None
+
+---
+
