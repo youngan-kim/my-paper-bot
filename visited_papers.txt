@@ -394,3 +394,8 @@ Intracellular dynamics of hippocampal place cells during virtual navigation
 A safe operating space for humanity
 Neighborhood Built Environment and Income: Examining Multiple Health Outcomes
 Spatial Voting in the 2004 Presidential Election
+Impact Assessment of Nematode Infestation on Soybean Crop Production Using Aerial Multispectral Imagery and Machine Learning
+An Application of the Dynamic Pattern Analysis Framework to the Analysis of Spatial-Temporal Crime Relationships
+Neighborhood rough set based heterogeneous feature subset selection
+Moving to Inequality: Neighborhood Effects and Experiments Meet Social Structure1
+Place cells, grid cells, and the brain's spatial representation system.

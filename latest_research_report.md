@@ -6519,3 +6519,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-19
+
+### 1. [Impact Assessment of Nematode Infestation on Soybean Crop Production Using Aerial Multispectral Imagery and Machine Learning](https://doi.org/10.3390/app14135482)
+- **Journal:** Applied Sciences
+- **Authors:** Pius Jjagwe, A. Chandel, David Langston
+- **Pub Date:** 2024-06-24
+- **DOI:** 10.3390/app14135482
+- **Abstract:** Accurate and prompt estimation of geospatial soybean yield (SY) is critical for the producers to determine key factors influencing crop growth for improved precision management decisions. This study aims to quantify the impacts of soybean cyst nematode (SCN) infestation on soybean production and the yield of susceptible and resistant seed varieties. Susceptible varieties showed lower yield and crop vigor recovery, and high SCN population (20 to 1080) compared to resistant varieties (SCN populations: 0 to 340). High-resolution (1.3 cm/pixel) aerial multispectral imagery showed the blue band reflectance (r = 0.58) and Green Normalized Difference Vegetation Index (GNDVI, r = −0.6) have the best correlation with the SCN populations. While GDNVI, Green Chlorophyll Index (GCI), and Normalized Difference Red Edge Index (NDRE) were the best differentiators of plant vigor and had the highest correlation with SY (r = 0.59–0.75). Reflectance (REF) and VIs were then used for SY estimation using two statistical and four machine learning (ML) models at 10 different train–test data split ratios (50:50–95:5). The ML models and train–test data split ratio had significant impacts on SY estimation accuracy. Random forest (RF) was the best and consistently performing model (r: 0.84–0.97, rRMSE: 8.72–20%), while a higher train–test split ratio lowered the performances of the ML models. The 95:5 train–test ratio showed the best performance across all the models, which may be a suitable ratio for modeling over smaller or medium-sized datasets. Such insights derived using high spatial resolution data can be utilized to implement precision crop protective operations for enhanced soybean yield and productivity.
+
+### 2. [An Application of the Dynamic Pattern Analysis Framework to the Analysis of Spatial-Temporal Crime Relationships](https://doi.org/10.3217/jucs-015-09-1852)
+- **Journal:** Journal of universal computer science (Online)
+- **Authors:** Kelvin Leong, Junco Li, S. Chan, V. Ng
+- **Pub Date:** 2009
+- **DOI:** 10.3217/jucs-015-09-1852
+- **Abstract:** Dynamic pattern analysis refers to analyzing the relationship of spatial patterns at different time points. Traditional spatial pattern analysis such as data clustering can find the spatial patterns extant at a geographical location at a particular time point but failing to identify spatial dynamics, or changes that occur over time in a particular place. In this paper, we present a dynamic pattern analysis framework, the DPA framework. This framework allows user to identify three types of dynamic patterns in spatial-temporal data: 1) similar spatial patterns at different time points, 2) interactive relationship between two geographical locations as a result of a specific reason and 3) frequent association rules related to particular types of events, geographical locations, and time points. To evaluate the proposed framework, we used it to analyze a set of reported crime data for a district of Hong Kong and compared the identified patterns with some expectations of field experts and prior empirical studies for this kind of data and patterns. In line with expert predictions, we found strong correlations between school holidays and crime clusters. On the contrary, in our data set, we could not find obvious seasonal dependency. These findings are corroborated by related empirical crime studies.
+
+### 3. [Neighborhood rough set based heterogeneous feature subset selection](https://doi.org/10.1016/j.ins.2008.05.024)
+- **Journal:** Information Sciences
+- **Authors:** Qinghua Hu, Daren Yu, Jinfu Liu, Congxin Wu
+- **Pub Date:** 2008-09-20
+- **DOI:** 10.1016/j.ins.2008.05.024
+- **Abstract:** None
+
+### 4. [Moving to Inequality: Neighborhood Effects and Experiments Meet Social Structure1](https://doi.org/10.1086/589843)
+- **Journal:** American Journal of Sociology
+- **Authors:** R. Sampson
+- **Pub Date:** 2008-07-01
+- **DOI:** 10.1086/589843
+- **Abstract:** The Moving to Opportunity (MTO) housing experiment has proven to be an important intervention not just in the lives of the poor, but in social science theories of neighborhood effects. Competing causal claims have been the subject of considerable disagreement, culminating in the debate between Clampet‐Lundquist and Massey and Ludwig et al. in this issue. This article assesses the debate by clarifying analytically distinct questions posed by neighborhood‐level theories, reconceptualizing selection bias as a fundamental social process worthy of study in its own right rather than a statistical nuisance, and reconsidering the scientific method of experimentation, and hence causality, in the social world of the city. The author also analyzes MTO and independent survey data from Chicago to examine trajectories of residential attainment. Although MTO provides crucial leverage for estimating neighborhood effects on individuals, as proponents rightly claim, this study demonstrates the implications imposed by a stratified urban structure and how MTO simultaneously provides a new window on the social reproduction of concentrated inequality.
+
+### 5. [Place cells, grid cells, and the brain's spatial representation system.](https://doi.org/10.1146/annurev.neuro.31.061307.090723)
+- **Journal:** Annual Review of Neuroscience
+- **Authors:** E. Moser, E. Kropff, M. Moser
+- **Pub Date:** 2008-06-17
+- **DOI:** 10.1146/annurev.neuro.31.061307.090723
+- **Abstract:** None
+
+---
+
