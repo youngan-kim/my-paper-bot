@@ -399,3 +399,8 @@ An Application of the Dynamic Pattern Analysis Framework to the Analysis of Spat
 Neighborhood rough set based heterogeneous feature subset selection
 Moving to Inequality: Neighborhood Effects and Experiments Meet Social Structure1
 Place cells, grid cells, and the brain's spatial representation system.
+The street level and beyond: The impact of ethnic diversity on neighborhood cohesion and fear of crime among Dutch natives and nonnatives
+Emanating Political Participation: Untangling the Spatial Structure Behind Participation
+Understanding and representing 'place' in health research: a relational approach.
+Stepping towards causation: do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?
+Forward and reverse hippocampal place-cell sequences during ripples

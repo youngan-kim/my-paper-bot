@@ -6558,3 +6558,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-20
+
+### 1. [The street level and beyond: The impact of ethnic diversity on neighborhood cohesion and fear of crime among Dutch natives and nonnatives](https://doi.org/10.1080/07352166.2018.1533379)
+- **Journal:** Journal of Urban Affairs
+- **Authors:** Iris Glas, G. Engbersen, E. Snel
+- **Pub Date:** 2018-12-10
+- **DOI:** 10.1080/07352166.2018.1533379
+- **Abstract:** ABSTRACT Ethnic diversity is increasing in most Western societies. Research suggests that these increasing levels of diversity could result in less neighborhood cohesion and more fear of crime. In this article, we examine both hypothesized outcomes of ethnic diversity, using survey data of the Dutch Safety Monitor 2014 in combination with detailed register data. The effects of diversity on neighborhood cohesion and fear of crime are simultaneously assessed at 3 spatial levels: districts, neighborhoods, and streets. The results of the multilevel analyses show that ethnic diversity is modestly related to less neighborhood cohesion and more fear of crime at specific spatial levels. The patterns are largely similar for natives and nonnatives. We found, in addition, that recent increases in diversity are unable to explain differences in neighborhood cohesion and fear of crime. Altogether, our study provides a nuanced understanding of diversity effects in the Dutch context.
+
+### 2. [Emanating Political Participation: Untangling the Spatial Structure Behind Participation](https://doi.org/10.1017/S0007123408000148)
+- **Journal:** British Journal of Political Science
+- **Authors:** W. Cho, T. Rudolph
+- **Pub Date:** 2008-02-08
+- **DOI:** 10.1017/S0007123408000148
+- **Abstract:** None
+
+### 3. [Understanding and representing 'place' in health research: a relational approach.](https://doi.org/10.1016/J.SOCSCIMED.2007.05.036)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** S. Cummins, S. Curtis, A. Diez-Roux, S. Macintyre
+- **Pub Date:** 2007-11-01
+- **DOI:** 10.1016/J.SOCSCIMED.2007.05.036
+- **Abstract:** None
+
+### 4. [Stepping towards causation: do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?](https://doi.org/10.1016/J.SOCSCIMED.2007.05.053)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** L. Frank, B. Saelens, K. Powell, James E. Chapman
+- **Pub Date:** 2007-11-01
+- **DOI:** 10.1016/J.SOCSCIMED.2007.05.053
+- **Abstract:** None
+
+### 5. [Forward and reverse hippocampal place-cell sequences during ripples](https://doi.org/10.1038/nn1961)
+- **Journal:** Nature Neuroscience
+- **Authors:** K. Diba, G. Buzsáki
+- **Pub Date:** 2007-10-01
+- **DOI:** 10.1038/nn1961
+- **Abstract:** None
+
+---
+
