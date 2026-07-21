@@ -6597,3 +6597,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-21
+
+### 1. [The Product Space Conditions the Development of Nations](https://doi.org/10.1126/science.1144581)
+- **Journal:** Science
+- **Authors:** César A. Hidalgo, B. Klinger, A. Barabási, R. Hausmann
+- **Pub Date:** 2007-07-27
+- **DOI:** 10.1126/science.1144581
+- **Abstract:** Economies grow by upgrading the products they produce and export. The technology, capital, institutions, and skills needed to make newer products are more easily adapted from some products than from others. Here, we study this network of relatedness between products, or “product space,” finding that more-sophisticated products are located in a densely connected core whereas less-sophisticated products occupy a less-connected periphery. Empirically, countries move through the product space by developing goods close to those they currently produce. Most countries can reach the core only by traversing empirically infrequent distances, which may help explain why poor countries have trouble developing more competitive exports and fail to converge to the income levels of rich countries.
+
+### 2. [The spindle-assembly checkpoint in space and time](https://doi.org/10.1038/nrm2163)
+- **Journal:** Nature reviews. Molecular cell biology
+- **Authors:** A. Musacchio, E. Salmon
+- **Pub Date:** 2007-05-01
+- **DOI:** 10.1038/nrm2163
+- **Abstract:** None
+
+### 3. [Spatial Econometric Models of Cross-Sectional Interdependence in Political Science Panel and Time-Series-Cross-Section Data](https://doi.org/10.1093/pan/mpm005)
+- **Journal:** Political Analysis
+- **Authors:** R. Franzese, Jude C. Hays
+- **Pub Date:** 2007-03-20
+- **DOI:** 10.1093/pan/mpm005
+- **Abstract:** None
+
+### 4. [Neighborhood microclimates and vulnerability to heat stress.](https://doi.org/10.1016/J.SOCSCIMED.2006.07.030)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** S. Harlan, A. Brazel, L. Prashad, W. Stefanov, Larissa Larsen
+- **Pub Date:** 2006-12-01
+- **DOI:** 10.1016/J.SOCSCIMED.2006.07.030
+- **Abstract:** None
+
+### 5. [An Adaptive Large Neighborhood Search Heuristic for the Pickup and Delivery Problem with Time Windows](https://doi.org/10.1287/TRSC.1050.0135)
+- **Journal:** Transportation Science
+- **Authors:** S. Røpke, David Pisinger
+- **Pub Date:** 2006-11-01
+- **DOI:** 10.1287/TRSC.1050.0135
+- **Abstract:** None
+
+---
+

@@ -404,3 +404,8 @@ Emanating Political Participation: Untangling the Spatial Structure Behind Parti
 Understanding and representing 'place' in health research: a relational approach.
 Stepping towards causation: do built environments or neighborhood and travel preferences explain physical activity, driving, and obesity?
 Forward and reverse hippocampal place-cell sequences during ripples
+The Product Space Conditions the Development of Nations
+The spindle-assembly checkpoint in space and time
+Spatial Econometric Models of Cross-Sectional Interdependence in Political Science Panel and Time-Series-Cross-Section Data
+Neighborhood microclimates and vulnerability to heat stress.
+An Adaptive Large Neighborhood Search Heuristic for the Pickup and Delivery Problem with Time Windows
