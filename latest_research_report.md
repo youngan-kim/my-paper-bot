@@ -6636,3 +6636,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-22
+
+### 1. [Neighborhood Environment Walkability Scale: validity and development of a short form.](https://doi.org/10.1249/01.MSS.0000227639.83607.4D)
+- **Journal:** Medicine & Science in Sports & Exercise
+- **Authors:** E. Cerin, B. Saelens, J. Sallis, L. Frank
+- **Pub Date:** 2006-09-01
+- **DOI:** 10.1249/01.MSS.0000227639.83607.4D
+- **Abstract:** None
+
+### 2. [Reverse replay of behavioural sequences in hippocampal place cells during the awake state](https://doi.org/10.1038/nature04587)
+- **Journal:** Nature
+- **Authors:** David J. Foster, M. Wilson
+- **Pub Date:** 2006-03-30
+- **DOI:** 10.1038/nature04587
+- **Abstract:** None
+
+### 3. [Cell-signalling dynamics in time and space](https://doi.org/10.1038/nrm1838)
+- **Journal:** Nature reviews. Molecular cell biology
+- **Authors:** B. Kholodenko
+- **Pub Date:** 2006-03-01
+- **DOI:** 10.1038/nrm1838
+- **Abstract:** None
+
+### 4. [Toward a neighborhood resource-based theory of social capital for health: can Bourdieu and sociology help?](https://doi.org/10.1016/J.SOCSCIMED.2005.05.020)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Richard M. Carpiano
+- **Pub Date:** 2006
+- **DOI:** 10.1016/J.SOCSCIMED.2005.05.020
+- **Abstract:** None
+
+### 5. [Competition Between Unequals: The Role of Mainstream Party Strategy in Niche Party Success](https://doi.org/10.1017/S0003055405051701)
+- **Journal:** American Political Science Review
+- **Authors:** Bonnie M. Meguid
+- **Pub Date:** 2005-08-01
+- **DOI:** 10.1017/S0003055405051701
+- **Abstract:** None
+
+---
+
