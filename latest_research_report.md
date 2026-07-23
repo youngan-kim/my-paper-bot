@@ -6675,3 +6675,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-23
+
+### 1. [Neighborhood Ethnic Diversity and Trust](https://doi.org/10.1177/0956797613508956)
+- **Journal:** Psychology Science
+- **Authors:** Katharina Schmid, A. Ramiah, M. Hewstone
+- **Pub Date:** 2014-01-16
+- **DOI:** 10.1177/0956797613508956
+- **Abstract:** None
+
+### 2. [Interactions between number and space in parietal cortex](https://doi.org/10.1038/nrn1684)
+- **Journal:** Nature Reviews Neuroscience
+- **Authors:** E. Hubbard, M. Piazza, P. Pinel, S. Dehaene
+- **Pub Date:** 2005-06-01
+- **DOI:** 10.1038/nrn1684
+- **Abstract:** None
+
+### 3. [Investigations into resting-state connectivity using independent component analysis](https://doi.org/10.1098/rstb.2005.1634)
+- **Journal:** Philosophical Transactions of the Royal Society B: Biological Sciences
+- **Authors:** Christian F. Beckmann, Marilena DeLuca, Joseph T. Devlin, Stephen M. Smith
+- **Pub Date:** 2005-05-29
+- **DOI:** 10.1098/rstb.2005.1634
+- **Abstract:** None
+
+### 4. [A Unified Theory of Party Competition: A Cross-National Analysis Integrating Spatial and Behavioral Factors](https://doi.org/10.1017/S0008423905299973)
+- **Journal:** Canadian Journal of Political Science/Revue canadienne de science politique
+- **Authors:** C. Nikolenyi
+- **Pub Date:** 2005-03-21
+- **DOI:** 10.1017/S0008423905299973
+- **Abstract:** None
+
+### 5. [Spatial Models of Delegation](https://doi.org/10.1017/S0003055404001157)
+- **Journal:** American Political Science Review
+- **Authors:** Jonathan Bendor, Adam Meirowitz
+- **Pub Date:** 2004-05-01
+- **DOI:** 10.1017/S0003055404001157
+- **Abstract:** None
+
+---
+
