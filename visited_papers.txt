@@ -419,3 +419,8 @@ Interactions between number and space in parietal cortex
 Investigations into resting-state connectivity using independent component analysis
 A Unified Theory of Party Competition: A Cross-National Analysis Integrating Spatial and Behavioral Factors
 Spatial Models of Delegation
+The (mis)estimation of neighborhood effects: causal inference for a practicable social epidemiology.
+The Measurement of Place Attachment: Validity and Generalizability of a Psychometric Approach
+Counterfactual Models of Neighborhood Effects: The Effect of Neighborhood Poverty on Dropping Out and Teenage Pregnancy1
+Social capital and neighborhood mortality rates in Chicago.
+The Electoral Geography of Weimar Germany: Exploratory Spatial Data Analyses (ESDA) of Protestant Support for the Nazi Party
