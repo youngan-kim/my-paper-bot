@@ -424,3 +424,8 @@ The Measurement of Place Attachment: Validity and Generalizability of a Psychome
 Counterfactual Models of Neighborhood Effects: The Effect of Neighborhood Poverty on Dropping Out and Teenage Pregnancy1
 Social capital and neighborhood mortality rates in Chicago.
 The Electoral Geography of Weimar Germany: Exploratory Spatial Data Analyses (ESDA) of Protestant Support for the Nazi Party
+Statistical Analysis of Spatial Expression Pattern for Spatially Resolved Transcriptomic Studies
+Place effects on health: how can we conceptualise, operationalise and measure them?
+On the Return of Epicycles: Some Crossroads in Spatial Modeling Revisited
+A Theory of Spatial Competition with Biased Voters: Party Policies Viewed Temporally and Comparatively
+Using GIS to Document, Visualize, and Interpret Tokyo’s Spatial History

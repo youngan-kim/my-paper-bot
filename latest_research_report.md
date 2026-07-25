@@ -6754,3 +6754,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-25
+
+### 1. [Statistical Analysis of Spatial Expression Pattern for Spatially Resolved Transcriptomic Studies](https://doi.org/10.1038/s41592-019-0701-7)
+- **Journal:** Nature Methods
+- **Authors:** Shiquan Sun, Jiaqiang Zhu, Xiang Zhou
+- **Pub Date:** 2019-10-21
+- **DOI:** 10.1038/s41592-019-0701-7
+- **Abstract:** Identifying genes that display spatial expression patterns in spatially resolved transcriptomic studies is an important first step toward characterizing the spatial transcriptomic landscape of complex tissues. Here we present a statistical method, SPARK, for identifying spatial expression patterns of genes in data generated from various spatially resolved transcriptomic techniques. SPARK directly models spatial count data through generalized linear spatial models. It relies on recently developed statistical formulas for hypothesis testing, providing effective control of type I errors and yielding high statistical power. With a computationally efficient algorithm, which is based on penalized quasi-likelihood, SPARK is also scalable to datasets with tens of thousands of genes measured on tens of thousands of samples. Analyzing four published spatially resolved transcriptomic datasets using SPARK, we show it can be up to ten times more powerful than existing methods and disclose biological discoveries that otherwise cannot be revealed by existing approaches. A statistical method called SPARK for analyzing spatially resolved transcriptomic data can efficiently identify spatially expressed genes with effective control of type I errors and high statistical power.
+
+### 2. [Place effects on health: how can we conceptualise, operationalise and measure them?](https://doi.org/10.1016/S0277-9536(01)00214-3)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** S. Macintyre, A. Ellaway, S. Cummins
+- **Pub Date:** 2002-07-01
+- **DOI:** 10.1016/S0277-9536(01)00214-3
+- **Abstract:** None
+
+### 3. [On the Return of Epicycles: Some Crossroads in Spatial Modeling Revisited](https://doi.org/10.1111/0022-3816.00074)
+- **Journal:** Journal of Politics
+- **Authors:** Anders Westholm
+- **Pub Date:** 2001-05-01
+- **DOI:** 10.1111/0022-3816.00074
+- **Abstract:** None
+
+### 4. [A Theory of Spatial Competition with Biased Voters: Party Policies Viewed Temporally and Comparatively](https://doi.org/10.1017/S0007123401000060)
+- **Journal:** British Journal of Political Science
+- **Authors:** James Adams
+- **Pub Date:** 2001-01-01
+- **DOI:** 10.1017/S0007123401000060
+- **Abstract:** None
+
+### 5. [Using GIS to Document, Visualize, and Interpret Tokyo’s Spatial History](https://doi.org/10.1017/S0145553200010294)
+- **Journal:** Social science history
+- **Authors:** I. Gregory
+- **Pub Date:** 2000-08-01
+- **DOI:** 10.1017/S0145553200010294
+- **Abstract:** None
+
+---
+
