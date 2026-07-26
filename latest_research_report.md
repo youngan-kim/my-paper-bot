@@ -6793,3 +6793,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-26
+
+### 1. [NEIGHBORHOOD EFFECTS ON THE LONG-TERM WELL-BEING OF LOW-INCOME ADULTS](https://doi.org/10.1126/science.1224648)
+- **Journal:** Science
+- **Authors:** Jens Ludwig, G. Duncan, L. Gennetian, Lawrence F. Katz, R. Kessler, Jeffrey R. Kling, L. Sanbonmatsu
+- **Pub Date:** 2012-09-21
+- **DOI:** 10.1126/science.1224648
+- **Abstract:** Location, Location, Location It seems obvious that a person's residential neighborhood will influence their sense of well-being, but it has been difficult to nail down cause and effect. Ludwig et al. (p. 1505; see the Perspective by Sampson) describe the analysis, 10 to 15 years onward, of a large-scale social experiment carried out in five U.S. cities in the mid 1990s. Several thousand residents of poor neighborhoods were given housing vouchers that could only be used if they moved into much less poor neighborhoods. In comparison to a similar group of individuals who did not move, those who did experienced substantial improvement in their subjective well-being. Moving from a poor to a less poor residential environment makes people feel good for a long time. Nearly 9 million Americans live in extreme-poverty neighborhoods, places that also tend to be racially segregated and dangerous. Yet, the effects on the well-being of residents of moving out of such communities into less distressed areas remain uncertain. Using data from Moving to Opportunity, a unique randomized housing mobility experiment, we found that moving from a high-poverty to lower-poverty neighborhood leads to long-term (10- to 15-year) improvements in adult physical and mental health and subjective well-being, despite not affecting economic self-sufficiency. A 1–standard deviation decline in neighborhood poverty (13 percentage points) increases subjective well-being by an amount equal to the gap in subjective well-being between people whose annual incomes differ by $13,000—a large amount given that the average control group income is $20,000. Subjective well-being is more strongly affected by changes in neighborhood economic disadvantage than racial segregation, which is important because racial segregation has been declining since 1970, but income segregation has been increasing.
+
+### 2. [MOVING TO INEQUALITY: NEIGHBORHOOD EFFECTS AND EXPERIMENTS MEET STRUCTURE](https://doi.org/10.1086/589843)
+- **Journal:** American Journal of Sociology
+- **Authors:** R. Sampson
+- **Pub Date:** 2008-07-01
+- **DOI:** 10.1086/589843
+- **Abstract:** The Moving to Opportunity (MTO) housing experiment has proven to be an important intervention not just in the lives of the poor, but in social science theories of neighborhood effects. Competing causal claims have been the subject of considerable disagreement, culminating in the debate between Clampet‐Lundquist and Massey and Ludwig et al. in this issue. This article assesses the debate by clarifying analytically distinct questions posed by neighborhood‐level theories, reconceptualizing selection bias as a fundamental social process worthy of study in its own right rather than a statistical nuisance, and reconsidering the scientific method of experimentation, and hence causality, in the social world of the city. The author also analyzes MTO and independent survey data from Chicago to examine trajectories of residential attainment. Although MTO provides crucial leverage for estimating neighborhood effects on individuals, as proponents rightly claim, this study demonstrates the implications imposed by a stratified urban structure and how MTO simultaneously provides a new window on the social reproduction of concentrated inequality.
+
+### 3. [Black Neighbors, Higher Crime? The Role of Racial Stereotypes in Evaluations of Neighborhood Crime1](https://doi.org/10.1086/338938)
+- **Journal:** American Journal of Sociology
+- **Authors:** Lincoln Quillian, D. Pager
+- **Pub Date:** 2001-11-01
+- **DOI:** 10.1086/338938
+- **Abstract:** None
+
+### 4. [Powerlessness and the Amplification of Threat: Neighborhood Disadvantage, Disorder, and Mistrust](https://doi.org/10.1177/000312240106600405)
+- **Journal:** American Sociological Review
+- **Authors:** C. Ross, J. Mirowsky, Shana L. Pribesh
+- **Pub Date:** 2001-08-01
+- **DOI:** 10.1177/000312240106600405
+- **Abstract:** A theory of trust is developed and tested. The theory posits that mistrust develops in neighborhoods where resources are scarce and threat is common, and among individuals with few resources and who feel powerless to avoid or manage the threat. Perceived neighborhood disorder, common in disadvantaged neighborhoods where disadvantaged individuals live, influences mistrust directly and indirectly by increasing residents’ perceptions of powerlessness which in turn amplify disorder's effect on mistrust. The hypotheses are examined using the Community, Crime, and Health data, a 1995 survey of a representative sample of 2,482 Illinois residents with linked data on neighborhoods. Net of individual disadvantage, residents of disadvantaged neighborhoods have low levels of trust as a result of high levels of disorder in their neighborhoods: People who report living in neighborhoods with high levels of crime, vandalism, graffiti, danger, noise, and drugs are more mistrusting. The sense of powerlessness, which is common in such neighborhoods, amplifies the effect of neighborhood disorder on mistrust.
+
+### 5. [A Bargaining Model of Collective Choice](https://doi.org/10.2307/2586381)
+- **Journal:** American Political Science Review
+- **Authors:** J. Banks, John Duggan
+- **Pub Date:** 2000-03-01
+- **DOI:** 10.2307/2586381
+- **Abstract:** None
+
+---
+
