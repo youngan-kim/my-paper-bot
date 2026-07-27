@@ -6832,3 +6832,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-27
+
+### 1. [Integrating Remote Sensing and Ground-Based Data for Enhanced Spatial–Temporal Analysis of Heatwaves: A Machine Learning Approach](https://doi.org/10.3390/app14103969)
+- **Journal:** Applied Sciences
+- **Authors:** Thitimar Chongtaku, A. Taparugssanagorn, Hiroyuki Miyazaki, T. Tsusaka
+- **Pub Date:** 2024-05-07
+- **DOI:** 10.3390/app14103969
+- **Abstract:** In response to the urgent global threat posed by human-induced extreme climate hazards, heatwaves are still systematically under-reported and under-researched in Thailand. This region is confronting a significant rise in heat-related mortality, which has resulted in hundreds of deaths, underscoring a pressing issue that needs to be addressed. This research article is one of the first to present a solution for assessing heatwave dynamics, using machine learning (ML) algorithms and geospatial technologies in this country. It analyzes heatwave metrics like heatwave number (HWN), heatwave frequency (HWF), heatwave duration (HWD), heatwave magnitude (HWM), and heatwave amplitude (HWA), combining satellite-derived land surface temperature (LST) data with ground-based air temperature (Tair) observations from 1981 to 2019. The result reveals significant marked increases in both the frequency and intensity of daytime heatwaves in peri-urban areas, with the most pronounced changes being a 0.45-day/year in HWN, a 2.00-day/year in HWF, and a 0.27-day/year in HWD. This trend is notably less pronounced in urban areas. Conversely, rural regions are experiencing a significant escalation in nighttime heatwaves, with increases of 0.39 days/year in HWN, 1.44 days/year in HWF, and 0.14 days/year in HWD. Correlation analysis (p<0.05) reveals spatial heterogeneity in heatwave dynamics, with robust daytime correlations between Tair and LST in rural (HWN, HWF, HWD, r>0.90) and peri-urban (HWM, HWA, r>0.65) regions. This study emphasizes the importance of considering microclimatic variations in heatwave analysis, offering insights for targeted intervention strategies. It demonstrates how enhancing remote sensing with ML can facilitate the spatial–temporal analysis of heatwaves across diverse environments. This approach identifies critical risk areas in Thailand, guiding resilience efforts and serving as a model for managing similar microclimates, extending the applicability of this study. Overall, the study provides policymakers and stakeholders with potent tools for climate action and effective heatwave management. Furthermore, this research contributes to mitigating the impacts of extreme climate events, promoting resilience, and fostering environmental sustainability.
+
+### 2. [Dynamic DNA methylation: in the right place at the right time](https://doi.org/10.1126/science.aat6806)
+- **Journal:** Science
+- **Authors:** C. Luo, P. Hájková, J. Ecker
+- **Pub Date:** 2018-09-28
+- **DOI:** 10.1126/science.aat6806
+- **Abstract:** The classical model of cytosine DNA methylation (the presence of 5-methylcytosine, 5mC) regulation depicts this covalent modification as a stable repressive regulator of promoter activity. However, whole-genome analysis of 5mC reveals widespread tissue- and cell type–specific patterns and pervasive dynamics during mammalian development. Here we review recent findings that delineate 5mC functions in developmental stages and diverse genomic compartments as well as discuss the molecular mechanisms that connect transcriptional regulation and 5mC. Beyond the newly appreciated dynamics, regulatory roles for 5mC have been suggested in new biological contexts, such as learning and memory or aging. The use of new single-cell measurement techniques and precise editing tools will enable functional analyses of 5mC in gene expression, clarifying its role in various biological processes.
+
+### 3. [A theory of magnitude: common cortical metrics of time, space and quantity.](https://doi.org/10.1016/J.TICS.2003.09.002)
+- **Journal:** Trends in Cognitive Sciences
+- **Authors:** Vincent Walsh
+- **Pub Date:** 2003-11-01
+- **DOI:** 10.1016/J.TICS.2003.09.002
+- **Abstract:** None
+
+### 4. [Political Confederation](https://doi.org/10.2307/2585761)
+- **Journal:** American Political Science Review
+- **Authors:** J. Crémer, T. Palfrey
+- **Pub Date:** 1999-03-01
+- **DOI:** 10.2307/2585761
+- **Abstract:** None
+
+### 5. [Space and attention in parietal cortex.](https://doi.org/10.1146/ANNUREV.NEURO.22.1.319)
+- **Journal:** Annual Review of Neuroscience
+- **Authors:** C. Colby, M. Goldberg
+- **Pub Date:** 1999
+- **DOI:** 10.1146/ANNUREV.NEURO.22.1.319
+- **Abstract:** None
+
+---
+

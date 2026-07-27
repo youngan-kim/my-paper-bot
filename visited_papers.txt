@@ -434,3 +434,8 @@ MOVING TO INEQUALITY: NEIGHBORHOOD EFFECTS AND EXPERIMENTS MEET STRUCTURE
 Black Neighbors, Higher Crime? The Role of Racial Stereotypes in Evaluations of Neighborhood Crime1
 Powerlessness and the Amplification of Threat: Neighborhood Disadvantage, Disorder, and Mistrust
 A Bargaining Model of Collective Choice
+Integrating Remote Sensing and Ground-Based Data for Enhanced Spatial–Temporal Analysis of Heatwaves: A Machine Learning Approach
+Dynamic DNA methylation: in the right place at the right time
+A theory of magnitude: common cortical metrics of time, space and quantity.
+Political Confederation
+Space and attention in parietal cortex.
