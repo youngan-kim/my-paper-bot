@@ -6871,3 +6871,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-28
+
+### 1. [Neighborhoods and violent crime: a multilevel study of collective efficacy.](https://doi.org/10.1126/SCIENCE.277.5328.918)
+- **Journal:** Science
+- **Authors:** R. Sampson, S. Raudenbush, F. Earls
+- **Pub Date:** 1997-08-15
+- **DOI:** 10.1126/SCIENCE.277.5328.918
+- **Abstract:** It is hypothesized that collective efficacy, defined as social cohesion among neighbors combined with their willingness to intervene on behalf of the common good, is linked to reduced violence. This hypothesis was tested on a 1995 survey of 8782 residents of 343 neighborhoods in Chicago, Illinois. Multilevel analyses showed that a measure of collective efficacy yields a high between-neighborhood reliability and is negatively associated with variations in violence, when individual-level characteristics, measurement error, and prior violence are controlled. Associations of concentrated disadvantage and residential instability with violence are largely mediated by collective efficacy.
+
+### 2. [Geometric determinants of the place fields of hippocampal neurons](https://doi.org/10.1038/381425A0)
+- **Journal:** Nature
+- **Authors:** J. O’Keefe, N. Burgess
+- **Pub Date:** 1996-05-30
+- **DOI:** 10.1038/381425A0
+- **Abstract:** None
+
+### 3. [Political Sophistication and Models of Issue Voting](https://doi.org/10.1017/S0007123400007316)
+- **Journal:** British Journal of Political Science
+- **Authors:** Stuart Macdonald, G. Rabinowitz, O. Listhaug
+- **Pub Date:** 1995-10-01
+- **DOI:** 10.1017/S0007123400007316
+- **Abstract:** None
+
+### 4. [City of bits: space, place and the infobahn](https://doi.org/10.1145/606032.606038)
+- **Journal:** Computer Science On-line Conference
+- **Authors:** J. Podolsky
+- **Pub Date:** 1995-09-01
+- **DOI:** 10.1145/606032.606038
+- **Abstract:** Pulling glass electronic agoras cyborg citizens recombinant architecture soft cities bit biz getting to the good bits notes surf sites.
+
+### 5. [A New Spatial Theory of Party Competition: Uncertainty, Ideology and Policy Equilibria Viewed Comparatively and Temporally](https://doi.org/10.1017/S0007123400006955)
+- **Journal:** British Journal of Political Science
+- **Authors:** I. Budge
+- **Pub Date:** 1994-10-01
+- **DOI:** 10.1017/S0007123400006955
+- **Abstract:** None
+
+---
+
