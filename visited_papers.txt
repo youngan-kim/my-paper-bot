@@ -444,3 +444,8 @@ Geometric determinants of the place fields of hippocampal neurons
 Political Sophistication and Models of Issue Voting
 City of bits: space, place and the infobahn
 A New Spatial Theory of Party Competition: Uncertainty, Ideology and Policy Equilibria Viewed Comparatively and Temporally
+Spatial analysis methods and practice: describe–explore–explain through GIS
+Scale-Space Theory in Computer Vision
+Dynamics of the hippocampal ensemble code for space.
+Adaptive Parties in Spatial Elections
+The updating of the representation of visual space in parietal cortex by intended eye movements.

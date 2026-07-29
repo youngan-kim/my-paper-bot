@@ -6910,3 +6910,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-29
+
+### 1. [Spatial analysis methods and practice: describe–explore–explain through GIS](https://doi.org/10.1080/14498596.2021.1955816)
+- **Journal:** Journal of Spatial Science
+- **Authors:** Alan Thomas, J. Aryal
+- **Pub Date:** 2021-07-30
+- **DOI:** 10.1080/14498596.2021.1955816
+- **Abstract:** None
+
+### 2. [Scale-Space Theory in Computer Vision](https://doi.org/10.1007/3-540-63167-4)
+- **Journal:** Lecture Notes in Computer Science
+- **Authors:** Tony Lindeberg
+- **Pub Date:** 1993-12-31
+- **DOI:** 10.1007/3-540-63167-4
+- **Abstract:** None
+
+### 3. [Dynamics of the hippocampal ensemble code for space.](https://doi.org/10.1126/SCIENCE.8351520)
+- **Journal:** Science
+- **Authors:** M. Wilson, B. McNaughton
+- **Pub Date:** 1993-08-20
+- **DOI:** 10.1126/SCIENCE.8351520
+- **Abstract:** None
+
+### 4. [Adaptive Parties in Spatial Elections](https://doi.org/10.2307/1964345)
+- **Journal:** American Political Science Review
+- **Authors:** Ken Kollman, John H. Miller, S. Page
+- **Pub Date:** 1992-12-01
+- **DOI:** 10.2307/1964345
+- **Abstract:** None
+
+### 5. [The updating of the representation of visual space in parietal cortex by intended eye movements.](https://doi.org/10.1126/SCIENCE.1553535)
+- **Journal:** Science
+- **Authors:** J. Duhamel, C. Colby, M. Goldberg
+- **Pub Date:** 1992-01-03
+- **DOI:** 10.1126/SCIENCE.1553535
+- **Abstract:** None
+
+---
+
