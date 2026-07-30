@@ -6949,3 +6949,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-30
+
+### 1. [The Epidemic Theory of Ghettos and Neighborhood Effects on Dropping Out and Teenage Childbearing](https://doi.org/10.1086/229654)
+- **Journal:** American Journal of Sociology
+- **Authors:** J. Crane
+- **Pub Date:** 1991-03-01
+- **DOI:** 10.1086/229654
+- **Abstract:** None
+
+### 2. [Place navigation impaired in rats with hippocampal lesions](https://doi.org/10.1038/297681A0)
+- **Journal:** Nature
+- **Authors:** R. Morris, P. Garrud, J. Rawlins, J. O’Keefe
+- **Pub Date:** 1982-06-24
+- **DOI:** 10.1038/297681A0
+- **Abstract:** None
+
+### 3. [The City as a Growth Machine: Toward a Political Economy of Place](https://doi.org/10.1086/226311)
+- **Journal:** American Journal of Sociology
+- **Authors:** H. Molotch
+- **Pub Date:** 1976-09-01
+- **DOI:** 10.1086/226311
+- **Abstract:** A city and, more generally, any locality, is conceived as the areal expression of the interests of some land-based elite. Such an elite is seen to profit through the increasing intensification of the land use of the area in which its members hold a common interest. An elite competes with other land-based elites in an effort to have growth-inducing resources invested within its own area as opposed to that of another. Governmental authority, at the local and nonlocal levels, is utilized to assist in achieving this growth at the expense of competing localities. Conditions of community life are largely a consequence of the social, econimic, and political forces embodied in this growth machine. The relevance of growth to the interests of various social groups is examined in this context, particularly with reference to the issue of unemployment. Recent social trends in opposition to growth are described and their potential consequences evaluated.
+
+### 4. [Spatial Archetypes and Political Perceptions](https://doi.org/10.2307/1957881)
+- **Journal:** American Political Science Review
+- **Authors:** J. Laponce
+- **Pub Date:** 1975-03-01
+- **DOI:** 10.2307/1957881
+- **Abstract:** None
+
+### 5. [Pattern classification and scene analysis](https://doi.org/10.2307/1573081)
+- **Journal:** A Wiley-Interscience publication
+- **Authors:** R. Duda, P. Hart
+- **Pub Date:** 1974-01-23
+- **DOI:** 10.2307/1573081
+- **Abstract:** None
+
+---
+
