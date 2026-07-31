@@ -6988,3 +6988,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-07-31
+
+### 1. [A Spatial Bargaining Theory of Government Formation in Parliamentary Systems](https://doi.org/10.2307/1962882)
+- **Journal:** American Political Science Review
+- **Authors:** D. Baron
+- **Pub Date:** 1991-03-01
+- **DOI:** 10.2307/1962882
+- **Abstract:** None
+
+### 2. [A Directional Theory of Issue Voting](https://doi.org/10.2307/1956436)
+- **Journal:** American Political Science Review
+- **Authors:** G. Rabinowitz, Stuart Macdonald
+- **Pub Date:** 1989-03-01
+- **DOI:** 10.2307/1956436
+- **Abstract:** None
+
+### 3. [The Architecture of Parliaments: Legislative Houses and Political Culture](https://doi.org/10.1017/S0007123400005135)
+- **Journal:** British Journal of Political Science
+- **Authors:** C. Goodsell
+- **Pub Date:** 1988-07-01
+- **DOI:** 10.1017/S0007123400005135
+- **Abstract:** None
+
+### 4. [The Core and the Stability of Group Choice in Spatial Voting Games](https://doi.org/10.2307/1958065)
+- **Journal:** American Political Science Review
+- **Authors:** N. Schofield, B. Grofman, S. Feld
+- **Pub Date:** 1988-03-01
+- **DOI:** 10.2307/1958065
+- **Abstract:** None
+
+### 5. [Stability and Centrality of Legislative Choice in the Spatial Context](https://doi.org/10.2307/1961966)
+- **Journal:** American Political Science Review
+- **Authors:** B. Grofman, G. Owen, N. Noviello, A. Glazer
+- **Pub Date:** 1987-06-01
+- **DOI:** 10.2307/1961966
+- **Abstract:** None
+
+---
+
