@@ -7027,3 +7027,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-08-01
+
+### 1. [Cluster Analysis](https://doi.org/10.1007/978-1-4939-7131-2_100104)
+- **Journal:** Science
+- **Authors:** K. Vehkalahti, Brian S. Everitt
+- **Pub Date:** 2002-07-05
+- **DOI:** 10.1007/978-1-4939-7131-2_100104
+- **Abstract:** Discontinuities serve as the foundation for studying rock mechanics and permeability characteristics. Over the past decade, there has been significant progress and widespread utilization of non-contact measurement techniques, particularly through digital photography, light detection and ranging, and unmanned aerial vehicles, enabling the acquisition of point clouds to characterize rock masses. This paper proposes a novel method for rapidly extracting and clustering discontinuities from 3D point clouds of rock masses, which consists of four main steps: (1) Voxelization of the raw point cloud and local clustering to generate over-segmented super-voxels, (2) Growing the super-voxels by both smoothness and coplanarity constraints, (3) Optimizing the regions representing the discontinuities using a multi-level merging strategy, and (4) Clustering discontinuities through an improved density-based spatial clustering of applications with noise (DBSCAN) algorithm, which is preceded by the saliency and diversity ranking. This method was applied to two classical cases (the regular polyhedron and road cut), and compared with manual surveys and previous research results, which showed that the proposed method achieves high accuracy and can efficiently handle millions of point clouds within a few seconds, thus meeting the requirements of engineering applications.
+
+### 2. [A Spatial Model of International Conflict](https://doi.org/10.2307/1960860)
+- **Journal:** American Political Science Review
+- **Authors:** J. Morrow
+- **Pub Date:** 1986-12-01
+- **DOI:** 10.2307/1960860
+- **Abstract:** None
+
+### 3. [A Downsian Spatial Model with Party Activism](https://doi.org/10.2307/1957570)
+- **Journal:** American Political Science Review
+- **Authors:** John H. Aldrich
+- **Pub Date:** 1983-12-01
+- **DOI:** 10.2307/1957570
+- **Abstract:** None
+
+### 4. [Toward Applicable Social Choice Theory: A Comparison of Social Choice Functions under Spatial Model Assumptions](https://doi.org/10.2307/1954543)
+- **Journal:** American Political Science Review
+- **Authors:** John R. Chamberlin, Michael X Cohen
+- **Pub Date:** 1978-12-01
+- **DOI:** 10.2307/1954543
+- **Abstract:** None
+
+### 5. [Staged Authenticity: Arrangements of Social Space in Tourist Settings](https://doi.org/10.1086/225585)
+- **Journal:** American Journal of Sociology
+- **Authors:** D. MacCannell
+- **Pub Date:** 1973-11-01
+- **DOI:** 10.1086/225585
+- **Abstract:** None
+
+---
+
