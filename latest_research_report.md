@@ -7066,3 +7066,42 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-08-02
+
+### 1. [A Theory of Electoral Equilibrium: A Spatial Analysis Based on the Theory of Games](https://doi.org/10.2307/2129041)
+- **Journal:** Journal of Politics
+- **Authors:** M. Hinich, J. Ledyard, P. Ordeshook
+- **Pub Date:** 1973-02-01
+- **DOI:** 10.2307/2129041
+- **Abstract:** None
+
+### 2. [The Strategy of Ambiguity: Uncertainty and Electoral Competition](https://doi.org/10.2307/1957799)
+- **Journal:** American Political Science Review
+- **Authors:** K. Shepsle
+- **Pub Date:** 1972-06-01
+- **DOI:** 10.2307/1957799
+- **Abstract:** None
+
+### 3. [Plurality Maximization vs Vote Maximization: A Spatial Analysis with Variable Participation](https://doi.org/10.2307/1953462)
+- **Journal:** American Political Science Review
+- **Authors:** M. Hinich, P. Ordeshook
+- **Pub Date:** 1970-09-01
+- **DOI:** 10.2307/1953462
+- **Abstract:** None
+
+### 4. [An Expository Development of a Mathematical Model of the Electoral Process](https://doi.org/10.2307/1953842)
+- **Journal:** American Political Science Review
+- **Authors:** O. Davis, M. Hinich, P. Ordeshook
+- **Pub Date:** 1970-06-01
+- **DOI:** 10.2307/1953842
+- **Abstract:** None
+
+### 5. [Trends in American Political Science: Some Analytical Notes](https://doi.org/10.2307/1952610)
+- **Journal:** American Political Science Review
+- **Authors:** A. Somit, J. Tanenhaus
+- **Pub Date:** 1963-12-01
+- **DOI:** 10.2307/1952610
+- **Abstract:** None
+
+---
+
