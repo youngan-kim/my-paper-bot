@@ -7105,3 +7105,21 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-08-03
+
+### 1. [Spatial Models of Party Competition](https://doi.org/10.2307/1952828)
+- **Journal:** American Political Science Review
+- **Authors:** Donald E. Stokes
+- **Pub Date:** 1963-06-01
+- **DOI:** 10.2307/1952828
+- **Abstract:** None
+
+### 2. [Hamiltonian Systems and Transformation in Hilbert Space.](https://doi.org/10.1073/PNAS.17.5.315)
+- **Journal:** Proceedings of the National Academy of Sciences of the United States of America
+- **Authors:** B. O. Koopman
+- **Pub Date:** 1931-05-01
+- **DOI:** 10.1073/PNAS.17.5.315
+- **Abstract:** None
+
+---
+

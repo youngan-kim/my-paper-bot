@@ -469,3 +469,5 @@ The Strategy of Ambiguity: Uncertainty and Electoral Competition
 Plurality Maximization vs Vote Maximization: A Spatial Analysis with Variable Participation
 An Expository Development of a Mathematical Model of the Electoral Process
 Trends in American Political Science: Some Analytical Notes
+Spatial Models of Party Competition
+Hamiltonian Systems and Transformation in Hilbert Space.
