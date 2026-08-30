@@ -472,3 +472,4 @@ Trends in American Political Science: Some Analytical Notes
 Spatial Models of Party Competition
 Hamiltonian Systems and Transformation in Hilbert Space.
 The New Neighborhood Watch: An Exploratory Study of the Nextdoor App and Crime Narratives
+Hybrid Machine Learning Predicts Flooding Using Lstm And Random Forests On Geodata

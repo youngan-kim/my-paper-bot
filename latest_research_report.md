@@ -7134,3 +7134,14 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-08-30
+
+### 1. [Hybrid Machine Learning Predicts Flooding Using Lstm And Random Forests On Geodata](https://doi.org/10.31539/intecoms.v8i1.13991)
+- **Journal:** INTECOMS Journal of Information Technology and Computer Science
+- **Authors:** Zakiul Fahmi Jailani, Dita Nurmadewi
+- **Pub Date:** 2025-01-09
+- **DOI:** 10.31539/intecoms.v8i1.13991
+- **Abstract:** Flood prediction remains a critical concern in Indonesia, a nation frequently affected by seasonal deluges. This research aims to predict flood occurrences in five key provinces by employing a hybrid machine learning approach using Long Short-Term Memory (LSTM) networks and Random Forest models. Leveraging geospatial and temporal data from Petabencana.id, collected between January 2018 and February 2024, the study develops a predictive framework for flood forecasting. The analysis integrates flood depth and historical disaster data to estimate the time to the next flood, with predictions starting after the last data entry in February 2024. The model accurately predicted that Jakarta would experience flooding within 25–50 days post-February, a forecast corroborated by significant floods in April 2024. Other provinces, including Central Java and East Java, displayed longer flood risk windows extending further into the year. With a training accuracy of 99%, the model underscores its reliability in predicting flood events. This study emphasizes the strength of LSTM in capturing temporal patterns and the role of Random Forests in identifying key predictive features. The proposed model offers a valuable tool for disaster management agencies and local governments, enabling them to anticipate and mitigate flood impacts using real-time data from Petabencana.id.
+
+---
+
