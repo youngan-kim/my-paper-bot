@@ -7145,3 +7145,46 @@ Received: 21 December 2020 / Accepted: 18 February 2021 / Published: 7 March 202
 
 ---
 
+## 📅 Added on: 2026-09-01
+
+### 1. [The Vanished Political and Cultural Imagination: Spatial and Temporal Representations in "Folding Beijing" and "Xian Ge"](https://doi.org/10.1525/sfs.2026.53.1.57)
+- **Journal:** Science Fiction Studies
+- **Authors:** Hyejin Kwon
+- **Pub Date:** 2026-03-01
+- **DOI:** 10.1525/sfs.2026.53.1.57
+- **Abstract:** abstract:This paper examines Hao Jingfang's speculative fiction—particularly "Folding Beijing" and "Xian Ge" as a critical lens through which to analyze contemporary Chinese science fiction's negotiation with modernity. It explores how her narratives represent fragmented space-time structures to critique progress, social stratification, and the limits of human identity within technocapitalist societies. By foregrounding marginalized perspectives, Hao's fiction challenges Enlightenment rationalism and offers a vision of humanity shaped by sociohistorical conditions rather than universalist ideals. The study further contextualizes her work within a broader global framework, positioning Chinese sf as both culturally specific and globally resonant. Drawing on theories of modernity, morality, and environmental ethics, this analysis argues that Hao's fiction calls for a reconfiguration of human-nature relations and a renewed moral imagination. Ultimately, the paper situates Hao Jingfang's work as a compelling response to the crisis of the Anthropocene and the failures of modernist ideology.
+
+### 2. [IDENTITY FROM AN IBN KHALDUNIAN PERSPECTIVE. THE SEARCH FOR THE CONCEPT OF IDENTITY WITHIN IBN KHALDUN’S MUQADDIMAH](https://doi.org/10.31435/ijitss.3(47).2025.4598)
+- **Journal:** International Journal of Innovative Technologies in Social Science
+- **Authors:** Dorbane Hafidha, Boularaf Redhouane, Zelmat Ghania
+- **Pub Date:** 2025-07-26
+- **DOI:** 10.31435/ijitss.3(47).2025.4598
+- **Abstract:** The attempt to understand certain social concepts requires tracing them back to early stages of human thought. Returning to the fundamentals always clarifies the path these concepts have taken through their interaction with spatial, temporal, and epistemological contexts until reaching their contemporary form—such as the concept of identity. 
+When speaking of sociology, Ibn Khaldun’s Muqaddimah stands as the foundational pillar of this science and the earliest systematic reflection on it. In it, he included his ideas about the phenomena and systems related to human society and civilization, and the resulting social, political, cultural, historical, and geographical issues—the core subjects of the science he founded. 
+This research paper thus seeks to explore the concept of identity within Ibn Khaldun’s Muqaddimah, while also attempting to interpret it through sociological and even anthropological perspectives on identity. The study’s main findings indicate that the notion of identity appears in the Muqaddimah both as a term and as a social meaning expressing various forms of belonging and affiliation.
+
+### 3. [Finding the “Field” in our “Homes” and our “Homes” in the “Field”: A Critique of the “Home–Field” Dichotomy](https://doi.org/10.1017/S1049096525000447)
+- **Journal:** PS: Political Science and Politics
+- **Authors:** Marnie Howlett, Lauren C. Konken
+- **Pub Date:** 2025-07-14
+- **DOI:** 10.1017/S1049096525000447
+- **Abstract:** ABSTRACT The “home–field” dichotomy has long been a core assumption of fieldwork in political science. As in other social science disciplines, political scientists rely on these categories to contextualize our research within particular time–space nexuses and to separate our personal lives and private dwellings and institutions from our sources, participants, and broader research environments. Although the spatial, temporal, and emotional divisions between our “homes” and “fields” have always been arbitrary, they are increasingly blurred when we use remote and online methods for research, especially for qualitative studies. This article problematizes the home–field dichotomy within the context of remote and online political science field research. We contend that the overlap of our homes and fields in digital fieldwork poses different challenges for our professional boundaries than offline research, particularly in terms of separating our personal and research lives, mitigating risk, and protecting our mental health. Given the growing use of remote and online methods, we argue that the discipline of political science must account more seriously for the muddling of our homes and fields to support rigorous, transparent, and ethical empirical research.
+
+### 4. [Machine learning reveals distinct aquatic organic matter patterns driven by soil erosion types](https://doi.org/10.1016/j.ese.2025.100570)
+- **Journal:** Environmental Science and Ecotechnology
+- **Authors:** Yingxin Shang, Kaishan Song, Z. Wen, Fengfa Lai, Ge Liu, Hui-Hui Tao, Xiangfei Yu
+- **Pub Date:** 2025-05-01
+- **DOI:** 10.1016/j.ese.2025.100570
+- **Abstract:** Chromophoric dissolved organic matter (CDOM), characterized by unique optical properties, is an essential indicator for understanding aquatic organic matter dynamics within global carbon cycles. Soil erosion, a major source of CDOM received by lakes, transports terrestrial organic matter to water bodies, altering sources, bioavailability and molecular complexity of CDOM significantly. Yet, the spatial patterns of CDOM in lakes from different soil erosion regions are still unknown. Here, we developed a robust machine learning framework (RMSEcalibration = 0.87 m-1) to estimate CDOM concentrations in lakes by integrating over 1300 in situ water samples with Landsat 8 OLI surface reflectance data. We then applied this model to map the spatial distribution of CDOM across lakes larger than 0.1 km2 in 2020. Our analysis revealed distinct spatial patterns, with mean CDOM absorption coefficients at 355 nm of 3.73 m-1 in freeze-thaw erosion regions, 6.31 m-1 in wind erosion regions, and 3.72 m-1 in hydraulic erosion regions, reflecting significant variations driven by erosion intensity. Two axes of PCA analysis explained over 48 % variations of CDOM for different soil erosion types. Chemical characterization indicated that polycyclic aromatic predominated in wind and hydraulic erosion regions, whereas freeze-thaw erosion regions exhibited higher proportions of peptides and unsaturated aliphatic compounds. This study highlights the crucial connection between terrestrial soil erosion processes and aquatic DOM composition, providing vital insights for evaluating global carbon cycling and carbon storage within inland ecosystems.
+
+### 5. [Enhancing Regional Development in Georgia: Integrating Functional Spatial Planning and Land Use Modeling for Sustainable Economic Growth](https://doi.org/10.52950/ss.2025.14.1.002)
+- **Journal:** International journal of social science
+- **Authors:** Mariam Jibuti
+- **Pub Date:** 2025
+- **DOI:** 10.52950/ss.2025.14.1.002
+- **Abstract:** Regional development represents a fundamental pillar of economic growth, territorial cohesion, and sustainable resource management. As Georgia continues to navigate economic and political transitions, spatial-territorial planning emerges as a strategic tool for fostering balanced regional development and minimizing socio-economic disparities. This study examines the role of functional spatial planning in regional economic sustainability by conducting a comparative analysis of planning methodologies implemented in four EU member states—Germany, France, the Netherlands, and Sweden. The research explores the theoretical underpinnings of spatial zoning, evaluates the effectiveness of various land-use planning strategies, and assesses economic incentives for regional development. Additionally, the study integrates qualitative methods, including expert interviews and stakeholder surveys, to provide policy recommendations tailored to Georgia’s specific development context. The findings suggest that adopting an integrated spatial planning framework, leveraging data-driven land-use modeling, and implementing sustainability-oriented economic incentives can significantly enhance Georgia’s regional economic resilience.
+This research was supported by Shota Rustaveli National Science Foundation of Georgia (SRNSFG) [grant number: YS-24-308]
+
+
+---
+
