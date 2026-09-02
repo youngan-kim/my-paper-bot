@@ -478,3 +478,8 @@ IDENTITY FROM AN IBN KHALDUNIAN PERSPECTIVE. THE SEARCH FOR THE CONCEPT OF IDENT
 Finding the “Field” in our “Homes” and our “Homes” in the “Field”: A Critique of the “Home–Field” Dichotomy
 Machine learning reveals distinct aquatic organic matter patterns driven by soil erosion types
 Enhancing Regional Development in Georgia: Integrating Functional Spatial Planning and Land Use Modeling for Sustainable Economic Growth
+A novel spatiotemporal prediction approach to fill air pollution data gaps using mobile sensors, machine learning and citizen science techniques
+Using Explainable Machine Learning to Interpret the Effects of Policies on Air Pollution: COVID-19 Lockdown in London
+Automatic Detection of Vineyards using machine learning and deep learning algorithms
+County-scale crop yield prediction by integrating crop simulation with machine learning models
+Predicting highway lane-changing maneuvers: A benchmark analysis of machine and ensemble learning algorithms
