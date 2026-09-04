@@ -7227,3 +7227,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-09-04
+
+### 1. [Spatial and temporal heterogeneity of mouse and human microglia at single-cell resolution](https://doi.org/10.1038/s41586-019-0924-x)
+- **Journal:** Nature
+- **Authors:** Takahiro Masuda, R. Sankowski, O. Staszewski, C. Böttcher, Lukas Amann, Sagar, Christian Scheiwe, S. Nessler, Patrik Kunz, G. van Loo, V. Coenen, P. Reinacher, Anna Michel, U. Sure, Ralf Gold, D. Grün, Josef Priller, C. Stadelmann, Marco Prinz
+- **Pub Date:** 2019-02-01
+- **DOI:** 10.1038/s41586-019-0924-x
+- **Abstract:** None
+
+---
+
