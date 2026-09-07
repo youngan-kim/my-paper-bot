@@ -7238,3 +7238,66 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-09-07
+
+### 1. [Spatial Networks of Neighborhood Violence](https://doi.org/10.1007/s10940-025-09637-3)
+- **Journal:** Journal of quantitative criminology
+- **Authors:** Mohammed Aleinzi, Patrick Sharkey, Gwilym Pryce, N. Hughes
+- **Pub Date:** 2025-11-27
+- **DOI:** 10.1007/s10940-025-09637-3
+- **Abstract:** 
+ 
+ 
+ We propose a network approach to studying neighbourhood violence that shifts the focus away from explaining crime levels of individual neighbourhoods towards models that explain citywide networks of crime correlations. Our conceptualization places the network of inter-neighbourhood crime correlations as the phenomenon to be explained: why some pairs of neighbourhoods have crime rates that are highly correlated, and others do not.
+ 
+ 
+ 
+ 
+ We use Exponential Random Graph Models (ERGMs) to implement this framework empirically. ERGMS are applied to correlated trends in shooting incidents across neighbourhoods in Chicago. Our models attempt to explain inter-neighbourhood crime correlations in terms of three mechanisms:
+ spatial proximity
+ ,
+ neighbourhood homophily
+ (neighbourhoods are more likely to be connected in terms of crime correlations if they share underlying characteristics associated with violence), and
+ flows of people
+ across neighbourhoods based on 2019 Safegraph mobile phone GPS daily mobility data.
+ 
+ 
+ 
+ 
+ Whilst spatial proximity of neighbourhoods plays a role in explaining correlations in shooting between neighbourhoods, we also find crime correlations between distant neighbourhoods, driven by socioeconomic proximity (similarity of neighbourhoods in terms of their socioeconomic attributes) and people flows.
+ 
+ 
+ 
+ Our findings support the conceptualisation of neighbourhood crime as an ecological network, rather than as purely neighbourhood-level or spatial phenomenon. The policy implication is that a focus on the violence levels in one neighbourhood may be insufficient to reduce its rates of violence if its position in the citywide network of crime connections is overlooked.
+
+
+### 2. [Differential Associations Between Family Socioeconomic Position and Neighborhood Economic Conditions Versus Safety by Race in the United States](https://doi.org/10.65773/ssia.2.1.96)
+- **Journal:** Social science insights and applications
+- **Authors:** Shervin Assari, Hossein Zare
+- **Pub Date:** 2025-11-26
+- **DOI:** 10.65773/ssia.2.1.96
+- **Abstract:** Background: Family socioeconomic position (SEP) is often linked to neighborhood conditions, with higher SEP generally associated with more advantaged structural characteristics such as higher neighborhood income and lower poverty. Whether these associations extend similarly to neighborhood safety, and whether these patterns vary across racial/ethnic groups, remains an important but understudied question. Objective: To examine how family SEP associates to multiple dimensions of neighborhood conditions—including economic resources, poverty, and crime-related indicators—and to estimate whether these associations differ across racial/ethnic groups. Methods: We analyzed individual-level family SEP indicators in relation to neighborhood characteristics, including safety (violent offenses, drug-related offenses, drug sales, marijuana sales, drug possession, and driving under influence [DUI] events). Associations were estimated overall and separately by racial/ethnic background. Models adjusted for demographic covariates. Analyses focused on cross-sectional patterns and emphasized associations rather than mechanisms. Results: Higher family socioeconomic position was associated with more advantaged neighborhood characteristics overall and across both racial/ethnic groups. These associations were generally stronger for Black families than for White families when the outcomes reflected neighborhood income and poverty levels. In contrast, the associations between family SEP and neighborhood crime statistics were weaker for Black families than for White families. This pattern suggests that higher family SEP corresponded differently to improvements in neighborhood economic and safety characteristics for Black and White families. Conclusions: Family socioeconomic position is linked to more advantaged neighborhood environments, but the strength of these associations varies across racial/ethnic groups and depends on the neighborhood domain being examined. Economic neighborhood features appear more responsive to family SEP among Black families, whereas neighborhood safety indicators seem more responsive to family SEP among White families. These findings raise the possibility that crime metrics may partly reflect racialized policing that are not equally sensitive to socioeconomic improvements of Black and White communities.
+
+### 3. [Polygenic Scores for Depression are Associated with Indices of Neighborhood Adversity](https://doi.org/10.1037/abn0001038)
+- **Journal:** Journal of Psychopathology and Clinical Science
+- **Authors:** Cope Feurer, John E Mcgeary, C. Benca-Bachman, Brandon E. Gibb
+- **Pub Date:** 2025-08-21
+- **DOI:** 10.1037/abn0001038
+- **Abstract:** Genome-wide association studies have allowed for the creation of polygenic scores (PGSs) reflecting genetic liability for depression, yet recent work suggests that these PGSs may also reflect greater genetic propensity towards higher levels of stress exposure. The current study sought to extend prior findings to examine whether an established depression PGS (DEP-PGS) is associated with greater stress exposure at the neighborhood level in a sample of preadolescent children. This study included 278 children of European ancestry between the ages of 7 and 11 (45.3% female) and their parent. Parents and children completed clinical interviews and questionnaires and children provided genetic samples. Children’s neighborhoods were defined based on their current home address and geocoded indices of neighborhood adversity (i.e., area socioeconomic disadvantage, crime, opportunity) were matched to zip codes. As hypothesized, children with greater genetic liability for depression as reflected by DEP-PGSs were more likely to live in neighborhoods characterized by greater adversity. Findings were maintained when statistically controlling for family socioeconomic status and parent’s and children’s histories of depression and anxiety. The current findings build upon prior research highlighting depression-relevant gene-environment correlations and extend this work to provide evidence that DEP-PGSs may capture genetic liability for exposure to stressful contexts at the neighborhood level. Future research is needed to replicate findings in diverse samples and to examine whether neighborhood-level adversity mediates the relation between DEP-PGSs and future depression risk in youth.
+
+### 4. [Immigration and Crime: The Role of Immigrant Heterogeneity](https://doi.org/10.1177/00224278251345148)
+- **Journal:** Journal of research in crime and delinquency
+- **Authors:** C. Kubrin, J. R. Hipp
+- **Pub Date:** 2025-06-12
+- **DOI:** 10.1177/00224278251345148
+- **Abstract:** Objectives Research on the immigration-crime link has grown substantially yet researchers have not sufficiently considered immigrant heterogeneity, which reflects both the number of immigrant groups in a community and their relative sizes or representation, even as theory has a lot to say regarding the possible impact of such heterogeneity. With few exceptions, scholars have yet to consider how immigrant diversity, including by race/ethnicity, country of origin, or language use, may matter for the immigration-crime association. This is the focus of the current study. Methods Building on a handful of studies, we examine the association between measures of immigrant heterogeneity based on different social dimensions and crime rates across 15,000 neighborhoods in roughly 350 U.S. cities, reflecting a wide range of immigrant community contexts. Results We find that immigrant diversity matters greatly for neighborhood crime rates, although in unique ways. Conclusions We discuss the implications of our findings for theories that emphasize the consequences of heterogeneity specifically, and for the immigration-crime relationship more generally.
+
+### 5. [Sociospatial divisions and neighborhood crime: housing tenure as a social boundary](https://doi.org/10.1080/0735648x.2025.2505034)
+- **Journal:** Journal of Crime and Justice
+- **Authors:** S. Williams, Matthew R. Lehnert
+- **Pub Date:** 2025-05-26
+- **DOI:** 10.1080/0735648x.2025.2505034
+- **Abstract:** None
+
+---
+

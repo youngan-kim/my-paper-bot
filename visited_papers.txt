@@ -484,3 +484,8 @@ Automatic Detection of Vineyards using machine learning and deep learning algori
 County-scale crop yield prediction by integrating crop simulation with machine learning models
 Predicting highway lane-changing maneuvers: A benchmark analysis of machine and ensemble learning algorithms
 Spatial and temporal heterogeneity of mouse and human microglia at single-cell resolution
+Spatial Networks of Neighborhood Violence
+Differential Associations Between Family Socioeconomic Position and Neighborhood Economic Conditions Versus Safety by Race in the United States
+Polygenic Scores for Depression are Associated with Indices of Neighborhood Adversity
+Immigration and Crime: The Role of Immigrant Heterogeneity
+Sociospatial divisions and neighborhood crime: housing tenure as a social boundary
