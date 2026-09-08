@@ -7301,3 +7301,42 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-09-08
+
+### 1. [Crime scene reconstruction: a scoping review](https://doi.org/10.1186/s41935-025-00495-5)
+- **Journal:** Egyptian Journal of Forensic Sciences
+- **Authors:** Mayur Sudhir Balbudhe, B. Suresh Kumar Shetty, Nayanatara Arun Kumar, Divyani Singh, Ayush Ishwar Sherekar
+- **Pub Date:** 2025-10-28
+- **DOI:** 10.1186/s41935-025-00495-5
+- **Abstract:** Crime Scene Investigation (CSI) has become a key specialty in contemporary criminal justice, driven by the application of science, legal criteria, and innovative technologies for analysing physical evidence and reconstructing crimes. 3D reconstruction technologies, such as laser scanning, photogrammetry, and virtual reality (VR), have become inseparable from forensics due to the increased precision and support for evidence preservation driven by recent advances. Based on the scoping review method by Arksey and O'Malley, as well as the Joanna Briggs Institute, this paper discusses the scope and implications of such technologies in the field of forensic science. Examining 34 studies published between January 1, 2008, and July 31, 2025, in 17 nations, the review concludes that 3D technologies have high precision and non-invasive documentation accuracy. These have helped enhance spatial analysis, court presentations, and training by employing immersive visualizations, particularly in bloodstain pattern analysis and injury confirmation. Its limitations, however, exist in the high costs, environmental constraints, complexities of data processing, and the absence of uniform protocol standards, which restrict scalability and the legality of admissibility. 3D reconstruction technologies are valuable in enhancing and complementing forensic work, providing accurate, non-destructive, and immersive systems for analysing and displaying evidence. It will be essential to address the existing challenges with automation, cost-efficient implementations, and standardized procedures that ensure their practicality, dependability, and adoption in global forensic practice. • The documentation of crime scenes is an area where technologies like laser scanning, photogrammetry, and VR/MR systems can be used to create detailed, accurate, and non-destructive documentation of the crime scene, thus contributing to enhanced evidence preservation and spatial awareness, as opposed to traditional 2D documentation. • Photogrammetry with micro-Unmanned Aerial Vehicle has been shown to have a high accuracy and low error rates, and it may suffer due to environmental conditions such as lighting and reflective surfaces. • These 3D reconstructions help understand complex crime dynamics, court presentations using immersive visualizations, and training, and have a variety of uses in bloodstain pattern analysis and injury verification.
+
+### 2. [To use, or not to use the spatial Durbin model? – that is the question](https://doi.org/10.1080/17421772.2023.2256810)
+- **Journal:** Social Science Research Network
+- **Authors:** Malabika Koley, Anil K. Bera
+- **Pub Date:** 2023-11-09
+- **DOI:** 10.1080/17421772.2023.2256810
+- **Abstract:** ABSTRACT The spatial Durbin model (SDM) is one of the most widely used models in spatial econometrics. It originated as a generalisation of the spatial error model (SEM) under a non-linear parametric restriction (see Anselin (1988, pp. 110–111)). This restriction should be tested to select an appropriate model between SDM and SEM. Perhaps, due to the complexity of executing a test for a non-linear hypothesis, this restriction is rarely tested in practice, though see Burridge (1981), Mur and Angulo (2006) and LeSage and Pace (2009, p. 164). This paper considers an alternative linear hypothesis to test the suitability of the SDM. To achieve this, we first use Rao’s score (RS) testing principle and then Bera and Yoon (1993)’s methodology to robustify the original RS tests. The robust tests that require only ordinary least squares (OLS) estimation are able to identify the specific source(s) of departure(s) from the baseline linear regression model. An extensive Monte Carlo study provides evidence that our suggested tests possess excellent finite sample properties, both in terms of size and power. Our empirical illustrations, with two real data sets, attest that the tests developed in this paper could be very useful in judging the suitability of the SDM for the spatial data in hand.
+
+### 3. [Review on space robotics: Toward top-level science through space exploration](https://doi.org/10.1126/scirobotics.aan5074)
+- **Journal:** Science Robotics
+- **Authors:** Steve Ankuo Chien
+- **Pub Date:** 2017-06-28
+- **DOI:** 10.1126/scirobotics.aan5074
+- **Abstract:** None
+
+### 4. [Overview of the NASA space radiation laboratory.](https://doi.org/10.1016/j.lssr.2016.10.002)
+- **Journal:** Life sciences and space research
+- **Authors:** C. La Tessa, M. Sivertz, I. Chiang, D. Lowenstein, A. Rusek
+- **Pub Date:** 2016-11-01
+- **DOI:** 10.1016/j.lssr.2016.10.002
+- **Abstract:** None
+
+### 5. [Green space as a buffer between stressful life events and health.](https://doi.org/10.1016/j.socscimed.2010.01.002)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Agnes E. van den Berg, Jolanda Maas, R. Verheij, P. Groenewegen
+- **Pub Date:** 2010-04-01
+- **DOI:** 10.1016/j.socscimed.2010.01.002
+- **Abstract:** This study investigates whether the presence of green space can attenuate negative health impacts of stressful life events. Individual-level data on health and socio-demographic characteristics were drawn from a representative two-stage sample of 4529 Dutch respondents to the second Dutch National Survey of General Practice (DNSGP-2), conducted in 2000-2002. Health measures included: (1) the number of health complaints in the last 14 days; (2) perceived mental health (measured by the GHQ-12); and (3) a single item measure of perceived general health ranging from 'excellent' to 'poor'. Percentages of green space in a 1-km and 3-km radius around the home were derived from the 2001 National Land cover Classification database (LGN4). Data were analysed using multilevel regression analysis, with GP practices as the group-level units. All analyses were controlled for age, gender, income, education level, and level of urbanity. The results show that the relationships of stressful life events with number of health complaints and perceived general health were significantly moderated by amount of green space in a 3-km radius. Respondents with a high amount of green space in a 3-km radius were less affected by experiencing a stressful life event than respondents with a low amount of green space in this radius. The same pattern was observed for perceived mental health, although it was marginally significant. The moderating effects of green space were found only for green space within 3 km, and not for green space within 1 km of residents' homes, presumably because the 3-km indicator is more affected by the presence of larger areas of green space, that are supposed to sustain deeper forms of restoration. These results support the notion that green space can provide a buffer against the negative health impact of stressful life events.
+
+---
+
