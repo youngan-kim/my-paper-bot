@@ -7379,3 +7379,42 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-09-11
+
+### 1. [Neighborhood built environment associated with cognition and dementia risk among older adults: A systematic literature review.](https://doi.org/10.1016/j.socscimed.2021.114560)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Xi Sophie Chen, Chanam Lee, Hao Huang
+- **Pub Date:** 2021-11-01
+- **DOI:** 10.1016/j.socscimed.2021.114560
+- **Abstract:** Cognitive impairment associated with aging is a serious and growing public health problem. This systematic literature review contributes to better understanding the current state of knowledge on the roles of neighborhood environments in supporting cognitive health in later life. Literature search was carried out in 2020 using the seven databases most relevant to the topic. This review was restricted to peer-reviewed observational and quantitative studies that focused on 1) community-dwelling older adults as target populations; 2) neighborhood built environments as independent variables; and 3) cognition or dementia as outcome variables. Thirty-seven studies published between 1989 and 2020 met the inclusion criteria. The neighborhood built environment domains covered in these included urbanity/rurality, land use, neighborhood physical disorder, transportation infrastructure, urban design, and urban nature. Neighborhood resources and green space exposure were most frequently studied and linked to cognition-related outcomes. Neighborhood built environment was shown to be more pertinent to older adults' global cognition, memory, and dementia. Physical activity showed a mediating role between neighborhood built environment and cognition. The effect of neighborhood built environment on cognitive function was stronger among older women and those with disabilities or lower socioeconomic status. Evidence on the relationship between neighborhood built environment and cognition/dementia among older adults is moderate. Our findings highlight the need for more standardized and longitudinal measures of neighborhood built environment and high-sensitivity cognitive tests that capture the specific and relevant domains of cognition, to facilitate further exploration of the mediating and moderating effects of neighborhood built environment with cognition/dementia in older adults. This review offers insights for future research and policy efforts toward creating communities to support cognitive health and aging in place.
+
+### 2. [Spatial Equilibrium in Labor Markets](https://doi.org/10.1007/978-3-642-23430-9_10)
+- **Journal:** Handbook of Regional Science
+- **Authors:** P. Graves
+- **Pub Date:** 2021
+- **DOI:** 10.1007/978-3-642-23430-9_10
+- **Abstract:** None
+
+### 3. [Fiscal competitions among Indonesian municipalities: a spatial econometric analysis](https://doi.org/10.1007/s41685-019-00138-3)
+- **Journal:** Asia-Pacific Journal of Regional Science
+- **Authors:** Tengku Munawar Chalil
+- **Pub Date:** 2020-02-01
+- **DOI:** 10.1007/s41685-019-00138-3
+- **Abstract:** None
+
+### 4. [Fuzzy neighborhood covering for three-way classification](https://doi.org/10.1016/J.INS.2018.07.065)
+- **Journal:** Information Sciences
+- **Authors:** Xiaodong Yue, Yumin Chen, Duoqian Miao, H. Fujita
+- **Pub Date:** 2020-01-01
+- **DOI:** 10.1016/J.INS.2018.07.065
+- **Abstract:** Abstract Neighborhood Covering (NC) is the union of homogeneous neighborhoods and provides a set-level approximation of data distribution. Because of the nonparametric property and the robustness to complex data, neighborhood covering has been widely used for data classification. Most existing methods directly classify data samples according to the nearest neighborhoods. However, the certain classification methods strictly classify the uncertain data and may lead to serious classification mistakes. To tackle this problem, we extend traditional neighborhood coverings to fuzzy ones and thereby propose a Three-Way Classification method with Fuzzy Neighborhood Covering (3WC-FNC). Fuzzy neighborhood covering consists of membership functions and forms an approximate distribution of neighborhood belongingness. Based on the soft partition induced by the memberships of fuzzy neighborhood coverings of different classes, data samples are classified into Positive (certainly belonging to a class), Negative (certainly beyond classes) and Uncertain cases. Experiments verify that the proposed three-way classification method is effective to handle the uncertain data and in the meantime reduce the classification risk.
+
+### 5. [Editorial for the special issue entitled: New advances in spatial econometrics: Interactions matter](https://doi.org/10.1016/J.REGSCIURBECO.2018.02.004)
+- **Journal:** Regional Science and Urban Economics
+- **Authors:** Nicolas Debarsy, Zhenlin Yang
+- **Pub Date:** 2018-09-01
+- **DOI:** 10.1016/J.REGSCIURBECO.2018.02.004
+- **Abstract:** This Regional Science and Urban Economics special issue collects together a subset of contributions presented in the 15th edition of the International Workshop in Spatial Econometrics and Statistics, which was organized by the Department of Economics of the University of Orléans (Laboratoire d’Economie d’Orléans – UMR CNRS 7322) on May 26-27 2016. This annual workshop series was inaugurated by Christine ThomasAgnan in 2002 in the University of Toulouse-Capitole on a one-day basis and was composed of invited presentations only. The second edition was organized by Catherine Baumont and Cem Ertur in Dijon, under the same format. From the third edition held in Strasbourg in 2004, the workshop opened to unsolicited contributions, which quickly became a key event for interactions among senior researchers, junior researchers and PhD students interested in spatial econometrics and statistics. Its success, never denied since, compelled the organisers of the subsequent editions1 to extend the initial length to a two-day meeting. Each year, some world-reknown keynote speakers were invited, which contributed to maintain the high-quality level of this workshop and provided outstanding opportunities for participants to discuss their research with worldwide specialists of the field of spatial econometrics. The keynote speakers of this 15th edition were Professors Lung-fei Lee (Ohio State University) and James LeSage (Texas State University). Thanks to their availability and involvement in the workshop, participants had been offered many occasions to benefit from their complementary approaches on spatial econometrics. Further, both Lung-Fei Lee and James LeSage had kindly made their contributions to this special issue. On October 9, 2016, it was with much sadness to learn of the passing of Cem Ertur, a founding member of this annual workshop, due to a prolonged illness. Cem Ertur devoted his scientific career to the modeling of cross-sectional dependence (interactions between statistical units) in econometrics specifications. The methodological approach on which his research has been based is the spatial econometrics framework. Notably through Cem’s work, this framework, originally confined
+
+---
+

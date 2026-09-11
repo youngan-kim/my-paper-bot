@@ -499,3 +499,8 @@ The role of geospatial technologies for sustainable livestock manure management:
 Leveraging geo-computational innovations for sustainable disaster management to enhance flood resilience
 A Data- and Knowledge-Driven Method for Fusing Satellite-Derived and Ground-Based Precipitation Observations
 Headwater streams and inland wetlands: Status and advancements of geospatial datasets and maps across the United States.
+Neighborhood built environment associated with cognition and dementia risk among older adults: A systematic literature review.
+Spatial Equilibrium in Labor Markets
+Fiscal competitions among Indonesian municipalities: a spatial econometric analysis
+Fuzzy neighborhood covering for three-way classification
+Editorial for the special issue entitled: New advances in spatial econometrics: Interactions matter
