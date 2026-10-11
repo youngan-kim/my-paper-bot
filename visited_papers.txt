@@ -504,3 +504,4 @@ Spatial Equilibrium in Labor Markets
 Fiscal competitions among Indonesian municipalities: a spatial econometric analysis
 Fuzzy neighborhood covering for three-way classification
 Editorial for the special issue entitled: New advances in spatial econometrics: Interactions matter
+Neighborhood walkability, physical activity, and walking behavior: the Swedish Neighborhood and Physical Activity (SNAP) study.

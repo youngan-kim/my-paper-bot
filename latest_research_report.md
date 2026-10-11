@@ -7418,3 +7418,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-10-11
+
+### 1. [Neighborhood walkability, physical activity, and walking behavior: the Swedish Neighborhood and Physical Activity (SNAP) study.](https://doi.org/10.1016/j.socscimed.2011.03.004)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** K. Sundquist, U. Eriksson, N. Kawakami, Lars Skog, H. Ohlsson, D. Arvidsson
+- **Pub Date:** 2011-04-01
+- **DOI:** 10.1016/j.socscimed.2011.03.004
+- **Abstract:** None
+
+---
+
