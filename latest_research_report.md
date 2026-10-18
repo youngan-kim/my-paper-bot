@@ -7429,3 +7429,15 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-10-18
+
+### 1. [Corrigendum to: Hate in the Machine: Anti-Black and Anti-Muslim Social Media Posts as Predictors of Offline Racially and Religiously Aggravated Crime](https://doi.org/10.1093/BJC/AZZ049)
+- **Journal:** British Journal of Criminology
+- **Authors:** Matthew L. Williams, Pete Burnap, Amir Javed, Han Liu, Sefa Ozalp
+- **Pub Date:** 2019-07-23
+- **DOI:** 10.1093/BJC/AZZ049
+- **Abstract:** 
+ National governments now recognize online hate speech as a pernicious social problem. In the wake of political votes and terror attacks, hate incidents online and offline are known to peak in tandem. This article examines whether an association exists between both forms of hate, independent of ‘trigger’ events. Using Computational Criminology that draws on data science methods, we link police crime, census and Twitter data to establish a temporal and spatial association between online hate speech that targets race and religion, and offline racially and religiously aggravated crimes in London over an eight-month period. The findings renew our understanding of hate crime as a process, rather than as a discrete event, for the digital age.
+
+---
+
