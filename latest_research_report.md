@@ -7441,3 +7441,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-10-19
+
+### 1. [Geospatial Data Analytics : A Machine Learning Perspective](https://doi.org/10.2139/ssrn.3599656)
+- **Journal:** Social Science Research Network
+- **Authors:** Saneev Kumar Das, M. Pant
+- **Pub Date:** 2020-05-13
+- **DOI:** 10.2139/ssrn.3599656
+- **Abstract:** The advent of geographic information system has proven its efficiency in many relevant domains but still needs some more explorations. In this paper, a novel architecture towards the convergence of machine learning and GIS technology is presented. The enabling technologies associated to the implementations performed are well-defined and presented in this paper. Further, relevant works in the domain of the merger technology of machine learning and GIS technology is epitomized. This paper considered three relevant datasets viz., Indian census data, Zomato restaurants data and COVID-19 data for India for practically realizing the proposed framework. The proficiency of the proposed framework is presented through various results generated in this paper. Furthermore, the limitations posed by the proposed framework and ways to tackle the challenges are presented. Various geospatial visualization operations along with statistical plots are shown in this paper to epitomize the overlay analysis, point-cluster generation, heatmap analysis and spatial clustering approaches. Further, wherever required a Microsoft Bing map is provided to epitomize the performed risk analysis along with zonal classification. Finally, concluding remarks are summarized with the presentation of recent techniques like deep learning, serverless computing paradigm and so on to improve the proposed framework with diminished limitations.
+
+---
+
