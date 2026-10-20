@@ -507,3 +507,4 @@ Editorial for the special issue entitled: New advances in spatial econometrics: 
 Neighborhood walkability, physical activity, and walking behavior: the Swedish Neighborhood and Physical Activity (SNAP) study.
 Corrigendum to: Hate in the Machine: Anti-Black and Anti-Muslim Social Media Posts as Predictors of Offline Racially and Religiously Aggravated Crime
 Geospatial Data Analytics : A Machine Learning Perspective
+Spatial processing: An 'other' kind of place cell

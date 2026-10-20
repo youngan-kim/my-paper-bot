@@ -7452,3 +7452,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-10-20
+
+### 1. [Spatial processing: An 'other' kind of place cell](https://doi.org/10.1038/nrn.2018.12)
+- **Journal:** Nature Reviews Neuroscience
+- **Authors:** N. Bray
+- **Pub Date:** 2018-02-01
+- **DOI:** 10.1038/nrn.2018.12
+- **Abstract:** None
+
+---
+
