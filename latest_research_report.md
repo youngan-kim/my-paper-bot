@@ -7463,3 +7463,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-10-27
+
+### 1. [District Heater Load Forecasting Based on Machine Learning and Parallel CNN-LSTM Attention](https://doi.org/10.1016/j.energy.2022.123350)
+- **Journal:** Social Science Research Network
+- **Authors:** Won Hee Chung, Y. Gu, S. Yoo
+- **Pub Date:** 2022-02-01
+- **DOI:** 10.1016/j.energy.2022.123350
+- **Abstract:** Accurate heat load forecast is important to operate combined heat and power (CHP) efficiently. This paper proposes a parallel convolutional neural network (CNN) - long short-term memory (LSTM) attention (PCLA) model that extracts spatiotemporal characteristics and then intensively learns importance. PCLA learns by derived spatial and temporal features parallelly from CNNs and LSTMs. The novelty of this paper lies in the following three aspects: 1) a PCLA model for heat load forecasting is proposed; 2) it is demonstrated that the performance is superior to 12 models including the serial coupled model; 3) the model using CNNs and LSTMs is better than the one using principal component analysis. The dataset includes district heater related variables, heat load-derived variables, weather forecasts and time factors that affect heat loads. The forecasting accuracy of the PCLA is reflected by the lowest values of the mean absolute and mean squared errors of 0.571 and 0.662, respectively, and the highest R-squared value of 0.942. The performance of the PCLA is therefore better than the previously proposed heat load and demand forecasting models and is expected to be useful for CHP plant management.
+
+---
+
