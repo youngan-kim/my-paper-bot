@@ -7474,3 +7474,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-10-30
+
+### 1. [High-definition spatial transcriptomic profiling of immune cell populations in colorectal cancer](https://doi.org/10.1038/s41588-025-02193-3)
+- **Journal:** Nature Genetics
+- **Authors:** Michelli Faria de Oliveira, J. Romero, Meii Chung, Stephen R. Williams, Andrew D. Gottscho, Anushka Gupta, Susan E. Pilipauskas, Seayar Mohabbat, Nandhini Raman, David Sukovich, David Patterson, Sarah E. B. Taylor
+- **Pub Date:** 2025-06-01
+- **DOI:** 10.1038/s41588-025-02193-3
+- **Abstract:** A comprehensive understanding of cellular behavior and response to the tumor microenvironment (TME) in colorectal cancer (CRC) remains elusive. Here, we introduce the high-definition Visium spatial transcriptomic technology (Visium HD) and investigate formalin-fixed paraffin-embedded human CRC samples (n = 5). We demonstrate the high sensitivity, single-cell-scale resolution and spatial accuracy of Visium HD, generating a highly refined whole-transcriptome spatial profile of CRC samples. We identify transcriptomically distinct macrophage subpopulations in different spatial niches with potential pro-tumor and anti-tumor functions via interactions with tumor and T cells. In situ gene expression analysis validates our findings and localizes a clonally expanded T cell population close to macrophages with anti-tumor features. Our study demonstrates the power of high-resolution spatial technologies to understand cellular interactions in the TME and paves the way for larger studies that will unravel mechanisms and biomarkers of CRC biology, improving diagnosis and disease management strategies. High-resolution, spatial transcriptomic analysis of colorectal cancers using matched sequencing- and imaging-based methods characterizes immune cells and their interactions with the tumor microenvironment.
+
+---
+
