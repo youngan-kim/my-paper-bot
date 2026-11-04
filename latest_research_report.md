@@ -7485,3 +7485,21 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-11-04
+
+### 1. [Machine Learning Applications for Fisheries—At Scales from Genomics to Ecosystems](https://doi.org/10.1080/23308249.2024.2423189)
+- **Journal:** Reviews in Fisheries Science &amp; Aquaculture
+- **Authors:** Bernhard Kühn, Arjay Cayetano, Jennifer I. Fincham, H. Moustahfid, Maria Sokolova, N. Trifonova, Jordan T. Watson, José A. Fernandes-Salvador, Laura Uusitalo
+- **Pub Date:** 2024-11-09
+- **DOI:** 10.1080/23308249.2024.2423189
+- **Abstract:** Abstract Fisheries science aims to understand and manage marine natural resources. It relies on resource-intensive sampling and data analysis. Within this context, the emergence of machine learning (ML) systems holds significant promise for understanding disparate components of these marine ecosystems and gaining a greater understanding of their dynamics. The goal of this paper is to present a review of ML applications in fisheries science. It highlights both their advantages over conventional approaches and their drawbacks, particularly in terms of operationality and possible robustness issues. This review is organized from small to large scales. It begins with genomics and subsequently expands to individuals (catch items), aggregations of different species in situ, on-board processing, stock/populations assessment and dynamics, spatial mapping, fishing-related organizational units, and finally ecosystem dynamics. Each field has its own set of challenges, such as pre-processing steps, the quantity and quality of training data, the necessity of appropriate model validation, and knowing where ML algorithms are more limited, and we discuss some of these discipline-specific challenges. The scope of discussion of applied methods ranges from conventional statistical methods to data-specific approaches that use a higher level of semantics. The paper concludes with the potential implications of ML applications on management decisions and a summary of the benefits and challenges of using these techniques in fisheries.
+
+### 2. [Linking green space to neighborhood social capital in older adults: The role of perceived safety.](https://doi.org/10.1016/j.socscimed.2018.04.051)
+- **Journal:** Social Science & Medicine (1967)
+- **Authors:** Andy Hong, J. Sallis, A. King, T. Conway, B. Saelens, K. Cain, Eric H. Fox, L. Frank
+- **Pub Date:** 2018-06-01
+- **DOI:** 10.1016/j.socscimed.2018.04.051
+- **Abstract:** This study examines the moderating effect of perceived safety on the association of green space with neighborhood social capital in older adults. Green space may play an important role for promoting neighborhood social capital and health for older adults; however, safety remains a significant challenge in maximizing the benefits of green space. Data were drawn from 647 independent-living seniors who participated in the Senior Neighborhood Quality of Life Study in the Seattle/King County and Baltimore/Washington DC region. The results suggest that certain green space elements, such as natural sights, may be beneficial to neighborhood social capital of older adults. However, other types of green space, such as parks and street trees, may be less advantageous to older adults who perceive their neighborhoods as unsafe for pedestrians. Findings highlight the importance of pedestrian safety in examining associations of green space with neighborhood social capital in older adults. Further studies using a longitudinal design are warranted to confirm the causality of the findings.
+
+---
+
