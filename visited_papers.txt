@@ -512,3 +512,4 @@ District Heater Load Forecasting Based on Machine Learning and Parallel CNN-LSTM
 High-definition spatial transcriptomic profiling of immune cell populations in colorectal cancer
 Machine Learning Applications for Fisheries—At Scales from Genomics to Ecosystems
 Linking green space to neighborhood social capital in older adults: The role of perceived safety.
+Neighborhood immigrant concentration and violent crime reporting to the police: A multilevel analysis of data from the National Crime Victimization Survey

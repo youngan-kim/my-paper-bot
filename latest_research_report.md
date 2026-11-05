@@ -7503,3 +7503,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-11-05
+
+### 1. [Neighborhood immigrant concentration and violent crime reporting to the police: A multilevel analysis of data from the National Crime Victimization Survey](https://doi.org/10.1111/1745-9125.12204)
+- **Journal:** Criminology (Beverly Hills)
+- **Authors:** Min Xie, E. Baumer
+- **Pub Date:** 2019-03-01
+- **DOI:** 10.1111/1745-9125.12204
+- **Abstract:** Abstract Using data from the Area‐Identified National Crime Victimization Survey (NCVS), we provide a national assessment of the impact of neighborhood immigrant concentration on whether violence is reported to the police. By drawing on multiple theoretical perspectives, we outline how the level of violence reporting could be higher or lower in immigrant neighborhoods, as well as how this may depend on individual race/ethnicity and the history of immigration in the county in which immigrant neighborhoods are located. Controlling for both individual‐ and neighborhood‐level conditions, our findings indicate that within traditional immigrant counties, rates of violence reporting in immigrant neighborhoods are similar to those observed elsewhere. In contrast, within newer immigrant destinations, we observe much lower rates of violence reporting in neighborhoods with a large concentration of immigrants. Our study findings reveal comparable patterns for Whites, Blacks, and Latinos. The results have important implications for theory, policy, and future research.
+
+---
+
