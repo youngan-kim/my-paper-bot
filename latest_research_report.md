@@ -7514,3 +7514,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-11-12
+
+### 1. [Emerging trends and research frontiers in spatial multicriteria analysis](https://doi.org/10.1080/13658816.2020.1712403)
+- **Journal:** International Journal of Geographical Information Science
+- **Authors:** J. Malczewski, P. Jankowski
+- **Pub Date:** 2020-01-14
+- **DOI:** 10.1080/13658816.2020.1712403
+- **Abstract:** ABSTRACT A majority of research on Spatial Multicriteria Analysis (SMCA) has been spatially implicit. Typically, SMCA uses conventional (aspatial) multicriteria methods for analysing and solving spatial problems. This paper examines emerging trends and research frontiers related to the paradigm shift from spatially implicit to spatially explicit multicriteria analysis. The emerging trend in SMCA has been spatially explicit conceptualizations of multicriteria problems focused on multicriteria analysis with geographically varying outcomes and local multicriteria analysis. The research frontiers align with conceptual and structural elements of SMCA and pertain to, among others, theoretical frameworks, problem structuring, model parameter derivation, decision problem contextualization, scale representation, treatment of uncertainties, and the very meaning of decision support. The paper also identifies research directions and challenges associated with developing spatially explicit multicriteria methods and integrating concepts and approaches from two distinct fields: GIS and multicriteria analysis.
+
+---
+

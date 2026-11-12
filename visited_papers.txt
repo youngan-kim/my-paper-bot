@@ -513,3 +513,4 @@ High-definition spatial transcriptomic profiling of immune cell populations in c
 Machine Learning Applications for Fisheries—At Scales from Genomics to Ecosystems
 Linking green space to neighborhood social capital in older adults: The role of perceived safety.
 Neighborhood immigrant concentration and violent crime reporting to the police: A multilevel analysis of data from the National Crime Victimization Survey
+Emerging trends and research frontiers in spatial multicriteria analysis
