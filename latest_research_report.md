@@ -7525,3 +7525,14 @@ This research was supported by Shota Rustaveli National Science Foundation of Ge
 
 ---
 
+## 📅 Added on: 2026-11-18
+
+### 1. [Spatial analysis and machine learning: Towards integrated predictive modeling advancements](https://doi.org/10.54254/2753-8818/36/20240538)
+- **Journal:** Theoretical and Natural Science
+- **Authors:** Xinya Lu, Zhimou Li
+- **Pub Date:** 2024-05-28
+- **DOI:** 10.54254/2753-8818/36/20240538
+- **Abstract:** This paper presents a comprehensive exploration of the integration of spatial analysis with machine learning techniques, aiming to enhance predictive modeling capabilities across various domains. Spatial analysis, a methodological approach for understanding geographic patterns and relationships, when combined with the computational power of machine learning, offers unprecedented opportunities for analyzing complex spatial datasets. Through quantitative analysis and the application of mathematical models, this study demonstrates the effectiveness of this integration in improving the accuracy and efficiency of predictive models. The research encompasses a range of applications, from environmental monitoring to urban planning and public health, showcasing the versatility and potential of combining spatial analysis with machine learning.
+
+---
+
